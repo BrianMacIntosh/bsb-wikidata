@@ -17,6 +17,8 @@ If a segment of text refers to multiple people at once, the id may be multiple c
 
 Example: `the two \x-wd sons of Zebedee|id="Q44015,Q43999"\x-wd*`
 
+The primary goals of this tagging are to link the reader to supplementary information, and to connect references to people across the text.
+
 Currently, pronouns and people who cannot be linked to a name with reasonable inference are not marked.
 
 ### x-date
@@ -27,7 +29,7 @@ It can appear as a self-closing attribute (`\x-date|date="-001813-01-01"\*`) or 
 
 It has one parameter **date**, which is an RFC 3339 date with a 6-digit expanded year (e.g. `-001813-01-01` or `-001813-01-01T12:00:00`).
 
-Currently, dates may be estimates, guesses, or otherwise unreliable.
+Currently, dates, particularly after the first few centuries BC, may be estimates or guesses.
 
 ## Attribution Notice
 
