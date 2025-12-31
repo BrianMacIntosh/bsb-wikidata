@@ -27,6 +27,8 @@ It can appear as a self-closing attribute (`\x-date|date="-001813-01-01"\*`) or 
 
 It has one parameter **date**, which is an RFC 3339 date with a 6-digit expanded year (e.g. `-001813-01-01` or `-001813-01-01T12:00:00`).
 
+Currently, dates may be estimates, guesses, or otherwise unreliable.
+
 ## Attribution Notice
 
 The Berean Bible and Majority Bible texts are officially [dedicated to the public domain](https://creativecommons.org/publicdomain/zero/1.0/) as of April 30, 2023.
