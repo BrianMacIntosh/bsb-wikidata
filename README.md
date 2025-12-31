@@ -29,7 +29,7 @@ It can appear as a self-closing attribute (`\x-date|date="-001813-01-01"\*`) or 
 
 It has one parameter **date**, which is an RFC 3339 date with a 6-digit expanded year (e.g. `-001813-01-01` or `-001813-01-01T12:00:00`).
 
-Currently, dates, particularly after the first few centuries BC, may be estimates or guesses.
+Currently, dates, particularly before the first few centuries BC, may be estimates or guesses.
 
 ## Attribution Notice
 
