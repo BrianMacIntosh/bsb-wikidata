@@ -33,7 +33,7 @@
 \b
 \m Next:
 \b
-\q1 \x-wd David|id="Q41370"\x-wd* was the father of \x-wd Solomon|id="Q37085"\x-wd* by \x-wd Uriah|id="Q71267"\x-wd*’s \x-wd wife|id="Q272277"\x-wd*,
+\q1 \x-wd David|id="Q41370"\x-wd* was the father of \x-wd Solomon|id="Q37085"\x-wd* by \x-wd\x-wd Uriah|id="Q71267"\x-wd*’s wife|id="Q272277"\x-wd*,
 \q1
 \v 7 \x-wd Solomon|id="Q37085"\x-wd* the father of \x-wd Rehoboam|id="Q211663"\x-wd*,
 \q1 \x-wd Rehoboam|id="Q211663"\x-wd* the father of \x-wd Abijah|id="Q273517"\x-wd*,
@@ -77,7 +77,7 @@
 \q1 \x-wd Eleazar|id="Q18699300"\x-wd* the father of \x-wd Matthan|id="Q11936164"\x-wd*,
 \q1 \x-wd Matthan|id="Q11936164"\x-wd* the father of \x-wd Jacob|id="Q11927082"\x-wd*,
 \q1
-\v 16 and \x-wd Jacob|id="Q11927082"\x-wd* the father of \x-wd Joseph|id="Q128267"\x-wd*, the husband of \x-wd Mary|id="Q345"\x-wd*,
+\v 16 and \x-wd Jacob|id="Q11927082"\x-wd* the father of \x-wd Joseph|id="Q128267"\x-wd*, \x-wd the husband of \x-wd Mary|id="Q345"\x-wd*|id="Q128267"\x-wd*,
 \q2 \x-date|date="-000004-01-01"\*of whom was born \x-wd Jesus|id="Q302"\x-wd*, who is called Christ.
 \b
 \m
@@ -275,7 +275,7 @@
 \v 20 And at once they left their nets and followed Him. 
 \b
 \m 
-\v 21 Going on from there, He saw two other brothers, \x-wd James son of Zebedee|id="Q43399"\x-wd* and his brother \x-wd John|id="Q44015"\x-wd*. They were in a boat with their father \x-wd Zebedee|id="Q169363"\x-wd*, mending their nets. \x-wd Jesus|id="Q302"\x-wd* called them, 
+\v 21 Going on from there, He saw two other brothers, \x-wd James son of \x-wd Zebedee|id="Q169363"\x-wd*|id="Q43399"\x-wd* and his brother \x-wd John|id="Q44015"\x-wd*. They were in a boat with their father \x-wd Zebedee|id="Q169363"\x-wd*, mending their nets. \x-wd Jesus|id="Q302"\x-wd* called them, 
 \v 22 and immediately they left the boat and their father and followed Him. 
 \s1 Jesus Heals the Multitudes
 \r (Mark 3:7–12; Luke 6:17–19)
@@ -584,12 +584,12 @@
 \r (Mark 1:29–34; Luke 4:38–41)
 \b
 \m 
-\v 14 When \x-wd Jesus|id="Q302"\x-wd* arrived at \x-wd Peter|id="Q33923"\x-wd*’s house, He saw Peter’s mother-in-law sick in bed with a fever. 
+\v 14 When \x-wd Jesus|id="Q302"\x-wd* arrived at \x-wd Peter|id="Q33923"\x-wd*’s house, He saw \x-wd Peter’s mother-in-law|id="Q23581940"\x-wd* sick in bed with a fever. 
 \v 15 So He touched her hand, and the fever left her, and she got up and began to serve Him. 
 \b
 \m 
 \v 16 When evening came, many who were demon-possessed were brought to \x-wd Jesus|id="Q302"\x-wd*, and He drove out the spirits with a word and healed all the sick. 
-\v 17 This was to fulfill what was spoken through the prophet \x-wd Isaiah|id="Q188794"\x-wd*: 
+\v 17 This was to fulfill what was spoken through \x-wd the prophet Isaiah|id="Q188794"\x-wd*: 
 \b
 \q1 “He took up our infirmities 
 \q2 and carried our diseases.”\f + \fr 8:17 \ft Isaiah 53:4\f* 
@@ -601,7 +601,7 @@
 \v 19 And one of the scribes came to Him and said, “Teacher, I will follow You wherever You go.” 
 \b
 \m 
-\v 20 \x-wd Jesus|id="Q302"\x-wd* replied, “Foxes have dens and birds of the air have nests, but the \x-wd Son of Man|id="Q302"\x-wd* has no place to lay His head.” 
+\v 20 \x-wd Jesus|id="Q302"\x-wd* replied, “Foxes have dens and birds of the air have nests, but \x-wd the Son of Man|id="Q302"\x-wd* has no place to lay His head.” 
 \b
 \m 
 \v 21 Another of His disciples requested, “Lord, first let me go and bury my father.” 
@@ -653,7 +653,7 @@
 \m 
 \v 4 But \x-wd Jesus|id="Q302"\x-wd* knew \f + \fr 9:4 \ft NA, BYZ, and TR saw\f* what they were thinking and said, “Why do you harbor evil in your hearts? 
 \v 5 Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’? 
-\v 6 But so that you may know that the \x-wd Son of Man|id="Q302"\x-wd* has authority on earth to forgive sins...” Then He said to the paralytic, “Get up, pick up your mat, and go home.” 
+\v 6 But so that you may know that \x-wd the Son of Man|id="Q302"\x-wd* has authority on earth to forgive sins...” Then He said to the paralytic, “Get up, pick up your mat, and go home.” 
 \v 7 And the man got up and went home. 
 \b
 \m 
@@ -744,17 +744,17 @@
 \s1 The Twelve Apostles
 \r (Mark 3:13–19; Luke 6:12–16)
 \m 
-\v 1 And calling His twelve disciples to Him, \x-wd Jesus|id="Q302"\x-wd* gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness. 
+\v 1 And calling \x-wd His twelve disciples|id="Q33923,Q43399,Q169363,Q44015,Q43675,Q43982,Q43669,Q43600,Q44047,Q43945,Q12871,Q81018"\x-wd* to Him, \x-wd Jesus|id="Q302"\x-wd* gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness. 
 \b
 \m 
-\v 2 These are the names of the twelve apostles: first \x-wd Simon, called Peter|id="Q33923"\x-wd*, and his brother \x-wd Andrew|id="Q43399"\x-wd*; \x-wd James|id="Q43399"\x-wd* son of \x-wd Zebedee|id="Q169363"\x-wd*, and his brother \x-wd John|id="Q44015"\x-wd*; 
-\v 3 \x-wd Philip|id="Q43675"\x-wd* and \x-wd Bartholomew|id="Q43982"\x-wd*; \x-wd Thomas|id="Q43669"\x-wd* and \x-wd Matthew|id="Q43600"\x-wd* the tax collector; \x-wd James son of Alphaeus|id="Q44047"\x-wd*, and \x-wd Thaddaeus|id="Q43945"\x-wd*; 
+\v 2 These are the names of the twelve apostles: first \x-wd Simon, called Peter|id="Q33923"\x-wd*, and \x-wd his brother Andrew|id="Q43399"\x-wd*; \x-wd James son of \x-wd Zebedee|id="Q169363"\x-wd*|id="Q43399"\x-wd*, and \x-wd his brother John|id="Q44015"\x-wd*; 
+\v 3 \x-wd Philip|id="Q43675"\x-wd* and \x-wd Bartholomew|id="Q43982"\x-wd*; \x-wd Thomas|id="Q43669"\x-wd* and \x-wd Matthew the tax collector|id="Q43600"\x-wd*; \x-wd James son of \x-wd Alphaeus|id="Q1542853"\x-wd*|id="Q44047"\x-wd*, and \x-wd Thaddaeus|id="Q43945"\x-wd*; 
 \v 4 \x-wd Simon the Zealot|id="Q12871"\x-wd*,\f + \fr 10:4 \ft Greek Simon the Cananean\f* and \x-wd Judas Iscariot|id="Q81018"\x-wd*, who betrayed \x-wd Jesus|id="Q302"\x-wd*.\f + \fr 10:4 \ft Literally the one also having betrayed Him\f* 
 \s1 The Ministry of the Twelve
 \r (Mark 6:7–13; Luke 9:1–6)
 \b
 \m 
-\v 5 These twelve \x-wd Jesus|id="Q302"\x-wd* sent out with the following instructions: “Do not go onto the road of the Gentiles or enter any town of the Samaritans. 
+\v 5 \x-wd These twelve|id="Q33923,Q43399,Q169363,Q44015,Q43675,Q43982,Q43669,Q43600,Q44047,Q43945,Q12871,Q81018"\x-wd* \x-wd Jesus|id="Q302"\x-wd* sent out with the following instructions: “Do not go onto the road of the Gentiles or enter any town of the Samaritans. 
 \v 6 Go rather to the lost sheep of Israel. 
 \v 7 As you go, preach this message: ‘The kingdom of heaven is near.’ 
 \v 8 Heal the sick, raise the dead, cleanse the lepers,\f + \fr 10:8 \ft A leper was one afflicted with a skin disease. See Leviticus 13.\f* drive out demons. Freely you have received; freely give. 
@@ -784,7 +784,7 @@
 \v 22 You will be hated by everyone because of My name, but the one who perseveres to the end will be saved. 
 \b
 \m 
-\v 23 When they persecute you in one town, flee to the next. Truly I tell you, you will not reach all the towns of Israel before the \x-wd Son of Man|id="Q302"\x-wd* comes. 
+\v 23 When they persecute you in one town, flee to the next. Truly I tell you, you will not reach all the towns of Israel before \x-wd the Son of Man|id="Q302"\x-wd* comes. 
 \b
 \m 
 \v 24 A disciple is not above his teacher, nor a servant above his master. 
@@ -880,7 +880,7 @@
 \b
 \m 
 \v 18 For \x-wd John|id="Q40662"\x-wd* came neither eating nor drinking, and they say, ‘He has a demon!’ 
-\v 19 The \x-wd Son of Man|id="Q302"\x-wd* came eating and drinking, and they say, ‘Look at this glutton and drunkard, a friend of tax collectors and sinners!’ But wisdom is vindicated by her actions.” 
+\v 19 \x-wd The Son of Man|id="Q302"\x-wd* came eating and drinking, and they say, ‘Look at this glutton and drunkard, a friend of tax collectors and sinners!’ But wisdom is vindicated by her actions.” 
 \s1 Woe to the Unrepentant
 \r (Luke 10:13–16)
 \b
@@ -923,7 +923,7 @@
 \b
 \m 
 \v 7 If only you had known the meaning of ‘I desire mercy, not sacrifice,’\f + \fr 12:7 \ft Hosea 6:6\f* you would not have condemned the innocent. 
-\v 8 For the \x-wd Son of Man|id="Q302"\x-wd* is Lord of the Sabbath.” 
+\v 8 For \x-wd the Son of Man|id="Q302"\x-wd* is Lord of the Sabbath.” 
 \s1 Jesus Heals on the Sabbath
 \r (Mark 3:1–6; Luke 6:6–11)
 \b
@@ -988,7 +988,7 @@
 \b
 \m 
 \v 31 Therefore I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven. 
-\v 32 Whoever speaks a word against the \x-wd Son of Man|id="Q302"\x-wd* will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the one to come. 
+\v 32 Whoever speaks a word against \x-wd the Son of Man|id="Q302"\x-wd* will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the one to come. 
 \s1 Good and Bad Fruit
 \r (Luke 6:43–45)
 \b
@@ -1006,11 +1006,11 @@
 \b
 \m 
 \v 39 \x-wd Jesus|id="Q302"\x-wd* replied, “A wicked and adulterous generation demands a sign, but none will be given it except the sign of the prophet \x-wd Jonah|id="Q2468262"\x-wd*. 
-\v 40 For as \x-wd Jonah|id="Q2468262"\x-wd* was three days and three nights in the belly of the great fish, so the \x-wd Son of Man|id="Q302"\x-wd* will be three days and three nights in the heart of the earth. 
+\v 40 For as \x-wd Jonah|id="Q2468262"\x-wd* was three days and three nights in the belly of the great fish, so \x-wd the Son of Man|id="Q302"\x-wd* will be three days and three nights in the heart of the earth. 
 \b
 \m 
 \v 41 The men of Nineveh will stand at the judgment with this generation and condemn it; for they repented at the preaching of \x-wd Jonah|id="Q2468262"\x-wd*, and now One greater than \x-wd Jonah|id="Q2468262"\x-wd* is here. 
-\v 42 The \x-wd Queen of the South|id="Q159888"\x-wd* will rise at the judgment with this generation and condemn it; for she came from the ends of the earth to hear the wisdom of \x-wd Solomon|id="Q37085"\x-wd*, and now One greater than \x-wd Solomon|id="Q37085"\x-wd* is here. 
+\v 42 \x-wd The Queen of the South|id="Q159888"\x-wd* will rise at the judgment with this generation and condemn it; for she came from the ends of the earth to hear the wisdom of \x-wd Solomon|id="Q37085"\x-wd*, and now One greater than \x-wd Solomon|id="Q37085"\x-wd* is here. 
 \s1 An Unclean Spirit Returns
 \r (Luke 11:24–26)
 \b
@@ -1145,13 +1145,13 @@
 \v 36 Then \x-wd Jesus|id="Q302"\x-wd* dismissed the crowds and went into the house. His disciples came to Him and said, “Explain to us the parable of the weeds in the field.” 
 \b
 \m 
-\v 37 He replied, “The One who sows the good seed is the \x-wd Son of Man|id="Q302"\x-wd*. 
+\v 37 He replied, “The One who sows the good seed is \x-wd the Son of Man|id="Q302"\x-wd*. 
 \v 38 The field is the world, and the good seed represents the sons of the kingdom. The weeds are the sons of the evil one, 
 \v 39 and the enemy who sows them is the devil. The harvest is the end of the age, and the harvesters are angels. 
 \b
 \m 
 \v 40 As the weeds are collected and burned in the fire, so will it be at the end of the age. 
-\v 41 The \x-wd Son of Man|id="Q302"\x-wd* will send out His angels, and they will weed out of His kingdom every cause of sin and all who practice lawlessness. 
+\v 41 \x-wd The Son of Man|id="Q302"\x-wd* will send out His angels, and they will weed out of His kingdom every cause of sin and all who practice lawlessness. 
 \v 42 And they will throw them into the fiery furnace, where there will be weeping and gnashing of teeth. 
 \v 43 Then the righteous will shine like the sun in the kingdom of their Father.\f + \fr 13:43 \ft See Daniel 12:3.\f* 
 \b
@@ -1206,18 +1206,18 @@
 \v 5 Although \x-wd Herod|id="Q192950"\x-wd* wanted to kill \x-wd John|id="Q40662"\x-wd*, he was afraid of the people, because they regarded \x-wd John|id="Q40662"\x-wd* as a prophet. 
 \b
 \m 
-\v 6 On \x-wd Herod|id="Q192950"\x-wd*’s birthday, however, \x-wd the daughter|id="Q228896"\x-wd* of \x-wd Herodias|id="Q230091"\x-wd* danced before them and pleased \x-wd Herod|id="Q192950"\x-wd* 
+\v 6 On \x-wd Herod|id="Q192950"\x-wd*’s birthday, however, \x-wd the daughter of \x-wd Herodias|id="Q230091"\x-wd*|id="Q228896"\x-wd* danced before them and pleased \x-wd Herod|id="Q192950"\x-wd* 
 \v 7 so much that he promised with an oath to give to her whatever she asked. 
 \b
 \m 
-\v 8 Prompted by her mother, she said, “Give me here on a platter the head of \x-wd John the Baptist|id="Q40662"\x-wd*.” 
+\v 8 Prompted by \x-wd her mother|id="Q230091"\x-wd*, she said, “Give me here on a platter the head of \x-wd John the Baptist|id="Q40662"\x-wd*.” 
 \b
 \m 
 \v 9 The king was grieved, but because of his oaths and his guests, he ordered that her wish be granted 
 \v 10 and sent to have \x-wd John|id="Q40662"\x-wd* beheaded in the prison. 
 \b
 \m 
-\v 11 \x-wd John|id="Q40662"\x-wd*’s head was brought in on a platter and presented to the girl, who carried it to her mother. 
+\v 11 \x-wd John|id="Q40662"\x-wd*’s head was brought in on a platter and presented to \x-wd the girl|id="Q228896"\x-wd*, who carried it to \x-wd her mother|id="Q230091"\x-wd*. 
 \b
 \m 
 \v 12 Then \x-wd John|id="Q40662"\x-wd*’s disciples came and took his body and buried it. And they went and informed \x-wd Jesus|id="Q302"\x-wd*. 
@@ -1409,7 +1409,7 @@
 \r (Mark 8:27–30; Luke 9:18–20; John 6:67–71)
 \b
 \m 
-\v 13 When \x-wd Jesus|id="Q302"\x-wd* came to the region of Caesarea Philippi, He questioned His disciples: “Who do people say the \x-wd Son of Man|id="Q302"\x-wd* is?” 
+\v 13 When \x-wd Jesus|id="Q302"\x-wd* came to the region of Caesarea Philippi, He questioned His disciples: “Who do people say \x-wd the Son of Man|id="Q302"\x-wd* is?” 
 \b
 \m 
 \v 14 They replied, “Some say \x-wd John the Baptist|id="Q40662"\x-wd*; others say \x-wd Elijah|id="Q133507"\x-wd*; and still others, \x-wd Jeremiah|id="Q158825"\x-wd* or one of the prophets.” 
@@ -1445,10 +1445,10 @@
 \v 24 Then \x-wd Jesus|id="Q302"\x-wd* told His disciples, “If anyone wants to come after Me, he must deny himself and take up his cross and follow Me. 
 \v 25 For whoever wants to save his life will lose it, but whoever loses his life for My sake will find it. 
 \v 26 What will it profit a man if he gains the whole world, yet forfeits his soul? Or what can a man give in exchange for his soul? 
-\v 27 For the \x-wd Son of Man|id="Q302"\x-wd* will come in His Father’s glory with His angels, and then He will repay each one according to what he has done. 
+\v 27 For \x-wd the Son of Man|id="Q302"\x-wd* will come in His Father’s glory with His angels, and then He will repay each one according to what he has done. 
 \b
 \m 
-\v 28 Truly I tell you, some who are standing here will not taste death before they see the \x-wd Son of Man|id="Q302"\x-wd* coming in His kingdom.” 
+\v 28 Truly I tell you, some who are standing here will not taste death before they see \x-wd the Son of Man|id="Q302"\x-wd* coming in His kingdom.” 
 \c 17
 \s1 The Transfiguration
 \r (Mark 9:1–13; Luke 9:28–36; 2 Peter 1:16–21)
@@ -1469,14 +1469,14 @@
 \v 8 And when they looked up, they saw no one except \x-wd Jesus|id="Q302"\x-wd*. 
 \b
 \m 
-\v 9 As they were coming down the mountain, \x-wd Jesus|id="Q302"\x-wd* commanded them, “Do not tell anyone about this vision until the \x-wd Son of Man|id="Q302"\x-wd* has been raised from the dead.” 
+\v 9 As they were coming down the mountain, \x-wd Jesus|id="Q302"\x-wd* commanded them, “Do not tell anyone about this vision until \x-wd the Son of Man|id="Q302"\x-wd* has been raised from the dead.” 
 \b
 \m 
 \v 10 The disciples asked Him, “Why then do the scribes say that \x-wd Elijah|id="Q133507"\x-wd* must come first?” 
 \b
 \m 
 \v 11 \x-wd Jesus|id="Q302"\x-wd* replied, \x-wd Elijah|id="Q133507"\x-wd* does indeed come, and he will restore all things. 
-\v 12 But I tell you that \x-wd Elijah|id="Q133507"\x-wd* has already come, and they did not recognize him, but have done to him whatever they wished. In the same way, the \x-wd Son of Man|id="Q302"\x-wd* will suffer at their hands.” 
+\v 12 But I tell you that \x-wd Elijah|id="Q133507"\x-wd* has already come, and they did not recognize him, but have done to him whatever they wished. In the same way, \x-wd the Son of Man|id="Q302"\x-wd* will suffer at their hands.” 
 \b
 \m 
 \v 13 Then the disciples understood that He was speaking to them about \x-wd John the Baptist|id="Q40662"\x-wd*. 
@@ -1503,7 +1503,7 @@
 \r (Mark 9:30–32; Luke 9:43–45)
 \b
 \m 
-\v 22 When they gathered together in Galilee, \x-wd Jesus|id="Q302"\x-wd* told them, “The \x-wd Son of Man|id="Q302"\x-wd* is about to be delivered into the hands of men. 
+\v 22 When they gathered together in Galilee, \x-wd Jesus|id="Q302"\x-wd* told them, “\x-wd The Son of Man|id="Q302"\x-wd* is about to be delivered into the hands of men. 
 \v 23 They will kill Him, and on the third day He will be raised to life.” And the disciples were deeply grieved. 
 \s1 The Temple Tax
 \b
@@ -1547,7 +1547,7 @@
 \r (Luke 15:1–7)
 \b
 \m 
-\v 10 See that you do not look down on any of these little ones. For I tell you that their angels in heaven always see the face of My Father in heaven.\f + \fr 18:10 \ft BYZ and TR include 11 For the \x-wd Son of Man|id="Q302"\x-wd* came to save the lost; see Luke 19:10.\f* 
+\v 10 See that you do not look down on any of these little ones. For I tell you that their angels in heaven always see the face of My Father in heaven.\f + \fr 18:10 \ft BYZ and TR include 11 For \x-wd the Son of Man|id="Q302"\x-wd* came to save the lost; see Luke 19:10.\f* 
 \b
 \m 
 \v 12 What do you think? If a man has a hundred sheep and one of them goes astray, will he not leave the ninety-nine on the hills and go out to search for the one that is lost? 
@@ -1681,7 +1681,7 @@
 \v 27 “Look,” \x-wd Peter|id="Q33923"\x-wd* replied, “we have left everything to follow You. What then will there be for us?” 
 \b
 \m 
-\v 28 \x-wd Jesus|id="Q302"\x-wd* said to them, “Truly I tell you, in the renewal of all things,\f + \fr 19:28 \ft Or in the regeneration\f* when the \x-wd Son of Man|id="Q302"\x-wd* sits on His glorious throne, you who have followed Me will also sit on twelve thrones, judging the twelve tribes of Israel. 
+\v 28 \x-wd Jesus|id="Q302"\x-wd* said to them, “Truly I tell you, in the renewal of all things,\f + \fr 19:28 \ft Or in the regeneration\f* when \x-wd the Son of Man|id="Q302"\x-wd* sits on His glorious throne, you who have followed Me will also sit on twelve thrones, judging the twelve tribes of Israel. 
 \v 29 And everyone who has left houses or brothers or sisters or father or mother or wife \f + \fr 19:29 \ft NE, WH, and NA do not include or wife.\f* or children or fields for the sake of My name will receive a hundredfold and will inherit eternal life. 
 \v 30 But many who are first will be last, and the last will be first. 
 \c 20
@@ -1728,33 +1728,33 @@
 \b
 \m 
 \v 17 As \x-wd Jesus|id="Q302"\x-wd* was going up to Jerusalem, He took the twelve disciples aside and said, 
-\v 18 “Look, we are going up to Jerusalem, and the \x-wd Son of Man|id="Q302"\x-wd* will be delivered over to the chief priests and scribes. They will condemn Him to death 
+\v 18 “Look, we are going up to Jerusalem, and \x-wd the Son of Man|id="Q302"\x-wd* will be delivered over to the chief priests and scribes. They will condemn Him to death 
 \v 19 and will deliver Him over to the Gentiles to be mocked and flogged and crucified. And on the third day He will be raised to life.” 
 \s1 A Mother’s Request
 \r (Mark 10:35–45)
 \b
 \m 
-\v 20 Then \x-wd the mother of Zebedee’s sons|id="Q233067"\x-wd* came to \x-wd Jesus|id="Q302"\x-wd* with her sons and knelt down to make a request of Him. 
+\v 20 Then \x-wd the mother of \x-wd \x-wd Zebedee|id="Q169363"\x-wd*’s sons|id="Q43999,Q44015"\x-wd*|id="Q233067"\x-wd* came to \x-wd Jesus|id="Q302"\x-wd* with \x-wd her sons|id="Q43999,Q44015"\x-wd* and knelt down to make a request of Him. 
 \b
 \m 
 \v 21 “What do you want?” He inquired. 
 \b
-\m She answered, “Declare that in Your kingdom one of these two sons of mine may sit at Your right hand, and the other at Your left.” 
+\m She answered, “Declare that in Your kingdom one of \x-wd these two sons of mine|id="Q43999,Q44015"\x-wd* may sit at Your right hand, and the other at Your left.” 
 \b
 \m 
 \v 22 “You do not know what you are asking,” \x-wd Jesus|id="Q302"\x-wd* replied. “Can you drink the cup I am going to drink?”\f + \fr 20:22 \ft BYZ includes or be baptized with the baptism with which I am baptized. TR is similar.\f* 
 \b
-\m “We can,” the brothers answered. 
+\m “We can,” \x-wd the brothers|id="Q43999,Q44015"\x-wd* answered. 
 \b
 \m 
 \v 23 “You will indeed drink My cup,”\f + \fr 20:23 \ft BYZ and TR include and be baptized with the baptism with which I am baptized.\f* \x-wd Jesus|id="Q302"\x-wd* said. “But to sit at My right or left is not Mine to grant. These seats belong to those for whom My Father has prepared them.” 
 \b
 \m 
-\v 24 When the ten heard about this, they were indignant with the two brothers. 
+\v 24 When \x-wd the ten|id="Q33923,Q43399,Q43675,Q43982,Q43600,Q43669,Q44047,Q43945,Q12871,Q81018"\x-wd* heard about this, they were indignant with \x-wd the two brothers|id="Q43999,Q44015"\x-wd*. 
 \v 25 But \x-wd Jesus|id="Q302"\x-wd* called them aside and said, “You know that the rulers of the Gentiles lord it over them, and their superiors exercise authority over them. 
 \v 26 It shall not be this way among you. Instead, whoever wants to become great among you must be your servant, 
 \v 27 and whoever wants to be first among you must be your slave—
-\v 28 just as the \x-wd Son of Man|id="Q302"\x-wd* did not come to be served, but to serve, and to give His life as a ransom for many.” 
+\v 28 just as \x-wd the Son of Man|id="Q302"\x-wd* did not come to be served, but to serve, and to give His life as a ransom for many.” 
 \s1 The Blind Men by the Road
 \r (Mark 10:46–52; Luke 18:35–43)
 \b
@@ -2136,7 +2136,7 @@
 \r (Mark 13:14–23; Luke 21:20–24)
 \b
 \m 
-\v 15 So when you see standing in the holy place ‘the abomination of desolation,’\f + \fr 24:15 \ft See Daniel 9:27, Daniel 11:31, and Daniel 12:11.\f* spoken of by the prophet \x-wd Daniel|id="Q171724"\x-wd* (let the reader understand), 
+\v 15 So when you see standing in the holy place ‘the abomination of desolation,’\f + \fr 24:15 \ft See Daniel 9:27, Daniel 11:31, and Daniel 12:11.\f* spoken of by \x-wd the prophet Daniel|id="Q171724"\x-wd* (let the reader understand), 
 \v 16 then let those who are in Judea flee to the mountains. 
 \v 17 Let no one on the housetop come down to retrieve anything from his house. 
 \v 18 And let no one in the field return for his cloak. 
@@ -2156,7 +2156,7 @@
 \b
 \m 
 \v 26 So if they tell you, ‘There He is, in the wilderness,’ do not go out, or, ‘Here He is, in the inner rooms,’ do not believe it. 
-\v 27 For just as the lightning comes from the east and flashes as far as the west, so will be the coming of the \x-wd Son of Man|id="Q302"\x-wd*. 
+\v 27 For just as the lightning comes from the east and flashes as far as the west, so will be the coming of \x-wd the Son of Man|id="Q302"\x-wd*. 
 \v 28 Wherever there is a carcass, there the vultures will gather. 
 \b
 \m 
@@ -2168,7 +2168,7 @@
 \q2 and the powers of the heavens will be shaken.\f + \fr 24:29 \ft Or and the celestial bodies will be shaken; see Isaiah 13:10, Isaiah 34:4, and Joel 2:10.\f*’ 
 \b
 \m 
-\v 30 At that time the sign of the \x-wd Son of Man|id="Q302"\x-wd* will appear in heaven,\f + \fr 24:30 \ft Or the sky; twice in this verse\f* and all the tribes of the earth will mourn. They will see the \x-wd Son of Man|id="Q302"\x-wd* coming on the clouds of heaven with power and great glory.\f + \fr 24:30 \ft See Daniel 7:13–14.\f* 
+\v 30 At that time the sign of \x-wd the Son of Man|id="Q302"\x-wd* will appear in heaven,\f + \fr 24:30 \ft Or the sky; twice in this verse\f* and all the tribes of the earth will mourn. They will see \x-wd the Son of Man|id="Q302"\x-wd* coming on the clouds of heaven with power and great glory.\f + \fr 24:30 \ft See Daniel 7:13–14.\f* 
 \v 31 And He will send out His angels with a loud trumpet call, and they will gather His elect from the four winds, from one end of the heavens to the other. 
 \s1 The Lesson of the Fig Tree
 \r (Mark 13:28–31; Luke 21:29–33)
@@ -2183,16 +2183,16 @@
 \b
 \m 
 \v 36 No one knows about that day or hour, not even the angels in heaven, nor the \x-wd Son|id="Q302"\x-wd*,\f + \fr 24:36 \ft BYZ and TR do not include nor the Son.\f* but only the Father. 
-\v 37 As it was in the days of \x-wd Noah|id="Q81422"\x-wd*, so will it be at the coming of the \x-wd Son of Man|id="Q302"\x-wd*. 
+\v 37 As it was in the days of \x-wd Noah|id="Q81422"\x-wd*, so will it be at the coming of \x-wd the Son of Man|id="Q302"\x-wd*. 
 \v 38 For in the days before the flood, people were eating and drinking, marrying and giving in marriage, up to the day \x-wd Noah|id="Q81422"\x-wd* entered the ark. 
-\v 39 And they were oblivious until the flood came and swept them all away. So will it be at the coming of the \x-wd Son of Man|id="Q302"\x-wd*. 
+\v 39 And they were oblivious until the flood came and swept them all away. So will it be at the coming of \x-wd the Son of Man|id="Q302"\x-wd*. 
 \v 40 Two men will be in the field: one will be taken and the other left. 
 \v 41 Two women will be grinding at the mill: one will be taken and the other left. 
 \b
 \m 
 \v 42 Therefore keep watch, because you do not know the day on which your Lord will come. 
 \v 43 But understand this: If the homeowner had known in which watch of the night the thief was coming, he would have kept watch and would not have let his house be broken into. 
-\v 44 For this reason, you also must be ready, because the \x-wd Son of Man|id="Q302"\x-wd* will come at an hour you do not expect. 
+\v 44 For this reason, you also must be ready, because \x-wd the Son of Man|id="Q302"\x-wd* will come at an hour you do not expect. 
 \b
 \m 
 \v 45 Who then is the faithful and wise servant, whom the master has put in charge of his household, to give the others their food at the proper time? 
@@ -2272,7 +2272,7 @@
 \s1 The Sheep and the Goats
 \b
 \m 
-\v 31 When the \x-wd Son of Man|id="Q302"\x-wd* comes in His glory, and all the angels with Him, He will sit on His glorious throne. 
+\v 31 When \x-wd the Son of Man|id="Q302"\x-wd* comes in His glory, and all the angels with Him, He will sit on His glorious throne. 
 \v 32 All the nations will be gathered before Him, and He will separate the people one from another, as a shepherd separates the sheep from the goats. 
 \v 33 He will place the sheep on His right and the goats on His left. 
 \b
@@ -2307,7 +2307,7 @@
 \r (Mark 14:1–2; Luke 22:1–2; John 11:45–57)
 \m
 \v 1 When \x-wd Jesus|id="Q302"\x-wd* had finished saying all these things, He told His disciples,
-\v 2 “You know that the Passover is two days away, and the \x-wd Son of Man|id="Q302"\x-wd* will be handed over to be crucified.”
+\v 2 “You know that the Passover is two days away, and \x-wd the Son of Man|id="Q302"\x-wd* will be handed over to be crucified.”
 \b
 \m
 \v 3 At that time the chief priests and elders of the people assembled in the courtyard of the high priest, whose name was \x-wd Caiaphas|id="Q211246"\x-wd*,
@@ -2357,7 +2357,7 @@
 \b
 \m
 \v 23 \x-wd Jesus|id="Q302"\x-wd* answered, “The one who has dipped his hand into the bowl with Me will betray Me.
-\v 24 The \x-wd Son of Man|id="Q302"\x-wd* will go just as it is written about Him, but woe to that man by whom He is betrayed. It would be better for him if he had not been born.”
+\v 24 \x-wd The Son of Man|id="Q302"\x-wd* will go just as it is written about Him, but woe to that man by whom He is betrayed. It would be better for him if he had not been born.”
 \b
 \m
 \v 25 Then \x-wd Judas|id="Q81018"\x-wd*, who would betray Him, said, “Surely not I, Rabbi?”
@@ -2401,7 +2401,7 @@
 \v 36 Then \x-wd Jesus|id="Q302"\x-wd* went with His disciples to a place called Gethsemane, and He told them, “Sit here while I go over there and pray.”
 \b
 \m
-\v 37 He took with Him \x-wd Peter|id="Q33923"\x-wd* and the two \x-wd sons of Zebedee|id="Q44015,Q43999"\x-wd* and began to be sorrowful and deeply distressed.
+\v 37 He took with Him \x-wd Peter|id="Q33923"\x-wd* and \x-wd the two sons of \x-wd Zebedee|id="Q169363"\x-wd*|id="Q44015,Q43999"\x-wd* and began to be sorrowful and deeply distressed.
 \v 38 Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch with Me.”
 \b
 \m
@@ -2417,7 +2417,7 @@
 \b
 \m
 \v 44 So He left them and went away once more and prayed a third time, saying the same thing.
-\v 45 Then He returned to the disciples and said, “Are you still sleeping and resting? Look, the hour is near, and the \x-wd Son of Man|id="Q302"\x-wd* is betrayed into the hands of sinners.
+\v 45 Then He returned to the disciples and said, “Are you still sleeping and resting? Look, the hour is near, and \x-wd the Son of Man|id="Q302"\x-wd* is betrayed into the hands of sinners.
 \v 46 Rise, let us go! See, My betrayer is approaching!”
 \s1 The Betrayal of Jesus
 \r (Mark 14:43–52; Luke 22:47–53; John 18:1–14)
@@ -2468,7 +2468,7 @@
 \m Then the high priest said to Him, “I charge You under oath by the living God: Tell us if You are the Christ, the Son of God.”
 \b
 \m
-\v 64 “You have said it yourself,” \x-wd Jesus|id="Q302"\x-wd* answered. “But I say to all of you, from now on you will see the \x-wd Son of Man|id="Q302"\x-wd* sitting at the right hand of Power \f + \fr 26:64 \ft Or the right hand of the Mighty One\f* and coming on the clouds of heaven.”\f + \fr 26:64 \ft See Psalms 110:1 and Daniel 7:13.\f*
+\v 64 “You have said it yourself,” \x-wd Jesus|id="Q302"\x-wd* answered. “But I say to all of you, from now on you will see \x-wd the Son of Man|id="Q302"\x-wd* sitting at the right hand of Power \f + \fr 26:64 \ft Or the right hand of the Mighty One\f* and coming on the clouds of heaven.”\f + \fr 26:64 \ft See Psalms 110:1 and Daniel 7:13.\f*
 \b
 \m
 \v 65 At this, the high priest tore his clothes and declared, “He has blasphemed! Why do we need any more witnesses? Look, now you have heard the blasphemy.
@@ -2659,7 +2659,7 @@
 \b
 \m 
 \v 55 And many women were there, watching from a distance. They had followed \x-wd Jesus|id="Q302"\x-wd* from Galilee to minister to Him. 
-\v 56 Among them were \x-wd Mary Magdalene|id="Q63070"\x-wd*, \x-wd Mary|id="Q235377"\x-wd* the mother of \x-wd James|id="Q26925"\x-wd* and \x-wd Joseph|id="Q2721201"\x-wd*, and \x-wd the mother of Zebedee’s sons|id="Q233067"\x-wd*. 
+\v 56 Among them were \x-wd Mary Magdalene|id="Q63070"\x-wd*, \x-wd Mary the mother of \x-wd James|id="Q26925"\x-wd* and \x-wd Joseph|id="Q2721201"\x-wd*|id="Q235377"\x-wd*, and \x-wd the mother of \x-wd Zebedee|id="Q169363"\x-wd*’s sons|id="Q233067"\x-wd*. 
 \s1 The Burial of Jesus
 \r (Isaiah 53:9–12; Mark 15:42–47; Luke 23:50–56; John 19:38–42)
 \b
@@ -2683,7 +2683,7 @@
 \s1 The Resurrection
 \r (Mark 16:1–8; Luke 24:1–12; John 20:1–9)
 \m 
-\v 1 After the Sabbath, at dawn on the first day of the week,\f + \fr 28:1 \ft Literally Now after the Sabbaths, it being dawn toward the first of the Sabbaths,\f* \x-wd Mary Magdalene|id="Q63070"\x-wd* and the other \x-wd Mary|id="Q235377"\x-wd* went to see the tomb. 
+\v 1 After the Sabbath, at dawn on the first day of the week,\f + \fr 28:1 \ft Literally Now after the Sabbaths, it being dawn toward the first of the Sabbaths,\f* \x-wd Mary Magdalene|id="Q63070"\x-wd* and \x-wd the other Mary|id="Q235377"\x-wd* went to see the tomb. 
 \b
 \m 
 \v 2 Suddenly there was a great earthquake, for an angel of the Lord descended from heaven, rolled away the stone, and sat on it. 
