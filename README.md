@@ -17,6 +17,8 @@ If a segment of text refers to multiple people at once, the id may be multiple c
 
 Example: `the two \x-wd sons of Zebedee|id="Q44015,Q43999"\x-wd*`
 
+x-wd attributes may be nested (for example, if a person is identified by their relationship to another): `He saw \x-wd \x-wd Peter|id="Q33923"\x-wd*’s mother-in-law|id="Q23581940"\x-wd* sick`
+
 The primary goals of this tagging are to link the reader to supplementary information, and to connect references to people across the text.
 
 Currently, pronouns and people who cannot be linked to a name with reasonable inference are not marked.
