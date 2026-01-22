@@ -1,0 +1,14 @@
+{
+  "name": "bsb-usfm-tools",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "validate": "node tools/validator/index.js"
+  },
+  "author": "Brian MacIntosh",
+  "license": "ISC",
+  "dependencies": {
+    "lite-usfm": "0.2.0"
+  }
+}
