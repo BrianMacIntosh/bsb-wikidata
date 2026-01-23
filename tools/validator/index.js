@@ -15,11 +15,15 @@ nop()
 			if (file.toUpperCase().endsWith(".SFM"))
 			{
 				console.log(`Validating '${file}'...`)
-
 				const data = await fs.readFile(bsbDir + `/` + file, 'utf8')
+
+				// check that the only difference from originals is the zwd tags
+				const originalData = await fs.readFile(`bsb_usfm_original/` + file, 'utf8')
+				checkConsistent(originalData, data)
+
+				// parse and do checks against the parsed data
 				const parser = new UsfmJsonParser()
 				const parsed = parser.parse(data)
-
 				for (var lineNum = 0; lineNum < parsed.length; ++lineNum)
 				{
 					recursiveCheckContents(lineNum + 1, parsed[lineNum])
@@ -33,6 +37,80 @@ nop()
 	}
 
 })
+
+function isZwdOpen(text, index)
+{
+	const candidate = text.substring(index, index + 5)
+	if (candidate == '\\zwd ') return index + 5
+	else if (candidate == '\\zwd\\') return index + 4
+	else return 0
+}
+
+function isZwdClose(text, index)
+{
+	if (text[index] == '|')
+	{
+		const possibleClose = text.indexOf('\\zwd*', index)
+		if (possibleClose >= 0)
+		{
+			const possibleParams = text.substring(index + 1, possibleClose)
+			if (possibleParams.match(/^id="[Q0-9,]*"$/))
+			{
+				return possibleClose + 5
+			}
+		}
+	}
+	return 0
+}
+
+function isZdate(text, index)
+{
+	const candidate = text.substring(index, index + 7)
+	if (candidate == '\\zdate|')
+	{
+		const endIndex = text.indexOf('\\*', index + 7)
+		if (endIndex >= 0)
+		{
+			const possibleParams = text.substring(index + 7, endIndex)
+			if (possibleParams.match(/^date="[\-+][\-0-9]+"$/))
+			{
+				return endIndex + 2
+			}
+		}
+	}
+	return 0
+}
+
+function checkConsistent(originalText, newText)
+{
+	var originalI = 0
+	var newI = 0
+	var lineNum = 1
+	for (; originalI < originalText.length && newI < newText.length; )
+	{
+		var newNewI = isZwdOpen(newText, newI) || isZwdClose(newText, newI) || isZdate(newText, newI)
+		//const debug = newText.substring(newI)
+		if (newNewI)
+		{
+			newI = newNewI
+			continue
+		}
+		else if (originalText[originalI] != newText[newI])
+		{
+			// mismatched text
+			console.error(`Error: Original text altered (at line ${lineNum})`)
+			return
+		}
+		else
+		{
+			if (originalText[originalI] == '\n') lineNum++
+
+			// matched text
+			originalI++
+			newI++
+		}
+	}
+}
 
 function recursiveCheckContents(lineNum, node)
 {
