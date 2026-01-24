@@ -29,9 +29,10 @@ Currently, pronouns and people who cannot be linked to a name with reasonable in
 
 It can appear as a self-closing marker (`\zdate|date="-001813-01-01"\*`) or start/end marker (`\zdate-s|date="-001813-01-01"\*` and `\zdate-e\*`). **zdate** markers will not be nested.
 
-It has one parameter **date**, which is an RFC 3339 date with a 6-digit expanded year (e.g. `-001813-01-01` or `-001813-01-01T12:00:00`).
-
-Currently, dates, particularly before the first few centuries BC, may be estimates or guesses.
+It has one parameter **date**, which can be:
+* An RFC 3339 date with a 6-digit expanded year (e.g. `-001813-01-01` or `-001813-01-01T12:00:00`)
+* A Wikidata ID, indicating that the date is the date of that entity (e.g. `Q302`). Properties checked dates are, in order of priority, P585, P580, P569, or P571.
+* A Wikidata ID and property (e.g. `Q302:P570`), indicating that the date is the value of that property.
 
 ## Attribution Notice
 
