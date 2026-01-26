@@ -1,3 +1,7 @@
+#!/usr/bin/env node
+
+// Validates the tagged files for various errors.
+
 const fs = require('fs').promises
 const UsfmJsonParser = require("lite-usfm")
 
@@ -54,7 +58,7 @@ function isZwdClose(text, index)
 		if (possibleClose >= 0)
 		{
 			const possibleParams = text.substring(index + 1, possibleClose)
-			if (possibleParams.match(/^id="[Q0-9,]*"$/))
+			if (possibleParams.match(/^id="[Q0-9,]*"( t="[12]")?$/))
 			{
 				return possibleClose + 5
 			}
@@ -72,9 +76,14 @@ function isZdate(text, index)
 		if (endIndex >= 0)
 		{
 			const possibleParams = text.substring(index + 7, endIndex)
-			if (possibleParams.match(/^date="[\-+][\-0-9]+"$/))
+			if (possibleParams.match(/^date="[\-+][\-0-9]+"$/)
+				|| possibleParams.match(/^date="Q[0-9]+(:P[0-9]+)?(:Q[0-9]+:P[0-9]+)?(\+P\-?[0-9]+[A-Z])?"$/))
 			{
 				return endIndex + 2
+			}
+			else
+			{
+				console.error(`Error: 'zdate' tag has invalid parameters.`)
 			}
 		}
 	}
