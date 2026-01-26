@@ -29,7 +29,7 @@ Currently, pronouns and people who cannot be linked to a name with reasonable in
 
 **zdate** is a [standalone milestone](https://ubsicap.github.io/usfm/milestones/index.html) that indicates the date (and optionally, time) when the events being described occurred.
 
-It can appear as a self-closing marker (`\zdate|date="-001813-01-01"\*`) or start/end marker (`\zdate-s|date="-001813-01-01"\*` and `\zdate-e\*`). **zdate** markers will not be nested.
+Markers look like `\zdate|date="-001813-01-01"\*`. **zdate** markers will not be nested.
 
 It has one parameter **date**, which can be:
 * A Wikidata ID, indicating that the date is the date of that entity (e.g. `Q302`). Properties checked dates are, in order of priority, P585, P580, P569, or P571.
