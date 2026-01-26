@@ -9,7 +9,9 @@ The following markers are being added to the USFM markup:
 
 ### zwd
 
-**zwd** is a [character marker](https://ubsicap.github.io/usfm/characters/index.html) that links an identifiable person to a Wikidata item. It has one mandatory attribute **id**, which is the Wikidata Q-id of the person.
+**zwd** is a [character marker](https://ubsicap.github.io/usfm/characters/index.html) that links an identifiable person to a Wikidata item. Attributes for zwd are:
+* **id** (mandatory): the Wikidata Q-id of the person.
+* **t** (optional, default **2**): the type of the reference. **1** (primary) means the character is present in the story or the general context around it. **2** (secondary) means the character is only being referred to.
 
 Example: `\zwd Abraham|id="Q9181"\zwd* was the father of \zwd Isaac|id="Q671872"\zwd*`
 
