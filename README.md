@@ -15,11 +15,13 @@ The following markers are being added to the USFM markup:
 
 Example: `\zwd Abraham|id="Q9181"\zwd* was the father of \zwd Isaac|id="Q671872"\zwd*`
 
+The `id` parameter is the default parameter, so e.g. `\zwd Abraham|Q9181\zwd*` may also be used.
+
 If a segment of text refers to multiple people at once, the id may be multiple comma-separated values.
 
-Example: `the two \zwd sons of Zebedee|id="Q44015,Q43999"\zwd*`
+Example: `the two \zwd sons of Zebedee|Q44015,Q43999\zwd*`
 
-zwd markers may be nested (for example, if a person is identified by their relationship to another): `He saw \zwd \zwd Peter|id="Q33923"\zwd*’s mother-in-law|id="Q23581940"\zwd* sick`
+zwd markers may be nested (for example, if a person is identified by their relationship to another): `He saw \zwd \zwd Peter|Q33923\zwd*’s mother-in-law|Q23581940\zwd* sick`
 
 The primary goals of this tagging are to link the reader to supplementary information, and to connect references across the text.
 
@@ -29,7 +31,7 @@ Currently, pronouns and people who cannot be linked to a name with reasonable in
 
 **zdate** is a [standalone milestone](https://ubsicap.github.io/usfm/milestones/index.html) that indicates the date (and optionally, time) when the events being described occurred.
 
-Markers look like `\zdate|date="-001813-01-01"\*`. **zdate** markers will not be nested.
+Markers look like `\zdate|date="Q302"\*` or `\zdate|Q302\*`.
 
 It has one parameter **date**, which can be:
 * A Wikidata ID, indicating that the date is the date of that entity (e.g. `Q302`). Properties checked dates are, in order of priority, P585, P580, P569, or P571.
