@@ -50,7 +50,7 @@ function isZwdOpen(text, index)
 	else return 0
 }
 
-function isZwdClose(text, index)
+function isZwdClose(lineNum, text, index)
 {
 	if (text[index] == '|')
 	{
@@ -58,16 +58,21 @@ function isZwdClose(text, index)
 		if (possibleClose >= 0)
 		{
 			const possibleParams = text.substring(index + 1, possibleClose)
-			if (possibleParams.match(/^id="[Q0-9,]*"( t="[12]")?$/))
+			if (possibleParams.match(/^id="[Q0-9,]*"( t="[12]")?$/)
+				|| possibleParams.match(/^[Q0-9,]*$/))
 			{
 				return possibleClose + 5
+			}
+			else
+			{
+				console.error(`Error: 'zwd' tag has invalid parameters (at line ${lineNum}).`)
 			}
 		}
 	}
 	return 0
 }
 
-function isZdate(text, index)
+function isZdate(lineNum, text, index)
 {
 	const candidate = text.substring(index, index + 7)
 	if (candidate == '\\zdate|')
@@ -77,13 +82,15 @@ function isZdate(text, index)
 		{
 			const possibleParams = text.substring(index + 7, endIndex)
 			if (possibleParams.match(/^date="[\-+][\-0-9]+"$/)
-				|| possibleParams.match(/^date="Q[0-9]+(:P[0-9]+)?(:Q[0-9]+:P[0-9]+)?(\+P\-?[0-9]+[A-Z])?"$/))
+				|| possibleParams.match(/^date="Q[0-9]+(:P[0-9]+)?(:Q[0-9]+:P[0-9]+)?(\+P\-?[0-9]+[A-Z])?"$/)
+				|| possibleParams.match(/^[\-+][\-0-9]+$/)
+				|| possibleParams.match(/^Q[0-9]+(:P[0-9]+)?(:Q[0-9]+:P[0-9]+)?(\+P\-?[0-9]+[A-Z])?$/))
 			{
 				return endIndex + 2
 			}
 			else
 			{
-				console.error(`Error: 'zdate' tag has invalid parameters.`)
+				console.error(`Error: 'zdate' tag has invalid parameters (at line ${lineNum}).`)
 			}
 		}
 	}
@@ -97,7 +104,7 @@ function checkConsistent(originalText, newText)
 	var lineNum = 1
 	for (; originalI < originalText.length && newI < newText.length; )
 	{
-		var newNewI = isZwdOpen(newText, newI) || isZwdClose(newText, newI) || isZdate(newText, newI)
+		var newNewI = isZwdOpen(newText, newI) || isZwdClose(lineNum, newText, newI) || isZdate(lineNum, newText, newI)
 		//const debug = newText.substring(newI)
 		if (newNewI)
 		{
@@ -127,7 +134,7 @@ function recursiveCheckContents(lineNum, node)
 	{
 		for (const contentNode of node.content)
 		{
-			if (contentNode.tag == "zwd" && (!contentNode.params || contentNode.params.id === undefined))
+			if (contentNode.tag == "zwd" && contentNode.params?.id === undefined && contentNode.params?._default === undefined)
 			{
 				console.error(`Error: Missing 'id' attribute on 'zwd' tag (at line ${lineNum})`)
 			}
