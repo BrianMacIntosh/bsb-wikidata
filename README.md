@@ -1,6 +1,7 @@
 # bsb-wikidata
 USFM Berean Standard Bible with additional markers linking entities to Wikidata. The text itself is unchanged.
 
+## Progress
 ![Book progress badges](assets/progress.svg)
 
 ## Markers
