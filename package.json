@@ -4,7 +4,8 @@
   "description": "",
   "private": true,
   "scripts": {
-    "validate": "node tools/validator/index.js"
+    "validate": "node tools/validator/index.js",
+    "badges": "node tools/badges/index.js"
   },
   "author": "Brian MacIntosh",
   "license": "ISC",

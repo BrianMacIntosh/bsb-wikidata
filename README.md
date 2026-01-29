@@ -1,8 +1,7 @@
 # bsb-wikidata
 USFM Berean Standard Bible with additional markers linking entities to Wikidata. The text itself is unchanged.
 
-## Progress
-41MAT has all identifiable people marked, and rudimentary date markers.
+![Book progress badges](assets/progress.svg)
 
 ## Markers
 The following markers are being added to the USFM markup:
