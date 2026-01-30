@@ -81,7 +81,7 @@ function isZdate(lineNum, text, index)
 		if (endIndex >= 0)
 		{
 			const possibleParams = text.substring(index + 7, endIndex)
-			if (possibleParams.match(/^date="[\-+][\-0-9]+"$/)
+			if (possibleParams.match(/^date="([\-+][\-0-9]+)?"$/)
 				|| possibleParams.match(/^date="Q[0-9]+(:P[0-9]+)?(:Q[0-9]+:P[0-9]+)?(\+P\-?[0-9]+[A-Z])?"$/)
 				|| possibleParams.match(/^[\-+][\-0-9]+$/)
 				|| possibleParams.match(/^Q[0-9]+(:P[0-9]+)?(:Q[0-9]+:P[0-9]+)?(\+P\-?[0-9]+[A-Z])?$/))
