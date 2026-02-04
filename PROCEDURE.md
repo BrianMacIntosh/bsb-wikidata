@@ -30,4 +30,4 @@ Tags may need to be nested, such as:
 Sometimes the same phrase may refer to multiple identifiable people, such as:
 * `“We can,” \zwd the brothers|Q43999,Q44015\zwd* answered.`
 
-If the exact identity of a person is unclear or they lack a Wikidata item, use a blank tag (`Now the \zwd the king of Egypt|id=""\zwd* did not march out`).
+If the exact identity of a person is unclear or they lack a Wikidata item, use a blank tag (`Now the \zwd the king of Egypt|\zwd* did not march out`).
