@@ -38,7 +38,10 @@ It has one parameter **date**, which can be:
 * A Wikidata ID and property (e.g. `Q302:P570`), indicating that the date is the value of that property.
 * A Wikidata ID, property, property value, and qualifier property (e.g. `Q334739:P39:Q26835654:P580`), indicating that the date is the value of that qualifier.
 
-**date** can also be made relative by appending an ISO 8601 duration to it (ex: `Q302:P570+P-40D`).
+**date** can also be made relative by appending one or more of the following:
+* A `+` and an ISO 8601 duration to add that relative duration (ex: `Q302:P570+P-40D`).
+* A `>` and a month name to advance to the next occurrence of that month.
+These will be evaluated in order.
 
 ## Attribution Notice
 
