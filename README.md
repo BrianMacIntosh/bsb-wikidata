@@ -11,7 +11,7 @@ The following markers are being added to the USFM markup:
 
 **zwd** is a [character marker](https://ubsicap.github.io/usfm/characters/index.html) that links an identifiable person to a Wikidata item. Attributes for zwd are:
 * **id** (mandatory): the Wikidata Q-id of the person.
-* **t** (optional, default **1**): the type of the reference. **1** (primary) means the character is present in the story or the general context around it. **2** (secondary) means the character is only being referred to.
+* **t** (optional, default **1**): the type of the reference. **1** (primary) means the character is present in the story or the general context around it. **2** (secondary) means the character is only being referred to. **3** means the character is being used as a symbol for something else.
 
 Example: `\zwd Abraham|id="Q9181"\zwd* was the father of \zwd Isaac|id="Q671872"\zwd*`
 
@@ -31,7 +31,7 @@ Currently, pronouns and people who cannot be linked to a name with reasonable in
 
 **zdate** is a [standalone milestone](https://ubsicap.github.io/usfm/milestones/index.html) that indicates the date (and optionally, time) when the events being described occurred.
 
-Markers look like `\zdate|date="Q302"\*` or `\zdate|Q302\*`.
+Markers look like `\zdate|date="Q302"\*`, `\zdate|Q302\*`, or `\zdate|min="Q302:P569" max="Q302:P570"\*`.
 
 It has one parameter **date**, which can be:
 * A Wikidata ID, indicating that the date is the date of that entity (e.g. `Q302`). Properties checked dates are, in order of priority, P585, P580, P569, or P571.

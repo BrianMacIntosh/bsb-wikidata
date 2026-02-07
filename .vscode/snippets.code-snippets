@@ -23,5 +23,11 @@
 		"body": [
 			"\\zwd $TM_SELECTED_TEXT|$0\\zwd*"
 		]
+	},
+	"t2_param": {
+		"prefix": "t2",
+		"body": [
+			"id=\"$TM_SELECTED_TEXT\" t=\"2\""
+		]
 	}
 }

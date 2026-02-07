@@ -17,7 +17,7 @@ function isZwdClose(lineNum, text, index)
 		if (possibleClose >= 0)
 		{
 			const possibleParams = text.substring(index + 1, possibleClose)
-			if (possibleParams.match(/^id="(Q[0-9]+)?(,Q[0-9]+)*"( t="[12]")?$/)
+			if (possibleParams.match(/^id="(Q[0-9]+)?(,Q[0-9]+)*"( t="[123]")?$/)
 				|| possibleParams.match(/^(Q[0-9]+)?(,Q[0-9]+)*$/))
 			{
 				return possibleClose + 5
@@ -42,6 +42,7 @@ function isZdate(lineNum, text, index)
 			const possibleParams = text.substring(index + 7, endIndex)
 			if (possibleParams.match(/^date="([\-+][\-0-9]+)?"$/)
 				|| possibleParams.match(/^date="Q[0-9]+(:P[0-9]+)?(:Q[0-9]+:P[0-9]+)?([\+>][A-Za-z0-9\-]+)*"$/)
+				|| possibleParams.match(/^min="Q[0-9]+(:P[0-9]+)?(:Q[0-9]+:P[0-9]+)?([\+>][A-Za-z0-9\-]+)*" max="Q[0-9]+(:P[0-9]+)?(:Q[0-9]+:P[0-9]+)?([\+>][A-Za-z0-9\-]+)*"$/)
 				|| possibleParams.match(/^[\-+][\-0-9]+$/)
 				|| possibleParams.match(/^Q[0-9]+(:P[0-9]+)?(:Q[0-9]+:P[0-9]+)?([\+>][A-Za-z0-9\-]+)*$/))
 			{
