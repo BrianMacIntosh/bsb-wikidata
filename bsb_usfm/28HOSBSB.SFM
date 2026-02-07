@@ -6,25 +6,25 @@
 \c 1
 \s1 Hosea’s Wife and Children
 \m
-\v 1 This is the word of the LORD that came to Hosea son of Beeri in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and of Jeroboam son of Jehoash,\f + \fr 1:1 \ft Hebrew Joash, a variant of Jehoash\f* king of Israel.
+\v 1 \zdate|min="Q313232:P39:Q26835654:P580" max="Q244912:P39:Q10550167:P582"\*This is the word of the LORD that came to \zwd Hosea son of \zwd Beeri|id="Q124751797" t="2"\zwd*|Q665541\zwd* in the days of \zwd Uzziah|Q313216\zwd*, \zwd Jotham|Q109920\zwd*, \zwd Ahaz|Q30914\zwd*, and \zwd Hezekiah|Q244912\zwd*, kings of Judah, and of \zwd Jeroboam son of \zwd Jehoash|id="Q334736" t="2"\zwd*|Q313232\zwd*,\f + \fr 1:1 \ft Hebrew Joash, a variant of Jehoash\f* king of Israel.
 \b
 \m
-\v 2 When the LORD first spoke through Hosea, He told him, “Go, take a prostitute as your wife and have children of adultery, because this land is flagrantly prostituting itself by departing from the LORD.”
+\v 2 When the LORD first spoke through \zwd Hosea|Q665541\zwd*, He told him, “Go, take a prostitute as your wife and have children of adultery, because this land is flagrantly prostituting itself by departing from the LORD.”
 \b
 \m
-\v 3 So Hosea went and married Gomer daughter of Diblaim, and she conceived and bore him a son.
+\v 3 So \zwd Hosea|Q665541\zwd* went and married \zwd Gomer daughter of \zwd Diblaim|id="Q126194507" t="2"\zwd*|Q5581166\zwd*, and she conceived and bore him \zwd a son|Q11727245\zwd*.
 \b
 \m
-\v 4 Then the LORD said to Hosea, “Name him Jezreel,\f + \fr 1:4 \ft Jezreel means God sows; also in verse 11.\f* for soon I will bring the bloodshed of Jezreel upon the house of Jehu, and I will put an end to the kingdom of Israel.
+\v 4 Then the LORD said to \zwd Hosea|Q665541\zwd*, “Name him \zwd Jezreel|Q11727245\zwd*,\f + \fr 1:4 \ft Jezreel means God sows; also in verse 11.\f* for soon I will bring the bloodshed of Jezreel upon the house of \zwd Jehu|id="Q313225" t="2"\zwd*, and I will put an end to the kingdom of Israel.
 \v 5 And on that day I will break the bow of Israel in the Valley of Jezreel.”
 \b
 \m
-\v 6 Gomer again conceived and gave birth to a daughter, and the LORD said to Hosea, “Name her Lo-ruhamah,\f + \fr 1:6 \ft Lo-ruhamah means she has not received mercy.\f* for I will no longer have compassion on the house of Israel, that I should ever forgive them.
+\v 6 \zwd Gomer|Q5581166\zwd* again conceived and gave birth to \zwd a daughter|Q11762292\zwd*, and the LORD said to \zwd Hosea|Q665541\zwd*, “Name her \zwd Lo-ruhamah|Q11762292\zwd*,\f + \fr 1:6 \ft Lo-ruhamah means she has not received mercy.\f* for I will no longer have compassion on the house of Israel, that I should ever forgive them.
 \v 7 Yet I will have compassion on the house of Judah, and I will save them—not by bow or sword or war, not by horses and cavalry, but by the LORD their God.”
 \b
 \m
-\v 8 After she had weaned Lo-ruhamah, Gomer conceived and gave birth to a son.
-\v 9 And the LORD said, “Name him Lo-ammi,\f + \fr 1:9 \ft Lo-ammi means not My people.\f* for you are not My people, and I am not your God.\f + \fr 1:9 \ft Hebrew I am not yours\f*
+\v 8 After she had weaned \zwd Lo-ruhamah|Q11762292\zwd*, \zwd Gomer|Q5581166\zwd* conceived and gave birth to a son.
+\v 9 And the LORD said, “Name him \zwd Lo-ammi|Q11762291\zwd*,\f + \fr 1:9 \ft Lo-ammi means not My people.\f* for you are not My people, and I am not your God.\f + \fr 1:9 \ft Hebrew I am not yours\f*
 \b
 \m
 \v 10 Yet the number of the Israelites will be like the sand of the sea, which cannot be measured or counted. And it will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’\f + \fr 1:10 \ft Cited in Romans 9:26\f*
@@ -161,7 +161,7 @@
 \s1 Hosea Redeems His Wife
 \r (Zechariah 2:6–13)
 \m 
-\v 1 Then the LORD said to me, “Go show love to your wife again, though she is loved by another \f + \fr 3:1 \ft Or Go show love to a woman who is loved by another\f* and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and love to offer raisin cakes to idols.\f + \fr 3:1 \ft Literally and love raisin cakes\f*” 
+\v 1 Then the LORD said to me, “Go show love to \zwd your wife|Q5581166\zwd* again, though she is loved by another \f + \fr 3:1 \ft Or Go show love to a woman who is loved by another\f* and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and love to offer raisin cakes to idols.\f + \fr 3:1 \ft Literally and love raisin cakes\f*” 
 \b
 \m 
 \v 2 So I bought her for fifteen shekels of silver \f + \fr 3:2 \ft 15 shekels is approximately 6 ounces or 171 grams of silver.\f* and a homer and a lethech of barley.\f + \fr 3:2 \ft Or a homer and a half of barley; that is, a total of approximately 9.36 bushels or 330 liters (probably about 436 pounds or 198 kilograms of barley); LXX a homer of barley and a wineskin full of wine\f* 
@@ -169,7 +169,7 @@
 \b
 \m 
 \v 4 For the Israelites must live many days without king or prince, without sacrifice or sacred pillar, and without ephod or idol. 
-\v 5 Afterward, the people of Israel will return and seek the LORD their God and David their king. They will come trembling to the LORD and to His goodness in the last days. 
+\v 5 Afterward, the people of Israel will return and seek the LORD their God and \zwd David|id="Q41370" t="2"\zwd* their king. They will come trembling to the LORD and to His goodness in the last days. 
 \c 4
 \s1 God’s Case against His People
 \q1 
@@ -388,7 +388,7 @@
 \q2 rather than burnt offerings. 
 \b
 \q1 
-\v 7 But they, like Adam, have transgressed \f + \fr 6:7 \ft Or As at Adam, they have transgressed\f* the covenant; 
+\v 7 But they, like \zwd Adam|id="Q70899" t="2"\zwd*, have transgressed \f + \fr 6:7 \ft Or As at Adam, they have transgressed\f* the covenant; 
 \q2 there they were unfaithful to Me. 
 \q1 
 \v 8 Gilead is a city of evildoers, 
@@ -424,7 +424,7 @@
 \q2 they are before My face. 
 \b
 \q1 
-\v 3 They delight the king with their evil, 
+\v 3 They delight \zwd the king|\zwd* with their evil, 
 \q2 and the princes with their lies. 
 \q1 
 \v 4 They are all adulterers, 
@@ -689,7 +689,7 @@
 \q2 for it has been taken from them into exile. 
 \q1 
 \v 6 Yes, it will be carried to Assyria 
-\q2 as tribute to the great king.\f + \fr 10:6 \ft Or to King Jareb\f* 
+\q2 as tribute to \zwd the great king|\zwd*.\f + \fr 10:6 \ft Or to King Jareb\f* 
 \q1 Ephraim \f + \fr 10:6 \ft That is, the northern kingdom of Israel; also in verse 11\f* will be seized with shame; 
 \q2 Israel will be ashamed of its wooden idols.\f + \fr 10:6 \ft Or of its own counsel\f* 
 \q1 
@@ -818,10 +818,10 @@
 \b
 \q1 
 \v 2 The LORD has a charge to bring against Judah. 
-\q2 He will punish Jacob \f + \fr 12:2 \ft Jacob means he grasps the heel or he deceives.\f* according to his ways 
+\q2 He will punish \zwd Jacob|id="Q289957" t="2"\zwd* \f + \fr 12:2 \ft Jacob means he grasps the heel or he deceives.\f* according to his ways 
 \q2 and repay him according to his deeds. 
 \q1 
-\v 3 In the womb he grasped his brother’s heel, 
+\v 3 In the womb he grasped \zwd his brother|id="Q220822" t="2"\zwd*’s heel, 
 \q2 and in his vigor he wrestled with God. 
 \q1 
 \v 4 Yes, he struggled with the angel \f + \fr 12:4 \ft Or Angel\f* and prevailed; 
@@ -862,8 +862,8 @@
 \q2 in the furrows of the field. 
 \b
 \q1 
-\v 12 Jacob fled to the land of Aram \f + \fr 12:12 \ft That is, northwest Mesopotamia\f* 
-\q2 and Israel worked for a wife—
+\v 12 \zwd Jacob|id="Q289957" t="2"\zwd* fled to the land of Aram \f + \fr 12:12 \ft That is, northwest Mesopotamia\f* 
+\q2 and \zwd Israel|id="Q289957" t="2"\zwd* worked for a wife—
 \q2 for a wife he tended sheep. 
 \q1 
 \v 13 But by a prophet the LORD brought Israel out of Egypt, 
