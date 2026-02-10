@@ -14,7 +14,7 @@
 \v 4 And for a full 180 days he displayed the glorious riches of his kingdom and the magnificent splendor of his greatness.
 \b
 \m
-\v 5 \zdate|Q129165:P39:Q938153:P580+P180D+P2Y\*At the end of this time, in the garden court of the royal palace, \zwd the king|Q129165\zwd* held a seven-day feast for all the people in the citadel of Susa, from the least to the greatest.
+\v 5 \zdate|Q129165:P39:Q938153:P580+P2Y+P180D\*At the end of this time, in the garden court of the royal palace, \zwd the king|Q129165\zwd* held a seven-day feast for all the people in the citadel of Susa, from the least to the greatest.
 \v 6 Hangings of white and blue linen were fastened with cords of fine white and purple material to silver rings on the marble pillars. Gold and silver couches were arranged on a mosaic pavement of porphyry, marble, mother-of-pearl, and other costly stones.
 \b
 \m
@@ -26,7 +26,7 @@
 \v 9 \zwd Queen Vashti|\zwd* also gave a banquet for the women in the royal palace of \zwd King Xerxes|Q129165\zwd*.
 \b
 \m
-\v 10 \zdate|Q129165:P39:Q938153:P580+P186D+P2Y\*On the seventh day, when \zwd the king|Q129165\zwd*’s heart was merry with wine, he ordered the seven eunuchs who served him—\zwd Mehuman|Q1917635\zwd*, \zwd Biztha|\zwd*, \zwd Harbona|Q6578364\zwd*, \zwd Bigtha|Q859753\zwd*, \zwd Abagtha|Q304781\zwd*, \zwd Zethar|Q2274631\zwd*, and \zwd Carkas|\zwd*—
+\v 10 \zdate|Q129165:P39:Q938153:P580+P2Y+P186D\*On the seventh day, when \zwd the king|Q129165\zwd*’s heart was merry with wine, he ordered the seven eunuchs who served him—\zwd Mehuman|Q1917635\zwd*, \zwd Biztha|\zwd*, \zwd Harbona|Q6578364\zwd*, \zwd Bigtha|Q859753\zwd*, \zwd Abagtha|Q304781\zwd*, \zwd Zethar|Q2274631\zwd*, and \zwd Carkas|\zwd*—
 \v 11 to bring \zwd Queen Vashti|\zwd* before him, wearing her royal crown, to display her beauty to the people and officials. For she was beautiful to behold.
 \b
 \m
@@ -141,7 +141,7 @@
 \v 11 “Keep your money,” said \zwd the king|Q129165\zwd* to \zwd Haman|Q650680\zwd*. “These people are given to you to do with them as you please.” 
 \b
 \m 
-\v 12 \zdate|Q129165:P39:Q938153:P580+P11Y>Nisan+P12D\*On the thirteenth day of the first month, the royal scribes were summoned and the order was written exactly as \zwd Haman|Q650680\zwd* commanded the royal satraps, the governors of each province, and the officials of each people, in the script of each province and the language of every people. It was written in the name of \zwd King Xerxes|Q129165\zwd* and sealed with the royal signet ring. 
+\v 12 \zdate|Q129165:P39:Q938153:P580+P11Y>Nisan!13\*On the thirteenth day of the first month, the royal scribes were summoned and the order was written exactly as \zwd Haman|Q650680\zwd* commanded the royal satraps, the governors of each province, and the officials of each people, in the script of each province and the language of every people. It was written in the name of \zwd King Xerxes|Q129165\zwd* and sealed with the royal signet ring. 
 \b
 \m 
 \v 13 And the letters were sent by couriers to each of the royal provinces with the order to destroy, kill, and annihilate all the Jews—young and old, women and children—and to plunder their possessions on a single day, the thirteenth day of Adar, the twelfth month. 
@@ -326,7 +326,7 @@
 \v 8 Now you may write in the king’s name as you please regarding the Jews, and seal it with the royal signet ring. For a decree that is written in the name of \zwd the king|Q129165\zwd* and sealed with the royal signet ring cannot be revoked.” 
 \b
 \m 
-\v 9 \zdate|Q129165:P39:Q938153:P580+P11Y>Nisan>Sivan+P22D\*At once the royal scribes were summoned, and on the twenty-third day of the third month (the month of Sivan \f + \fr 8:9 \ft Sivan is the third month of the Hebrew lunar calendar, usually occurring within the months of May and June.\f*), they recorded all of \zwd Mordecai|Q1136380\zwd*’s orders to the Jews and to the satraps, governors, and princes of the 127 provinces from India to Cush \f + \fr 8:9 \ft That is, to the upper Nile region\f*—writing to each province in its own script, to every people in their own language, and to the Jews in their own script and language. 
+\v 9 \zdate|Q129165:P39:Q938153:P580+P11Y>Nisan>Sivan!23\*At once the royal scribes were summoned, and on the twenty-third day of the third month (the month of Sivan \f + \fr 8:9 \ft Sivan is the third month of the Hebrew lunar calendar, usually occurring within the months of May and June.\f*), they recorded all of \zwd Mordecai|Q1136380\zwd*’s orders to the Jews and to the satraps, governors, and princes of the 127 provinces from India to Cush \f + \fr 8:9 \ft That is, to the upper Nile region\f*—writing to each province in its own script, to every people in their own language, and to the Jews in their own script and language. 
 \b
 \m 
 \v 10 \zwd Mordecai|Q1136380\zwd* wrote in the name of \zwd King Xerxes|Q129165\zwd* and sealed it with the royal signet ring. He sent the documents by mounted couriers riding on swift horses bred from the royal mares. 
@@ -348,7 +348,7 @@
 \c 9
 \s1 The Jews Destroy Their Enemies
 \m 
-\v 1 \zdate|Q129165:P39:Q938153:P580+P11Y>Nisan>Sivan>Adar+P12D\*On the thirteenth day of the twelfth month, the month of Adar,\f + \fr 9:1 \ft Adar is the twelfth month of the Hebrew lunar calendar, usually occurring within the months of February and March; also in verses 15, 17, 19, and 21.\f* the king’s command and edict were to be executed. On this day the enemies of the Jews had hoped to overpower them, but their plan was overturned and the Jews overpowered those who hated them. 
+\v 1 \zdate|Q129165:P39:Q938153:P580+P11Y>Nisan>Sivan>Adar!13\*On the thirteenth day of the twelfth month, the month of Adar,\f + \fr 9:1 \ft Adar is the twelfth month of the Hebrew lunar calendar, usually occurring within the months of February and March; also in verses 15, 17, 19, and 21.\f* the king’s command and edict were to be executed. On this day the enemies of the Jews had hoped to overpower them, but their plan was overturned and the Jews overpowered those who hated them. 
 \v 2 In each of the provinces of \zwd King Xerxes|Q129165\zwd*, the Jews assembled in their cities to attack those who sought to harm them. No man could withstand them, because the fear of them had fallen upon all peoples. 
 \b
 \m 
@@ -373,7 +373,7 @@
 \b
 \m 
 \v 14 So \zwd the king|Q129165\zwd* commanded that this be done. An edict was issued in Susa, and they hanged \zwd the ten sons of \zwd Haman|id="Q650680" t="2"\zwd*|\zwd*. 
-\v 15 \zdate|Q129165:P39:Q938153:P580+P11Y>Nisan>Sivan>Adar+P13D\*On the fourteenth day of the month of Adar, the Jews in Susa came together again and put to death three hundred men there, but they did not lay a hand on the plunder. 
+\v 15 \zdate|Q129165:P39:Q938153:P580+P11Y>Nisan>Sivan>Adar!14\*On the fourteenth day of the month of Adar, the Jews in Susa came together again and put to death three hundred men there, but they did not lay a hand on the plunder. 
 \b
 \m 
 \v 16 The rest of the Jews in the royal provinces also assembled to defend themselves and rid themselves of their enemies. They killed 75,000 who hated them, but they did not lay a hand on the plunder. 
@@ -381,7 +381,7 @@
 \s1 The Feast of Purim Instituted
 \b
 \m 
-\v 18 \zdate|Q129165:P39:Q938153:P580+P11Y>Nisan>Sivan>Adar+P14D\*The Jews in Susa, however, had assembled on the thirteenth and the fourteenth days of the month. So they rested on the fifteenth day, making it a day of feasting and joy. 
+\v 18 \zdate|Q129165:P39:Q938153:P580+P11Y>Nisan>Sivan>Adar!15\*The Jews in Susa, however, had assembled on the thirteenth and the fourteenth days of the month. So they rested on the fifteenth day, making it a day of feasting and joy. 
 \v 19 This is why the rural Jews, who live in the villages, observe the fourteenth day of the month of Adar as a day of joy and feasting. It is a holiday for sending gifts to one another. 
 \b
 \m 

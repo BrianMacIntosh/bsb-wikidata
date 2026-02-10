@@ -40,7 +40,8 @@ It has one parameter **date**, which can be:
 
 **date** can also be made relative by appending one or more of the following:
 * A `+` and an ISO 8601 duration to add that relative duration (ex: `Q302:P570+P-40D`).
-* A `>` and a month name to advance to the next occurrence of that month.
+* A `>` and a month name to advance to the next occurrence of that month (ex: `Q302:P570>Nisan`).
+* A `>` and a month!day to advance to the next occurrence of that day of the month (ex: `Q302:P570>Nisan!12`).
 These will be evaluated in order.
 
 ## Attribution Notice
