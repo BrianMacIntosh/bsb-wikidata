@@ -18,7 +18,8 @@ function isZwdClose(lineNum, text, index)
 		{
 			const possibleParams = text.substring(index + 1, possibleClose)
 			if (possibleParams.match(/^id="(Q[0-9]+)?(,Q[0-9]+)*"( t="[123]")?$/)
-				|| possibleParams.match(/^(Q[0-9]+)?(,Q[0-9]+)*$/))
+				|| possibleParams.match(/^(Q[0-9]+)?(,Q[0-9]+)*$/)
+				|| possibleParams == 'nil' || possibleParams == 'id="nil"')
 			{
 				return possibleClose + 5
 			}
