@@ -114,21 +114,35 @@ function checkTags(resultBuffer, newText)
 	const parsed = parser.parse(newText)
 	for (var lineNum = 0; lineNum < parsed.length; ++lineNum)
 	{
-		recursiveCheckContents(resultBuffer, lineNum + 1, parsed[lineNum])
+		recursiveCheckContents(resultBuffer, lineNum + 1, [parsed[lineNum]])
 	}
 }
 
-function recursiveCheckContents(resultBuffer, lineNum, node)
+function recursiveCheckContents(resultBuffer, lineNum, nodeStack)
 {
+	const node = nodeStack.at(-1)
 	if (node.content)
 	{
 		for (const contentNode of node.content)
 		{
-			if (contentNode.tag == "zwd" && contentNode.params?.id === undefined && contentNode.params?._default === undefined)
+			if (contentNode.tag == "zwd")
 			{
-				resultBuffer.errors.push(`Missing 'id' attribute on 'zwd' tag (at line ${lineNum})`)
+				if (nodeStack[0].tagClass == "s")
+				{
+					resultBuffer.errors.push(`'zwd' shouldn't be inside 's' (at line ${lineNum})`)
+				}
+				else if (nodeStack.some((node) => node.tag == "f"))
+				{
+					resultBuffer.errors.push(`'zwd' shouldn't be inside 'f' (at line ${lineNum})`)
+				}
+				else if (contentNode.params?.id === undefined && contentNode.params?._default === undefined)
+				{
+					resultBuffer.errors.push(`Missing 'id' attribute on 'zwd' tag (at line ${lineNum})`)
+				}
 			}
-			recursiveCheckContents(resultBuffer, lineNum, contentNode)
+			nodeStack.push(contentNode)
+			recursiveCheckContents(resultBuffer, lineNum, nodeStack)
+			nodeStack.splice(nodeStack.length - 1, 1)
 		}
 	}
 }
