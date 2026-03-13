@@ -10,74 +10,74 @@
 \v 1 This is the record of the genealogy of \zwd Jesus Christ|id="Q302" t="2"\zwd*, the son of \zwd David|id="Q41370" t="2"\zwd*, the son of \zwd Abraham|id="Q9181" t="2"\zwd*:
 \b
 \q1
-\v 2 \zdate|Q671872\*\zwd Abraham|id="Q9181" t="2"\zwd* was the father of \zwd Isaac|id="Q671872" t="2"\zwd*,
-\q1 \zdate|Q289957\*\zwd Isaac|id="Q671872" t="2"\zwd* the father of \zwd Jacob|id="Q289957" t="2"\zwd*,
-\q1 \zdate|Q282220\*and \zwd Jacob|id="Q289957" t="2"\zwd* the father of \zwd Judah|id="Q282220" t="2"\zwd* and his brothers.
+\v 2 \zdate|Q671872:P569\*\zwd Abraham|id="Q9181" t="2"\zwd* was the father of \zwd Isaac|id="Q671872" t="2"\zwd*,
+\q1 \zdate|Q289957:P569\*\zwd Isaac|id="Q671872" t="2"\zwd* the father of \zwd Jacob|id="Q289957" t="2"\zwd*,
+\q1 \zdate|Q282220:P569\*and \zwd Jacob|id="Q289957" t="2"\zwd* the father of \zwd Judah|id="Q282220" t="2"\zwd* and his brothers.
 \b
 \q1
-\v 3 \zdate|Q1814684\*\zwd Judah|id="Q282220" t="2"\zwd* was the father of \zwd Perez|id="Q1814684" t="2"\zwd* and \zwd Zerah|id="Q3223065" t="2"\zwd* by \zwd Tamar|id="Q1030008" t="2"\zwd*,
-\q1 \zdate|Q4177234\*\zwd Perez|id="Q1814684" t="2"\zwd* the father of \zwd Hezron|id="Q4177234" t="2"\zwd*,
-\q1 \zdate|Q1824842\*and \zwd Hezron|id="Q4177234" t="2"\zwd* the father of \zwd Ram|id="Q1824842" t="2"\zwd*.\f + \fr 1:3 \ft Greek Aram, a variant of Ram; also in verse 4; see 1 Chronicles 2:9–10.\f*
+\v 3 \zdate|Q1814684:P569\*\zwd Judah|id="Q282220" t="2"\zwd* was the father of \zwd Perez|id="Q1814684" t="2"\zwd* and \zwd Zerah|id="Q3223065" t="2"\zwd* by \zwd Tamar|id="Q1030008" t="2"\zwd*,
+\q1 \zdate|Q4177234:P569\*\zwd Perez|id="Q1814684" t="2"\zwd* the father of \zwd Hezron|id="Q4177234" t="2"\zwd*,
+\q1 \zdate|Q1824842:P569\*and \zwd Hezron|id="Q4177234" t="2"\zwd* the father of \zwd Ram|id="Q1824842" t="2"\zwd*.\f + \fr 1:3 \ft Greek Aram, a variant of Ram; also in verse 4; see 1 Chronicles 2:9–10.\f*
 \b
 \q1
-\v 4 \zdate|Q2038223\*\zwd Ram|id="Q1824842" t="2"\zwd* was the father of \zwd Amminadab|id="Q2038223" t="2"\zwd*,
-\q1 \zdate|Q1784980\*\zwd Amminadab|id="Q2038223" t="2"\zwd* the father of \zwd Nahshon|id="Q1784980" t="2"\zwd*,
-\q1 \zdate|Q1771358\*and \zwd Nahshon|id="Q1784980" t="2"\zwd* the father of \zwd Salmon|id="Q1771358" t="2"\zwd*.
+\v 4 \zdate|Q2038223:P569\*\zwd Ram|id="Q1824842" t="2"\zwd* was the father of \zwd Amminadab|id="Q2038223" t="2"\zwd*,
+\q1 \zdate|Q1784980:P569\*\zwd Amminadab|id="Q2038223" t="2"\zwd* the father of \zwd Nahshon|id="Q1784980" t="2"\zwd*,
+\q1 \zdate|Q1771358:P569\*and \zwd Nahshon|id="Q1784980" t="2"\zwd* the father of \zwd Salmon|id="Q1771358" t="2"\zwd*.
 \b
 \q1
-\v 5 \zdate|Q212253\*\zwd Salmon|id="Q1771358" t="2"\zwd* was the father of \zwd Boaz|id="Q212253" t="2"\zwd* by \zwd Rahab|id="Q1135632" t="2"\zwd*,
-\q1 \zdate|Q1135791\*\zwd Boaz|id="Q212253" t="2"\zwd* the father of \zwd Obed|id="Q1135791" t="2"\zwd* by \zwd Ruth|id="Q1774982" t="2"\zwd*,
-\q1 \zdate|Q45090\*\zwd Obed|id="Q1135791" t="2"\zwd* the father of \zwd Jesse|id="Q45090" t="2"\zwd*,
+\v 5 \zdate|Q212253:P569\*\zwd Salmon|id="Q1771358" t="2"\zwd* was the father of \zwd Boaz|id="Q212253" t="2"\zwd* by \zwd Rahab|id="Q1135632" t="2"\zwd*,
+\q1 \zdate|Q1135791:P569\*\zwd Boaz|id="Q212253" t="2"\zwd* the father of \zwd Obed|id="Q1135791" t="2"\zwd* by \zwd Ruth|id="Q1774982" t="2"\zwd*,
+\q1 \zdate|Q45090:P569\*\zwd Obed|id="Q1135791" t="2"\zwd* the father of \zwd Jesse|id="Q45090" t="2"\zwd*,
 \q1
-\v 6 \zdate|Q41370\*and \zwd Jesse|id="Q45090" t="2"\zwd* the father of \zwd David|id="Q41370" t="2"\zwd* the king.
+\v 6 \zdate|Q41370:P569\*and \zwd Jesse|id="Q45090" t="2"\zwd* the father of \zwd David|id="Q41370" t="2"\zwd* the king.
 \b
 \m Next:
 \b
-\q1 \zdate|Q37085\*\zwd David|id="Q41370" t="2"\zwd* was the father of \zwd Solomon|id="Q37085" t="2"\zwd* by \zwd\zwd Uriah|id="Q71267" t="2"\zwd*’s wife|id="Q272277" t="2"\zwd*,
+\q1 \zdate|Q37085:P569\*\zwd David|id="Q41370" t="2"\zwd* was the father of \zwd Solomon|id="Q37085" t="2"\zwd* by \zwd\zwd Uriah|id="Q71267" t="2"\zwd*’s wife|id="Q272277" t="2"\zwd*,
 \q1
-\v 7 \zdate|Q211663\*\zwd Solomon|id="Q37085" t="2"\zwd* the father of \zwd Rehoboam|id="Q211663" t="2"\zwd*,
-\q1 \zdate|Q273517\*\zwd Rehoboam|id="Q211663" t="2"\zwd* the father of \zwd Abijah|id="Q273517" t="2"\zwd*,
-\q1 \zdate|Q313415\*and \zwd Abijah|id="Q273517" t="2"\zwd* the father of \zwd Asa|id="Q313415" t="2"\zwd*.\f + \fr 1:7 \ft Greek Asaph, a variant of Asa; also in verse 8; see 1 Chronicles 3:10.\f*
+\v 7 \zdate|Q211663:P569\*\zwd Solomon|id="Q37085" t="2"\zwd* the father of \zwd Rehoboam|id="Q211663" t="2"\zwd*,
+\q1 \zdate|Q273517:P569\*\zwd Rehoboam|id="Q211663" t="2"\zwd* the father of \zwd Abijah|id="Q273517" t="2"\zwd*,
+\q1 \zdate|Q313415:P569\*and \zwd Abijah|id="Q273517" t="2"\zwd* the father of \zwd Asa|id="Q313415" t="2"\zwd*.\f + \fr 1:7 \ft Greek Asaph, a variant of Asa; also in verse 8; see 1 Chronicles 3:10.\f*
 \b
 \q1
-\v 8 \zdate|Q126689\*\zwd Asa|id="Q313415" t="2"\zwd* was the father of \zwd Jehoshaphat|id="Q126689" t="2"\zwd*,
-\q1 \zdate|Q313215\*\zwd Jehoshaphat|id="Q126689" t="2"\zwd* the father of \zwd Joram|id="Q313215" t="2"\zwd*,
-\q1 \zdate|Q313216\*and \zwd Joram|id="Q313215" t="2"\zwd* the father of \zwd Uzziah|id="Q313216" t="2"\zwd*.
+\v 8 \zdate|Q126689:P569\*\zwd Asa|id="Q313415" t="2"\zwd* was the father of \zwd Jehoshaphat|id="Q126689" t="2"\zwd*,
+\q1 \zdate|Q313215:P569\*\zwd Jehoshaphat|id="Q126689" t="2"\zwd* the father of \zwd Joram|id="Q313215" t="2"\zwd*,
+\q1 \zdate|Q313216:P569\*and \zwd Joram|id="Q313215" t="2"\zwd* the father of \zwd Uzziah|id="Q313216" t="2"\zwd*.
 \b
 \q1
-\v 9 \zdate|Q109920\*\zwd Uzziah|id="Q313216" t="2"\zwd* was the father of \zwd Jotham|id="Q109920" t="2"\zwd*,
-\q1 \zdate|Q30914\*\zwd Jotham|id="Q109920" t="2"\zwd* the father of \zwd Ahaz|id="Q30914" t="2"\zwd*,
-\q1 \zdate|Q244912\*and \zwd Ahaz|id="Q30914" t="2"\zwd* the father of \zwd Hezekiah|id="Q244912" t="2"\zwd*.
+\v 9 \zdate|Q109920:P569\*\zwd Uzziah|id="Q313216" t="2"\zwd* was the father of \zwd Jotham|id="Q109920" t="2"\zwd*,
+\q1 \zdate|Q30914:P569\*\zwd Jotham|id="Q109920" t="2"\zwd* the father of \zwd Ahaz|id="Q30914" t="2"\zwd*,
+\q1 \zdate|Q244912:P569\*and \zwd Ahaz|id="Q30914" t="2"\zwd* the father of \zwd Hezekiah|id="Q244912" t="2"\zwd*.
 \b
 \q1
-\v 10 \zdate|Q156328\*\zwd Hezekiah|id="Q244912" t="2"\zwd* was the father of \zwd Manasseh|id="Q156328" t="2"\zwd*,
-\q1 \zdate|Q313423\*\zwd Manasseh|id="Q156328" t="2"\zwd* the father of \zwd Amon|id="Q313423" t="2"\zwd*,\f + \fr 1:10 \ft Greek Amōs, a variant spelling of Amon; twice in this verse; see 1 Chronicles 3:14.\f*
-\q1 \zdate|Q313228\*\zwd Amon|id="Q313423" t="2"\zwd* the father of \zwd Josiah|id="Q313228" t="2"\zwd*,
+\v 10 \zdate|Q156328:P569\*\zwd Hezekiah|id="Q244912" t="2"\zwd* was the father of \zwd Manasseh|id="Q156328" t="2"\zwd*,
+\q1 \zdate|Q313423:P569\*\zwd Manasseh|id="Q156328" t="2"\zwd* the father of \zwd Amon|id="Q313423" t="2"\zwd*,\f + \fr 1:10 \ft Greek Amōs, a variant spelling of Amon; twice in this verse; see 1 Chronicles 3:14.\f*
+\q1 \zdate|Q313228:P569\*\zwd Amon|id="Q313423" t="2"\zwd* the father of \zwd Josiah|id="Q313228" t="2"\zwd*,
 \q1
-\v 11 \zdate|Q319049\*and \zwd Josiah|id="Q313228" t="2"\zwd* the father of \zwd Jeconiah|id="Q319049" t="2"\zwd* and his brothers
+\v 11 \zdate|Q319049:P569\*and \zwd Josiah|id="Q313228" t="2"\zwd* the father of \zwd Jeconiah|id="Q319049" t="2"\zwd* and his brothers
 \q2 at the time of the exile to Babylon.
 \b
 \m
 \v 12 After the exile to Babylon:
 \b
-\q1 \zdate|Q2256348\*\zwd Jeconiah|id="Q319049" t="2"\zwd* was the father of \zwd Shealtiel|id="Q2256348" t="2"\zwd*,
-\q1 \zdate|Q320139\*\zwd Shealtiel|id="Q2256348" t="2"\zwd* the father of \zwd Zerubbabel|id="Q320139" t="2"\zwd*,
+\q1 \zdate|Q2256348:P569\*\zwd Jeconiah|id="Q319049" t="2"\zwd* was the father of \zwd Shealtiel|id="Q2256348" t="2"\zwd*,
+\q1 \zdate|Q320139:P569\*\zwd Shealtiel|id="Q2256348" t="2"\zwd* the father of \zwd Zerubbabel|id="Q320139" t="2"\zwd*,
 \q1
-\v 13 \zdate|Q321170\*\zwd Zerubbabel|id="Q320139" t="2"\zwd* the father of \zwd Abiud|id="Q321170" t="2"\zwd*,
-\q1 \zdate|Q12876922\*\zwd Abiud|id="Q321170" t="2"\zwd* the father of \zwd Eliakim|id="Q12876922" t="2"\zwd*,
-\q1 \zdate|Q11907447\*and \zwd Eliakim|id="Q12876922" t="2"\zwd* the father of \zwd Azor|id="Q11907447" t="2"\zwd*.
+\v 13 \zdate|Q321170:P569\*\zwd Zerubbabel|id="Q320139" t="2"\zwd* the father of \zwd Abiud|id="Q321170" t="2"\zwd*,
+\q1 \zdate|Q12876922:P569\*\zwd Abiud|id="Q321170" t="2"\zwd* the father of \zwd Eliakim|id="Q12876922" t="2"\zwd*,
+\q1 \zdate|Q11907447:P569\*and \zwd Eliakim|id="Q12876922" t="2"\zwd* the father of \zwd Azor|id="Q11907447" t="2"\zwd*.
 \b
 \q1
-\v 14 \zdate|Q18699268\*\zwd Azor|id="Q11907447" t="2"\zwd* was the father of \zwd Zadok|id="Q18699268" t="2"\zwd*,
-\q1 \zdate|Q11906322\*\zwd Zadok|id="Q18699268" t="2"\zwd* the father of \zwd Achim|id="Q11906322" t="2"\zwd*,
-\q1 \zdate|Q18699272\*and \zwd Achim|id="Q11906322" t="2"\zwd* the father of \zwd Eliud|id="Q18699272" t="2"\zwd*.
+\v 14 \zdate|Q18699268:P569\*\zwd Azor|id="Q11907447" t="2"\zwd* was the father of \zwd Zadok|id="Q18699268" t="2"\zwd*,
+\q1 \zdate|Q11906322:P569\*\zwd Zadok|id="Q18699268" t="2"\zwd* the father of \zwd Achim|id="Q11906322" t="2"\zwd*,
+\q1 \zdate|Q18699272:P569\*and \zwd Achim|id="Q11906322" t="2"\zwd* the father of \zwd Eliud|id="Q18699272" t="2"\zwd*.
 \b
 \q1
-\v 15 \zdate|Q18699300\*\zwd Eliud|id="Q18699272" t="2"\zwd* was the father of \zwd Eleazar|id="Q18699300" t="2"\zwd*,
-\q1 \zdate|Q11936164\*\zwd Eleazar|id="Q18699300" t="2"\zwd* the father of \zwd Matthan|id="Q11936164" t="2"\zwd*,
-\q1 \zdate|Q11927082\*\zwd Matthan|id="Q11936164" t="2"\zwd* the father of \zwd Jacob|id="Q11927082" t="2"\zwd*,
+\v 15 \zdate|Q18699300:P569\*\zwd Eliud|id="Q18699272" t="2"\zwd* was the father of \zwd Eleazar|id="Q18699300" t="2"\zwd*,
+\q1 \zdate|Q11936164:P569\*\zwd Eleazar|id="Q18699300" t="2"\zwd* the father of \zwd Matthan|id="Q11936164" t="2"\zwd*,
+\q1 \zdate|Q11927082:P569\*\zwd Matthan|id="Q11936164" t="2"\zwd* the father of \zwd Jacob|id="Q11927082" t="2"\zwd*,
 \q1
-\v 16 \zdate|Q128267\*and \zwd Jacob|id="Q11927082" t="2"\zwd* the father of \zwd Joseph|id="Q128267" t="2"\zwd*, \zwd the husband of \zwd Mary|id="Q345" t="2"\zwd*|id="Q128267" t="2"\zwd*,
+\v 16 \zdate|Q128267:P569\*and \zwd Jacob|id="Q11927082" t="2"\zwd* the father of \zwd Joseph|id="Q128267" t="2"\zwd*, \zwd the husband of \zwd Mary|id="Q345" t="2"\zwd*|id="Q128267" t="2"\zwd*,
 \q2 \zdate|Q302\*of whom was born \zwd Jesus|id="Q302" t="2"\zwd*, who is called Christ.
 \b
 \m

@@ -36,7 +36,6 @@ Currently, pronouns and people who cannot be linked to a name with reasonable in
 Markers look like `\zdate|date="Q302"\*`, `\zdate|Q302\*`, or `\zdate|min="Q302:P569" max="Q302:P570"\*`.
 
 It has one parameter **date**, which can be:
-* A Wikidata ID, indicating that the date is the date of that entity (e.g. `Q302`). Properties checked dates are, in order of priority, P585, P580, P569, or P571.
 * A Wikidata ID and property (e.g. `Q302:P570`), indicating that the date is the value of that property.
 * A Wikidata ID, property, property value, and qualifier property (e.g. `Q334739:P39:Q26835654:P580`), indicating that the date is the value of that qualifier.
 

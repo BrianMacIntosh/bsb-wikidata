@@ -43,7 +43,7 @@ function isZdate(lineNum, text, index)
 			const possibleParams = text.substring(index + 7, endIndex)
 			if (possibleParams == ''
 				|| possibleParams.match(/^date="([\-+][\-0-9]+)?"$/)
-				|| possibleParams.match(/^date="(Q[0-9]+(?::P[0-9]+)?(?::Q[0-9]+:P[0-9]+)?)([\+>](?:[A-Za-z]+(?:![0-9]+)?|P\-?[0-9A-Z]+)+)*"$/)
+				|| possibleParams.match(/^date="(Q[0-9]+:P[0-9]+(?::Q[0-9]+:P[0-9]+)?)([\+>](?:[A-Za-z]+(?:![0-9]+)?|P\-?[0-9A-Z]+)+)*"$/)
 				|| possibleParams.match(/^min="(Q[0-9]+(?::P[0-9]+)?(?::Q[0-9]+:P[0-9]+)?)([\+>](?:[A-Za-z]+(?:![0-9]+)?|P\-?[0-9A-Z]+)+)*" max="(Q[0-9]+(?::P[0-9]+)?(?::Q[0-9]+:P[0-9]+)?)([\+>](?:[A-Za-z]+(?:![0-9]+)?|P\-?[0-9A-Z]+)+)*"$/)
 				|| possibleParams.match(/^[\-+][\-0-9]+$/)
 				|| possibleParams.match(/^(Q[0-9]+(?::P[0-9]+)?(?::Q[0-9]+:P[0-9]+)?)([\+>](?:[A-Za-z]+(?:![0-9]+)?|P\-?[0-9A-Z]+)+)*$/))
