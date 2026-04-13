@@ -1,8 +1,8 @@
 Book,zwd-ids,zwd-types,zdate
 GEN,all,all,all
-EXO,all,all,
-LEV,all,all,
-NUM,all,,
+EXO,all,all,all
+LEV,all,all,all
+NUM,all,,all
 DEU,all,all,
 JOS,all,all,
 JDG,notable,all,
@@ -13,7 +13,7 @@ RUT,,,
 2KI,notable,all,all
 1CH,,,
 2CH,,,
-EZR,notable,,
+EZR,notable,,all
 NEH,notable,all,
 EST,notable,all,all
 JOB,,,
