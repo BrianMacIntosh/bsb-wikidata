@@ -24,7 +24,7 @@
 \v 5 The descendants of \zwd Jacob|id="Q289957" t="2"\zwd* numbered seventy \f + \fr 1:5 \ft MT (see also Genesis 46:27); DSS and LXX (see also Acts 7:14) seventy-five\f* in all, including \zwd Joseph|id="Q145746" t="2"\zwd*, who was already in Egypt.
 \b
 \m
-\v 6 Now \zwd Joseph|id="Q145746" t="2"\zwd* and all his brothers and all that generation died,
+\v 6 \zdate|Q145746:P570\*Now \zwd Joseph|id="Q145746" t="2"\zwd* and all his brothers and all that generation died,
 \v 7 but the Israelites were fruitful and increased rapidly; they multiplied and became exceedingly numerous, so that the land was filled with them.
 \s1 Oppression by a New King
 \r (Acts 7:15–19)
@@ -64,10 +64,10 @@
 \r (Acts 7:20–22; Hebrews 11:23)
 \m 
 \v 1 Now \zwd a man of the house of \zwd Levi|id="Q215512" t="2"\zwd*|Q477527\zwd* married \zwd a Levite woman|Q594805\zwd*, 
-\v 2 and she conceived and gave birth to \zwd a son|Q9077\zwd*. When she saw that he was a beautiful child, she hid him for three months. 
+\v 2 and she conceived and \zdate|Q9077:P569\*gave birth to \zwd a son|Q9077\zwd*. When she saw that he was a beautiful child, she hid him for three months. 
 \b
 \m 
-\v 3 But when she could no longer hide him, she got him a papyrus basket \f + \fr 2:3 \ft The Hebrew can also mean ark; also in verse 5; see Genesis 6:14.\f* and coated it with tar and pitch. Then she placed \zwd the child|Q9077\zwd* in the basket and set it among the reeds along the bank of the Nile. 
+\v 3 \zdate|Q9077:P569+P3M\*But when she could no longer hide him, she got him a papyrus basket \f + \fr 2:3 \ft The Hebrew can also mean ark; also in verse 5; see Genesis 6:14.\f* and coated it with tar and pitch. Then she placed \zwd the child|Q9077\zwd* in the basket and set it among the reeds along the bank of the Nile. 
 \v 4 And \zwd his sister|\zwd* stood at a distance to see what would happen to him. 
 \b
 \m 
@@ -118,7 +118,7 @@
 \b
 \m 
 \v 21 \zwd Moses|Q9077\zwd* agreed to stay with \zwd the man|Q62788\zwd*, and he gave his daughter \zwd Zipporah|Q205523\zwd* to \zwd Moses|Q9077\zwd* in marriage. 
-\v 22 And she gave birth to \zwd a son|Q1514983\zwd*, and \zwd Moses|Q9077\zwd* named him \zwd Gershom|Q1514983\zwd*,\f + \fr 2:22 \ft Gershom sounds like the Hebrew for foreigner.\f* saying, “I have become a foreigner in a foreign land.” 
+\v 22 \zdate|Q1514983:P569\*And she gave birth to \zwd a son|Q1514983\zwd*, and \zwd Moses|Q9077\zwd* named him \zwd Gershom|Q1514983\zwd*,\f + \fr 2:22 \ft Gershom sounds like the Hebrew for foreigner.\f* saying, “I have become a foreigner in a foreign land.” 
 \s1 God Hears the Cry of the Israelites
 \b
 \m 
@@ -414,7 +414,7 @@
 \b
 \m 
 \v 6 So \zwd Moses|Q9077\zwd* and \zwd Aaron|Q51676\zwd* did just as the LORD had commanded them. 
-\v 7 \zwd Moses|Q9077\zwd* was eighty years old and \zwd Aaron|Q51676\zwd* was eighty-three when they spoke to \zwd Pharaoh|\zwd*. 
+\v 7 \zdate|Q9077:P569+P80Y\*\zwd Moses|Q9077\zwd* was eighty years old and \zwd Aaron|Q51676\zwd* was eighty-three when they spoke to \zwd Pharaoh|\zwd*. 
 \s1 Aaron’s Staff
 \b
 \m 
@@ -770,7 +770,7 @@
 \s1 The Exodus Begins
 \b
 \m 
-\v 31 Then \zwd Pharaoh|\zwd* summoned \zwd Moses|Q9077\zwd* and \zwd Aaron|Q51676\zwd* by night and said, “Get up, leave my people, both you and the Israelites! Go, worship the LORD as you have requested. 
+\v 31 \zdate|Q1290338:P585\*Then \zwd Pharaoh|\zwd* summoned \zwd Moses|Q9077\zwd* and \zwd Aaron|Q51676\zwd* by night and said, “Get up, leave my people, both you and the Israelites! Go, worship the LORD as you have requested. 
 \v 32 Take your flocks and herds as well, just as you have said, and depart! And bless me also.” 
 \b
 \m 
@@ -1039,7 +1039,7 @@
 \c 16
 \s1 Manna and Quail from Heaven
 \m 
-\v 1 On the fifteenth day of the second month after they had left the land of Egypt, the whole congregation of Israel set out from Elim and came to the Desert of Sin,\f + \fr 16:1 \ft The geographical name Sin is related to Sinai and should not be mistaken for the English word sin.\f* which is between Elim and Sinai. 
+\v 1 \zdate|Q1290338:P585>Iyyar!15\*On the fifteenth day of the second month after they had left the land of Egypt, the whole congregation of Israel set out from Elim and came to the Desert of Sin,\f + \fr 16:1 \ft The geographical name Sin is related to Sinai and should not be mistaken for the English word sin.\f* which is between Elim and Sinai. 
 \v 2 And there in the desert the whole congregation of Israel grumbled against \zwd Moses|Q9077\zwd* and \zwd Aaron|Q51676\zwd*. 
 \v 3 “If only we had died by the LORD’s hand in the land of Egypt!” they said. “There we sat by pots of meat and ate our fill of bread, but you have brought us into this desert to starve this whole assembly to death!” 
 \b
@@ -1086,11 +1086,11 @@
 \r (Genesis 2:1–3; Hebrews 4:1–11)
 \b
 \m 
-\v 22 On the sixth day, they gathered twice as much food—two omers per person \f + \fr 16:22 \ft 2 omers is approximately 4 dry quarts or 4.4 liters per person.\f*—and all the leaders of the congregation came and reported this to \zwd Moses|Q9077\zwd*. 
+\v 22 \zdate|Q1290338:P585>Iyyar!15+P6D\*On the sixth day, they gathered twice as much food—two omers per person \f + \fr 16:22 \ft 2 omers is approximately 4 dry quarts or 4.4 liters per person.\f*—and all the leaders of the congregation came and reported this to \zwd Moses|Q9077\zwd*. 
 \v 23 He told them, “This is what the LORD has said: ‘Tomorrow is to be a day of complete rest, a holy Sabbath to the LORD. So bake what you want to bake, and boil what you want to boil. Then set aside whatever remains and keep it until morning.’” 
 \b
 \m 
-\v 24 So they set it aside until morning as \zwd Moses|Q9077\zwd* had commanded, and it did not smell or contain any maggots. 
+\v 24 \zdate|Q1290338:P585>Iyyar!15+P7D\*So they set it aside until morning as \zwd Moses|Q9077\zwd* had commanded, and it did not smell or contain any maggots. 
 \v 25 “Eat it today,” \zwd Moses|Q9077\zwd* said, “because today is a Sabbath to the LORD. Today you will not find anything in the field. 
 \v 26 For six days you may gather, but on the seventh day, the Sabbath, it will not be there.” 
 \b
@@ -1220,7 +1220,7 @@
 \c 19
 \s1 Israel at Mount Sinai
 \m 
-\v 1 In the third month, on the same day of the month \f + \fr 19:1 \ft Hebrew In the third month, on the same day; that is, two months after leaving Egypt; see Numbers 33:3.\f* that the Israelites had left the land of Egypt, they came to the Wilderness of Sinai. 
+\v 1 \zdate|Q1290338:P585+P3M\*In the third month, on the same day of the month \f + \fr 19:1 \ft Hebrew In the third month, on the same day; that is, two months after leaving Egypt; see Numbers 33:3.\f* that the Israelites had left the land of Egypt, they came to the Wilderness of Sinai. 
 \v 2 After they had set out from Rephidim, they entered the Wilderness of Sinai, and Israel camped there in front of the mountain. 
 \b
 \m 
@@ -1256,7 +1256,7 @@
 \s1 The LORD Visits Sinai
 \b
 \m 
-\v 16 On the third day, when morning came, there was thunder and lightning. A thick cloud was upon the mountain, and a very loud blast of the ram’s horn went out, so that all the people in the camp trembled. 
+\v 16 \zdate|Q1290338:P585+P3M3D\*On the third day, when morning came, there was thunder and lightning. A thick cloud was upon the mountain, and a very loud blast of the ram’s horn went out, so that all the people in the camp trembled. 
 \v 17 Then \zwd Moses|Q9077\zwd* brought the people out of the camp to meet with God, and they stood at the foot of the mountain. 
 \b
 \m 
@@ -2840,7 +2840,7 @@
 \b
 \m 
 \v 16 \zwd Moses|Q9077\zwd* did everything just as the LORD had commanded him. 
-\v 17 So the tabernacle was set up on the first day of the first month of the second year. 
+\v 17 \zdate|Q1290338:P585+P2Y>Nisan!1\*So the tabernacle was set up on the first day of the first month of the second year. 
 \b
 \m 
 \v 18 When \zwd Moses|Q9077\zwd* set up the tabernacle, he laid its bases, positioned its frames, inserted its crossbars, and set up its posts. 
