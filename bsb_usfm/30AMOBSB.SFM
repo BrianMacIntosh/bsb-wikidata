@@ -7,7 +7,7 @@
 \s1 Judgment on Israel’s Neighbors
 \r (Jeremiah 12:14–17)
 \m
-\v 1 \zdate|min="Q313216:P39:Q10550167:P580" max="Q313232:P39:Q26835654:P582"\*These are the words of Amos, who was among the sheepherders \f + \fr 1:1 \ft Or sheep breeders\f* of Tekoa—what he saw concerning Israel two years \f + \fr 1:1 \ft Or during the two years\f* before the earthquake, in the days when Uzziah was king of Judah and Jeroboam son of Jehoash \f + \fr 1:1 \ft Hebrew Joash, a variant of Jehoash\f* was king of Israel.
+\v 1 \zdate|min="Q313216:P39:Q10550167:P580" max="Q313232:P39:Q26835654:P582"\*These are the words of \zwd Amos|Q213850\zwd*, who was among the sheepherders \f + \fr 1:1 \ft Or sheep breeders\f* of Tekoa—what he saw concerning Israel two years \f + \fr 1:1 \ft Or during the two years\f* before the earthquake, in the days when \zwd Uzziah|id="Q313216" t="2"\zwd* was king of Judah and \zwd Jeroboam son of \zwd Jehoash|id="Q334736" t="2"\zwd*|id="Q313232" t="2"\zwd* \f + \fr 1:1 \ft Hebrew Joash, a variant of Jehoash\f* was king of Israel.
 \v 2 He said:
 \b
 \q1 “The LORD roars from Zion
@@ -23,8 +23,8 @@
 \q1 because they threshed Gilead
 \q2 with sledges of iron.
 \q1
-\v 4 So I will send fire upon the house of Hazael
-\q2 to consume the citadels of Ben-hadad.
+\v 4 So I will send fire upon the house of \zwd Hazael|id="Q127170" t="2"\zwd*
+\q2 to consume the citadels of \zwd Ben-hadad|id="Q816398" t="2"\zwd*.
 \q1
 \v 5 I will break down the gates of Damascus;
 \q2 I will cut off the ruler \f + \fr 1:5 \ft Or the inhabitants\f* from the Valley of Aven \f + \fr 1:5 \ft Aven means wickedness.\f*
@@ -43,7 +43,7 @@
 \v 7 So I will send fire upon the walls of Gaza,
 \q2 to consume its citadels.
 \q1
-\v 8 I will cut off the ruler of Ashdod
+\v 8 I will cut off \zwd the ruler of Ashdod|\zwd*
 \q2 and the one who wields the scepter in Ashkelon.
 \q1 I will turn My hand against Ekron,
 \q2 and the remnant of the Philistines will perish,”
@@ -86,8 +86,8 @@
 \q1 amid war cries on the day of battle
 \q2 and a violent wind on the day of tempest.
 \q1
-\v 15 Their king will go into exile \f + \fr 1:15 \ft Possibly Milcom will go into exile; Milcom, also called Molech, was god of the Ammonites; see Leviticus 18:21 and 1 Kings 11:7.\f*—
-\q2 he and his princes together,”
+\v 15 \zwd Their king|\zwd* will go into exile \f + \fr 1:15 \ft Possibly Milcom will go into exile; Milcom, also called Molech, was god of the Ammonites; see Leviticus 18:21 and 1 Kings 11:7.\f*—
+\q2 he and \zwd his princes|\zwd* together,”
 \qr says the LORD.
 \c 2
 \s1 Judgment on Moab, Judah, and Israel
@@ -96,14 +96,14 @@
 \q1 “For three transgressions of Moab, even four, 
 \q2 I will not revoke My judgment,\f + \fr 2:1 \ft Or I will not revoke the punishment; Hebrew I will not revoke it; also in verses 4 and 6\f* 
 \q1 because he burned to lime 
-\q2 the bones of Edom’s king. 
+\q2 the bones of \zwd Edom’s king|\zwd*. 
 \q1 
 \v 2 So I will send fire against Moab 
 \q2 to consume the citadels of Kerioth. 
 \q1 Moab will die in tumult, 
 \q2 amid war cries and the sound of the ram’s horn. 
 \q1 
-\v 3 I will cut off the ruler of Moab 
+\v 3 I will cut off \zwd the ruler of Moab|\zwd* 
 \q2 and kill all the officials with him,” 
 \qr says the LORD. 
 \b
@@ -246,7 +246,7 @@
 \q2 or the cushion of a couch.\f + \fr 3:12 \ft Or so will the Israelites be snatched away, those who sit in Samaria on the edge of their beds and in Damascus on their couches\f* 
 \b
 \q1 
-\v 13 Hear and testify against the house of Jacob, 
+\v 13 Hear and testify against the house of \zwd Jacob|id="Q289957" t="2"\zwd*, 
 \q2 declares the Lord GOD, the God of Hosts. 
 \q1 
 \v 14 On the day I punish Israel for their transgressions, 
@@ -372,7 +372,7 @@
 \q2 and Bethel will come to nothing.\f + \fr 5:5 \ft Hebrew to Aven, a reference to Beth-aven, a derogatory term for Bethel; see Hosea 4:15.\f* 
 \q1 
 \v 6 Seek the LORD and live, 
-\q2 or He will sweep like fire through the house of Joseph; 
+\q2 or He will sweep like fire through the house of \zwd Joseph|id="Q145746" t="2"\zwd*; 
 \q1 it will devour everything, 
 \q2 with no one at Bethel to extinguish it. 
 \b
@@ -420,7 +420,7 @@
 \v 15 Hate evil and love good; 
 \q2 establish justice in the gate. 
 \q1 Perhaps the LORD, the God of Hosts, 
-\q2 will be gracious to the remnant of Joseph.” 
+\q2 will be gracious to the remnant of \zwd Joseph|id="Q145746" t="2"\zwd*.” 
 \s1 Woe to Rebellious Israel
 \r (Acts 7:39–43)
 \b
@@ -498,13 +498,13 @@
 \q1 You dine on lambs from the flock 
 \q2 and calves from the stall. 
 \q1 
-\v 5 You improvise songs on the harp like David 
+\v 5 You improvise songs on the harp like \zwd David|id="Q41370" t="2"\zwd* 
 \q2 and invent your own musical instruments. 
 \q1 
 \v 6 You drink wine by the bowlful 
 \q2 and anoint yourselves with the finest oils, 
 \q1 but you fail to grieve 
-\q2 over the ruin of Joseph. 
+\q2 over the ruin of \zwd Joseph|id="Q145746" t="3"\zwd*. 
 \b
 \q1 
 \v 7 Therefore, you will now go into exile 
@@ -516,7 +516,7 @@
 \m 
 \v 8 The Lord GOD has sworn by Himself—the LORD, the God of Hosts, has declared: 
 \b
-\q1 “I abhor Jacob’s pride 
+\q1 “I abhor \zwd Jacob|id="Q289957" t="3"\zwd*’s pride 
 \q2 and detest his citadels, 
 \q1 so I will deliver up the city 
 \q2 and everything in it.” 
@@ -553,21 +553,21 @@
 \r (Joel 2:1–11)
 \m 
 \v 1 This is what the Lord GOD showed me: He was preparing swarms of locusts just after the king’s harvest, as the late spring crop was coming up.\f + \fr 7:1 \ft LXX A swarm of locusts coming from the east; and, behold, one grasshopper, king Gog.\f* 
-\v 2 And when the locusts had eaten every green plant in the land, I said, “Lord GOD, please forgive! How will Jacob survive, since he is so small?” 
+\v 2 And when the locusts had eaten every green plant in the land, I said, “Lord GOD, please forgive! How will \zwd Jacob|id="Q289957" t="3"\zwd* survive, since he is so small?” 
 \b
 \m 
 \v 3 So the LORD relented from this plan. “It will not happen,” He said. 
 \b
 \m 
 \v 4 This is what the Lord GOD showed me: The Lord GOD was calling for judgment by fire. It consumed the great deep and devoured the land. 
-\v 5 Then I said, “Lord GOD, please stop! How will Jacob survive, since he is so small?” 
+\v 5 Then I said, “Lord GOD, please stop! How will \zwd Jacob|id="Q289957" t="3"\zwd* survive, since he is so small?” 
 \b
 \m 
 \v 6 So the LORD relented from this plan. “It will not happen either,” said the Lord GOD. 
 \b
 \m 
 \v 7 This is what He showed me: Behold, the Lord was standing by a wall true to plumb, with a plumb line in His hand. 
-\v 8 “Amos, what do you see?” asked the LORD. 
+\v 8 “\zwd Amos|Q213850\zwd*, what do you see?” asked the LORD. 
 \b
 \m “A plumb line,” I replied. 
 \b
@@ -576,36 +576,36 @@
 \q1 
 \v 9 The high places of Isaac will be deserted, 
 \q2 and the sanctuaries of Israel will be laid waste; 
-\q1 and I will rise up against the house of Jeroboam 
+\q1 and I will rise up against the house of \zwd Jeroboam|id="Q313232" t="2"\zwd* 
 \q2 with My sword.” 
 \s1 Amaziah Accuses Amos
 \b
 \m 
-\v 10 Then Amaziah the priest of Bethel sent word to Jeroboam king of Israel, saying, “Amos has conspired against you in the midst of the house of Israel. The land cannot bear all his words, 
-\v 11 for this is what Amos has said: 
+\v 10 Then \zwd Amaziah the priest of Bethel|Q11957664\zwd* sent word to \zwd Jeroboam king of Israel|Q313232\zwd*, saying, “\zwd Amos|Q213850\zwd* has conspired against you in the midst of the house of Israel. The land cannot bear all his words, 
+\v 11 for this is what \zwd Amos|Q213850\zwd* has said: 
 \b
-\q1 ‘Jeroboam will die by the sword, 
+\q1 ‘\zwd Jeroboam|Q313232\zwd* will die by the sword, 
 \q2 and Israel will surely go into exile, 
 \q2 away from their homeland.’” 
 \b
 \m 
-\v 12 And Amaziah said to Amos, “Go away, you seer! Flee to the land of Judah; earn your bread there and do your prophesying there. 
-\v 13 But never prophesy at Bethel again, because it is the sanctuary of the king and the temple of the kingdom.” 
+\v 12 And \zwd Amaziah|Q11957664\zwd* said to \zwd Amos|Q213850\zwd*, “Go away, \zwd you seer|Q213850\zwd*! Flee to the land of Judah; earn your bread there and do your prophesying there. 
+\v 13 But never prophesy at Bethel again, because it is the sanctuary of \zwd the king|Q313232\zwd* and the temple of the kingdom.” 
 \b
 \m 
-\v 14 “I was not \f + \fr 7:14 \ft Or I am not\f* a prophet,” Amos replied, “nor was I the son \f + \fr 7:14 \ft Or nor am I the son\f* of a prophet; rather, I was a herdsman and a tender of sycamore-fig trees. 
+\v 14 “I was not \f + \fr 7:14 \ft Or I am not\f* a prophet,” \zwd Amos|Q213850\zwd* replied, “nor was I the son \f + \fr 7:14 \ft Or nor am I the son\f* of a prophet; rather, I was a herdsman and a tender of sycamore-fig trees. 
 \v 15 But the LORD took me from following the flock and said to me, ‘Go, prophesy to My people Israel.’ 
 \b
 \m 
 \v 16 Now, therefore, hear the word of the LORD. You say: 
 \b
 \q1 ‘Do not prophesy against Israel; 
-\q2 do not preach against the house of Isaac.’ 
+\q2 do not preach against the house of \zwd Isaac|id="Q671872" t="2"\zwd*.’ 
 \b
 \m 
 \v 17 Therefore this is what the LORD says: 
 \b
-\q1 ‘Your wife will become a prostitute in the city, 
+\q1 ‘\zwd Your wife|\zwd* will become a prostitute in the city, 
 \q2 and your sons and daughters will fall by the sword. 
 \q1 Your land will be divided by a measuring line, 
 \q2 and you yourself will die on pagan \f + \fr 7:17 \ft Hebrew unclean\f* soil. 
@@ -617,7 +617,7 @@
 \v 1 This is what the Lord GOD showed me: I saw a basket of summer fruit.\f + \fr 8:1 \ft Or ripe fruit; also in verse 2\f* 
 \b
 \m 
-\v 2 “Amos, what do you see?” He asked. 
+\v 2 “\zwd Amos|Q213850\zwd*, what do you see?” He asked. 
 \b
 \m “A basket of summer fruit,” I replied. 
 \b
@@ -641,7 +641,7 @@
 \q2 and the needy for a pair of sandals, 
 \q2 selling even the chaff with the wheat!” 
 \m 
-\v 7 The LORD has sworn by the Pride of Jacob: 
+\v 7 The LORD has sworn by the Pride of \zwd Jacob|id="Q289957" t="2"\zwd*: 
 \b
 \q1 “I will never forget any of their deeds. 
 \b
@@ -682,7 +682,7 @@
 \q2 will faint from thirst. 
 \q1 
 \v 14 Those who swear by the guilt of Samaria 
-\q2 and say, ‘As surely as your god lives, O Dan,’ 
+\q2 and say, ‘As surely as your god lives, O \zwd Dan|id="Q550869" t="3"\zwd*,’ 
 \q1 or, ‘As surely as the way \f + \fr 8:14 \ft Or the god\f* of Beersheba lives’—
 \q2 they will fall, never to rise again.” 
 \c 9
@@ -727,9 +727,9 @@
 \b
 \q1 
 \v 7 “Are you not like the Cushites \f + \fr 9:7 \ft That is, people from the upper Nile region\f* to Me, 
-\q2 O children of Israel?” 
+\q2 O children of \zwd Israel|id="Q289957" t="2"\zwd*?” 
 \qr declares the LORD. 
-\q1 “Did I not bring Israel 
+\q1 “Did I not bring \zwd Israel|id="Q289957" t="3"\zwd* 
 \q2 up from the land of Egypt, 
 \q1 the Philistines from Caphtor,\f + \fr 9:7 \ft That is, Crete\f* 
 \q2 and the Arameans from Kir? 
@@ -737,7 +737,7 @@
 \v 8 Surely the eyes of the Lord GOD 
 \q2 are on the sinful kingdom, 
 \q1 and I will destroy it from the face of the earth. 
-\q2 Yet I will not utterly destroy the house of Jacob,” 
+\q2 Yet I will not utterly destroy the house of \zwd Jacob|id="Q289957" t="2"\zwd*,” 
 \qr declares the LORD. 
 \q1 
 \v 9 “For surely I will give the command, 
@@ -755,7 +755,7 @@
 \b
 \q1 
 \v 11 “In that day I will restore 
-\q2 the fallen tent of David. 
+\q2 the fallen tent of \zwd David|id="Q41370" t="2"\zwd*. 
 \q1 I will repair its gaps, restore its ruins, 
 \q2 and rebuild it as in the days of old, 
 \q1 
