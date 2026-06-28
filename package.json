@@ -6,6 +6,7 @@
   "scripts": {
     "validate": "node tools/validator/index.js",
     "badges": "node tools/badges/index.js",
+    "generate": "node tools/generate/generate.js",
     "build-validator": "webpack -c ./tools/validator/webpack.config.js",
     "build-validator-prod": "webpack --mode=production -c ./tools/validator/webpack.config.js"
   },
