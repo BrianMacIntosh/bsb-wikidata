@@ -7,18 +7,18 @@
 \s1 From Adam to Abraham
 \r (Genesis 5:1–32; Genesis 10:1–32; Genesis 11:10–26)
 \m
-\v 1 \zwd Adam|id="Q70899" t="2"\zwd*, \zwd Seth|id="Q107626" t="2"\zwd*, \zwd Enosh|id="Q682531" t="2"\zwd*,
+\v 1 \zdate|Q70899:P569\*\zwd Adam|id="Q70899" t="2"\zwd*, \zdate|Q107626:P569\*\zwd Seth|id="Q107626" t="2"\zwd*, \zdate|Q682531:P569\*\zwd Enosh|id="Q682531" t="2"\zwd*,
 \b
 \m
-\v 2 \zwd Kenan|id="Q844433" t="2"\zwd*, \zwd Mahalalel|id="Q10297002" t="2"\zwd*, \zwd Jared|id="Q927410" t="2"\zwd*,
+\v 2 \zdate|Q844433:P569\*\zwd Kenan|id="Q844433" t="2"\zwd*, \zdate|Q10297002:P569\*\zwd Mahalalel|id="Q10297002" t="2"\zwd*, \zdate|Q927410:P569\*\zwd Jared|id="Q927410" t="2"\zwd*,
 \b
 \m
-\v 3 \zwd Enoch|id="Q213027" t="2"\zwd*, \zwd Methuselah|id="Q156290" t="2"\zwd*, \zwd Lamech|id="Q10921342" t="2"\zwd*, \zwd Noah|id="Q81422" t="2"\zwd*.
+\v 3 \zdate|Q213027:P569\*\zwd Enoch|id="Q213027" t="2"\zwd*, \zdate|Q156290:P569\*\zwd Methuselah|id="Q156290" t="2"\zwd*, \zdate|Q10921342:P569\*\zwd Lamech|id="Q10921342" t="2"\zwd*, \zdate|Q81422:P569\*\zwd Noah|id="Q81422" t="2"\zwd*.
 \b
 \m
 \v 4 The sons of \zwd Noah|id="Q81422" t="2"\zwd*:\f + \fr 1:4 \ft LXX; Hebrew does not include The sons of Noah:; see Genesis 5:32.\f*
 \b
-\li1 \zwd Shem|id="Q200902" t="2"\zwd*, \zwd Ham|id="Q229702" t="2"\zwd*, and \zwd Japheth|id="Q200637" t="2"\zwd*.
+\li1 \zdate|Q200902:P569\*\zwd Shem|id="Q200902" t="2"\zwd*, \zdate|Q229702:P569\*\zwd Ham|id="Q229702" t="2"\zwd*, and \zdate|Q200637:P569\*\zwd Japheth|id="Q200637" t="2"\zwd*.
 \b
 \li1
 \v 5 The sons of \zwd Japheth|id="Q200637" t="2"\zwd*:
@@ -82,7 +82,7 @@
 \r (Genesis 25:12–18)
 \b
 \m
-\v 28 The sons of \zwd Abraham|id="Q9181" t="2"\zwd* were \zwd Isaac|id="Q671872" t="2"\zwd* and \zwd Ishmael|id="Q183403" t="2"\zwd*.
+\v 28 \zdate|Q671872:P569\*The sons of \zwd Abraham|id="Q9181" t="2"\zwd* were \zwd Isaac|id="Q671872" t="2"\zwd* and \zwd Ishmael|id="Q183403" t="2"\zwd*.
 \v 29 These are their genealogies:
 \b
 \li1 \zwd Nebaioth the firstborn of \zwd Ishmael|id="Q183403" t="2"\zwd*|id="Q3773487" t="2"\zwd*, then \zwd Kedar|id="Q21087985" t="2"\zwd*, \zwd Adbeel|id="Q24238724" t="2"\zwd*, \zwd Mibsam|id="Q14925213" t="2"\zwd*,
@@ -106,7 +106,7 @@
 \li2 All of these were \zwd Keturah|id="Q908531" t="2"\zwd*’s sons.
 \b
 \li1
-\v 34 \zwd Abraham|id="Q9181" t="2"\zwd* was the father of \zwd Isaac|id="Q671872" t="2"\zwd*. The sons of \zwd Isaac|id="Q671872" t="2"\zwd*:
+\v 34 \zwd Abraham|id="Q9181" t="2"\zwd* was the father of \zwd Isaac|id="Q671872" t="2"\zwd*. \zdate|Q220822:P569\*The sons of \zwd Isaac|id="Q671872" t="2"\zwd*:
 \b
 \li2 \zwd Esau|id="Q220822" t="2"\zwd* and \zwd Israel|id="Q289957" t="2"\zwd*.
 \s1 The Descendants of Esau
@@ -187,7 +187,7 @@
 \s1 The Sons of Israel
 \r (Genesis 35:21–26; Genesis 38:1–30)
 \m 
-\v 1 These were the sons of \zwd Israel|id="Q289957" t="2"\zwd*: 
+\v 1 \zdate|Q625661:P569\*These were the sons of \zwd Israel|id="Q289957" t="2"\zwd*: 
 \b
 \li1 \zwd Reuben|id="Q625661" t="2"\zwd*, \zwd Simeon|id="Q1773005" t="2"\zwd*, \zwd Levi|id="Q215512" t="2"\zwd*, \zwd Judah|id="Q282220" t="2"\zwd*, \zwd Issachar|id="Q651256" t="2"\zwd*, \zwd Zebulun|id="Q614575" t="2"\zwd*, 
 \v 2 \zwd Dan|id="Q550869" t="2"\zwd*, \zwd Joseph|id="Q145746" t="2"\zwd*, \zwd Benjamin|id="Q460763" t="2"\zwd*, \zwd Naphtali|id="Q1771963" t="2"\zwd*, \zwd Gad|id="Q851749" t="2"\zwd*, and \zwd Asher|id="Q1775026" t="2"\zwd*. 
@@ -195,23 +195,23 @@
 \li1 
 \v 3 The sons of \zwd Judah|id="Q282220" t="2"\zwd*: 
 \b
-\li2 \zwd Er|id="Q1347943" t="2"\zwd*, \zwd Onan|id="Q661074" t="2"\zwd*, and \zwd Shelah|id="Q1294423" t="2"\zwd*. These three were born to him by \zwd Bath-shua the Canaanite|id="Q6940768" t="2"\zwd*. \zwd Er|id="Q1347943" t="2"\zwd*, \zwd Judah|id="Q282220" t="2"\zwd*’s firstborn, was wicked in the sight of the LORD. So the LORD put him to death. 
+\li2 \zdate|Q1347943:P569\*\zwd Er|id="Q1347943" t="2"\zwd*, \zwd Onan|id="Q661074" t="2"\zwd*, and \zwd Shelah|id="Q1294423" t="2"\zwd*. These three were born to him by \zwd Bath-shua the Canaanite|id="Q6940768" t="2"\zwd*. \zwd Er|id="Q1347943" t="2"\zwd*, \zwd Judah|id="Q282220" t="2"\zwd*’s firstborn, was wicked in the sight of the LORD. So the LORD put him to death. 
 \b
 \li2 
-\v 4 \zwd Tamar|id="Q1030008" t="2"\zwd*, \zwd Judah|id="Q282220" t="2"\zwd*’s daughter-in-law, bore to him \zwd Perez|id="Q1814684" t="2"\zwd* and \zwd Zerah|id="Q3223065" t="2"\zwd*. \zwd Judah|id="Q282220" t="2"\zwd* had \zwd five sons|id="Q1347943,Q661074,Q1294423,Q1814684,Q3223065" t="2"\zwd* in all. 
+\v 4 \zdate|Q1814684:P569\*\zwd Tamar|id="Q1030008" t="2"\zwd*, \zwd Judah|id="Q282220" t="2"\zwd*’s daughter-in-law, bore to him \zwd Perez|id="Q1814684" t="2"\zwd* and \zwd Zerah|id="Q3223065" t="2"\zwd*. \zwd Judah|id="Q282220" t="2"\zwd* had \zwd five sons|id="Q1347943,Q661074,Q1294423,Q1814684,Q3223065" t="2"\zwd* in all. 
 \b
 \li1 
-\v 5 The sons of \zwd Perez|id="Q1814684" t="2"\zwd*: 
+\v 5 \zdate|Q4177234:P569\*The sons of \zwd Perez|id="Q1814684" t="2"\zwd*: 
 \b
 \li2 \zwd Hezron|id="Q4177234" t="2"\zwd* and \zwd Hamul|id="Q65129982" t="2"\zwd*. 
 \b
 \li1 
-\v 6 The sons of \zwd Zerah|id="Q3223065" t="2"\zwd*: 
+\v 6 \zdate|Q114671090:P569\*The sons of \zwd Zerah|id="Q3223065" t="2"\zwd*: 
 \b
 \li2 \zwd Zimri|id="Q114671090" t="2"\zwd*,\f + \fr 2:6 \ft Zimri is a variant of Zabdi; see Joshua 7:1.\f* \zwd Ethan|\zwd*, \zwd Heman|\zwd*, \zwd Calcol|\zwd*, and \zwd Dara|\zwd* \f + \fr 2:6 \ft Most Hebrew manuscripts; many Hebrew manuscripts, some LXX manuscripts, and Syriac (see also 1 Kings 4:31) Darda\f*—five in all. 
 \b
 \li1 
-\v 7 The son \f + \fr 2:7 \ft Hebrew sons\f* of \zwd Carmi|id="Q114672619" t="2"\zwd*: 
+\v 7 \zdate|Q1889647:P569\*The son \f + \fr 2:7 \ft Hebrew sons\f* of \zwd Carmi|id="Q114672619" t="2"\zwd*: 
 \b
 \li2 \zwd Achar|id="Q1889647" t="2"\zwd*,\f + \fr 2:7 \ft Achar means troubler; also called Achan in Joshua 7 and Joshua 22.\f* who brought trouble upon Israel by violating the ban on devoted things. 
 \b
@@ -221,18 +221,18 @@
 \li2 \zwd Azariah|\zwd*. 
 \b
 \li1 
-\v 9 The sons who were born to \zwd Hezron|id="Q4177234" t="2"\zwd*: 
+\v 9 \zdate|Q1687510:P569\*The sons who were born to \zwd Hezron|id="Q4177234" t="2"\zwd*: 
 \b
 \li2 \zwd Jerahmeel|id="Q1687510" t="2"\zwd*, \zwd Ram|id="Q1824842" t="2"\zwd*, and \zwd Caleb|id="Q16938772" t="2"\zwd*.\f + \fr 2:9 \ft Hebrew Chelubai, a variant of Caleb; see verse 18.\f* 
 \b
 \li1 
-\v 10 \zwd Ram|id="Q1824842" t="2"\zwd* was the father of \zwd Amminadab|id="Q2038223" t="2"\zwd*, and \zwd Amminadab|id="Q2038223" t="2"\zwd* was the father of \zwd Nahshon|id="Q1784980" t="2"\zwd*, a leader of the descendants of \zwd Judah|id="Q282220" t="2"\zwd*. 
+\v 10 \zdate|Q2038223:P569\*\zwd Ram|id="Q1824842" t="2"\zwd* was the father of \zwd Amminadab|id="Q2038223" t="2"\zwd*, and \zdate|Q1784980:P569\*\zwd Amminadab|id="Q2038223" t="2"\zwd* was the father of \zwd Nahshon|id="Q1784980" t="2"\zwd*, a leader of the descendants of \zwd Judah|id="Q282220" t="2"\zwd*. 
 \b
 \li1 
-\v 11 \zwd Nahshon|id="Q1784980" t="2"\zwd* was the father of \zwd Salmon|id="Q1771358" t="2"\zwd*,\f + \fr 2:11 \ft LXX (see also Ruth 4:20–21); Hebrew Salma; twice in this verse\f* and \zwd Salmon|id="Q1771358" t="2"\zwd* was the father of \zwd Boaz|id="Q212253" t="2"\zwd*. 
+\v 11 \zdate|Q1771358:P569\*\zwd Nahshon|id="Q1784980" t="2"\zwd* was the father of \zwd Salmon|id="Q1771358" t="2"\zwd*,\f + \fr 2:11 \ft LXX (see also Ruth 4:20–21); Hebrew Salma; twice in this verse\f* and \zdate|Q212253:P569\*\zwd Salmon|id="Q1771358" t="2"\zwd* was the father of \zwd Boaz|id="Q212253" t="2"\zwd*. 
 \b
 \li1 
-\v 12 \zwd Boaz|id="Q212253" t="2"\zwd* was the father of \zwd Obed|id="Q1135791" t="2"\zwd*, and \zwd Obed|id="Q1135791" t="2"\zwd* was the father of \zwd Jesse|id="Q45090" t="2"\zwd*. 
+\v 12 \zdate|Q1135791:P569\*\zwd Boaz|id="Q212253" t="2"\zwd* was the father of \zwd Obed|id="Q1135791" t="2"\zwd*, and \zdate|Q45090:P569\*\zwd Obed|id="Q1135791" t="2"\zwd* was the father of \zwd Jesse|id="Q45090" t="2"\zwd*. 
 \b
 \li1 
 \v 13 \zwd Jesse|id="Q45090" t="2"\zwd* was the father of \zwd Eliab his firstborn|id="Q96105737" t="2"\zwd*; \zwd Abinadab|id="Q11903854" t="2"\zwd* was born second, \zwd Shimea|id="Q16130530" t="2"\zwd* \f + \fr 2:13 \ft Shimea is a variant of Shammah, Shimeah, and Shimei; see 1 Samuel 16:9, 2 Samuel 13:3, and 2 Samuel 21:21.\f* third, 
@@ -381,7 +381,7 @@
 \li1 
 \v 4 \zwd These six sons|\zwd* were born to \zwd David|id="Q41370" t="2"\zwd* in Hebron, where he reigned seven years and six months. 
 \b
-\m And \zwd David|id="Q41370" t="2"\zwd* reigned in Jerusalem thirty-three years, 
+\m \zdate|Q41370:P39:Q43459871:P580\*And \zwd David|id="Q41370" t="2"\zwd* reigned in Jerusalem thirty-three years, 
 \v 5 and these sons were born to him in Jerusalem: 
 \b
 \li1 \zwd Shimea|id="Q133263412" t="2"\zwd*,\f + \fr 3:5 \ft Shimea is a variant of Shammua; see 2 Samuel 5:14 and 1 Chronicles 14:4.\f* \zwd Shobab|id="Q9352021" t="2"\zwd*, \zwd Nathan|id="Q3437128" t="2"\zwd*, and \zwd Solomon|id="Q37085" t="2"\zwd*. These four were born to him by \zwd Bathsheba \f + \fr 3:5 \ft One Hebrew manuscript and Vulgate (see also LXX and 2 Samuel 11:3); most Hebrew manuscripts Bath-shua\f* daughter of \zwd Ammiel|id="Q13408496" t="2"\zwd*|id="Q272277" t="2"\zwd*.\f + \fr 3:5 \ft Ammiel is a variant of Eliam; see 2 Samuel 11:3.\f* 
@@ -396,7 +396,7 @@
 \s1 The Descendants of Solomon
 \b
 \li1 
-\v 10 \zwd Solomon|id="Q37085" t="2"\zwd*’s son was \zwd Rehoboam|id="Q211663" t="2"\zwd*: 
+\v 10 \zdate|Q211663:P569\*\zwd Solomon|id="Q37085" t="2"\zwd*’s son was \zwd Rehoboam|id="Q211663" t="2"\zwd*: 
 \b
 \li2 \zwd Abijah|id="Q273517" t="2"\zwd* was his son, \zwd Asa|id="Q313415" t="2"\zwd* his son, \zwd Jehoshaphat|id="Q126689" t="2"\zwd* his son, 
 \v 11 \zwd Joram|id="Q313215" t="2"\zwd* \f + \fr 3:11 \ft Joram is a variant spelling of Jehoram.\f* his son, \zwd Ahaziah|id="Q313214" t="2"\zwd* his son, \zwd Joash|id="Q313229" t="2"\zwd* his son, 
@@ -405,7 +405,7 @@
 \v 14 \zwd Amon|id="Q313423" t="2"\zwd* his son, and \zwd Josiah|id="Q313228" t="2"\zwd* his son. 
 \b
 \li1 
-\v 15 The sons of \zwd Josiah|id="Q313228" t="2"\zwd*: 
+\v 15 \zdate|Q115762115:P569\*The sons of \zwd Josiah|id="Q313228" t="2"\zwd*: 
 \b
 \li2 \zwd Johanan|id="Q115762115" t="2"\zwd* was the firstborn, \zwd Jehoiakim|id="Q319034" t="2"\zwd* the second, \zwd Zedekiah|id="Q184273" t="2"\zwd* the third, and \zwd Shallum|\zwd* \f + \fr 3:15 \ft Shallum is another name for Jehoahaz.\f* the fourth. 
 \b
@@ -453,7 +453,7 @@
 \c 4
 \s1 The Descendants of Judah
 \m 
-\v 1 The descendants of \zwd Judah|id="Q282220" t="2"\zwd*: 
+\v 1 \zdate|Q1814684:P569\*The descendants of \zwd Judah|id="Q282220" t="2"\zwd*: 
 \b
 \li1 \zwd Perez|id="Q1814684" t="2"\zwd*, \zwd Hezron|id="Q4177234" t="2"\zwd*, \zwd Carmi|id="Q114672619" t="2"\zwd*, \zwd Hur|\zwd*, and \zwd Shobal|id="Q139884753" t="2"\zwd*. 
 \b
@@ -1049,7 +1049,7 @@
 \c 8
 \s1 Genealogy from Benjamin to Saul
 \m 
-\v 1 \zwd Benjamin|id="Q460763" t="2"\zwd* was the father of \zwd Bela his firstborn|id="Q22018139" t="2"\zwd*, \zwd Ashbel the second|id="Q85852737" t="2"\zwd*, \zwd Aharah the third|\zwd*, 
+\v 1 \zdate|Q22018139:P569\*\zwd Benjamin|id="Q460763" t="2"\zwd* was the father of \zwd Bela his firstborn|id="Q22018139" t="2"\zwd*, \zwd Ashbel the second|id="Q85852737" t="2"\zwd*, \zwd Aharah the third|\zwd*, 
 \v 2 \zwd Nohah the fourth|\zwd*, and \zwd Rapha the fifth|\zwd*. 
 \b
 \li1 
@@ -1118,10 +1118,10 @@
 \s1 The Family of Saul
 \b
 \m 
-\v 33 Ner was the father of \zwd Kish|id="Q2915270" t="2"\zwd*, \zwd Kish|id="Q2915270" t="2"\zwd* was the father of \zwd Saul|id="Q28730" t="2"\zwd*, and \zwd Saul|id="Q28730" t="2"\zwd* was the father of \zwd Jonathan|id="Q74891" t="2"\zwd*, \zwd Malchishua|id="Q132132935" t="2"\zwd*, \zwd Abinadab|id="Q6039896" t="2"\zwd*, and \zwd Esh-baal|id="Q313238" t="2"\zwd*.\f + \fr 8:33 \ft Esh-baal is also called Ish-bosheth; see 2 Samuel 2:8.\f* 
+\v 33 \zdate|Q2915270:P569\*Ner was the father of \zwd Kish|id="Q2915270" t="2"\zwd*, \zdate|Q28730:P569\*\zwd Kish|id="Q2915270" t="2"\zwd* was the father of \zwd Saul|id="Q28730" t="2"\zwd*, and \zdate|Q74891:P569\*\zwd Saul|id="Q28730" t="2"\zwd* was the father of \zwd Jonathan|id="Q74891" t="2"\zwd*, \zwd Malchishua|id="Q132132935" t="2"\zwd*, \zwd Abinadab|id="Q6039896" t="2"\zwd*, and \zwd Esh-baal|id="Q313238" t="2"\zwd*.\f + \fr 8:33 \ft Esh-baal is also called Ish-bosheth; see 2 Samuel 2:8.\f* 
 \b
 \li1 
-\v 34 The son of \zwd Jonathan|id="Q74891" t="2"\zwd*: 
+\v 34 \zdate|Q851686:P569\*The son of \zwd Jonathan|id="Q74891" t="2"\zwd*: 
 \b
 \li2 \zwd Merib-baal|id="Q851686" t="2"\zwd*,\f + \fr 8:34 \ft Merib-baal is also called Mephibosheth; see 2 Samuel 4:4.\f* and \zwd Merib-baal|id="Q851686" t="2"\zwd* was the father of \zwd Micah|\zwd*.\f + \fr 8:34 \ft Micah is a variant of Mica; see 2 Samuel 9:12.\f* 
 \b
@@ -1290,7 +1290,7 @@
 \s1 Saul’s Overthrow and Death
 \r (1 Samuel 31:1–6; 2 Samuel 1:1–16)
 \m 
-\v 1 Now the Philistines fought against Israel, and the men of Israel fled before them, and many fell slain on Mount Gilboa. 
+\v 1 \zdate|Q28730:P570\*Now the Philistines fought against Israel, and the men of Israel fled before them, and many fell slain on Mount Gilboa. 
 \b
 \m 
 \v 2 The Philistines followed hard after \zwd Saul|Q28730\zwd* and \zwd his sons|\zwd*, and they killed \zwd Saul|Q28730\zwd*’s sons \zwd Jonathan|Q74891\zwd*, \zwd Abinadab|Q6039896\zwd*, and \zwd Malchishua|Q132132935\zwd*. 
@@ -1571,7 +1571,7 @@
 \s1 David’s Army Grows at Hebron
 \b
 \m 
-\v 23 Now these are the numbers of men armed for battle who came to \zwd David|Q41370\zwd* at Hebron to turn \zwd Saul|id="Q28730" t="2"\zwd*’s kingdom over to him, in accordance with the word of the LORD: 
+\v 23 \zdate|Q41370:P39:Q43459871:P580\*Now these are the numbers of men armed for battle who came to \zwd David|Q41370\zwd* at Hebron to turn \zwd Saul|id="Q28730" t="2"\zwd*’s kingdom over to him, in accordance with the word of the LORD: 
 \b
 \pmo 
 \v 24 From Judah: 6,800 armed troops bearing shields and spears. 
@@ -2241,7 +2241,7 @@
 \v 18 The sons of \zwd Izhar|id="Q2210407" t="2"\zwd*: \zwd Shelomith|\zwd* was the first. 
 \b
 \li1 
-\v 19 The sons of \zwd Hebron|id="Q4207606" t="2"\zwd*: \zwd Jeriah|\zwd* was the first, \zwd Amariah|\zwd* the second, \zwd Jahaziel|\zwd* the third, and \zwd Jekameam|\zwd* the fourth. 
+\v 19 The sons of \zwd Hebron|id="Q1800542" t="2"\zwd*: \zwd Jeriah|\zwd* was the first, \zwd Amariah|\zwd* the second, \zwd Jahaziel|\zwd* the third, and \zwd Jekameam|\zwd* the fourth. 
 \b
 \li1 
 \v 20 The sons of \zwd Uzziel|id="Q4207606" t="2"\zwd*: \zwd Micah|\zwd* was the first and \zwd Isshiah|\zwd* the second. 
@@ -2603,7 +2603,7 @@
 \v 13 The tenth, for the tenth month, was \zwd Maharai the Netophathite|Q65303361\zwd*, a Zerahite. There were 24,000 men in his division. 
 \b
 \li1 
-\v 14 The eleventh, for the eleventh month, was \zwd Benaiah the Pirathonite|Q816667\zwd*, an Ephraimite. There were 24,000 men in his division. 
+\v 14 The eleventh, for the eleventh month, was \zwd Benaiah the Pirathonite|\zwd*, an Ephraimite. There were 24,000 men in his division. 
 \b
 \li1 
 \v 15 The twelfth, for the twelfth month, was \zwd Heldai \f + \fr 27:15 \ft Heldai is a variant of Heled; see 1 Chronicles 11:30 and 2 Samuel 23:29.\f* the Netophathite|\zwd*, from the family of \zwd Othniel|\zwd*. There were 24,000 men in his division. 
@@ -2805,7 +2805,7 @@
 \r (1 Kings 1:32–40)
 \b
 \m 
-\v 21 The next day they offered sacrifices and presented burnt offerings to the LORD: a thousand bulls, a thousand rams, and a thousand lambs, along with their drink offerings, and other sacrifices in abundance for all Israel. 
+\v 21 \zdate|Q37085:P39:Q43459871:P580\*The next day they offered sacrifices and presented burnt offerings to the LORD: a thousand bulls, a thousand rams, and a thousand lambs, along with their drink offerings, and other sacrifices in abundance for all Israel. 
 \v 22 That day they ate and drank with great joy in the presence of the LORD. 
 \b
 \m Then, for a second time, they designated \zwd \zwd David|Q41370\zwd*’s son Solomon|Q37085\zwd* as king, anointing him before the LORD as ruler, and \zwd Zadok as the priest|Q140100\zwd*. 
@@ -2822,7 +2822,7 @@
 \m 
 \v 26 \zwd David son of \zwd Jesse|id="Q45090" t="2"\zwd*|Q41370\zwd* was king over all Israel. 
 \v 27 The length of \zwd David|Q41370\zwd*’s reign over Israel was forty years—seven years in Hebron and thirty-three years in Jerusalem. 
-\v 28 He died at a ripe old age, full of years, riches, and honor, and \zwd his son Solomon|Q37085\zwd* reigned in his place. 
+\v 28 \zdate|Q41370:P570\*He died at a ripe old age, full of years, riches, and honor, and \zwd his son Solomon|Q37085\zwd* reigned in his place. 
 \b
 \m 
 \v 29 Now the acts of \zwd King David|id="Q41370" t="2"\zwd*, from first to last, are indeed written in the Chronicles of \zwd Samuel the Seer|id="Q6577515" t="2"\zwd*, the Chronicles of \zwd Nathan the Prophet|id="Q319116" t="2"\zwd*, and the Chronicles of \zwd Gad the Seer|Q2559051\zwd*, 
