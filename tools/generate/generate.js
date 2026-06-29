@@ -24,6 +24,8 @@ function searchContent(location, topLevelItem, item)
 			{
 				for (const id of idParam.split(','))
 				{
+					if (id == "nil") continue
+					
 					var labels = harvestedLabels[id]
 					if (!labels) labels = harvestedLabels[id] = new Set()
 
