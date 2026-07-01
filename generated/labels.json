@@ -2477,11 +2477,11 @@
 		"My servant David",
 		"Solomon’s father David",
 		"David My servant",
+		"the son of Jesse",
 		"David son of Jesse",
 		"Your servant David",
 		"my lord",
 		"David king of Israel",
-		"the son of Jesse",
 		"David his father",
 		"David the man of God",
 		"David the servant of the LORD",
@@ -2547,7 +2547,10 @@
 		"The king",
 		"Your servant",
 		"His servant",
+		"Your father",
+		"your father",
 		"his father Solomon",
+		"my father",
 		"King Solomon of Israel",
 		"Solomon king of Israel",
 		"My son Solomon",
@@ -2559,9 +2562,6 @@
 		"Solomon his son",
 		"David’s son Solomon",
 		"Solomon son of David",
-		"Your father",
-		"your father",
-		"my father",
 		"Solomon king of Judah",
 		"Solomon son of David king of Israel"
 	],
@@ -2619,7 +2619,8 @@
 		"Azariah son of Nathan"
 	],
 	"Q4057937": [
-		"Adoniram son of Abda"
+		"Adoniram son of Abda",
+		"Adoram"
 	],
 	"Q123121734": [
 		"Abda"
@@ -2689,19 +2690,294 @@
 		"Rezon the son of Eliada",
 		"Rezon"
 	],
-	"Q235901": [
-		"Ahab",
-		"his father",
-		"your master",
+	"Q313219": [
+		"Jeroboam son of Nebat",
+		"Jeroboam",
+		"the young man",
+		"the two of them",
+		"King Jeroboam",
 		"the king",
-		"King Ahab of Israel",
+		"his father"
+	],
+	"Q26835883": [
+		"Nebat"
+	],
+	"Q8069663": [
+		"Zeruah"
+	],
+	"Q2590260": [
+		"Ahijah the Shilonite",
+		"Ahijah",
+		"the two of them",
+		"Ahijah the prophet",
+		"His servant Ahijah the prophet",
+		"His servant Ahijah the Shilonite"
+	],
+	"Q211663": [
+		"his son",
+		"his son Rehoboam",
+		"Rehoboam",
+		"King Rehoboam",
+		"the king",
+		"Rehoboam son of Solomon",
+		"Rehoboam son of Solomon king of Judah",
+		"Rehoboam king of Judah",
+		"his father"
+	],
+	"Q7499062": [
+		"Shishak king of Egypt",
+		"Shishak",
+		"King Shishak of Egypt"
+	],
+	"Q45090": [
+		"Jesse",
+		"my father"
+	],
+	"Q2090113": [
+		"Shemaiah the man of God"
+	],
+	"Q313228": [
+		"Josiah",
+		"King Josiah",
+		"the man who sent you",
+		"the king of Judah",
+		"the king",
+		"The king",
+		"his son Josiah",
+		"king of Judah",
+		"his father",
+		"Josiah son of Amon"
+	],
+	"Q6817157": [
+		"Abijah son of Jeroboam",
+		"her son",
+		"the boy"
+	],
+	"Q18510709": [
+		"his wife",
+		"Jeroboam’s wife",
+		"the wife of Jeroboam",
+		"wife of Jeroboam"
+	],
+	"Q313223": [
+		"his son Nadab",
+		"Nadab son of Jeroboam",
+		"Nadab"
+	],
+	"Q865263": [
+		"Naamah the Ammonite"
+	],
+	"Q273517": [
+		"Abijam",
+		"Abijah",
+		"Abijah son of Maacah",
+		"his son Abijah",
+		"his father"
+	],
+	"Q2903509": [
+		"Maacah daughter of Abishalom",
+		"his grandmother Maacah",
+		"Maacah daughter of Absalom",
+		"Maacah",
+		"Micaiah daughter of Uriel"
+	],
+	"Q71267": [
+		"Uriah the Hittite",
+		"Uriah"
+	],
+	"Q313415": [
+		"his son Asa",
+		"Asa",
+		"Asa king of Judah",
+		"King Asa",
+		"his father Asa",
+		"King Asa of Judah"
+	],
+	"Q313224": [
+		"Baasha king of Israel",
+		"Baasha",
+		"Baasha son of Ahijah",
+		"your father"
+	],
+	"Q816397": [
+		"Ben-hadad son of Tabrimmon",
+		"Ben-hadad",
+		"my father",
+		"Ben-hadad king of Aram",
+		"the king of Aram"
+	],
+	"Q6202803": [
+		"Tabrimmon"
+	],
+	"Q5750060": [
+		"Hezion"
+	],
+	"Q126689": [
+		"his son Jehoshaphat",
+		"Jehoshaphat king of Judah",
+		"Jehoshaphat",
+		"Jehoshaphat son of Asa",
+		"the king of Judah",
+		"these three kings",
+		"the kings",
+		"The kings",
+		"his father",
+		"Asa’s son Jehoshaphat",
+		"the king",
+		"King Jehoshaphat",
+		"Jehoshaphat king of Israel",
+		"your father Jehoshaphat",
+		"your father"
+	],
+	"Q114841071": [
+		"Ahijah"
+	],
+	"Q1686571": [
+		"Jehu son of Hanani",
+		"Jehu the prophet",
+		"Jehu son of Hanani the seer"
+	],
+	"Q10293838": [
+		"Hanani"
+	],
+	"Q319020": [
+		"Elah son of Baasha",
+		"Elah",
+		"his son Elah",
+		"the king"
+	],
+	"Q313230": [
+		"Elah’s servant Zimri",
+		"Zimri"
+	],
+	"Q313221": [
+		"Omri",
+		"Omri king of Israel"
+	],
+	"Q887994": [
+		"Tibni son of Ginath",
+		"Tibni"
+	],
+	"Q114906247": [
+		"Ginath"
+	],
+	"Q133454476": [
+		"Shemer"
+	],
+	"Q235901": [
+		"his son Ahab",
+		"Ahab son of Omri",
+		"Ahab",
+		"my lord",
 		"Ahab king of Israel",
 		"the king of Israel",
+		"the king",
+		"Ahab king of Samaria",
 		"The king of Israel",
 		"The king",
+		"his father and mother",
+		"his father",
+		"your master",
+		"King Ahab of Israel",
 		"king of Israel"
 	],
+	"Q721295": [
+		"Jezebel the daughter of Ethbaal king of the Sidonians",
+		"Jezebel",
+		"his wife Jezebel",
+		"his father and mother",
+		"mother",
+		"this cursed woman",
+		"queen mother"
+	],
+	"Q1277966": [
+		"Ethbaal king of the Sidonians"
+	],
+	"Q117707139": [
+		"Hiel the Bethelite"
+	],
+	"Q133507": [
+		"Elijah the Tishbite",
+		"Elijah",
+		"my lord Elijah",
+		"Elijah the prophet",
+		"the two of them",
+		"your master"
+	],
+	"Q6605722": [
+		"a widow",
+		"the woman who owned the house",
+		"the woman",
+		"this widow",
+		"his mother"
+	],
+	"Q7074556": [
+		"Obadiah",
+		"your servant"
+	],
+	"Q127170": [
+		"Hazael",
+		"Hazael king of Aram",
+		"Hazael their king",
+		"the king of Aram"
+	],
+	"Q313225": [
+		"Jehu son of Nimshi",
+		"Jehu",
+		"Jehu son of Jehoshaphat",
+		"commander"
+	],
+	"Q206238": [
+		"Elisha son of Shaphat",
+		"Elisha",
+		"the two of them",
+		"our lord",
+		"you baldhead",
+		"the man of God",
+		"man of God",
+		"the prophet who is in Samaria",
+		"the prophet",
+		"Elisha the man of God",
+		"my master",
+		"My master",
+		"his master",
+		"the woman whose son Elisha had revived",
+		"The man of God",
+		"Elisha the prophet"
+	],
+	"Q114685996": [
+		"Shaphat",
+		"my father"
+	],
+	"Q717814": [
+		"Ben-hadad king of Aram",
+		"Ben-hadad",
+		"my lord the king",
+		"the king of Aram",
+		"the king",
+		"Your servant Ben-hadad",
+		"your brother Ben-hadad",
+		"the man I had devoted to destruction",
+		"his master"
+	],
+	"Q44203": [
+		"Naboth the Jezreelite",
+		"Naboth"
+	],
+	"Q1531578": [
+		"Micaiah son of Imlah",
+		"Micaiah",
+		"this man"
+	],
+	"Q6586959": [
+		"Zedekiah son of Chenaanah"
+	],
+	"Q124790113": [
+		"Chenaanah"
+	],
 	"Q313213": [
+		"his son Ahaziah",
+		"Ahaziah son of Ahab",
 		"Ahaziah",
 		"the king of Samaria",
 		"the king",
@@ -2709,12 +2985,22 @@
 		"King Ahaziah",
 		"Ahaziah king of Israel"
 	],
-	"Q133507": [
-		"Elijah the Tishbite",
-		"Elijah",
-		"the two of them",
-		"your master",
-		"Elijah the prophet"
+	"Q4833002": [
+		"Azubah daughter of Shilhi"
+	],
+	"Q133454594": [
+		"Shilhi"
+	],
+	"Q313215": [
+		"his son Jehoram",
+		"Jehoram son of Jehoshaphat",
+		"Jehoram",
+		"King Joram",
+		"Joram",
+		"the king",
+		"his father",
+		"Jehoram king of Judah",
+		"King Jehoram"
 	],
 	"Q334739": [
 		"Jehoram",
@@ -2736,70 +3022,10 @@
 		"my master",
 		"Joram son of Ahab king of Israel"
 	],
-	"Q313215": [
-		"Jehoram son of Jehoshaphat",
-		"Jehoram",
-		"King Joram",
-		"Joram",
-		"his son Jehoram",
-		"the king",
-		"his father",
-		"Jehoram king of Judah",
-		"King Jehoram"
-	],
-	"Q126689": [
-		"Jehoshaphat",
-		"Jehoshaphat king of Judah",
-		"the king of Judah",
-		"these three kings",
-		"the kings",
-		"The kings",
-		"his father",
-		"Asa’s son Jehoshaphat",
-		"the king",
-		"King Jehoshaphat",
-		"Jehoshaphat king of Israel",
-		"your father Jehoshaphat",
-		"your father"
-	],
-	"Q206238": [
-		"Elisha",
-		"the two of them",
-		"our lord",
-		"you baldhead",
-		"Elisha son of Shaphat",
-		"the man of God",
-		"man of God",
-		"the prophet who is in Samaria",
-		"the prophet",
-		"Elisha the man of God",
-		"my master",
-		"My master",
-		"his master",
-		"the woman whose son Elisha had revived",
-		"The man of God",
-		"Elisha the prophet"
-	],
-	"Q721295": [
-		"mother",
-		"Jezebel",
-		"this cursed woman",
-		"queen mother"
-	],
-	"Q313219": [
-		"Jeroboam son of Nebat",
-		"Jeroboam"
-	],
-	"Q26835883": [
-		"Nebat"
-	],
 	"Q350258": [
 		"Mesha king of Moab",
 		"the king of Moab",
 		"The king of Moab"
-	],
-	"Q114685996": [
-		"Shaphat"
 	],
 	"Q4428768": [
 		"a prominent woman",
@@ -2821,18 +3047,6 @@
 		"the man",
 		"your servant"
 	],
-	"Q717814": [
-		"Ben-hadad king of Aram",
-		"his master",
-		"the king",
-		"Ben-hadad"
-	],
-	"Q127170": [
-		"Hazael",
-		"Hazael king of Aram",
-		"Hazael their king",
-		"the king of Aram"
-	],
 	"Q463934": [
 		"a daughter of Ahab",
 		"His mother",
@@ -2851,39 +3065,14 @@
 		"her son",
 		"Jehoahaz"
 	],
-	"Q313221": [
-		"Omri king of Israel",
-		"Omri"
-	],
-	"Q313225": [
-		"Jehu son of Jehoshaphat",
-		"commander",
-		"Jehu",
-		"Jehu son of Nimshi"
-	],
 	"Q104536612": [
 		"Jehoshaphat"
 	],
 	"Q17012506": [
 		"Nimshi"
 	],
-	"Q313224": [
-		"Baasha son of Ahijah",
-		"Baasha king of Israel",
-		"Baasha"
-	],
-	"Q114841071": [
-		"Ahijah"
-	],
-	"Q44203": [
-		"Naboth the Jezreelite",
-		"Naboth"
-	],
 	"Q133520484": [
 		"Bidkar"
-	],
-	"Q313230": [
-		"Zimri"
 	],
 	"Q6176487": [
 		"Jehonadab son of Rechab",
@@ -3170,18 +3359,6 @@
 	"Q115804881": [
 		"Haruz"
 	],
-	"Q313228": [
-		"Josiah",
-		"King Josiah",
-		"the man who sent you",
-		"the king of Judah",
-		"the king",
-		"The king",
-		"his son Josiah",
-		"king of Judah",
-		"his father",
-		"Josiah son of Amon"
-	],
 	"Q135454571": [
 		"Jedidah daughter of Adaiah"
 	],
@@ -3321,10 +3498,6 @@
 	],
 	"Q1135791": [
 		"Obed"
-	],
-	"Q45090": [
-		"Jesse",
-		"my father"
 	],
 	"Q96105737": [
 		"Eliab his firstborn",
@@ -3590,28 +3763,6 @@
 	],
 	"Q2917173": [
 		"Tamar"
-	],
-	"Q211663": [
-		"Rehoboam",
-		"his son Rehoboam",
-		"King Rehoboam",
-		"the king",
-		"Rehoboam son of Solomon king of Judah",
-		"Rehoboam son of Solomon"
-	],
-	"Q273517": [
-		"Abijah",
-		"Abijah son of Maacah",
-		"his son Abijah",
-		"his father"
-	],
-	"Q313415": [
-		"Asa",
-		"his son Asa",
-		"King Asa",
-		"Asa king of Judah",
-		"King Asa of Judah",
-		"his father Asa"
 	],
 	"Q115762115": [
 		"Johanan"
@@ -4050,10 +4201,6 @@
 	"Q138035004": [
 		"Ira the Ithrite"
 	],
-	"Q71267": [
-		"Uriah the Hittite",
-		"Uriah"
-	],
 	"Q65303551": [
 		"Zabad son of Ahlai"
 	],
@@ -4103,9 +4250,6 @@
 	"Q140131269": [
 		"Shelomoth"
 	],
-	"Q2590260": [
-		"Ahijah the Shilonite"
-	],
 	"Q114752409": [
 		"Mahalath"
 	],
@@ -4124,42 +4268,12 @@
 	"Q8064608": [
 		"Zaham"
 	],
-	"Q2903509": [
-		"Maacah daughter of Absalom",
-		"Maacah",
-		"Micaiah daughter of Uriel"
-	],
-	"Q7499062": [
-		"Shishak king of Egypt",
-		"Shishak",
-		"King Shishak of Egypt"
-	],
-	"Q865263": [
-		"Naamah the Ammonite"
-	],
 	"Q114921395": [
 		"Uriel"
 	],
 	"Q4832269": [
 		"Azariah son of Oded",
 		"Azariah son of Oded the prophet"
-	],
-	"Q816397": [
-		"Ben-hadad king of Aram",
-		"Ben-hadad",
-		"the king of Aram"
-	],
-	"Q1686571": [
-		"Jehu son of Hanani the seer"
-	],
-	"Q10293838": [
-		"Hanani"
-	],
-	"Q4833002": [
-		"Azubah daughter of Shilhi"
-	],
-	"Q133454594": [
-		"Shilhi"
 	],
 	"Q116686349": [
 		"Azariah",
