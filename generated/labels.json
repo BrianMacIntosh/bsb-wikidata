@@ -79,7 +79,8 @@
 		"Enosh"
 	],
 	"Q844433": [
-		"Kenan"
+		"Kenan",
+		"Cainan"
 	],
 	"Q10297002": [
 		"Mahalalel"
@@ -328,6 +329,8 @@
 		"Abraham My friend",
 		"Abraham your father",
 		"our father Abraham",
+		"Father Abraham",
+		"father Abraham",
 		"Your father Abraham",
 		"one man"
 	],
@@ -1656,7 +1659,8 @@
 		"Moses the servant of the LORD",
 		"Moses the servant of God",
 		"Moses His servant",
-		"Moses His chosen one"
+		"Moses His chosen one",
+		"the two men"
 	],
 	"Q1873244": [
 		"Pharaoh’s daughter",
@@ -2494,7 +2498,8 @@
 		"David the servant of the LORD",
 		"David His servant",
 		"My chosen one",
-		"our father David"
+		"our father David",
+		"His father David"
 	],
 	"Q321469": [
 		"Abishag the Shunammite",
@@ -2910,7 +2915,8 @@
 		"my lord Elijah",
 		"Elijah the prophet",
 		"the two of them",
-		"your master"
+		"your master",
+		"the two men"
 	],
 	"Q6605722": [
 		"a widow",
@@ -3053,7 +3059,8 @@
 	"Q126778": [
 		"Naaman",
 		"the man",
-		"your servant"
+		"your servant",
+		"Naaman the Syrian"
 	],
 	"Q463934": [
 		"a daughter of Ahab",
@@ -3512,7 +3519,8 @@
 		"Caleb son of Hezron"
 	],
 	"Q1771358": [
-		"Salmon"
+		"Salmon",
+		"Sala"
 	],
 	"Q212253": [
 		"Boaz"
@@ -4696,6 +4704,31 @@
 		"King of the Jews",
 		"the King of Israel",
 		"the Lord Jesus",
+		"the Son of the Most High",
+		"the Holy One to be born",
+		"the Son of God",
+		"the fruit of your womb",
+		"my Lord",
+		"the Dawn",
+		"her Child",
+		"her firstborn",
+		"a Son",
+		"Christ the Lord",
+		"a baby",
+		"the Baby",
+		"the Lord’s Christ",
+		"the child Jesus",
+		"The Child",
+		"this Child",
+		"the boy Jesus",
+		"Child",
+		"Master",
+		"My Son",
+		"The Lord",
+		"the King",
+		"THE KING OF THE JEWS",
+		"Jesus Himself",
+		"This man",
 		"the Word",
 		"The Light",
 		"the Light",
@@ -4704,14 +4737,12 @@
 		"the one and only Son",
 		"One you do not know",
 		"the Lamb of God",
-		"the Son of God",
 		"His one and only Son,",
 		"His Son",
 		"God’s one and only Son",
 		"the Son",
 		"Your Son",
 		"JESUS OF NAZARETH",
-		"my Lord",
 		"Christ Jesus",
 		"Jesus Christ our Lord",
 		"the Lord Jesus Christ",
@@ -4734,7 +4765,6 @@
 		"Jesus our deliverer",
 		"Christ Jesus our hope",
 		"the man Christ Jesus",
-		"My Son",
 		"Jesus the Son of God",
 		"our glorious Lord Jesus Christ",
 		"our God and Savior Jesus Christ",
@@ -4778,6 +4808,14 @@
 		"Mary",
 		"His mother",
 		"mother",
+		"a virgin",
+		"the mother of my Lord",
+		"she who has believed that the Lord’s word to her will be fulfilled",
+		"His parents",
+		"the parents",
+		"The Child’s father and mother",
+		"His mother Mary",
+		"Jesus’ parents",
 		"Jesus’ mother",
 		"Woman",
 		"your mother"
@@ -4814,6 +4852,14 @@
 		"John the Baptist",
 		"John",
 		"one calling in the wilderness",
+		"a son",
+		"the baby",
+		"the baby in my womb",
+		"the child",
+		"this child",
+		"child",
+		"John son of Zechariah",
+		"Teacher",
 		"Rabbi"
 	],
 	"Q194064": [
@@ -4896,7 +4942,10 @@
 		"The king"
 	],
 	"Q81989": [
-		"Gabriel"
+		"Gabriel",
+		"the angel",
+		"the angel Gabriel",
+		"The angel"
 	],
 	"Q45581": [
 		"Michael",
@@ -5016,11 +5065,18 @@
 	],
 	"Q128267": [
 		"Joseph",
-		"the husband of Mary"
+		"the husband of Mary",
+		"a man named Joseph",
+		"His parents",
+		"the parents",
+		"The Child’s father and mother",
+		"Jesus’ parents",
+		"Your father"
 	],
 	"Q51672": [
 		"King Herod",
-		"Herod"
+		"Herod",
+		"Herod king of Judea"
 	],
 	"Q244345": [
 		"Archelaus"
@@ -5044,6 +5100,9 @@
 		"one of the bystanders",
 		"This man",
 		"the Eleven",
+		"The Twelve",
+		"The disciples",
+		"this man",
 		"his brother Simon",
 		"Simon son of John",
 		"Cephas"
@@ -5060,6 +5119,7 @@
 		"twelve of them",
 		"the apostles",
 		"the Eleven",
+		"The Twelve",
 		"Simon Peter’s brother",
 		"the other apostles"
 	],
@@ -5082,6 +5142,9 @@
 		"His own companions",
 		"the apostles",
 		"the Eleven",
+		"The Twelve",
+		"his companions",
+		"The disciples",
 		"the sons of Zebedee",
 		"the other apostles"
 	],
@@ -5109,6 +5172,9 @@
 		"His own companions",
 		"the apostles",
 		"the Eleven",
+		"The Twelve",
+		"his companions",
+		"The disciples",
 		"One of His disciples",
 		"the disciple whom He loved",
 		"the disciple",
@@ -5122,7 +5188,8 @@
 	],
 	"Q23581940": [
 		"Peter’s mother-in-law",
-		"Simon’s mother-in-law"
+		"Simon’s mother-in-law",
+		"mother-in-law"
 	],
 	"Q43600": [
 		"Matthew",
@@ -5135,6 +5202,8 @@
 		"twelve of them",
 		"the apostles",
 		"the Eleven",
+		"Levi",
+		"The Twelve",
 		"the other apostles"
 	],
 	"Q43675": [
@@ -5147,6 +5216,7 @@
 		"twelve of them",
 		"the apostles",
 		"the Eleven",
+		"The Twelve",
 		"the other apostles"
 	],
 	"Q43982": [
@@ -5159,6 +5229,7 @@
 		"twelve of them",
 		"the apostles",
 		"the Eleven",
+		"The Twelve",
 		"the other apostles"
 	],
 	"Q43669": [
@@ -5171,6 +5242,7 @@
 		"twelve of them",
 		"the apostles",
 		"the Eleven",
+		"The Twelve",
 		"Thomas called Didymus",
 		"the other apostles"
 	],
@@ -5184,6 +5256,7 @@
 		"twelve of them",
 		"the apostles",
 		"the Eleven",
+		"The Twelve",
 		"the other apostles"
 	],
 	"Q43945": [
@@ -5196,6 +5269,8 @@
 		"twelve of them",
 		"the apostles",
 		"the Eleven",
+		"Judas son of James",
+		"The Twelve",
 		"Judas",
 		"the other apostles"
 	],
@@ -5209,6 +5284,8 @@
 		"twelve of them",
 		"the apostles",
 		"the Eleven",
+		"Simon called the Zealot",
+		"The Twelve",
 		"the other apostles"
 	],
 	"Q81018": [
@@ -5223,6 +5300,7 @@
 		"the apostles",
 		"My betrayer",
 		"the betrayer",
+		"The Twelve",
 		"Judas son of Simon Iscariot",
 		"Judas His betrayer"
 	],
@@ -5246,18 +5324,21 @@
 		"Herod",
 		"King Herod",
 		"the king",
-		"The king"
+		"The king",
+		"that fox"
 	],
 	"Q230091": [
 		"Herodias",
 		"her mother",
 		"his brother Philip’s wife Herodias",
-		"your brother’s wife"
+		"your brother’s wife",
+		"his brother’s wife Herodias"
 	],
 	"Q345647": [
 		"Philip",
 		"his brother Philip",
-		"your brother"
+		"your brother",
+		"his brother"
 	],
 	"Q228896": [
 		"the daughter of Herodias",
@@ -5280,10 +5361,12 @@
 	],
 	"Q17131": [
 		"Pilate the governor",
-		"Pilate"
+		"Pilate",
+		"Pontius Pilate"
 	],
 	"Q313417": [
-		"Barabbas"
+		"Barabbas",
+		"the one imprisoned for insurrection and murder"
 	],
 	"Q263459": [
 		"his wife"
@@ -5294,6 +5377,7 @@
 	],
 	"Q63070": [
 		"Mary Magdalene",
+		"Mary called Magdalene",
 		"Mary",
 		"Woman"
 	],
@@ -5314,7 +5398,10 @@
 		"the man",
 		"this man",
 		"the demon-possessed man",
-		"the man who had been possessed by the demons"
+		"the man who had been possessed by the demons",
+		"a demon-possessed man",
+		"the man whom the demons had left",
+		"The man whom the demons had left"
 	],
 	"Q325476": [
 		"Jairus",
@@ -5327,7 +5414,9 @@
 		"the child",
 		"Talitha",
 		"Little girl",
-		"the girl"
+		"the girl",
+		"his only daughter",
+		"Child"
 	],
 	"Q809440": [
 		"Bartimaeus",
@@ -5336,11 +5425,192 @@
 	"Q41111704": [
 		"Timaeus"
 	],
+	"Q726674": [
+		"the servant of the high priest",
+		"the man",
+		"Malchus",
+		"the man whose ear Peter had cut off"
+	],
+	"Q51680": [
+		"the high priest",
+		"Annas"
+	],
 	"Q63746299": [
 		"Alexander"
 	],
 	"Q1343034": [
 		"Rufus"
+	],
+	"Q1384449": [
+		"Theophilus"
+	],
+	"Q139464": [
+		"Zechariah",
+		"Both of them",
+		"his father Zechariah",
+		"his father"
+	],
+	"Q235849": [
+		"Elizabeth",
+		"Both of them",
+		"Your wife Elizabeth",
+		"his mother",
+		"my wife",
+		"his wife Elizabeth"
+	],
+	"Q1405": [
+		"Caesar Augustus"
+	],
+	"Q313398": [
+		"Quirinius"
+	],
+	"Q345205": [
+		"Simeon",
+		"Your servant"
+	],
+	"Q1774668": [
+		"Anna"
+	],
+	"Q1407": [
+		"Tiberius Caesar"
+	],
+	"Q2474891": [
+		"Heli"
+	],
+	"Q25668671": [
+		"Matthat"
+	],
+	"Q25668670": [
+		"Levi"
+	],
+	"Q25668669": [
+		"Melchi"
+	],
+	"Q25668668": [
+		"Jannai"
+	],
+	"Q25668667": [
+		"Joseph"
+	],
+	"Q25668666": [
+		"Mattathias"
+	],
+	"Q25668665": [
+		"Amos"
+	],
+	"Q25668664": [
+		"Nahum"
+	],
+	"Q25668663": [
+		"Esli"
+	],
+	"Q25668662": [
+		"Naggai"
+	],
+	"Q25668661": [
+		"Maath"
+	],
+	"Q25668660": [
+		"Mattathias"
+	],
+	"Q25668659": [
+		"Semein"
+	],
+	"Q25668657": [
+		"Josech"
+	],
+	"Q25668658": [
+		"Joda"
+	],
+	"Q25668656": [
+		"Joanan"
+	],
+	"Q25668655": [
+		"Rhesa"
+	],
+	"Q25668652": [
+		"Neri"
+	],
+	"Q25668653": [
+		"Melchi"
+	],
+	"Q25668651": [
+		"Addi"
+	],
+	"Q25668650": [
+		"Cosam"
+	],
+	"Q25668649": [
+		"Elmadam"
+	],
+	"Q25668648": [
+		"Er"
+	],
+	"Q25668647": [
+		"Joshua"
+	],
+	"Q25668646": [
+		"Eliezer"
+	],
+	"Q25668645": [
+		"Jorim"
+	],
+	"Q25668644": [
+		"Matthat"
+	],
+	"Q25668642": [
+		"Levi"
+	],
+	"Q25668643": [
+		"Simeon"
+	],
+	"Q10312716": [
+		"Judah"
+	],
+	"Q25668640": [
+		"Joseph"
+	],
+	"Q25668639": [
+		"Jonam"
+	],
+	"Q11936413": [
+		"Eliakim"
+	],
+	"Q25668638": [
+		"Melea"
+	],
+	"Q11936480": [
+		"Menna"
+	],
+	"Q19715666": [
+		"Mattatha"
+	],
+	"Q114932684": [
+		"Admin"
+	],
+	"Q114932946": [
+		"Arni"
+	],
+	"Q4208533": [
+		"Cainan"
+	],
+	"Q232453": [
+		"Martha",
+		"her sister Martha",
+		"the sisters"
+	],
+	"Q239058": [
+		"Mary",
+		"my sister",
+		"the sisters",
+		"her sister",
+		"her sister Mary"
+	],
+	"Q139792": [
+		"Zacchaeus"
+	],
+	"Q711072": [
+		"Cleopas"
 	],
 	"Q295084": [
 		"Nicodemus"
@@ -5356,26 +5626,6 @@
 		"my brother",
 		"Your brother",
 		"The man who had been dead"
-	],
-	"Q239058": [
-		"Mary",
-		"the sisters",
-		"her sister",
-		"her sister Mary"
-	],
-	"Q232453": [
-		"her sister Martha",
-		"the sisters",
-		"Martha"
-	],
-	"Q726674": [
-		"the servant of the high priest",
-		"Malchus",
-		"the man whose ear Peter had cut off"
-	],
-	"Q51680": [
-		"Annas",
-		"the high priest"
 	],
 	"Q9200": [
 		"Paul"
