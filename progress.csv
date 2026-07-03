@@ -21,7 +21,7 @@ PSA,all,all,
 PRO,all,all,all
 ECC,all,all,all
 SNG,all,all,all
-ISA,,,
+ISA,all,all,all
 JER,,,
 LAM,all,all,
 EZK,all,all,all

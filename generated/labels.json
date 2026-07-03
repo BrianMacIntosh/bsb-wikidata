@@ -325,6 +325,8 @@
 		"Abraham Your friend",
 		"His servant Abraham",
 		"Abraham His servant",
+		"Abraham My friend",
+		"Abraham your father",
 		"our father Abraham",
 		"one man"
 	],
@@ -761,6 +763,9 @@
 		"your brother Israel",
 		"our father Israel",
 		"His servant Israel",
+		"Jacob My servant",
+		"His servant Jacob",
+		"your father Jacob",
 		"My servant Jacob",
 		"Rebecca’s children",
 		"the twins"
@@ -3211,7 +3216,10 @@
 		"Pekah son of Remaliah",
 		"Pekah",
 		"Pekah king of Israel",
-		"the king of Israel"
+		"the king of Israel",
+		"Pekah son of Remaliah the king of Israel",
+		"these two smoldering stubs of firewood",
+		"the son of Remaliah"
 	],
 	"Q114906785": [
 		"Remaliah"
@@ -3236,7 +3244,8 @@
 	],
 	"Q878947": [
 		"Rezin king of Aram",
-		"Rezin"
+		"Rezin",
+		"these two smoldering stubs of firewood"
 	],
 	"Q30914": [
 		"Ahaz son of Jotham",
@@ -3280,19 +3289,24 @@
 		"the king",
 		"Sennacherib",
 		"the kings of Assyria",
-		"King Sennacherib of Assyria"
+		"King Sennacherib of Assyria",
+		"his master the king of Assyria"
 	],
 	"Q9252684": [
 		"Eliakim son of Hilkiah",
 		"Hilkiah’s son Eliakim",
-		"Eliakim"
+		"Eliakim",
+		"Eliakim son of Hilkiah the palace administrator",
+		"Hilkiah’s son Eliakim the palace administrator",
+		"Eliakim the palace administrator"
 	],
 	"Q130270587": [
 		"Hilkiah"
 	],
 	"Q130271252": [
 		"Joah son of Asaph",
-		"Joah"
+		"Joah",
+		"Asaph’s son Joah the recorder"
 	],
 	"Q130243561": [
 		"Asaph"
@@ -3301,7 +3315,10 @@
 		"Isaiah son of Amoz",
 		"Isaiah",
 		"Isaiah the prophet",
-		"the prophet Isaiah"
+		"the prophet Isaiah",
+		"My servant Isaiah",
+		"the prophet Isaiah son of Amoz",
+		"The prophet Isaiah son of Amoz"
 	],
 	"Q4748020": [
 		"Amoz"
@@ -3314,7 +3331,8 @@
 	],
 	"Q193912": [
 		"Esar-haddon",
-		"King Esar-haddon of Assyria"
+		"King Esar-haddon of Assyria",
+		"his son Esar-haddon"
 	],
 	"Q12591": [
 		"the king of Babylon",
@@ -4332,6 +4350,7 @@
 		"King Cyrus",
 		"Cyrus king of Babylon",
 		"Cyrus",
+		"Cyrus His anointed",
 		"Cyrus the Persian"
 	],
 	"Q55649336": [
@@ -4614,6 +4633,20 @@
 	],
 	"Q302": [
 		"The stone the builders rejected",
+		"a son",
+		"Immanuel",
+		"a great light",
+		"a light",
+		"a child",
+		"Wonderful Counselor",
+		"Mighty God",
+		"Everlasting Father",
+		"Prince of Peace",
+		"a Branch",
+		"the Root of Jesse",
+		"My Servant",
+		"My Chosen One",
+		"My righteous Servant",
 		"the Messiah",
 		"the Prince",
 		"My son",
@@ -4705,6 +4738,47 @@
 	"Q6521531": [
 		"King Lemuel",
 		"Lemuel"
+	],
+	"Q18192190": [
+		"your son Shear-jashub"
+	],
+	"Q345": [
+		"the virgin",
+		"Mary",
+		"His mother",
+		"mother"
+	],
+	"Q124219534": [
+		"Zechariah son of Jeberekiah"
+	],
+	"Q134721755": [
+		"Jeberekiah"
+	],
+	"Q2903829": [
+		"a son",
+		"Maher-shalal-hash-baz",
+		"the boy"
+	],
+	"Q208336": [
+		"Sargon king of Assyria",
+		"king of Assyria",
+		"the king of Assyria"
+	],
+	"Q7492261": [
+		"Shebna",
+		"mighty man"
+	],
+	"Q356505": [
+		"Merodach-baladan son of Baladan king of Babylon"
+	],
+	"Q130266607": [
+		"Baladan"
+	],
+	"Q40662": [
+		"one calling",
+		"My messenger",
+		"John the Baptist",
+		"John"
 	],
 	"Q194064": [
 		"Ezekiel the priest",
@@ -4874,11 +4948,6 @@
 	"Q5767200": [
 		"Malachi"
 	],
-	"Q40662": [
-		"My messenger",
-		"John the Baptist",
-		"John"
-	],
 	"Q1774982": [
 		"Ruth"
 	],
@@ -4912,11 +4981,6 @@
 	"Q128267": [
 		"Joseph",
 		"the husband of Mary"
-	],
-	"Q345": [
-		"Mary",
-		"His mother",
-		"mother"
 	],
 	"Q51672": [
 		"King Herod",
