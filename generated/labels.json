@@ -328,6 +328,7 @@
 		"Abraham My friend",
 		"Abraham your father",
 		"our father Abraham",
+		"Your father Abraham",
 		"one man"
 	],
 	"Q6323112": [
@@ -767,6 +768,7 @@
 		"His servant Jacob",
 		"your father Jacob",
 		"My servant Jacob",
+		"our father Jacob",
 		"Rebecca’s children",
 		"the twins"
 	],
@@ -4693,11 +4695,24 @@
 		"the One you call the King of the Jews",
 		"King of the Jews",
 		"the King of Israel",
-		"Jesus Himself",
 		"the Lord Jesus",
-		"Christ Jesus",
-		"His Son",
+		"the Word",
+		"The Light",
+		"the Light",
+		"The true Light",
+		"The Word",
+		"the one and only Son",
+		"One you do not know",
+		"the Lamb of God",
 		"the Son of God",
+		"His one and only Son,",
+		"His Son",
+		"God’s one and only Son",
+		"the Son",
+		"Your Son",
+		"JESUS OF NAZARETH",
+		"my Lord",
+		"Christ Jesus",
 		"Jesus Christ our Lord",
 		"the Lord Jesus Christ",
 		"Jesus our Lord",
@@ -4720,7 +4735,6 @@
 		"Christ Jesus our hope",
 		"the man Christ Jesus",
 		"My Son",
-		"the Son",
 		"Jesus the Son of God",
 		"our glorious Lord Jesus Christ",
 		"our God and Savior Jesus Christ",
@@ -4763,7 +4777,10 @@
 		"the virgin",
 		"Mary",
 		"His mother",
-		"mother"
+		"mother",
+		"Jesus’ mother",
+		"Woman",
+		"your mother"
 	],
 	"Q124219534": [
 		"Zechariah son of Jeberekiah"
@@ -4796,7 +4813,8 @@
 		"My messenger",
 		"John the Baptist",
 		"John",
-		"one calling in the wilderness"
+		"one calling in the wilderness",
+		"Rabbi"
 	],
 	"Q194064": [
 		"Ezekiel the priest",
@@ -5026,6 +5044,8 @@
 		"one of the bystanders",
 		"This man",
 		"the Eleven",
+		"his brother Simon",
+		"Simon son of John",
 		"Cephas"
 	],
 	"Q43399": [
@@ -5040,6 +5060,7 @@
 		"twelve of them",
 		"the apostles",
 		"the Eleven",
+		"Simon Peter’s brother",
 		"the other apostles"
 	],
 	"Q43999": [
@@ -5061,6 +5082,7 @@
 		"His own companions",
 		"the apostles",
 		"the Eleven",
+		"the sons of Zebedee",
 		"the other apostles"
 	],
 	"Q169363": [
@@ -5087,6 +5109,15 @@
 		"His own companions",
 		"the apostles",
 		"the Eleven",
+		"One of His disciples",
+		"the disciple whom He loved",
+		"the disciple",
+		"this disciple",
+		"the other disciple",
+		"the one whom Jesus loved",
+		"the sons of Zebedee",
+		"the disciple whom Jesus loved",
+		"the disciple who testifies to these things",
 		"the other apostles"
 	],
 	"Q23581940": [
@@ -5140,6 +5171,7 @@
 		"twelve of them",
 		"the apostles",
 		"the Eleven",
+		"Thomas called Didymus",
 		"the other apostles"
 	],
 	"Q44047": [
@@ -5164,6 +5196,7 @@
 		"twelve of them",
 		"the apostles",
 		"the Eleven",
+		"Judas",
 		"the other apostles"
 	],
 	"Q12871": [
@@ -5189,7 +5222,9 @@
 		"twelve of them",
 		"the apostles",
 		"My betrayer",
-		"the betrayer"
+		"the betrayer",
+		"Judas son of Simon Iscariot",
+		"Judas His betrayer"
 	],
 	"Q1542853": [
 		"Alphaeus"
@@ -5229,13 +5264,16 @@
 		"the girl"
 	],
 	"Q137699169": [
-		"Jonah"
+		"Jonah",
+		"John"
 	],
 	"Q233067": [
 		"the mother of Zebedee’s sons"
 	],
 	"Q211246": [
-		"Caiaphas"
+		"Caiaphas",
+		"the high priest",
+		"Caiaphas the high priest"
 	],
 	"Q718460": [
 		"Simon the Leper"
@@ -5255,7 +5293,9 @@
 		"Simon of Cyrene"
 	],
 	"Q63070": [
-		"Mary Magdalene"
+		"Mary Magdalene",
+		"Mary",
+		"Woman"
 	],
 	"Q235377": [
 		"Mary the mother of James and Joseph",
@@ -5301,6 +5341,41 @@
 	],
 	"Q1343034": [
 		"Rufus"
+	],
+	"Q295084": [
+		"Nicodemus"
+	],
+	"Q139830548": [
+		"Simon Iscariot"
+	],
+	"Q539890": [
+		"Lazarus",
+		"the one You love",
+		"Our friend Lazarus",
+		"their brother",
+		"my brother",
+		"Your brother",
+		"The man who had been dead"
+	],
+	"Q239058": [
+		"Mary",
+		"the sisters",
+		"her sister",
+		"her sister Mary"
+	],
+	"Q232453": [
+		"her sister Martha",
+		"the sisters",
+		"Martha"
+	],
+	"Q726674": [
+		"the servant of the high priest",
+		"Malchus",
+		"the man whose ear Peter had cut off"
+	],
+	"Q51680": [
+		"Annas",
+		"the high priest"
 	],
 	"Q9200": [
 		"Paul"
