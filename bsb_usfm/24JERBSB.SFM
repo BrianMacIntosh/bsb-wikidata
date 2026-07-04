@@ -2240,7 +2240,7 @@
 \c 21
 \s1 Jerusalem Will Fall to Babylon
 \m 
-\v 1 This is the word that came to \zwd Jeremiah|Q158825\zwd* from the LORD when \zwd King Zedekiah|Q184273\zwd* sent to him \zwd Pashhur son of \zwd Malchijah|\zwd*|\zwd* and \zwd the priest Zephaniah son of \zwd Maaseiah|\zwd*|\zwd*. They said, 
+\v 1 \zdate|min="Q184273:P39:Q10550167:P580" max="Q184273:P39:Q10550167:P582"\*This is the word that came to \zwd Jeremiah|Q158825\zwd* from the LORD when \zwd King Zedekiah|Q184273\zwd* sent to him \zwd Pashhur son of \zwd Malchijah|\zwd*|\zwd* and \zwd the priest Zephaniah son of \zwd Maaseiah|\zwd*|\zwd*. They said, 
 \v 2 “Please inquire of the LORD on our behalf, since \zwd Nebuchadnezzar \f + \fr 21:2 \ft Hebrew Nebuchadrezzar, a variant of Nebuchadnezzar (king of Babylon), which occurs frequently in Jeremiah. The latter spelling is used throughout Jeremiah for consistency.\f* king of Babylon|id="Q12591" t="2"\zwd* is waging war against us. Perhaps the LORD will perform for us something like all His past wonders, so that \zwd Nebuchadnezzar|id="Q12591" t="2"\zwd* will withdraw from us.” 
 \b
 \m 
@@ -2279,12 +2279,12 @@
 \v 14 I will punish you as your deeds deserve, 
 \q2 declares the LORD. 
 \q1 I will kindle a fire in your forest 
-\q2 that will consume everything around you.’” 
+\q2 that will consume everything around you.’”\zdate|min="Q184273:P39:Q10550167:P580" max="Q184273:P39:Q10550167:P582"\* 
 \c 22
 \s1 A Warning to Judah’s Kings
 \m 
-\v 1 This is what the LORD says: “Go down to the palace of \zwd the king of Judah|id="Q184273" t="2"\zwd* and proclaim this message there, 
-\v 2 saying, ‘Hear the word of the LORD, O \zwd king of Judah|Q184273\zwd*, who sits on the throne of \zwd David|id="Q41370" t="2"\zwd*—you and your officials and your people who enter these gates. 
+\v 1 \zdate|min="Q12591:P39:Q28132899:P580" max="Q319034:P39:Q10550167:P582"\*This is what the LORD says: “Go down to the palace of \zwd the king of Judah|id="Q319034" t="2"\zwd* and proclaim this message there, 
+\v 2 saying, ‘Hear the word of the LORD, O \zwd king of Judah|Q319034\zwd*, who sits on the throne of \zwd David|id="Q41370" t="2"\zwd*—you and your officials and your people who enter these gates. 
 \v 3 This is what the LORD says: Administer justice and righteousness. Rescue the victim of robbery from the hand of his oppressor. Do no wrong or violence to the foreigner, the fatherless, or the widow. Do not shed innocent blood in this place. 
 \b
 \m 
@@ -2293,7 +2293,7 @@
 \s1 A Warning about the Palace
 \b
 \m 
-\v 6 For this is what the LORD says concerning the house of \zwd the king of Judah|id="Q184273" t="2"\zwd*: 
+\v 6 For this is what the LORD says concerning the house of \zwd the king of Judah|id="Q319034" t="2"\zwd*: 
 \b
 \q1 “You are like Gilead to Me, 
 \q2 like the summit of Lebanon; 
@@ -2569,15 +2569,15 @@
 \m 
 \v 38 But if you claim, ‘This is the burden of the LORD,’ then this is what the LORD says: Because you have said, ‘This is the burden of the LORD,’ and I specifically told you not to make this claim, 
 \v 39 therefore I will surely forget you and will cast you out of My presence, both you and the city that I gave to you and your fathers. 
-\v 40 And I will bring upon you everlasting shame and perpetual humiliation that will never be forgotten.” 
+\v 40 And I will bring upon you everlasting shame and perpetual humiliation that will never be forgotten.”\zdate|min="Q12591:P39:Q28132899:P580" max="Q319034:P39:Q10550167:P582"\* 
 \c 24
 \s1 The Good and Bad Figs
 \m 
-\v 1 After \zwd Nebuchadnezzar king of Babylon|id="Q12591" t="2"\zwd* had carried away \zwd Jeconiah \f + \fr 24:1 \ft Jeconiah is a variant of Jehoiachin; see 2 Kings 24:12.\f* son of \zwd Jehoiakim|id="Q319034" t="2"\zwd* king of Judah|id="Q319049" t="2"\zwd*, as well as the officials of Judah and the craftsmen and metalsmiths from Jerusalem, and had brought them to Babylon,\f + \fr 24:1 \ft Or metalsmiths, and had brought them from Jerusalem to Babylon\f* the LORD showed me two baskets of figs placed in front of the temple of the LORD. 
+\v 1 \zdate|min="Q319049:P39:Q10550167:P582"\*After \zwd Nebuchadnezzar king of Babylon|id="Q12591" t="2"\zwd* had carried away \zwd Jeconiah \f + \fr 24:1 \ft Jeconiah is a variant of Jehoiachin; see 2 Kings 24:12.\f* son of \zwd Jehoiakim|id="Q319034" t="2"\zwd* king of Judah|id="Q319049" t="2"\zwd*, as well as the officials of Judah and the craftsmen and metalsmiths from Jerusalem, and had brought them to Babylon,\f + \fr 24:1 \ft Or metalsmiths, and had brought them from Jerusalem to Babylon\f* the LORD showed me two baskets of figs placed in front of the temple of the LORD. 
 \v 2 One basket had very good figs, like those that ripen early, but the other basket contained very poor figs, so bad they could not be eaten. 
 \b
 \m 
-\v 3 “Jeremiah,” the LORD asked, “what do you see?” 
+\v 3 “\zwd Jeremiah|Q158825\zwd*,” the LORD asked, “what do you see?” 
 \b
 \m “Figs!” I replied. “The good figs are very good, but the bad figs are very bad, so bad they cannot be eaten.” 
 \b
@@ -2590,7 +2590,7 @@
 \m 
 \v 8 But like the bad figs, so bad they cannot be eaten,’ says the LORD, ‘so will I deal with \zwd Zedekiah king of Judah|Q184273\zwd*, his officials, and the remnant of Jerusalem—those remaining in this land and those living in the land of Egypt. 
 \v 9 I will make them a horror and an offense to all the kingdoms of the earth, a disgrace and an object of scorn, ridicule, and cursing wherever I have banished them. 
-\v 10 And I will send against them sword and famine and plague, until they have perished from the land that I gave to them and their fathers.’” 
+\v 10 And I will send against them sword and famine and plague, until they have perished from the land that I gave to them and their fathers.’”\zdate|min="Q319049:P39:Q10550167:P582"\* 
 \c 25
 \s1 Seventy Years of Captivity
 \m 
@@ -2697,7 +2697,7 @@
 \c 26
 \s1 A Warning to the Cities of Judah
 \m 
-\v 1 At the beginning of the reign of \zwd Jehoiakim son of \zwd Josiah|id="Q313228" t="2"\zwd* king of Judah|id="Q319034" t="2"\zwd*, this word came from the LORD: 
+\v 1 \zdate|min="Q319034:P39:Q10550167:P580"\*At the beginning of the reign of \zwd Jehoiakim son of \zwd Josiah|id="Q313228" t="2"\zwd* king of Judah|id="Q319034" t="2"\zwd*, this word came from the LORD: 
 \v 2 “This is what the LORD says: Stand in the courtyard of the house of the LORD and speak all the words I have commanded you to speak to all the cities of Judah who come to worship there. Do not omit a word. 
 \v 3 Perhaps they will listen and turn—each from his evil way of life—so that I may relent of the disaster I am planning to bring upon them because of the evil of their deeds. 
 \b
@@ -3313,7 +3313,7 @@
 \m 
 \v 42 For this is what the LORD says: Just as I have brought all this great disaster on this people, so I will bring on them all the good I have promised them. 
 \v 43 And fields will be bought in this land about which you are saying, ‘It is a desolation, without man or beast; it has been delivered into the hands of the Chaldeans.’ 
-\v 44 Fields will be purchased with silver, and deeds will be signed, sealed, and witnessed in the land of Benjamin, in the areas surrounding Jerusalem, and in the cities of Judah—the cities of the hill country, the foothills,\f + \fr 32:44 \ft Hebrew Shephelah or lowlands; that is, the western foothills of Judea\f* and the Negev—because I will restore them from captivity,\f + \fr 32:44 \ft Or restore their fortunes\f* declares the LORD.”\zdate|Q184273:P39:Q10550167:P580+P10Y\* 
+\v 44 Fields will be purchased with silver, and deeds will be signed, sealed, and witnessed in the land of Benjamin, in the areas surrounding Jerusalem, and in the cities of Judah—the cities of the hill country, the foothills,\f + \fr 32:44 \ft Hebrew Shephelah or lowlands; that is, the western foothills of Judea\f* and the Negev—because I will restore them from captivity,\f + \fr 32:44 \ft Or restore their fortunes\f* declares the LORD.” 
 \c 33
 \s1 The Excellence of the Restored Nation
 \m 
@@ -3394,7 +3394,7 @@
 \b
 \m 
 \v 6 In Jerusalem, then, \zwd Jeremiah the prophet|Q158825\zwd* relayed all these words to \zwd Zedekiah king of Judah|Q184273\zwd* 
-\v 7 as the army of \zwd the king of Babylon|id="Q12591" t="2"\zwd* was fighting against Jerusalem and the remaining cities of Judah—against Lachish and Azekah. For these were the only fortified cities remaining in Judah. 
+\v 7 as the army of \zwd the king of Babylon|id="Q12591" t="2"\zwd* was fighting against Jerusalem and the remaining cities of Judah—against Lachish and Azekah. For these were the only fortified cities remaining in Judah.\zdate|Q184273:P39:Q10550167:P580+P10Y\* 
 \s1 Freedom for Hebrew Slaves
 \b
 \m 
@@ -3750,7 +3750,7 @@
 \s1 The Murder of Gedaliah
 \r (2 Kings 25:25–26)
 \m 
-\v 1 In the seventh month, \zwd Ishmael son of \zwd Nethaniah|\zwd*|\zwd*, the son of \zwd Elishama|\zwd*, who was a member of the royal family and one of the king’s chief officers, came with ten men to \zwd Gedaliah son of \zwd Ahikam|id="Q4695108" t="2"\zwd*|Q1497453\zwd* at Mizpah, and they ate a meal together there. 
+\v 1 \zdate|Q184273:P39:Q10550167:P580+P11Y>Tammuz!9>Tishri\*In the seventh month, \zwd Ishmael son of \zwd Nethaniah|\zwd*|\zwd*, the son of \zwd Elishama|\zwd*, who was a member of the royal family and one of the king’s chief officers, came with ten men to \zwd Gedaliah son of \zwd Ahikam|id="Q4695108" t="2"\zwd*|Q1497453\zwd* at Mizpah, and they ate a meal together there. 
 \v 2 Then \zwd Ishmael son of \zwd Nethaniah|\zwd*|\zwd* and the ten men who were with him got up and struck down \zwd Gedaliah son of \zwd Ahikam|id="Q4695108" t="2"\zwd*|Q1497453\zwd*, the son of \zwd Shaphan|id="Q2904866" t="2"\zwd*, with the sword, killing the one whom \zwd the king of Babylon|id="Q12591" t="2"\zwd* had appointed to govern the land. 
 \v 3 \zwd Ishmael|\zwd* also killed all the Jews who were with \zwd Gedaliah|Q1497453\zwd* at Mizpah, as well as the Chaldean \f + \fr 41:3 \ft Or Babylonian\f* soldiers who were there. 
 \b
@@ -3918,7 +3918,7 @@
 \b
 \m 
 \v 29 This will be a sign to you that I will punish you in this place, declares the LORD, so that you may know that My threats of harm against you will surely stand. 
-\v 30 This is what the LORD says: Behold, I will deliver \zwd Pharaoh Hophra king of Egypt|\zwd* into the hands of his enemies who seek his life, just as I delivered \zwd Zedekiah king of Judah|Q184273\zwd* into the hand of \zwd Nebuchadnezzar king of Babylon|id="Q12591" t="2"\zwd*, the enemy who was seeking his life.” 
+\v 30 This is what the LORD says: Behold, I will deliver \zwd Pharaoh Hophra king of Egypt|\zwd* into the hands of his enemies who seek his life, just as I delivered \zwd Zedekiah king of Judah|Q184273\zwd* into the hand of \zwd Nebuchadnezzar king of Babylon|id="Q12591" t="2"\zwd*, the enemy who was seeking his life.”\zdate|min="Q184273:P39:Q10550167:P580+P11Y>Tammuz!9>Tishri"\* 
 \c 45
 \s1 Jeremiah’s Message to Baruch
 \m 
@@ -4070,7 +4070,7 @@
 \q1 Though I will completely destroy all the nations to which I have banished you, 
 \q2 I will not completely destroy you. 
 \q1 Yet I will discipline you justly, 
-\q2 and will by no means leave you unpunished.”\zdate|Q319034:P39:Q10550167:P582+P4Y\* 
+\q2 and will by no means leave you unpunished.”\zdate|Q319034:P39:Q10550167:P580+P4Y\* 
 \c 47
 \s1 Judgment on the Philistines
 \r (Zephaniah 2:4–7)
@@ -4558,7 +4558,7 @@
 \s1 Judgment on Elam
 \b
 \m 
-\v 34 This is the word of the LORD that came to \zwd Jeremiah the prophet|Q158825\zwd* concerning Elam at the beginning of the reign of \zwd Zedekiah king of Judah|id="Q184273" t="2"\zwd*. 
+\v 34 \zdate|min="Q184273:P39:Q10550167:P580"\*This is the word of the LORD that came to \zwd Jeremiah the prophet|Q158825\zwd* concerning Elam at the beginning of the reign of \zwd Zedekiah king of Judah|id="Q184273" t="2"\zwd*. 
 \v 35 This is what the LORD of Hosts says: 
 \b
 \q1 “Behold, I will shatter Elam’s bow, 
@@ -4585,11 +4585,11 @@
 \q1 
 \v 39 “Yet in the last days, 
 \q2 I will restore Elam from captivity,\f + \fr 49:39 \ft Or restore the fortunes of Elam\f*” 
-\qr declares the LORD. 
+\qr declares the LORD.\zdate|min="Q184273:P39:Q10550167:P580"\* 
 \c 50
 \s1 A Prophecy against Babylon
 \m 
-\v 1 This is the word that the LORD spoke through \zwd Jeremiah the prophet|Q158825\zwd* concerning Babylon and the land of the Chaldeans:\f + \fr 50:1 \ft That is, the Babylonians; also in verses 8, 25, 35, and 45\f* 
+\v 1 \zdate|min="Q184273:P39:Q10550167:P582"\*This is the word that the LORD spoke through \zwd Jeremiah the prophet|Q158825\zwd* concerning Babylon and the land of the Chaldeans:\f + \fr 50:1 \ft That is, the Babylonians; also in verses 8, 25, 35, and 45\f* 
 \b
 \q1 
 \v 2 “Announce and declare to the nations; 
@@ -5213,7 +5213,7 @@
 \q1 “Babylon’s thick walls will be leveled, 
 \q2 and her high gates consumed by fire. 
 \q1 So the labor of the people will be for nothing; 
-\q2 the nations will exhaust themselves to fuel the flames.” 
+\q2 the nations will exhaust themselves to fuel the flames.”\zdate|min="Q184273:P39:Q10550167:P582"\* 
 \s1 Jeremiah’s Message to Seraiah
 \b
 \m 
