@@ -2498,6 +2498,7 @@
 		"David the servant of the LORD",
 		"David His servant",
 		"My chosen one",
+		"David their king",
 		"our father David",
 		"His father David"
 	],
@@ -2759,6 +2760,8 @@
 		"his son Josiah",
 		"king of Judah",
 		"his father",
+		"Josiah son of Amon king of Judah",
+		"his father Josiah",
 		"Josiah son of Amon"
 	],
 	"Q6817157": [
@@ -3351,6 +3354,7 @@
 		"The king of Babylon",
 		"King Nebuchadnezzar",
 		"the king of the Chaldeans",
+		"My servant Nebuchadnezzar king of Babylon",
 		"A great eagle",
 		"the king",
 		"Babylon’s king",
@@ -3370,7 +3374,8 @@
 		"Manasseh",
 		"Manasseh king of Judah",
 		"his son Manasseh",
-		"his father Manasseh"
+		"his father Manasseh",
+		"Manasseh son of Hezekiah king of Judah"
 	],
 	"Q114771167": [
 		"Hephzibah"
@@ -3430,7 +3435,8 @@
 	],
 	"Q336832": [
 		"Jehoahaz son of Josiah",
-		"Jehoahaz"
+		"Jehoahaz",
+		"Shallum"
 	],
 	"Q16573951": [
 		"Hamutal daughter of Jeremiah"
@@ -3439,7 +3445,13 @@
 		"Eliakim son of Josiah",
 		"Eliakim",
 		"Jehoiakim",
-		"Eliakim brother of Jehoahaz"
+		"Eliakim brother of Jehoahaz",
+		"Jehoiakim son of Josiah king of Judah",
+		"King Jehoiakim",
+		"the king",
+		"Jehoiakim king of Judah",
+		"Jehoiakim son of Josiah",
+		"Jehoiakim the son of Josiah king of Judah"
 	],
 	"Q30527376": [
 		"Zebidah daughter of Pedaiah"
@@ -3453,6 +3465,11 @@
 		"Jeconiah the captive",
 		"his son Jehoiachin",
 		"Jeconiah king of Judah",
+		"Coniah son of Jehoiakim king of Judah",
+		"Coniah",
+		"Jeconiah son of Jehoiakim king of Judah",
+		"King Jeconiah",
+		"Coniah son of Jehoiakim",
 		"its king"
 	],
 	"Q20502297": [
@@ -3464,13 +3481,23 @@
 		"Zedekiah",
 		"King Zedekiah",
 		"the king",
+		"Zedekiah son of Josiah king of Judah",
+		"Zedekiah king of Judah",
+		"the king of Judah",
+		"king of Judah",
+		"King Zedekiah of Judah",
+		"Zedekiah son of Josiah the king of Judah",
+		"my lord the king",
+		"My lord the king",
 		"a member of the royal family",
 		"this king"
 	],
 	"Q6903514": [
 		"Nebuzaradan captain of the guard",
 		"the captain of the guard",
-		"The captain of the guard"
+		"The captain of the guard",
+		"Nebuzaradan",
+		"Nebuzaradan captain of the guard took"
 	],
 	"Q18192237": [
 		"Seraiah the chief priest",
@@ -3490,7 +3517,10 @@
 		"Elishama"
 	],
 	"Q313234": [
-		"Evil-merodach"
+		"Evil-merodach",
+		"Evil-merodach king of Babylon",
+		"the king",
+		"the king of Babylon"
 	],
 	"Q2335214": [
 		"Heth"
@@ -4354,7 +4384,10 @@
 	],
 	"Q158825": [
 		"Jeremiah",
-		"Jeremiah the prophet"
+		"Jeremiah the prophet",
+		"Jeremiah son of Hilkiah",
+		"the prophet Jeremiah",
+		"Jeremiah of Anathoth"
 	],
 	"Q8423": [
 		"Cyrus king of Persia",
@@ -4862,6 +4895,36 @@
 		"Teacher",
 		"Rabbi"
 	],
+	"Q2804969": [
+		"Micah the Moreshite"
+	],
+	"Q6644516": [
+		"the prophet Hananiah son of Azzur",
+		"the prophet Hananiah",
+		"Hananiah",
+		"Hananiah the prophet"
+	],
+	"Q140053993": [
+		"Shemaiah the Nehelamite",
+		"Shemaiah"
+	],
+	"Q11689901": [
+		"Hanamel",
+		"my cousin Hanamel"
+	],
+	"Q599907": [
+		"Baruch son of Neriah",
+		"Baruch",
+		"Baruch the scribe",
+		"the scribe Baruch son of Neriah"
+	],
+	"Q6996190": [
+		"Neriah",
+		"Seraiah"
+	],
+	"Q140377442": [
+		"the quartermaster Seraiah son of Neriah"
+	],
 	"Q194064": [
 		"Ezekiel the priest",
 		"Son of man",
@@ -5001,9 +5064,6 @@
 	],
 	"Q4746955": [
 		"Amittai"
-	],
-	"Q2804969": [
-		"Micah the Moreshite"
 	],
 	"Q1981722": [
 		"Nahum the Elkoshite"
