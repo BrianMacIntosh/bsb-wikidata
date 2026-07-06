@@ -297,7 +297,8 @@
 	"Q586541": [
 		"Terah",
 		"my father",
-		"Terah the father of Abraham and Nahor"
+		"Terah the father of Abraham and Nahor",
+		"his father"
 	],
 	"Q9181": [
 		"Abram",
@@ -2500,7 +2501,8 @@
 		"My chosen one",
 		"David their king",
 		"our father David",
-		"His father David"
+		"His father David",
+		"the patriarch David"
 	],
 	"Q321469": [
 		"Abishag the Shunammite",
@@ -3331,7 +3333,8 @@
 		"the prophet Isaiah",
 		"My servant Isaiah",
 		"the prophet Isaiah son of Amoz",
-		"The prophet Isaiah son of Amoz"
+		"The prophet Isaiah son of Amoz",
+		"the prophet"
 	],
 	"Q4748020": [
 		"Amoz"
@@ -4777,11 +4780,21 @@
 		"the Son",
 		"Your Son",
 		"JESUS OF NAZARETH",
+		"Jesus Christ of Nazareth",
+		"His servant Jesus",
+		"the Author of life",
+		"His Servant",
+		"His Anointed One",
+		"Your holy servant Jesus",
+		"Lord Jesus",
+		"the Lord Jesus Christ",
+		"the Savior Jesus",
+		"Your Holy One",
+		"our Lord Jesus Christ",
+		"the Righteous One",
 		"Christ Jesus",
 		"Jesus Christ our Lord",
-		"the Lord Jesus Christ",
 		"Jesus our Lord",
-		"our Lord Jesus Christ",
 		"Christ Jesus our Lord",
 		"His own Son",
 		"Lord of all",
@@ -4790,7 +4803,6 @@
 		"our Lord Jesus",
 		"Christ Jesus Himself",
 		"Christ Himself",
-		"Lord Jesus",
 		"Christ Jesus my Lord",
 		"a Savior",
 		"Lord Jesus Christ",
@@ -4805,7 +4817,6 @@
 		"our Lord and Savior Jesus Christ",
 		"our Lord",
 		"Jesus His Son",
-		"the Righteous One",
 		"the One who was born of God",
 		"His Son Jesus Christ",
 		"One like the Son of Man",
@@ -4852,7 +4863,8 @@
 		"Jesus’ parents",
 		"Jesus’ mother",
 		"Woman",
-		"your mother"
+		"your mother",
+		"Mary the mother of Jesus"
 	],
 	"Q124219534": [
 		"Zechariah son of Jeberekiah"
@@ -5043,7 +5055,8 @@
 		"Lo-ammi"
 	],
 	"Q45053": [
-		"Joel son of Pethuel"
+		"Joel son of Pethuel",
+		"the prophet Joel"
 	],
 	"Q126367633": [
 		"Pethuel"
@@ -5166,7 +5179,10 @@
 		"this man",
 		"his brother Simon",
 		"Simon son of John",
-		"Cephas"
+		"Cephas",
+		"the eleven apostles",
+		"Simon who is called Peter",
+		"Simon "
 	],
 	"Q43399": [
 		"Andrew",
@@ -5182,6 +5198,7 @@
 		"the Eleven",
 		"The Twelve",
 		"Simon Peter’s brother",
+		"the eleven apostles",
 		"the other apostles"
 	],
 	"Q43999": [
@@ -5207,6 +5224,7 @@
 		"his companions",
 		"The disciples",
 		"the sons of Zebedee",
+		"the eleven apostles",
 		"the other apostles"
 	],
 	"Q169363": [
@@ -5245,6 +5263,7 @@
 		"the sons of Zebedee",
 		"the disciple whom Jesus loved",
 		"the disciple who testifies to these things",
+		"the eleven apostles",
 		"the other apostles"
 	],
 	"Q23581940": [
@@ -5265,6 +5284,7 @@
 		"the Eleven",
 		"Levi",
 		"The Twelve",
+		"the eleven apostles",
 		"the other apostles"
 	],
 	"Q43675": [
@@ -5278,6 +5298,7 @@
 		"the apostles",
 		"the Eleven",
 		"The Twelve",
+		"the eleven apostles",
 		"the other apostles"
 	],
 	"Q43982": [
@@ -5291,6 +5312,7 @@
 		"the apostles",
 		"the Eleven",
 		"The Twelve",
+		"the eleven apostles",
 		"the other apostles"
 	],
 	"Q43669": [
@@ -5305,6 +5327,7 @@
 		"the Eleven",
 		"The Twelve",
 		"Thomas called Didymus",
+		"the eleven apostles",
 		"the other apostles"
 	],
 	"Q44047": [
@@ -5318,6 +5341,8 @@
 		"the apostles",
 		"the Eleven",
 		"The Twelve",
+		"the eleven apostles",
+		"James",
 		"the other apostles"
 	],
 	"Q43945": [
@@ -5333,6 +5358,7 @@
 		"Judas son of James",
 		"The Twelve",
 		"Judas",
+		"the eleven apostles",
 		"the other apostles"
 	],
 	"Q12871": [
@@ -5347,6 +5373,7 @@
 		"the Eleven",
 		"Simon called the Zealot",
 		"The Twelve",
+		"the eleven apostles",
 		"the other apostles"
 	],
 	"Q81018": [
@@ -5427,7 +5454,8 @@
 	],
 	"Q313417": [
 		"Barabbas",
-		"the one imprisoned for insurrection and murder"
+		"the one imprisoned for insurrection and murder",
+		"a murderer"
 	],
 	"Q263459": [
 		"his wife"
@@ -5494,7 +5522,8 @@
 	],
 	"Q51680": [
 		"the high priest",
-		"Annas"
+		"Annas",
+		"Annas the high priest"
 	],
 	"Q63746299": [
 		"Alexander"
@@ -5688,17 +5717,209 @@
 		"Your brother",
 		"The man who had been dead"
 	],
+	"Q983883": [
+		"Joseph called Barsabbas",
+		"Justus",
+		"these two"
+	],
+	"Q44020": [
+		"Matthias",
+		"these two",
+		"the Twelve",
+		"the apostles",
+		"the other apostles"
+	],
+	"Q185856": [
+		"Joseph",
+		"Barnabas",
+		"Son of Encouragement"
+	],
+	"Q37946276": [
+		"Ananias",
+		"your husband",
+		"her husband"
+	],
+	"Q37946284": [
+		"his wife Sapphira",
+		"his wife"
+	],
+	"Q310584": [
+		"Gamaliel"
+	],
+	"Q562394": [
+		"Theudas"
+	],
+	"Q371624": [
+		"Judas the Galilean"
+	],
+	"Q161775": [
+		"Stephen",
+		"Your witness Stephen"
+	],
+	"Q508571": [
+		"Philip",
+		"Philip the evangelist"
+	],
+	"Q1169498": [
+		"Prochorus"
+	],
+	"Q2183266": [
+		"Timon"
+	],
+	"Q1398612": [
+		"Parmenas"
+	],
 	"Q9200": [
-		"Paul"
+		"Saul",
+		"Brother Saul",
+		"Paul",
+		"Paul the prisoner",
+		"a certain man",
+		"this man",
+		"This man"
 	],
-	"Q291547": [
-		"Phoebe"
+	"Q139830617": [
+		"Simon",
+		"This man"
 	],
-	"Q22661413": [
-		"Prisca"
+	"Q382898": [
+		"Ananias"
+	],
+	"Q3725177": [
+		"Aeneas"
+	],
+	"Q693055": [
+		"Tabitha",
+		"Dorcas"
+	],
+	"Q435987": [
+		"Cornelius",
+		"Cornelius the centurion",
+		"the man"
+	],
+	"Q335127": [
+		"Agabus"
+	],
+	"Q1411": [
+		"Claudius"
+	],
+	"Q298636": [
+		"King Herod ",
+		"Herod",
+		"the king"
+	],
+	"Q3311767": [
+		"Mary the mother of John"
+	],
+	"Q1992340": [
+		"John",
+		"Mark"
+	],
+	"Q33100712": [
+		"Blastus"
+	],
+	"Q1398261": [
+		"Lucius of Cyrene"
+	],
+	"Q3300101": [
+		"Manaen"
+	],
+	"Q982942": [
+		"Bar-Jesus",
+		"Elymas the sorcerer",
+		"Elymas"
+	],
+	"Q2566388": [
+		"the proconsul",
+		"Sergius Paulus",
+		"The proconsul"
+	],
+	"Q1710870": [
+		"Judas called Barsabbas",
+		"Judas"
+	],
+	"Q312376": [
+		"Silas",
+		"Silvanus"
+	],
+	"Q212647": [
+		"Timothy"
+	],
+	"Q310686": [
+		"Dionysius the Areopagite"
 	],
 	"Q46512139": [
 		"Aquila"
+	],
+	"Q22661413": [
+		"his wife Priscilla",
+		"Priscilla",
+		"Prisca"
+	],
+	"Q1091308": [
+		"Sosthenes the synagogue leader"
+	],
+	"Q335114": [
+		"Apollos"
+	],
+	"Q3567249": [
+		"Sopater son of Pyrrhus"
+	],
+	"Q126616157": [
+		"Pyrrhus"
+	],
+	"Q468859": [
+		"Aristarchus"
+	],
+	"Q1396807": [
+		"Tychicus"
+	],
+	"Q4207124": [
+		"Trophimus",
+		"Trophimus the Ephesian"
+	],
+	"Q3438613": [
+		"Eutychus"
+	],
+	"Q16934159": [
+		"Mnason the Cypriot"
+	],
+	"Q2376069": [
+		"the commander of the Roman regiment",
+		"the commander",
+		"The commander",
+		"Claudius Lysias",
+		"Lysias the commander"
+	],
+	"Q316915": [
+		"Governor Felix",
+		"His Excellency",
+		"the governor",
+		"The governor",
+		"Felix"
+	],
+	"Q485854": [
+		"the high priest Ananias"
+	],
+	"Q3518955": [
+		"Tertullus"
+	],
+	"Q464307": [
+		"Porcius Festus",
+		"Festus",
+		"the governor"
+	],
+	"Q313419": [
+		"King Agrippa",
+		"the king",
+		"Agrippa",
+		"king"
+	],
+	"Q466696": [
+		"Bernice"
+	],
+	"Q291547": [
+		"Phoebe"
 	],
 	"Q477211": [
 		"Ampliatus"
@@ -5712,30 +5933,14 @@
 	"Q618161": [
 		"Apelles"
 	],
-	"Q212647": [
-		"Timothy"
-	],
 	"Q1960801": [
 		"Tertius"
-	],
-	"Q312376": [
-		"Silvanus"
 	],
 	"Q320136": [
 		"Titus"
 	],
 	"Q302986": [
 		"King Aretas"
-	],
-	"Q44020": [
-		"the apostles",
-		"the other apostles"
-	],
-	"Q185856": [
-		"Barnabas"
-	],
-	"Q1396807": [
-		"Tychicus"
 	],
 	"Q724476": [
 		"Epaphroditus"
@@ -5748,9 +5953,6 @@
 	],
 	"Q953527": [
 		"Epaphras"
-	],
-	"Q468859": [
-		"Aristarchus"
 	],
 	"Q4281752": [
 		"Mark the cousin of Barnabas"
@@ -5785,17 +5987,11 @@
 	"Q981729": [
 		"Crescens"
 	],
-	"Q4207124": [
-		"Trophimus"
-	],
 	"Q706540": [
 		"Artemas"
 	],
 	"Q1393130": [
 		"Zenas the lawyer"
-	],
-	"Q335114": [
-		"Apollos"
 	],
 	"Q709209": [
 		"Philemon"
