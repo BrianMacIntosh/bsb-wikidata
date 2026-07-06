@@ -7,8 +7,8 @@
 \s1 Prologue
 \r (Daniel 12:1–13)
 \m
-\v 1 This is the revelation of \zwd Jesus Christ|Q302\zwd*, which God gave Him to show His servants what must soon \f + \fr 1:1 \ft Or suddenly or quickly\f* come to pass. He made it known by sending His angel to \zwd His servant John|Q2733634\zwd*,
-\v 2 who testifies to everything he saw. This is the word of God and the testimony of \zwd Jesus Christ|Q302\zwd*.
+\v 1 This is the revelation of \zwd Jesus Christ|id="Q302" t="2"\zwd*, which God gave Him to show His servants what must soon \f + \fr 1:1 \ft Or suddenly or quickly\f* come to pass. He made it known by sending His angel to \zwd His servant John|Q2733634\zwd*,
+\v 2 who testifies to everything he saw. This is the word of God and the testimony of \zwd Jesus Christ|id="Q302" t="2"\zwd*.
 \b
 \m
 \v 3 Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear and obey what is written in it, because the time is near.
@@ -33,7 +33,7 @@
 \s1 John’s Vision on Patmos
 \b
 \m
-\v 9 I, \zwd John|Q2733634\zwd*, your brother and partner in the tribulation and kingdom and perseverance that are in \zwd Jesus|Q302\zwd*, was on the island of Patmos because of the word of God and my testimony about \zwd Jesus|Q302\zwd*.
+\v 9 I, \zwd John|Q2733634\zwd*, your brother and partner in the tribulation and kingdom and perseverance that are in \zwd Jesus|id="Q302" t="2"\zwd*, was on the island of Patmos because of the word of God and my testimony about \zwd Jesus|id="Q302" t="2"\zwd*.
 \v 10 On the Lord’s day I was in the Spirit, and I heard behind me a loud voice like a trumpet,
 \v 11 saying,\f + \fr 1:11 \ft TR saying, “I am the Alpha and the Omega, the First and the Last,” and,\f* “Write on a scroll what you see and send it to the seven churches: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.”
 \b
@@ -92,13 +92,13 @@
 \m 
 \v 12 To the angel of the church in Pergamum write: 
 \b
-\pmo These are the words of the One who holds the sharp, double-edged sword. 
+\pmo These are the words of \zwd the One who holds the sharp, double-edged sword|Q302\zwd*. 
 \b
 \pmo 
 \v 13 I know where you live, where the throne of Satan sits, yet you hold fast to My name. You did not deny your faith in Me, even in the days of My faithful witness \zwd Antipas|\zwd*, who was killed among you where Satan dwells. 
 \b
 \pmo 
-\v 14 But I have a few things against you, because some of you hold to the teaching of \zwd Balaam|Q574641\zwd*, who taught \zwd Balak|Q1411953\zwd* to place a stumbling block before the Israelites so they would eat food sacrificed to idols and commit sexual immorality. 
+\v 14 But I have a few things against you, because some of you hold to the teaching of \zwd Balaam|id="Q574641" t="2"\zwd*, who taught \zwd Balak|id="Q1411953" t="2"\zwd* to place a stumbling block before the Israelites so they would eat food sacrificed to idols and commit sexual immorality. 
 \v 15 In the same way, some of you also hold to the teaching of the Nicolaitans. 
 \v 16 Therefore repent! Otherwise I will come to you shortly and wage war against them with the sword of My mouth. 
 \b
@@ -110,7 +110,7 @@
 \m 
 \v 18 To the angel of the church in Thyatira write: 
 \b
-\pmo These are the words of the Son of God, whose eyes are like a blazing fire and whose feet are like polished bronze. 
+\pmo These are the words of \zwd the Son of God|Q302\zwd*, whose eyes are like a blazing fire and whose feet are like polished bronze. 
 \b
 \pmo 
 \v 19 I know your deeds—your love, your faith, your service, your perseverance—and your latest deeds are greater than your first. 
@@ -137,7 +137,7 @@
 \m 
 \v 1 “To the angel of the church in Sardis write: 
 \b
-\pmo These are the words of the One who holds the seven spirits \f + \fr 3:1 \ft Or the sevenfold Spirit\f* of God and the seven stars. 
+\pmo These are the words of \zwd the One who holds the seven spirits \f + \fr 3:1 \ft Or the sevenfold Spirit\f* of God and the seven stars|Q302\zwd*. 
 \b
 \pmo I know your deeds; you have a reputation for being alive, yet you are dead. 
 \v 2 Wake up and strengthen what remains, which is about to die; for I have found your deeds incomplete in the sight of My God. 
@@ -154,7 +154,7 @@
 \m 
 \v 7 To the angel of the church in Philadelphia write: 
 \b
-\pmo These are the words of the One who is holy and true, who holds the key of \zwd David|Q41370\zwd*. What He opens no one can shut, and what He shuts no one can open.\f + \fr 3:7 \ft See Isaiah 22:22.\f* 
+\pmo These are the words of \zwd the One who is holy and true|Q302\zwd*, who holds the key of \zwd David|id="Q41370" t="2"\zwd*. What He opens no one can shut, and what He shuts no one can open.\f + \fr 3:7 \ft See Isaiah 22:22.\f* 
 \b
 \pmo 
 \v 8 I know your deeds. Behold, I have placed before you an open door, which no one can shut. I know that you have only a little strength, yet you have kept My word and have not denied My name. 
@@ -173,7 +173,7 @@
 \m 
 \v 14 To the angel of the church in Laodicea write: 
 \b
-\pmo These are the words of the Amen, the faithful and true Witness, the Originator \f + \fr 3:14 \ft Or Beginning or Ruler\f* of God’s creation. 
+\pmo These are the words of \zwd the Amen|Q302\zwd*, \zwd the faithful and true Witness|Q302\zwd*, \zwd the Originator \f + \fr 3:14 \ft Or Beginning or Ruler\f* of God’s creation|Q302\zwd*. 
 \b
 \pmo 
 \v 15 I know your deeds; you are neither cold nor hot. How I wish you were one or the other! 
@@ -1174,7 +1174,7 @@
 \v 15 But outside are the dogs, the sorcerers, the sexually immoral, the murderers, the idolaters, and everyone who loves and practices falsehood. 
 \b
 \m 
-\v 16 “I, \zwd Jesus|Q302\zwd*, have sent My angel to give you this testimony for the churches. I am \zwd the Root and the Offspring of \zwd David|Q41370\zwd*|Q302\zwd*, \zwd the bright Morning Star|Q302\zwd*.” 
+\v 16 “I, \zwd Jesus|Q302\zwd*, have sent My angel to give you this testimony for the churches. I am \zwd the Root and the Offspring of \zwd David|id="Q41370" t="2"\zwd*|Q302\zwd*, \zwd the bright Morning Star|Q302\zwd*.” 
 \b
 \m 
 \v 17 The Spirit and the bride say, “Come!” Let the one who hears say, “Come!” And let the one who is thirsty come, and the one who desires the water of life drink freely. 
