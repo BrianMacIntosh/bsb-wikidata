@@ -2,7 +2,7 @@
 USFM Berean Standard Bible with additional markers linking entities to Wikidata. The text itself is unchanged.
 
 ## Progress
-![Book progress badges](assets/progress.svg)
+![zwd progress badges](assets/zwd-progress.svg)
 
 ## Markers
 The following markers are being added to the USFM markup:
