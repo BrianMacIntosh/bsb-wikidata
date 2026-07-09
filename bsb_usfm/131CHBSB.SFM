@@ -238,7 +238,7 @@
 \v 13 \zwd Jesse|id="Q45090" t="2"\zwd* was the father of \zwd Eliab his firstborn|id="Q96105737" t="2"\zwd*; \zwd Abinadab|id="Q11903854" t="2"\zwd* was born second, \zwd Shimea|id="Q16130530" t="2"\zwd* \f + \fr 2:13 \ft Shimea is a variant of Shammah, Shimeah, and Shimei; see 1 Samuel 16:9, 2 Samuel 13:3, and 2 Samuel 21:21.\f* third, 
 \v 14 \zwd Nethanel|id="Q117074434" t="2"\zwd* fourth, \zwd Raddai|id="Q117074438" t="2"\zwd* fifth, 
 \v 15 \zwd Ozem|id="Q117074443" t="2"\zwd* sixth, and \zwd David|id="Q41370" t="2"\zwd* seventh. 
-\v 16 Their sisters were \zwd Zeruiah|id="Q196771" t="2"\zwd* and \zwd Abigail|id="Q3603697" t="2"\zwd*. And the three sons of Zeruiah were \zwd Abishai|id="Q1154317" t="2"\zwd*, \zwd Joab|id="Q1141064" t="2"\zwd*, and \zwd Asahel|id="Q2915076" t="2"\zwd*. 
+\v 16 Their sisters were \zwd Zeruiah|id="Q196771" t="2"\zwd* and \zwd Abigail|id="Q3603697" t="2"\zwd*. And the three sons of \zwd Zeruiah|id="Q196771" t="2"\zwd* were \zwd Abishai|id="Q1154317" t="2"\zwd*, \zwd Joab|id="Q1141064" t="2"\zwd*, and \zwd Asahel|id="Q2915076" t="2"\zwd*. 
 \v 17 \zwd Abigail|id="Q3603697" t="2"\zwd* was the mother of \zwd Amasa|id="Q2689456" t="2"\zwd*, whose father was \zwd Jether \f + \fr 2:17 \ft Jether is a variant of Ithra; see 2 Samuel 17:25.\f* the Ishmaelite|id="Q6659565" t="2"\zwd*. 
 \b
 \li1 
@@ -1347,11 +1347,11 @@
 \m 
 \v 6 Now \zwd David|Q41370\zwd* had said, “Whoever is the first to strike down a Jebusite will become chief commander.” 
 \b
-\m And Joab son of Zeruiah went up first, and he became the chief. 
+\m And \zwd Joab son of \zwd Zeruiah|id="Q196771" t="2"\zwd*|Q1141064\zwd* went up first, and he became the chief. 
 \b
 \m 
 \v 7 So \zwd David|Q41370\zwd* took up residence in the fortress; that is why it was called the City of \zwd David|Q41370\zwd*. 
-\v 8 He built up the city around it, from the supporting terraces \f + \fr 11:8 \ft Hebrew the Millo\f* to the surrounding wall, while Joab restored the rest of the city. 
+\v 8 He built up the city around it, from the supporting terraces \f + \fr 11:8 \ft Hebrew the Millo\f* to the surrounding wall, while \zwd Joab|Q1141064\zwd* restored the rest of the city. 
 \b
 \m 
 \v 9 And \zwd David|Q41370\zwd* became greater and greater, for the LORD of Hosts was with him. 
@@ -1460,7 +1460,7 @@
 \li1 
 \v 39 \zwd Zelek the Ammonite|Q133269074\zwd*, 
 \b
-\li1 \zwd Naharai the Beerothite|Q62029455\zwd*, the armor-bearer of \zwd Joab son of \zwd Zeruiah|\zwd*|\zwd*, 
+\li1 \zwd Naharai the Beerothite|Q62029455\zwd*, the armor-bearer of \zwd Joab son of \zwd Zeruiah|id="Q196771" t="2"\zwd*|Q1141064\zwd*, 
 \b
 \li1 
 \v 40 \zwd Ira the Ithrite|Q138035004\zwd*, 
@@ -1974,7 +1974,7 @@
 \v 11 and \zwd King David|Q41370\zwd* dedicated these to the LORD, along with the silver and gold he had carried off from all these nations—from Edom and Moab, and from the Ammonites, Philistines, and Amalekites. 
 \b
 \m 
-\v 12 Moreover, \zwd Abishai son of \zwd Zeruiah|\zwd*|\zwd* struck down eighteen thousand Edomites in the Valley of Salt. 
+\v 12 Moreover, \zwd Abishai son of \zwd Zeruiah|id="Q196771" t="2"\zwd*|\zwd* struck down eighteen thousand Edomites in the Valley of Salt. 
 \v 13 He placed garrisons in Edom, and all the Edomites were subject to \zwd David|Q41370\zwd*. So the LORD made \zwd David|Q41370\zwd* victorious wherever he went. 
 \s1 David’s Officers
 \r (2 Samuel 8:15–18)
@@ -1983,14 +1983,14 @@
 \v 14 Thus \zwd David|Q41370\zwd* reigned over all Israel and administered justice and righteousness for all his people: 
 \b
 \li1 
-\v 15 \zwd Joab son of \zwd Zeruiah|\zwd*|\zwd* was over the army; 
+\v 15 \zwd Joab son of \zwd Zeruiah|id="Q196771" t="2"\zwd*|Q1141064\zwd* was over the army; 
 \b
 \li1 \zwd Jehoshaphat son of \zwd Ahilud|\zwd*|\zwd* was the recorder; 
 \b
 \li1 
 \v 16 \zwd Zadok son of \zwd Ahitub|id="Q109376137" t="2"\zwd*|Q140100\zwd* and \zwd Ahimelech \f + \fr 18:16 \ft Some Hebrew manuscripts, Vulgate, and Syriac (see also 2 Samuel 8:17); most Hebrew manuscripts Abimelech\f* son of \zwd Abiathar|id="Q321804" t="2"\zwd*|\zwd* were priests; 
 \b
-\li1 \zwd Shavsha|\zwd* \f + \fr 18:16 \ft Shavsha is also called Seraiah, Sheva, and Shisha; see 2 Samuel 8:17, 2 Samuel 20:25, and 1 Kings 4:3.\f* was the scribe; 
+\li1 \zwd Shavsha|Q124385844\zwd* \f + \fr 18:16 \ft Shavsha is also called Seraiah, Sheva, and Shisha; see 2 Samuel 8:17, 2 Samuel 20:25, and 1 Kings 4:3.\f* was the scribe; 
 \b
 \li1 
 \v 17 \zwd Benaiah son of \zwd Jehoiada|id="Q124375125" t="2"\zwd*|Q816667\zwd* was over the Cherethites and Pelethites; 
@@ -2556,7 +2556,7 @@
 \v 25 His relatives through \zwd Eliezer|id="Q1195680" t="2"\zwd* included \zwd Rehabiah his son|id="Q16595329" t="2"\zwd*, \zwd Jeshaiah \f + \fr 26:25 \ft Jeshaiah is a variant of Isshiah; see 1 Chronicles 24:21.\f* his son|\zwd*, \zwd Joram his son|\zwd*, \zwd Zichri his son|\zwd*, and \zwd Shelomith his son.|\zwd* 
 \v 26 This \zwd Shelomith|\zwd* and \zwd his brothers|\zwd* were in charge of all the treasuries for the things dedicated by \zwd King David|Q41370\zwd*, by the heads of families who were the commanders of thousands and of hundreds, and by the army commanders. 
 \v 27 They had dedicated some of the plunder from their battles to the repair of the house of the LORD. 
-\v 28 Everything that had been dedicated by \zwd Samuel the seer|id="Q6577515" t="2"\zwd*, \zwd Saul son of \zwd Kish|id="Q2915270" t="2"\zwd*|id="Q28730" t="2"\zwd*, \zwd Abner son of \zwd Ner|\zwd*|\zwd*, and \zwd Joab son of \zwd Zeruiah|\zwd*|Q1141064\zwd*, along with everything else that was dedicated, was under the care of \zwd Shelomith|\zwd* and \zwd his brothers|\zwd*. 
+\v 28 Everything that had been dedicated by \zwd Samuel the seer|id="Q6577515" t="2"\zwd*, \zwd Saul son of \zwd Kish|id="Q2915270" t="2"\zwd*|id="Q28730" t="2"\zwd*, \zwd Abner son of \zwd Ner|\zwd*|\zwd*, and \zwd Joab son of \zwd Zeruiah|id="Q196771" t="2"\zwd*|Q1141064\zwd*, along with everything else that was dedicated, was under the care of \zwd Shelomith|\zwd* and \zwd his brothers|\zwd*. 
 \b
 \li1 
 \v 29 From the Izharites, \zwd Chenaniah|\zwd* and his sons had the outside duties \f + \fr 26:29 \ft Or the duties outside (the temple) or the duties outside (Jerusalem)\f* as officers and judges over Israel. 
@@ -2582,7 +2582,7 @@
 \v 6 This \zwd Benaiah|Q816667\zwd* was mighty among the Thirty and was over the Thirty, and \zwd his son Ammizabad|\zwd* was in charge of his division. 
 \b
 \li1 
-\v 7 The fourth, for the fourth month, was \zwd \zwd Joab|id="Q1141064" t="2"\zwd*’s brother Asahel|\zwd*, and \zwd his son Zebadiah|\zwd* was commander after him. There were 24,000 men in his division. 
+\v 7 The fourth, for the fourth month, was \zwd \zwd Joab|id="Q1141064" t="2"\zwd*’s brother Asahel|Q2915076\zwd*, and \zwd his son Zebadiah|\zwd* was commander after him. There were 24,000 men in his division. 
 \b
 \li1 
 \v 8 The fifth, for the fifth month, was the commander \zwd Shamhuth \f + \fr 27:8 \ft Shamhuth is a variant of Shammoth or Shammah; see 1 Chronicles 11:27 and 2 Samuel 23:25.\f* the Izrahite|\zwd*. There were 24,000 men in his division. 
@@ -2647,7 +2647,7 @@
 \b
 \m 
 \v 23 \zwd David|Q41370\zwd* did not count the men aged twenty or under, because the LORD had said that He would make Israel as numerous as the stars of the sky. 
-\v 24 \zwd Joab son of \zwd Zeruiah|\zwd*|Q1141064\zwd* began to count the men but did not finish. For because of this census wrath came upon Israel, and the number was not entered in the Book of the Chronicles of \zwd King David|Q41370\zwd*. 
+\v 24 \zwd Joab son of \zwd Zeruiah|id="Q196771" t="2"\zwd*|Q1141064\zwd* began to count the men but did not finish. For because of this census wrath came upon Israel, and the number was not entered in the Book of the Chronicles of \zwd King David|Q41370\zwd*. 
 \s1 David’s Various Overseers
 \b
 \li1 
