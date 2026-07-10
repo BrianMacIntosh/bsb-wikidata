@@ -786,7 +786,7 @@
 \b
 \li1 From the Kohathites: 
 \b
-\li2 \zwd Heman the singer|\zwd*, the son of \zwd Joel|id="Q20888416" t="2"\zwd*, the son of \zwd Samuel|id="Q6577515" t="2"\zwd*, 
+\li2 \zwd Heman the singer|id="Q140486012" t="2"\zwd*, the son of \zwd Joel|id="Q20888416" t="2"\zwd*, the son of \zwd Samuel|id="Q6577515" t="2"\zwd*, 
 \v 34 the son of \zwd Elkanah|id="Q2424977" t="2"\zwd*, the son of \zwd Jeroham|id="Q6182499" t="2"\zwd*, the son of \zwd Eliel|id="Q115052422" t="2"\zwd*,\f + \fr 6:34 \ft Eliel is also called Eliab; see verse 27. Both of these are other names for Elihu; see 1 Samuel 1:1.\f* the son of \zwd Toah|id="Q115052531" t="2"\zwd*, 
 \v 35 the son of \zwd Zuph|id="Q115052712" t="2"\zwd*, the son of \zwd Elkanah|id="Q115053944" t="2"\zwd*, the son of \zwd Mahath|id="Q115053965" t="2"\zwd*, the son of \zwd Amasai|id="Q123159077" t="2"\zwd*, 
 \v 36 the son of \zwd Elkanah|id="Q115054087" t="2"\zwd*, the son of \zwd Joel|id="Q115091007" t="2"\zwd*, the son of \zwd Azariah|id="Q115091034" t="2"\zwd*, the son of \zwd Zephaniah|id="Q115091088" t="2"\zwd*, 
@@ -794,7 +794,7 @@
 \v 38 the son of \zwd Izhar|id="Q2210407" t="2"\zwd*, the son of \zwd Kohath|id="Q2914557" t="2"\zwd*, the son of \zwd Levi|id="Q215512" t="2"\zwd*, the son of \zwd Israel|id="Q289957" t="2"\zwd*. 
 \b
 \li1 
-\v 39 Heman’s kinsman was Asaph, who served at his right hand: 
+\v 39 \zwd Heman|id="Q140486012" t="2"\zwd*’s kinsman was \zwd Asaph|id="Q43280403" t="2"\zwd*, who served at his right hand: 
 \b
 \li2 \zwd Asaph the son of \zwd Berechiah|id="Q117067059" t="2"\zwd*|id="Q43280403" t="2"\zwd*, the son of \zwd Shimea|id="Q117066963" t="2"\zwd*, 
 \v 40 the son of \zwd Michael|id="Q117066407" t="2"\zwd*, the son of \zwd Baaseiah|id="Q117054285" t="2"\zwd*,\f + \fr 6:40 \ft Most Hebrew manuscripts; some Hebrew manuscripts, one LXX manuscript, and Syriac Maaseiah\f* the son of \zwd Malchijah|id="Q117054281" t="2"\zwd*, 
@@ -1420,7 +1420,7 @@
 \li1 
 \v 31 \zwd Ithai \f + \fr 11:31 \ft Ithai is a variant of Ittai; see 2 Samuel 23:29.\f* son of \zwd Ribai|\zwd*|Q65303236\zwd* from Gibeah of the Benjamites, 
 \b
-\li1 \zwd Benaiah the Pirathonite|\zwd*, 
+\li1 \zwd Benaiah the Pirathonite|Q140254618\zwd*, 
 \b
 \li1 
 \v 32 \zwd Hurai \f + \fr 11:32 \ft Hurai is a variant of Hiddai; see 2 Samuel 23:30.\f* from the brooks \f + \fr 11:32 \ft Or from the ravines\f* of Gaash|Q65303219\zwd*, 
@@ -1727,11 +1727,11 @@
 \b
 \m 
 \v 16 \zwd David|Q41370\zwd* also told the leaders of the Levites to appoint their relatives as singers to lift up their voices with joy, accompanied by musical instruments—harps, lyres, and cymbals. 
-\v 17 So the Levites appointed \zwd Heman son of \zwd Joel|\zwd*|\zwd*; from his brothers, \zwd Asaph son of \zwd Berechiah|id="Q117067059" t="2"\zwd*|Q43280403\zwd*; from their brothers the Merarites, \zwd Ethan son of \zwd Kushaiah|\zwd*|\zwd*; 
+\v 17 So the Levites appointed \zwd Heman son of \zwd Joel|id="Q20888416" t="2"\zwd*|Q140486012\zwd*; from his brothers, \zwd Asaph son of \zwd Berechiah|id="Q117067059" t="2"\zwd*|Q43280403\zwd*; from their brothers the Merarites, \zwd Ethan son of \zwd Kushaiah|id="Q140486113" t="2"\zwd*|Q3567244\zwd*; 
 \v 18 and with them their brothers next in rank: \zwd Zechariah|\zwd*, \f + \fr 15:18 \ft Several Hebrew manuscripts and most LXX manuscripts (see also verse 20 and 1 Chronicles 16:5); most Hebrew manuscripts Zechariah son of or Zechariah, Ben, \f* \zwd Jaaziel|\zwd*, \zwd Shemiramoth|\zwd*, \zwd Jehiel|\zwd*, \zwd Unni|\zwd*, \zwd Eliab|\zwd*, \zwd Benaiah|\zwd*, \zwd Maaseiah|\zwd*, \zwd Mattithiah|\zwd*, \zwd Eliphelehu|\zwd*, \zwd Mikneiah|\zwd*, and the gatekeepers \zwd Obed-edom|\zwd* and \zwd Jeiel|\zwd*.\f + \fr 15:18 \ft Hebrew; some LXX manuscripts Obed-edom, Jeiel, and Azaziah or Obed-edom, Jeiel, and Ozias\f* 
 \b
 \m 
-\v 19 The musicians \zwd Heman|\zwd*, \zwd Asaph|Q43280403\zwd*, and \zwd Ethan|\zwd* were to sound the bronze cymbals. 
+\v 19 The musicians \zwd Heman|Q140486012\zwd*, \zwd Asaph|Q43280403\zwd*, and \zwd Ethan|Q3567244\zwd* were to sound the bronze cymbals. 
 \v 20 \zwd Zechariah|\zwd*, \zwd Aziel|\zwd*,\f + \fr 15:20 \ft Aziel is a variant of Jaaziel; see verse 18.\f* \zwd Shemiramoth|\zwd*, \zwd Jehiel|\zwd*, \zwd Unni|\zwd*, \zwd Eliab|\zwd*, \zwd Maaseiah|\zwd*, and \zwd Benaiah|\zwd* were to play the harps according to Alamoth.\f + \fr 15:20 \ft Alamoth is probably a musical or liturgical term; here and in Psalms 46:1.\f* 
 \v 21 And \zwd Mattithiah|\zwd*, \zwd Eliphelehu|\zwd*, \zwd Mikneiah|\zwd*, \zwd Obed-edom|\zwd*, \zwd Jeiel|\zwd*, and \zwd Azaziah|\zwd* were to lead the music with lyres according to Sheminith.\f + \fr 15:21 \ft Sheminith is probably a musical term; here and in Psalms 6:1 and Psalms 12:1.\f* 
 \v 22 \zwd Chenaniah the head Levite|\zwd* was the director of the music because he was highly skilled. 
@@ -1887,10 +1887,10 @@
 \m 
 \v 39 And \zwd David|Q41370\zwd* left \zwd Zadok the priest|Q140100\zwd* and his fellow priests before the tabernacle of the LORD at the high place in Gibeon 
 \v 40 to regularly present burnt offerings to the LORD on the altar of burnt offerings, morning and evening, according to all that was written in the Law of the LORD, which He had commanded Israel to keep. 
-\v 41 With them were \zwd Heman|\zwd*, \zwd Jeduthun|\zwd*, and the rest of those chosen and designated by name to give thanks to the LORD, for “His loving devotion endures forever.” 
+\v 41 With them were \zwd Heman|\zwd*, \zwd Jeduthun|Q3567244\zwd*, and the rest of those chosen and designated by name to give thanks to the LORD, for “His loving devotion endures forever.” 
 \b
 \m 
-\v 42 \zwd Heman|\zwd* and \zwd Jeduthun|\zwd* had with them trumpets and cymbals for the music and instruments for the songs of God.\f + \fr 16:42 \ft Or instruments for the sacred music\f* And \zwd the sons of \zwd Jeduthun|\zwd*|\zwd* were stationed at the gate. 
+\v 42 \zwd Heman|\zwd* and \zwd Jeduthun|Q3567244\zwd* had with them trumpets and cymbals for the music and instruments for the songs of God.\f + \fr 16:42 \ft Or instruments for the sacred music\f* And \zwd the sons of \zwd Jeduthun|Q3567244\zwd*|\zwd* were stationed at the gate. 
 \b
 \m 
 \v 43 Then all the people departed for their homes, and \zwd David|Q41370\zwd* returned home to bless his household. 
@@ -2111,7 +2111,7 @@
 \m 
 \v 15 Then God sent an angel to destroy Jerusalem, but as the angel was doing so, the LORD saw it and relented from the calamity, and He said to the angel who was destroying the people, “Enough! Withdraw your hand now!” 
 \b
-\m At that time the angel of the LORD was standing by the threshing floor of \zwd Ornan \f + \fr 21:15 \ft Ornan is a variant of Araunah; also in verses 18–28; see 2 Samuel 24:16.\f* the Jebusite|\zwd*. 
+\m At that time the angel of the LORD was standing by the threshing floor of \zwd Ornan \f + \fr 21:15 \ft Ornan is a variant of Araunah; also in verses 18–28; see 2 Samuel 24:16.\f* the Jebusite|id="Q2910439" t="2"\zwd*. 
 \b
 \m 
 \v 16 When \zwd David|Q41370\zwd* lifted up his eyes and saw the angel of the LORD standing between heaven and earth, with a drawn sword in his hand stretched out over Jerusalem, \zwd David|Q41370\zwd* and the elders, clothed in sackcloth, fell facedown. 
@@ -2120,31 +2120,31 @@
 \r (2 Samuel 24:18–25)
 \b
 \m 
-\v 18 Then the angel of the LORD ordered \zwd Gad|Q2559051\zwd* to tell \zwd David|Q41370\zwd* to go up and build an altar to the LORD on the threshing floor of \zwd Ornan the Jebusite|\zwd*. 
+\v 18 Then the angel of the LORD ordered \zwd Gad|Q2559051\zwd* to tell \zwd David|Q41370\zwd* to go up and build an altar to the LORD on the threshing floor of \zwd Ornan the Jebusite|id="Q2910439" t="2"\zwd*. 
 \v 19 So \zwd David|Q41370\zwd* went up at the word that \zwd Gad|Q2559051\zwd* had spoken in the name of the LORD. 
 \b
 \m 
-\v 20 Now \zwd Ornan|\zwd* was threshing wheat when he turned and saw the angel; and his four sons who were with him hid themselves. 
-\v 21 \zwd David|Q41370\zwd* came to \zwd Ornan|\zwd*, and when \zwd Ornan|\zwd* looked out and saw \zwd David|Q41370\zwd*, he left the threshing floor and bowed facedown before \zwd David|Q41370\zwd*. 
+\v 20 Now \zwd Ornan|Q2910439\zwd* was threshing wheat when he turned and saw the angel; and his four sons who were with him hid themselves. 
+\v 21 \zwd David|Q41370\zwd* came to \zwd Ornan|Q2910439\zwd*, and when \zwd Ornan|Q2910439\zwd* looked out and saw \zwd David|Q41370\zwd*, he left the threshing floor and bowed facedown before \zwd David|Q41370\zwd*. 
 \b
 \m 
-\v 22 Then \zwd David|Q41370\zwd* said to \zwd Ornan|\zwd*, “Grant me the site of this threshing floor, that I may build an altar to the LORD. Sell it to me for the full price, so that the plague upon the people may be halted.” 
+\v 22 Then \zwd David|Q41370\zwd* said to \zwd Ornan|Q2910439\zwd*, “Grant me the site of this threshing floor, that I may build an altar to the LORD. Sell it to me for the full price, so that the plague upon the people may be halted.” 
 \b
 \m 
-\v 23 \zwd Ornan|\zwd* said to \zwd David|Q41370\zwd*, “Take it! May \zwd my lord the king|Q41370\zwd* do whatever seems good to him. Look, I will give the oxen for the burnt offerings, the threshing sledges for the wood, and the wheat for the grain offering—I will give it all.” 
+\v 23 \zwd Ornan|Q2910439\zwd* said to \zwd David|Q41370\zwd*, “Take it! May \zwd my lord the king|Q41370\zwd* do whatever seems good to him. Look, I will give the oxen for the burnt offerings, the threshing sledges for the wood, and the wheat for the grain offering—I will give it all.” 
 \b
 \m 
 \v 24 “No,” replied \zwd King David|Q41370\zwd*, “I insist on paying the full price, for I will not take for the LORD what belongs to you, nor will I offer burnt offerings that cost me nothing.” 
 \b
 \m 
-\v 25 So \zwd David|Q41370\zwd* paid \zwd Ornan|\zwd* six hundred shekels of gold \f + \fr 21:25 \ft 600 shekels is approximately 15.1 pounds or 6.8 kilograms of gold.\f* for the site. 
+\v 25 So \zwd David|Q41370\zwd* paid \zwd Ornan|Q2910439\zwd* six hundred shekels of gold \f + \fr 21:25 \ft 600 shekels is approximately 15.1 pounds or 6.8 kilograms of gold.\f* for the site. 
 \v 26 And there he built an altar to the LORD and offered burnt offerings and peace offerings. He called upon the LORD, who answered him with fire from heaven on the altar of burnt offering. 
 \b
 \m 
 \v 27 Then the LORD spoke to the angel, who put his sword back into its sheath. 
 \b
 \m 
-\v 28 At that time, when \zwd David|Q41370\zwd* saw that the LORD had answered him at the threshing floor of \zwd Ornan the Jebusite|\zwd*, he offered sacrifices there. 
+\v 28 At that time, when \zwd David|Q41370\zwd* saw that the LORD had answered him at the threshing floor of \zwd Ornan the Jebusite|id="Q2910439" t="2"\zwd*, he offered sacrifices there. 
 \v 29 For the tabernacle of the LORD that Moses had made in the wilderness and the altar of burnt offering were presently at the high place in Gibeon, 
 \v 30 but \zwd David|Q41370\zwd* could not go before it to inquire of God, because he was afraid of the sword of the angel of the LORD. 
 \c 22
@@ -2404,22 +2404,22 @@
 \c 25
 \s1 Twenty-Four Divisions of Musicians
 \m 
-\v 1 Additionally, \zwd David|Q41370\zwd* and the commanders of the army set apart some of the sons of \zwd Asaph|id="Q43280403" t="2"\zwd*, \zwd Heman|\zwd*, and \zwd Jeduthun|\zwd* to prophesy with the accompaniment of lyres, harps, and cymbals. The following is the list of the men who performed this service: 
+\v 1 Additionally, \zwd David|Q41370\zwd* and the commanders of the army set apart some of the sons of \zwd Asaph|id="Q43280403" t="2"\zwd*, \zwd Heman|id="Q140486012" t="2"\zwd*, and \zwd Jeduthun|id="Q3567244" t="2"\zwd* to prophesy with the accompaniment of lyres, harps, and cymbals. The following is the list of the men who performed this service: 
 \b
 \li1 
 \v 2 From the sons of \zwd Asaph|id="Q43280403" t="2"\zwd*: \zwd Zaccur|\zwd*, \zwd Joseph|\zwd*, \zwd Nethaniah|\zwd*, and \zwd Asarelah|\zwd*. These sons of \zwd Asaph|id="Q43280403" t="2"\zwd* were under the direction of \zwd Asaph|Q43280403\zwd*, who prophesied under the direction of \zwd the king|Q41370\zwd*. 
 \b
 \li1 
-\v 3 From the sons of \zwd Jeduthun|\zwd*: \zwd Gedaliah|\zwd*, \zwd Zeri|\zwd*, \zwd Jeshaiah|\zwd*, \zwd Shimei|\zwd*,\f + \fr 25:3 \ft One Hebrew manuscript and some LXX manuscripts (see also verse 17); most Hebrew manuscripts do not include Shimei.\f* \zwd Hashabiah|\zwd*, and \zwd Mattithiah|\zwd*—six in all—under the direction of \zwd their father Jeduthun|\zwd*, who prophesied with the harp, giving thanks and praise to the LORD. 
+\v 3 From the sons of \zwd Jeduthun|id="Q3567244" t="2"\zwd*: \zwd Gedaliah|Q140486002\zwd*, \zwd Zeri|Q138847635\zwd*, \zwd Jeshaiah|\zwd*, \zwd Shimei|\zwd*,\f + \fr 25:3 \ft One Hebrew manuscript and some LXX manuscripts (see also verse 17); most Hebrew manuscripts do not include Shimei.\f* \zwd Hashabiah|\zwd*, and \zwd Mattithiah|\zwd*—six in all—under the direction of \zwd their father Jeduthun|Q3567244\zwd*, who prophesied with the harp, giving thanks and praise to the LORD. 
 \b
 \li1 
-\v 4 From the sons of \zwd Heman|\zwd*: \zwd Bukkiah|\zwd*, \zwd Mattaniah|\zwd*, \zwd Uzziel|\zwd*, \zwd Shebuel|\zwd*,\f + \fr 25:4 \ft Shebuel is a variant of Shubael; see verse 20.\f* \zwd Jerimoth|\zwd*,\f + \fr 25:4 \ft Jerimoth is a variant of Jeremoth; see verse 22.\f* \zwd Hananiah|\zwd*, \zwd Hanani|\zwd*, \zwd Eliathah|\zwd*, \zwd Giddalti|\zwd*, \zwd Romamti-ezer|\zwd*, \zwd Joshbekashah|\zwd*, \zwd Mallothi|\zwd*, \zwd Hothir|\zwd*, and \zwd Mahazioth|\zwd*. 
-\v 5 All these sons of \zwd Heman \zwd the king|Q41370\zwd*’s seer|\zwd* were given him through the promises of God to exalt him, for God had given \zwd Heman|\zwd* \zwd fourteen sons and three daughters|\zwd*. 
+\v 4 From the sons of \zwd Heman|id="Q140486012" t="2"\zwd*: \zwd Bukkiah|\zwd*, \zwd Mattaniah|\zwd*, \zwd Uzziel|\zwd*, \zwd Shebuel|\zwd*,\f + \fr 25:4 \ft Shebuel is a variant of Shubael; see verse 20.\f* \zwd Jerimoth|\zwd*,\f + \fr 25:4 \ft Jerimoth is a variant of Jeremoth; see verse 22.\f* \zwd Hananiah|\zwd*, \zwd Hanani|\zwd*, \zwd Eliathah|\zwd*, \zwd Giddalti|\zwd*, \zwd Romamti-ezer|\zwd*, \zwd Joshbekashah|\zwd*, \zwd Mallothi|\zwd*, \zwd Hothir|\zwd*, and \zwd Mahazioth|\zwd*. 
+\v 5 All these sons of \zwd Heman \zwd the king|Q41370\zwd*’s seer|id="Q140486012" t="2"\zwd* were given him through the promises of God to exalt him, for God had given \zwd Heman|Q140486012\zwd* \zwd fourteen sons and three daughters|\zwd*. 
 \b
 \m 
 \v 6 All these were under the direction of their fathers for the music of the house of the LORD with cymbals, harps, and lyres, for the service of the house of God. 
 \b
-\m \zwd Asaph|Q43280403\zwd*, \zwd Jeduthun|\zwd*, and \zwd Heman|\zwd* were under the direction of \zwd the king|Q41370\zwd*. 
+\m \zwd Asaph|Q43280403\zwd*, \zwd Jeduthun|Q3567244\zwd*, and \zwd Heman|Q140486012\zwd* were under the direction of \zwd the king|Q41370\zwd*. 
 \v 7 Together with their relatives, who were all trained and skillful in the songs of the LORD, they numbered 288. 
 \v 8 They cast lots for their duties, young and old alike, teacher as well as pupil. 
 \b
@@ -2582,10 +2582,10 @@
 \v 6 This \zwd Benaiah|Q816667\zwd* was mighty among the Thirty and was over the Thirty, and \zwd his son Ammizabad|\zwd* was in charge of his division. 
 \b
 \li1 
-\v 7 The fourth, for the fourth month, was \zwd \zwd Joab|id="Q1141064" t="2"\zwd*’s brother Asahel|Q2915076\zwd*, and \zwd his son Zebadiah|\zwd* was commander after him. There were 24,000 men in his division. 
+\v 7 The fourth, for the fourth month, was \zwd \zwd Joab|id="Q1141064" t="2"\zwd*’s brother Asahel|Q2915076\zwd*, and \zwd his son Zebadiah|Q138862803\zwd* was commander after him. There were 24,000 men in his division. 
 \b
 \li1 
-\v 8 The fifth, for the fifth month, was the commander \zwd Shamhuth \f + \fr 27:8 \ft Shamhuth is a variant of Shammoth or Shammah; see 1 Chronicles 11:27 and 2 Samuel 23:25.\f* the Izrahite|\zwd*. There were 24,000 men in his division. 
+\v 8 The fifth, for the fifth month, was the commander \zwd Shamhuth \f + \fr 27:8 \ft Shamhuth is a variant of Shammoth or Shammah; see 1 Chronicles 11:27 and 2 Samuel 23:25.\f* the Izrahite|Q140312264\zwd*. There were 24,000 men in his division. 
 \b
 \li1 
 \v 9 The sixth, for the sixth month, was \zwd Ira son of \zwd Ikkesh|\zwd* the Tekoite|Q132165535\zwd*. There were 24,000 men in his division. 
@@ -2594,7 +2594,7 @@
 \v 10 The seventh, for the seventh month, was \zwd Helez the Pelonite|Q63555805\zwd*, an Ephraimite. There were 24,000 men in his division. 
 \b
 \li1 
-\v 11 The eighth, for the eighth month, was \zwd Sibbecai the Hushathite|\zwd*, a Zerahite. There were 24,000 men in his division. 
+\v 11 The eighth, for the eighth month, was \zwd Sibbecai the Hushathite|Q133268748\zwd*, a Zerahite. There were 24,000 men in his division. 
 \b
 \li1 
 \v 12 The ninth, for the ninth month, was \zwd Abiezer the Anathothite|Q125478944\zwd*, a Benjamite. There were 24,000 men in his division. 
@@ -2603,7 +2603,7 @@
 \v 13 The tenth, for the tenth month, was \zwd Maharai the Netophathite|Q65303361\zwd*, a Zerahite. There were 24,000 men in his division. 
 \b
 \li1 
-\v 14 The eleventh, for the eleventh month, was \zwd Benaiah the Pirathonite|\zwd*, an Ephraimite. There were 24,000 men in his division. 
+\v 14 The eleventh, for the eleventh month, was \zwd Benaiah the Pirathonite|Q140254618\zwd*, an Ephraimite. There were 24,000 men in his division. 
 \b
 \li1 
 \v 15 The twelfth, for the twelfth month, was \zwd Heldai \f + \fr 27:15 \ft Heldai is a variant of Heled; see 1 Chronicles 11:30 and 2 Samuel 23:29.\f* the Netophathite|\zwd*, from the family of \zwd Othniel|\zwd*. There were 24,000 men in his division. 
@@ -2614,7 +2614,7 @@
 \b
 \li1 Over the Reubenites was \zwd Eliezer son of \zwd Zichri|\zwd*|\zwd*; 
 \b
-\li1 over the Simeonites was \zwd Shephatiah son of \zwd Maacah|\zwd*|\zwd*; 
+\li1 over the Simeonites was \zwd Shephatiah son of \zwd Maacah|\zwd*|Q140030800\zwd*; 
 \b
 \li1 
 \v 17 over Levi was \zwd Hashabiah son of \zwd Kemuel|\zwd*|\zwd*; 
@@ -2641,7 +2641,7 @@
 \b
 \li1 over Benjamin was \zwd Jaasiel son of \zwd Abner|\zwd*|\zwd*; 
 \q1 
-\v 22 and over Dan was \zwd Azarel son of \zwd Jeroham|\zwd*|\zwd*. 
+\v 22 and over Dan was \zwd Azarel son of \zwd Jeroham|\zwd*|Q139383525\zwd*. 
 \b
 \m These were the leaders of the tribes of Israel. 
 \b
@@ -2651,7 +2651,7 @@
 \s1 David’s Various Overseers
 \b
 \li1 
-\v 25 \zwd Azmaveth son of \zwd Adiel|\zwd*|\zwd* was in charge of the royal storehouses. 
+\v 25 \zwd Azmaveth son of \zwd Adiel|\zwd*|Q139575467\zwd* was in charge of the royal storehouses. 
 \b
 \li1 \zwd Jonathan son of \zwd Uzziah|\zwd*|\zwd* was in charge of the storehouses in the country, in the cities, in the villages, and in the fortresses. 
 \b
@@ -2659,19 +2659,19 @@
 \v 26 \zwd Ezri son of \zwd Chelub|\zwd*|\zwd* was in charge of the workers in the fields who tilled the soil. 
 \b
 \li1 
-\v 27 \zwd Shimei the Ramathite|\zwd* was in charge of the vineyards. 
+\v 27 \zwd Shimei the Ramathite|Q139963677\zwd* was in charge of the vineyards. 
 \b
-\li1 \zwd Zabdi the Shiphmite|\zwd* was in charge of the produce of the vineyards for the wine vats. 
+\li1 \zwd Zabdi the Shiphmite|Q11955533\zwd* was in charge of the produce of the vineyards for the wine vats. 
 \b
 \li1 
-\v 28 \zwd Baal-hanan the Gederite|\zwd* was in charge of the olive and sycamore trees in the foothills.\f + \fr 27:28 \ft Hebrew Shephelah or lowlands; that is, the western foothills of Judea\f* 
+\v 28 \zwd Baal-hanan the Gederite|Q139583253\zwd* was in charge of the olive and sycamore trees in the foothills.\f + \fr 27:28 \ft Hebrew Shephelah or lowlands; that is, the western foothills of Judea\f* 
 \b
 \li1 \zwd Joash|\zwd* was in charge of the stores of olive oil. 
 \b
 \li1 
-\v 29 \zwd Shitrai the Sharonite|\zwd* was in charge of the herds grazing in Sharon. 
+\v 29 \zwd Shitrai the Sharonite|Q139890975\zwd* was in charge of the herds grazing in Sharon. 
 \b
-\li1 \zwd Shaphat son of Adlai|\zwd* was in charge of the herds in the valleys. 
+\li1 \zwd Shaphat son of \zwd Adlai|\zwd*|Q140288456\zwd* was in charge of the herds in the valleys. 
 \b
 \li1 
 \v 30 \zwd Obil the Ishmaelite|\zwd* was in charge of the camels. 
@@ -2690,12 +2690,12 @@
 \li1 \zwd Jehiel son of \zwd Hachmoni|\zwd*|\zwd* attended to the sons of \zwd the king|id="Q41370" t="2"\zwd*. 
 \b
 \li1 
-\v 33 \zwd Ahithophel|\zwd* was \zwd the king|id="Q41370" t="2"\zwd*’s counselor. 
+\v 33 \zwd Ahithophel|id="Q400294" t="2"\zwd* was \zwd the king|id="Q41370" t="2"\zwd*’s counselor. 
 \b
-\li1 \zwd Hushai the Archite|\zwd* was \zwd the king|id="Q41370" t="2"\zwd*’s friend. 
+\li1 \zwd Hushai the Archite|id="Q5949258" t="2"\zwd* was \zwd the king|id="Q41370" t="2"\zwd*’s friend. 
 \b
 \li1 
-\v 34 \zwd Ahithophel|\zwd* was succeeded by \zwd Jehoiada son of \zwd Benaiah|\zwd*|\zwd*, then by \zwd Abiathar|\zwd*. 
+\v 34 \zwd Ahithophel|id="Q400294" t="2"\zwd* was succeeded by \zwd Jehoiada son of \zwd Benaiah|\zwd*|\zwd*, then by \zwd Abiathar|\zwd*. 
 \b
 \li1 \zwd Joab|Q1141064\zwd* was the commander of \zwd the king|id="Q41370" t="2"\zwd*’s army. 
 \c 28

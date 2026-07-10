@@ -1202,6 +1202,11 @@
 		"your father’s sons",
 		"His brothers"
 	],
+	"Q104901768": [
+		"Adah daughter of Elon the Hittite",
+		"Adah",
+		"Esau’s wife Adah"
+	],
 	"Q2344483": [
 		"Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite",
 		"Oholibamah",
@@ -2757,7 +2762,6 @@
 		"the king of Israel",
 		"Your servant David",
 		"The king",
-		"the king of Maacah",
 		"his master",
 		"your father",
 		"My lord the king",
@@ -3008,7 +3012,6 @@
 	"Q851686": [
 		"a son",
 		"Mephibosheth",
-		"Rimmon the Beerothite",
 		"Jonathan’s son",
 		"Mephibosheth son of Jonathan",
 		"“Mephibosheth",
@@ -3261,6 +3264,25 @@
 		"Eleazar",
 		"Eleazar son of Dodo the Ahohite"
 	],
+	"Q10367361": [
+		"Shammah the Harodite"
+	],
+	"Q140488443": [
+		"Elika the Harodite"
+	],
+	"Q132165535": [
+		"Ira son of Ikkesh the Tekoite"
+	],
+	"Q125478944": [
+		"Abiezer the Anathothite"
+	],
+	"Q133269048": [
+		"Zalmon the Ahohite",
+		"Ilai the Ahohite"
+	],
+	"Q65303361": [
+		"Maharai the Netophathite"
+	],
 	"Q140254618": [
 		"Benaiah the Pirathonite"
 	],
@@ -3300,6 +3322,12 @@
 	],
 	"Q62029455": [
 		"Naharai the Beerothite"
+	],
+	"Q2910439": [
+		"Araunah the Jebusite",
+		"Araunah",
+		"Ornan the Jebusite",
+		"Ornan"
 	],
 	"Q321469": [
 		"Abishag the Shunammite",
@@ -4621,6 +4649,12 @@
 	"Q117054231": [
 		"Jahath his son"
 	],
+	"Q140486012": [
+		"Heman the singer",
+		"Heman",
+		"Heman son of Joel",
+		"Heman the king’s seer"
+	],
 	"Q115053944": [
 		"Elkanah"
 	],
@@ -4649,9 +4683,9 @@
 		"Assir"
 	],
 	"Q43280403": [
+		"Asaph",
 		"Asaph the son of Berechiah",
 		"Asaph son of Berechiah",
-		"Asaph",
 		"Asaph the seer"
 	],
 	"Q117067059": [
@@ -4738,20 +4772,8 @@
 	"Q63555805": [
 		"Helez the Pelonite"
 	],
-	"Q132165535": [
-		"Ira son of Ikkesh the Tekoite"
-	],
-	"Q125478944": [
-		"Abiezer the Anathothite"
-	],
 	"Q65303389": [
 		"Sibbecai the Hushathite"
-	],
-	"Q133269048": [
-		"Ilai the Ahohite"
-	],
-	"Q65303361": [
-		"Maharai the Netophathite"
 	],
 	"Q65303236": [
 		"Ithai son of Ribai"
@@ -4764,6 +4786,16 @@
 	],
 	"Q65303551": [
 		"Zabad son of Ahlai"
+	],
+	"Q3567244": [
+		"Ethan son of Kushaiah",
+		"Ethan",
+		"Jeduthun",
+		"their father Jeduthun",
+		"Jeduthun the king’s seer"
+	],
+	"Q140486113": [
+		"Kushaiah"
 	],
 	"Q5637565": [
 		"King Hadadezer of Zobah",
@@ -4779,6 +4811,42 @@
 	],
 	"Q140131269": [
 		"Shelomoth"
+	],
+	"Q140486002": [
+		"Gedaliah"
+	],
+	"Q138847635": [
+		"Zeri"
+	],
+	"Q138862803": [
+		"his son Zebadiah"
+	],
+	"Q140312264": [
+		"Shamhuth the Izrahite"
+	],
+	"Q140030800": [
+		"Shephatiah son of Maacah"
+	],
+	"Q139383525": [
+		"Azarel son of Jeroham"
+	],
+	"Q139575467": [
+		"Azmaveth son of Adiel"
+	],
+	"Q139963677": [
+		"Shimei the Ramathite"
+	],
+	"Q11955533": [
+		"Zabdi the Shiphmite"
+	],
+	"Q139583253": [
+		"Baal-hanan the Gederite"
+	],
+	"Q139890975": [
+		"Shitrai the Sharonite"
+	],
+	"Q140288456": [
+		"Shaphat son of Adlai"
 	],
 	"Q114752409": [
 		"Mahalath"
@@ -5274,6 +5342,7 @@
 		"His Son Jesus Christ our Lord",
 		"our Lord Jesus",
 		"The Lord Jesus",
+		"the last Adam",
 		"Christ Jesus Himself",
 		"Christ Himself",
 		"Christ Jesus my Lord",
@@ -5286,6 +5355,7 @@
 		"the man Christ Jesus",
 		"Jesus the Son of God",
 		"our glorious Lord Jesus Christ",
+		"Chief Shepherd",
 		"our God and Savior Jesus Christ",
 		"our Lord and Savior Jesus Christ",
 		"our Lord",
@@ -5572,6 +5642,9 @@
 	],
 	"Q115750150": [
 		"Gedaliah"
+	],
+	"Q115750166": [
+		"Amariah"
 	],
 	"Q604259": [
 		"Zechariah son of Berechiah",
