@@ -2124,6 +2124,11 @@
 	"Q124759404": [
 		"Beor"
 	],
+	"Q203956": [
+		"an Israelite man",
+		"the Israelite",
+		"Zimri son of Salu"
+	],
 	"Q1352758": [
 		"a Midianite woman",
 		"the woman",
@@ -2132,6 +2137,9 @@
 		"Cozbi",
 		"their sister Cozbi",
 		"the woman who was killed"
+	],
+	"Q125747738": [
+		"Salu"
 	],
 	"Q106808575": [
 		"Nemuel"
@@ -2473,6 +2481,162 @@
 	"Q126367567": [
 		"Micah"
 	],
+	"Q363660": [
+		"a certain man",
+		"The man",
+		"Elimelech",
+		"Naomi’s husband Elimelech",
+		"her husband",
+		"her husband’s",
+		"our brother Elimelech"
+	],
+	"Q2596433": [
+		"his wife",
+		"his wife’s",
+		"Naomi",
+		"Naomi’s",
+		"her mother-in-law",
+		"Mara",
+		"your mother-in-law",
+		"Ruth’s mother-in-law Naomi"
+	],
+	"Q9026972": [
+		"two sons",
+		"his two sons",
+		"Mahlon",
+		"her two sons",
+		"your husband",
+		"the deceased",
+		"Mahlon’s"
+	],
+	"Q30246326": [
+		"two sons",
+		"his two sons",
+		"Chilion",
+		"her two sons"
+	],
+	"Q1697019": [
+		"their wives",
+		"Orpah",
+		"her daughters-in-law",
+		"her two daughters-in-law",
+		"my daughters",
+		"your sister-in-law"
+	],
+	"Q1774982": [
+		"their wives",
+		"Ruth",
+		"her daughters-in-law",
+		"her two daughters-in-law",
+		"my daughters",
+		"her daughter-in-law Ruth the Moabitess",
+		"Ruth the Moabitess",
+		"my daughter",
+		"the Moabitess",
+		"your maidservant",
+		"her daughter-in-law",
+		"her daughter-in-law Ruth",
+		"My daughter",
+		"Ruth’s",
+		"a woman",
+		"the widow of the deceased",
+		"Mahlon’s widow",
+		"the woman",
+		"this young woman",
+		"his wife",
+		"your daughter-in-law",
+		"Naomi"
+	],
+	"Q212253": [
+		"Boaz",
+		"My lord",
+		"the man"
+	],
+	"Q1135791": [
+		"a son",
+		"the child",
+		"Obed"
+	],
+	"Q45090": [
+		"Jesse",
+		"Jesse of Bethlehem",
+		"his father",
+		"your servant Jesse",
+		"my father and mother",
+		"my father"
+	],
+	"Q41370": [
+		"David",
+		"the youngest",
+		"his youngest son",
+		"a son of Jesse of Bethlehem",
+		"your son David",
+		"his son David",
+		"Your servant",
+		"this young man",
+		"young man",
+		"his servant David",
+		"your servant",
+		"the son of Jesse",
+		"the king’s son-in-law",
+		"the captain of your bodyguard",
+		"David my son",
+		"this son of Jesse",
+		"My lord",
+		"my lord",
+		"His servant",
+		"his servant",
+		"your neighbor David",
+		"My servant David",
+		"my lord the king",
+		"the king",
+		"King David",
+		"the king of Israel",
+		"Your servant David",
+		"The king",
+		"his master",
+		"your father",
+		"My lord the king",
+		"our lord the king",
+		"you worthless man of bloodshed",
+		"your friend",
+		"his father",
+		"the LORD’s anointed",
+		"Jesse’s son",
+		"their king",
+		"His king",
+		"David son of Jesse",
+		"the man raised on high",
+		"His father",
+		"our lord David",
+		"my lord King David",
+		"Our lord King David",
+		"our lord King David",
+		"his father David",
+		"my father David",
+		"my father",
+		"your father David",
+		"His servant David",
+		"Solomon’s father David",
+		"David My servant",
+		"David king of Israel",
+		"David his father",
+		"David the man of God",
+		"David the servant of the LORD",
+		"David His servant",
+		"My chosen one",
+		"David their king",
+		"our father David",
+		"His father David",
+		"the patriarch David"
+	],
+	"Q1824842": [
+		"Ram"
+	],
+	"Q1771358": [
+		"Salmon",
+		"Sala"
+	],
 	"Q2424977": [
 		"a man named Elkanah",
 		"Elkanah",
@@ -2708,14 +2872,6 @@
 		"Agag",
 		"Agag king of the Amalekites"
 	],
-	"Q45090": [
-		"Jesse of Bethlehem",
-		"Jesse",
-		"his father",
-		"your servant Jesse",
-		"my father and mother",
-		"my father"
-	],
 	"Q11903854": [
 		"Abinadab",
 		"The three older sons of Jesse",
@@ -2732,71 +2888,6 @@
 		"David’s brother Shimeah",
 		"David’s brother Shimei",
 		"Shimea"
-	],
-	"Q41370": [
-		"the youngest",
-		"his youngest son",
-		"David",
-		"a son of Jesse of Bethlehem",
-		"your son David",
-		"his son David",
-		"Your servant",
-		"this young man",
-		"young man",
-		"his servant David",
-		"your servant",
-		"the son of Jesse",
-		"the king’s son-in-law",
-		"the captain of your bodyguard",
-		"David my son",
-		"this son of Jesse",
-		"My lord",
-		"my lord",
-		"His servant",
-		"his servant",
-		"your neighbor David",
-		"My servant David",
-		"my lord the king",
-		"the king",
-		"King David",
-		"the king of Israel",
-		"Your servant David",
-		"The king",
-		"his master",
-		"your father",
-		"My lord the king",
-		"our lord the king",
-		"you worthless man of bloodshed",
-		"your friend",
-		"his father",
-		"the LORD’s anointed",
-		"Jesse’s son",
-		"their king",
-		"His king",
-		"David son of Jesse",
-		"the man raised on high",
-		"His father",
-		"our lord David",
-		"my lord King David",
-		"Our lord King David",
-		"our lord King David",
-		"his father David",
-		"my father David",
-		"my father",
-		"your father David",
-		"His servant David",
-		"Solomon’s father David",
-		"David My servant",
-		"David king of Israel",
-		"David his father",
-		"David the man of God",
-		"David the servant of the LORD",
-		"David His servant",
-		"My chosen one",
-		"David their king",
-		"our father David",
-		"His father David",
-		"the patriarch David"
 	],
 	"Q192785": [
 		"Goliath",
@@ -2815,6 +2906,10 @@
 		"David’s oldest brother Eliab",
 		"Eliab his firstborn",
 		"Jesse’s son Eliab"
+	],
+	"Q2825091": [
+		"Adriel of Meholah",
+		"Adriel son of Barzillai the Meholathite"
 	],
 	"Q400257": [
 		"Ahimelech the priest",
@@ -3226,7 +3321,8 @@
 		"Barzillai the Gileadite",
 		"Barzillai",
 		"your servant",
-		"Your servant"
+		"Your servant",
+		"Barzillai the Meholathite"
 	],
 	"Q30526936": [
 		"your servant Chimham",
@@ -3387,6 +3483,12 @@
 	],
 	"Q139973134": [
 		"Shimei son of Ela"
+	],
+	"Q1370913": [
+		"Ethan the Ezrahite"
+	],
+	"Q2415069": [
+		"Mahol"
 	],
 	"Q108422651": [
 		"Huram",
@@ -4243,22 +4345,9 @@
 		"Jerahmeel",
 		"Jerahmeel the firstborn of Hezron"
 	],
-	"Q1824842": [
-		"Ram"
-	],
 	"Q16938772": [
 		"Caleb",
 		"Caleb son of Hezron"
-	],
-	"Q1771358": [
-		"Salmon",
-		"Sala"
-	],
-	"Q212253": [
-		"Boaz"
-	],
-	"Q1135791": [
-		"Obed"
 	],
 	"Q117074434": [
 		"Nethanel"
@@ -4873,6 +4962,9 @@
 		"Azariah son of Oded",
 		"Azariah son of Oded the prophet"
 	],
+	"Q1966067": [
+		"Jahaziel son of Zechariah"
+	],
 	"Q116686349": [
 		"Azariah",
 		"all his brothers",
@@ -4916,6 +5008,13 @@
 	"Q16341302": [
 		"Oded"
 	],
+	"Q140499759": [
+		"Conaniah the Levite",
+		"Conaniah"
+	],
+	"Q139963652": [
+		"his brother Shimei"
+	],
 	"Q125102": [
 		"Neco king of Egypt",
 		"Neco",
@@ -4942,6 +5041,9 @@
 	"Q94258346": [
 		"Sheshbazzar the prince of Judah",
 		"Sheshbazzar"
+	],
+	"Q1577528": [
+		"Parosh"
 	],
 	"Q7124538": [
 		"Pahath-moab"
@@ -5003,6 +5105,21 @@
 		"Ezra the priest and scribe",
 		"Ezra the priest",
 		"Ezra the scribe"
+	],
+	"Q139963579": [
+		"Shimei"
+	],
+	"Q138706939": [
+		"Adna"
+	],
+	"Q139931507": [
+		"Shimeon"
+	],
+	"Q139963567": [
+		"Shimei"
+	],
+	"Q139963558": [
+		"Shimei"
 	],
 	"Q1025598": [
 		"Nehemiah son of Hacaliah",
@@ -5483,6 +5600,16 @@
 	"Q6996190": [
 		"Neriah"
 	],
+	"Q32979697": [
+		"Shelemiah son of Abdeel"
+	],
+	"Q2613514": [
+		"Abdeel"
+	],
+	"Q177617": [
+		"Ebed-melech the Cushite",
+		"Ebed-melech"
+	],
 	"Q140377442": [
 		"the quartermaster Seraiah son of Neriah",
 		"Seraiah"
@@ -5658,9 +5785,6 @@
 	],
 	"Q5767200": [
 		"Malachi"
-	],
-	"Q1774982": [
-		"Ruth"
 	],
 	"Q321170": [
 		"Abiud"
@@ -6015,6 +6139,20 @@
 		"Simon",
 		"Simon of Cyrene"
 	],
+	"Q284623": [
+		"the robbers who were crucified with Him",
+		"two robbers",
+		"those who were crucified with Him",
+		"One of the criminals",
+		"two others"
+	],
+	"Q355121": [
+		"the robbers who were crucified with Him",
+		"two robbers",
+		"those who were crucified with Him",
+		"the other one",
+		"two others"
+	],
 	"Q63070": [
 		"Mary Magdalene",
 		"Mary called Magdalene",
@@ -6235,6 +6373,13 @@
 	"Q4208533": [
 		"Cainan"
 	],
+	"Q269889": [
+		"Joanna the wife of Herod’s household manager Chuza",
+		"Joanna"
+	],
+	"Q106079959": [
+		"Herod’s household manager Chuza"
+	],
 	"Q232453": [
 		"Martha",
 		"her sister Martha",
@@ -6252,6 +6397,10 @@
 	],
 	"Q711072": [
 		"Cleopas"
+	],
+	"Q1359769": [
+		"Nathanael",
+		"Nathanael from Cana in Galilee"
 	],
 	"Q295084": [
 		"Nicodemus"
@@ -6333,6 +6482,11 @@
 		"Simon",
 		"This man"
 	],
+	"Q1374017": [
+		"Ethiopian eunuch",
+		"The eunuch",
+		"the eunuch"
+	],
 	"Q382898": [
 		"Ananias"
 	],
@@ -6396,8 +6550,17 @@
 	"Q212647": [
 		"Timothy"
 	],
+	"Q292282": [
+		"Lydia"
+	],
+	"Q978409": [
+		"Jason"
+	],
 	"Q310686": [
 		"Dionysius the Areopagite"
+	],
+	"Q466687": [
+		"Damaris"
 	],
 	"Q46512139": [
 		"Aquila"
@@ -6476,6 +6639,9 @@
 	"Q291547": [
 		"Phoebe"
 	],
+	"Q262766": [
+		"Junia"
+	],
 	"Q477211": [
 		"Ampliatus"
 	],
@@ -6488,8 +6654,14 @@
 	"Q618161": [
 		"Apelles"
 	],
+	"Q752778": [
+		"Asyncritus"
+	],
 	"Q1960801": [
 		"Tertius"
+	],
+	"Q1075381": [
+		"Chloe"
 	],
 	"Q1140217": [
 		"Crispus"
@@ -6499,6 +6671,9 @@
 	],
 	"Q7608188": [
 		"Stephanas"
+	],
+	"Q1376253": [
+		"Fortunatus"
 	],
 	"Q982939": [
 		"Achaicus"
@@ -6533,6 +6708,9 @@
 	"Q16199754": [
 		"Hymenaeus"
 	],
+	"Q1373978": [
+		"your mother Eunice"
+	],
 	"Q130218125": [
 		"Phygelus"
 	],
@@ -6553,6 +6731,9 @@
 	],
 	"Q981729": [
 		"Crescens"
+	],
+	"Q1348146": [
+		"Erastus"
 	],
 	"Q706540": [
 		"Artemas"
