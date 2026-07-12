@@ -6,7 +6,7 @@
 \c 1
 \s1 The Call of Jeremiah
 \m
-\v 1 These are the words of \zwd Jeremiah son of Hilkiah|Q158825\zwd*, one of the priests in Anathoth in the territory of Benjamin.
+\v 1 These are the words of \zwd Jeremiah son of \zwd Hilkiah|id="Q25796501" t="2"\zwd*|Q158825\zwd*, one of the priests in Anathoth in the territory of Benjamin.
 \b
 \m
 \v 2 \zdate|Q313228:P39:Q10550167:P580+P12Y\*The word of the LORD came to \zwd Jeremiah|Q158825\zwd* in the thirteenth year of the reign of \zwd Josiah son of \zwd Amon|id="Q313423" t="2"\zwd* king of Judah|id="Q313228" t="2"\zwd*,
@@ -2743,12 +2743,12 @@
 \s1 The Prophet Uriah
 \b
 \m 
-\v 20 Now there was another man prophesying in the name of the LORD, \zwd Uriah son of \zwd Shemaiah|\zwd*|\zwd* from Kiriath-jearim. He prophesied against this city and against this land the same things that \zwd Jeremiah|Q158825\zwd* did.\f + \fr 26:20 \ft Literally according to all the words of Jeremiah\f* 
-\v 21 \zwd King Jehoiakim|Q319034\zwd* and all his mighty men and officials heard his words, and \zwd the king|Q319034\zwd* sought to put him to death. But when \zwd Uriah|\zwd* found out about it, he fled in fear and went to Egypt. 
+\v 20 Now there was another man prophesying in the name of the LORD, \zwd Uriah son of \zwd Shemaiah|id="Q124382215" t="2"\zwd*|Q3206316\zwd* from Kiriath-jearim. He prophesied against this city and against this land the same things that \zwd Jeremiah|Q158825\zwd* did.\f + \fr 26:20 \ft Literally according to all the words of Jeremiah\f* 
+\v 21 \zwd King Jehoiakim|Q319034\zwd* and all his mighty men and officials heard his words, and \zwd the king|Q319034\zwd* sought to put him to death. But when \zwd Uriah|Q3206316\zwd* found out about it, he fled in fear and went to Egypt. 
 \b
 \m 
-\v 22 Then \zwd King Jehoiakim|Q319034\zwd* sent men to Egypt: \zwd Elnathan son of \zwd Achbor|\zwd*|\zwd* along with some other men. 
-\v 23 They brought \zwd Uriah|\zwd* out of Egypt and took him to \zwd King Jehoiakim|Q319034\zwd*, who had him put to the sword and his body thrown into the burial place of the common people. 
+\v 22 Then \zwd King Jehoiakim|Q319034\zwd* sent men to Egypt: \zwd Elnathan son of \zwd Achbor|id="Q135454523" t="2"\zwd*|Q109023366\zwd* along with some other men. 
+\v 23 They brought \zwd Uriah|Q3206316\zwd* out of Egypt and took him to \zwd King Jehoiakim|Q319034\zwd*, who had him put to the sword and his body thrown into the burial place of the common people. 
 \b
 \m 
 \v 24 Nevertheless, \zwd Ahikam son of \zwd Shaphan|\zwd*|\zwd* supported \zwd Jeremiah|Q158825\zwd*, so he was not handed over to the people to be put to death. 
@@ -3431,7 +3431,7 @@
 \b
 \m 
 \v 3 So I took \zwd Jaazaniah son of \zwd Jeremiah|\zwd*|\zwd*, the son of \zwd Habazziniah|\zwd*, and his brothers and all his sons—the entire house of the Rechabites—
-\v 4 and I brought them into the house of the LORD, to a chamber occupied by the sons of \zwd Hanan son of \zwd Igdaliah|\zwd*|\zwd*, a man of God. This room was near the chamber of the officials, which was above the chamber of \zwd Maaseiah son of \zwd Shallum|\zwd* the doorkeeper|\zwd*. 
+\v 4 and I brought them into the house of the LORD, to a chamber occupied by the sons of \zwd Hanan son of \zwd Igdaliah|id="Q124315903" t="2"\zwd*|Q124256160\zwd*, a man of God. This room was near the chamber of the officials, which was above the chamber of \zwd Maaseiah son of \zwd Shallum|\zwd* the doorkeeper|\zwd*. 
 \b
 \m 
 \v 5 Then I set pitchers full of wine and some cups before the men of the house of the Rechabites, and I said to them, “Drink some wine.” 
@@ -3488,16 +3488,16 @@
 \b
 \m 
 \v 9 \zdate|Q319034:P39:Q10550167:P580+P5Y>Kislev\*Now in the ninth month of the fifth year of \zwd Jehoiakim son of \zwd Josiah|id="Q313228" t="2"\zwd* king of Judah|id="Q319034" t="2"\zwd*, a fast before the LORD was proclaimed to all the people of Jerusalem and all who had come there from the cities of Judah. 
-\v 10 From the chamber of \zwd Gemariah son of \zwd Shaphan|\zwd* the scribe|\zwd*, which was in the upper courtyard at the opening of the New Gate of the house of the LORD, \zwd Baruch|Q599907\zwd* read from the scroll the words of \zwd Jeremiah|Q158825\zwd* in the hearing of all the people. 
+\v 10 From the chamber of \zwd Gemariah son of \zwd Shaphan|\zwd* the scribe|Q6663390\zwd*, which was in the upper courtyard at the opening of the New Gate of the house of the LORD, \zwd Baruch|Q599907\zwd* read from the scroll the words of \zwd Jeremiah|Q158825\zwd* in the hearing of all the people. 
 \s1 Jeremiah’s Scroll Read in the Palace
 \b
 \m 
-\v 11 When \zwd Micaiah son of \zwd Gemariah|\zwd*|\zwd*, the son of \zwd Shaphan|\zwd*, heard all the words of the LORD from the scroll, 
-\v 12 he went down to the scribe’s chamber in the king’s palace, where all the officials were sitting: \zwd Elishama the scribe|\zwd*, \zwd Delaiah son of \zwd Shemaiah|\zwd*|\zwd*, \zwd Elnathan son of \zwd Achbor|\zwd*|\zwd*, \zwd Gemariah son of \zwd Shaphan|\zwd*|\zwd*, \zwd Zedekiah son of \zwd Hananiah|\zwd*|\zwd*, and all the other officials. 
+\v 11 When \zwd Micaiah son of \zwd Gemariah|id="Q6663390" t="2"\zwd*|\zwd*, the son of \zwd Shaphan|\zwd*, heard all the words of the LORD from the scroll, 
+\v 12 he went down to the scribe’s chamber in the king’s palace, where all the officials were sitting: \zwd Elishama the scribe|\zwd*, \zwd Delaiah son of \zwd Shemaiah|\zwd*|\zwd*, \zwd Elnathan son of \zwd Achbor|id="Q135454523" t="2"\zwd*|Q109023366\zwd*, \zwd Gemariah son of \zwd Shaphan|\zwd*|Q6663390\zwd*, \zwd Zedekiah son of \zwd Hananiah|\zwd*|\zwd*, and all the other officials. 
 \v 13 And \zwd Micaiah|\zwd* reported to them all the words he had heard \zwd Baruch|Q599907\zwd* read from the scroll in the hearing of the people. 
 \b
 \m 
-\v 14 Then all the officials sent word to \zwd Baruch|Q599907\zwd* through \zwd Jehudi son of \zwd Nethaniah|\zwd*|\zwd*, the son of \zwd Shelemiah|\zwd*, the son of \zwd Cushi|\zwd*, saying, “Bring the scroll that you read in the hearing of the people, and come here.” 
+\v 14 Then all the officials sent word to \zwd Baruch|Q599907\zwd* through \zwd Jehudi son of \zwd Nethaniah|id="Q124346862" t="2"\zwd*|Q18191849\zwd*, the son of \zwd Shelemiah|\zwd*, the son of \zwd Cushi|\zwd*, saying, “Bring the scroll that you read in the hearing of the people, and come here.” 
 \b
 \m So \zwd Baruch son of \zwd Neriah|id="Q6996190" t="2"\zwd*|Q599907\zwd* took the scroll and went to them. 
 \b
@@ -3523,15 +3523,15 @@
 \v 20 So the officials went to \zwd the king|Q319034\zwd* in the courtyard. And having stored the scroll in the chamber of \zwd Elishama the scribe|\zwd*, they reported everything to \zwd the king|Q319034\zwd*. 
 \b
 \m 
-\v 21 Then \zwd the king|Q319034\zwd* sent \zwd Jehudi|\zwd* to get the scroll, and he took it from the chamber of \zwd Elishama the scribe|\zwd*. And \zwd Jehudi|\zwd* read it in the hearing of \zwd the king|Q319034\zwd* and all the officials who were standing beside him. 
+\v 21 Then \zwd the king|Q319034\zwd* sent \zwd Jehudi|Q18191849\zwd* to get the scroll, and he took it from the chamber of \zwd Elishama the scribe|\zwd*. And \zwd Jehudi|Q18191849\zwd* read it in the hearing of \zwd the king|Q319034\zwd* and all the officials who were standing beside him. 
 \b
 \m 
 \v 22 Since it was the ninth month, \zwd the king|Q319034\zwd* was sitting in his winter quarters with a fire burning before him. 
-\v 23 And as soon as \zwd Jehudi|\zwd* had read three or four columns, \zwd Jehoiakim|Q319034\zwd* would cut them off with a scribe’s knife and throw them into the firepot, until the entire scroll had been consumed by the fire. 
+\v 23 And as soon as \zwd Jehudi|Q18191849\zwd* had read three or four columns, \zwd Jehoiakim|Q319034\zwd* would cut them off with a scribe’s knife and throw them into the firepot, until the entire scroll had been consumed by the fire. 
 \b
 \m 
 \v 24 Yet in hearing all these words, \zwd the king|Q319034\zwd* and his servants did not become frightened or tear their garments. 
-\v 25 Even though \zwd Elnathan|\zwd*, \zwd Delaiah|\zwd*, and \zwd Gemariah|\zwd* urged \zwd the king|Q319034\zwd* not to burn the scroll, he would not listen to them. 
+\v 25 Even though \zwd Elnathan|Q109023366\zwd*, \zwd Delaiah|\zwd*, and \zwd Gemariah|Q6663390\zwd* urged \zwd the king|Q319034\zwd* not to burn the scroll, he would not listen to them. 
 \v 26 Instead, \zwd the king|Q319034\zwd* commanded \zwd Jerahmeel|\zwd*, a son of \zwd the king|Q319034\zwd*, as well as \zwd Seraiah son of \zwd Azriel|\zwd*|\zwd* and \zwd Shelemiah son of \zwd Abdeel|id="Q2613514" t="2"\zwd*|Q32979697\zwd*, to seize \zwd Baruch the scribe|Q599907\zwd* and \zwd Jeremiah the prophet|Q158825\zwd*. But the LORD had hidden them. 
 \s1 Jeremiah Rewrites the Scroll
 \b
@@ -3673,7 +3673,7 @@
 \v 2 \zdate|Q184273:P39:Q10550167:P580+P11Y>Tammuz!9\*And on the ninth day of the fourth month of \zwd Zedekiah|id="Q184273" t="2"\zwd*’s eleventh year, the city was breached. 
 \b
 \m 
-\v 3 Then all the officials of \zwd the king of Babylon|id="Q12591" t="2"\zwd* entered and sat in the Middle Gate: \zwd Nergal-sharezer of Samgar|\zwd*, \zwd Nebo-sarsekim \f + \fr 39:3 \ft Or Nergal-sharezer, Samgar-nebo, Sarsekim\f* the Rabsaris|\zwd*,\f + \fr 39:3 \ft Hebrew Rabsaris is the title of the chief eunuch in the Assyrian military; also in verse 13.\f* \zwd Nergal-sharezer the Rabmag|\zwd*,\f + \fr 39:3 \ft Hebrew Rabmag is the title of the chief soothsayer or chief of princes in the Assyrian military; also in verse 13.\f* and all the rest of the officials of \zwd the king of Babylon|id="Q12591" t="2"\zwd*. 
+\v 3 Then all the officials of \zwd the king of Babylon|id="Q12591" t="2"\zwd* entered and sat in the Middle Gate: \zwd Nergal-sharezer of Samgar|\zwd*, \zwd Nebo-sarsekim \f + \fr 39:3 \ft Or Nergal-sharezer, Samgar-nebo, Sarsekim\f* the Rabsaris|Q86678325\zwd*,\f + \fr 39:3 \ft Hebrew Rabsaris is the title of the chief eunuch in the Assyrian military; also in verse 13.\f* \zwd Nergal-sharezer the Rabmag|\zwd*,\f + \fr 39:3 \ft Hebrew Rabmag is the title of the chief soothsayer or chief of princes in the Assyrian military; also in verse 13.\f* and all the rest of the officials of \zwd the king of Babylon|id="Q12591" t="2"\zwd*. 
 \b
 \m 
 \v 4 When \zwd Zedekiah king of Judah|Q184273\zwd* and all the soldiers saw them, they fled. They left the city at night by way of the king’s garden, through the gate between the two walls, and they went out along the route to the Arabah.\f + \fr 39:4 \ft Or the Jordan Valley\f* 
@@ -3696,7 +3696,7 @@
 \v 12 “Take him, look after him, and do not let any harm come to him; do for him whatever he says.” 
 \b
 \m 
-\v 13 So \zwd Nebuzaradan captain of the guard|Q6903514\zwd*, \zwd Nebushazban \f + \fr 39:13 \ft Nebushazban is possibly a variant of Nebo-sarsekim; see verse 3.\f* the Rabsaris|\zwd*, \zwd Nergal-sharezer the Rabmag|\zwd*, and all the captains of \zwd the king of Babylon|id="Q12591" t="2"\zwd* 
+\v 13 So \zwd Nebuzaradan captain of the guard|Q6903514\zwd*, \zwd Nebushazban \f + \fr 39:13 \ft Nebushazban is possibly a variant of Nebo-sarsekim; see verse 3.\f* the Rabsaris|Q86678325\zwd*, \zwd Nergal-sharezer the Rabmag|\zwd*, and all the captains of \zwd the king of Babylon|id="Q12591" t="2"\zwd* 
 \v 14 had \zwd Jeremiah|Q158825\zwd* brought from the courtyard of the guard, and they turned him over to \zwd Gedaliah son of \zwd Ahikam|id="Q4695108" t="2"\zwd*|Q1497453\zwd*, the son of \zwd Shaphan|id="Q2904866" t="2"\zwd*, to take him home. So \zwd Jeremiah|Q158825\zwd* remained among his own people. 
 \b
 \m 

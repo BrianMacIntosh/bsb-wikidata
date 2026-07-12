@@ -180,7 +180,7 @@
 \v 51 Then \zwd Hadad|id="Q134468308" t="2"\zwd* died.
 \b
 \m Now the chiefs of Edom were \zwd Timna|\zwd*, \zwd Alvah|\zwd*, \zwd Jetheth|\zwd*,
-\v 52 \zwd Oholibamah|\zwd*, \zwd Elah|\zwd*, \zwd Pinon|\zwd*,
+\v 52 \zwd Oholibamah|\zwd*, \zwd Elah|id="Q5353134" t="2"\zwd*, \zwd Pinon|\zwd*,
 \v 53 \zwd Kenaz|\zwd*, \zwd Teman|\zwd*, \zwd Mibzar|\zwd*,
 \v 54 \zwd Magdiel|\zwd*, and \zwd Iram|\zwd*. These were the chiefs of Edom.
 \c 2
@@ -325,7 +325,7 @@
 \li1 
 \v 43 The sons of \zwd Hebron|id="Q123121662" t="2"\zwd*: 
 \b
-\li2 \zwd Korah|\zwd*, \zwd Tappuah|id="Q139673778" t="2"\zwd*, \zwd Rekem|\zwd*, and \zwd Shema|\zwd*. 
+\li2 \zwd Korah|id="Q96049919" t="2"\zwd*, \zwd Tappuah|id="Q139673778" t="2"\zwd*, \zwd Rekem|\zwd*, and \zwd Shema|\zwd*. 
 \v 44 \zwd Shema|\zwd* was the father of \zwd Raham the father of \zwd Jorkeam|\zwd*|\zwd*, and \zwd Rekem|\zwd* was the father of \zwd Shammai|\zwd*. 
 \v 45 The son of \zwd Shammai|\zwd* was \zwd Maon|\zwd*, and \zwd Maon|\zwd* was the father of \zwd Beth-zur|\zwd*. 
 \b
@@ -369,7 +369,7 @@
 \li1 the second was \zwd Daniel|\zwd* by \zwd Abigail of Carmel|id="Q4416778" t="2"\zwd*; 
 \b
 \li1 
-\v 2 the third was \zwd Absalom the son of \zwd Maacah daughter of \zwd King Talmai of Geshur|\zwd*|id="Q11765188" t="2"\zwd*|id="Q205372" t="2"\zwd*; 
+\v 2 the third was \zwd Absalom the son of \zwd Maacah daughter of \zwd King Talmai of Geshur|id="Q33026733" t="2"\zwd*|id="Q11765188" t="2"\zwd*|id="Q205372" t="2"\zwd*; 
 \b
 \li1 the fourth was \zwd Adonijah the son of \zwd Haggith|id="Q5638717" t="2"\zwd*|id="Q360378" t="2"\zwd*; 
 \b
@@ -514,7 +514,7 @@
 \li1 
 \v 16 The sons of \zwd Jehallelel|\zwd*: 
 \b
-\li2 \zwd Ziph|\zwd*, \zwd Ziphah|\zwd*, \zwd Tiria|\zwd*, and \zwd Asarel|\zwd*. 
+\li2 \zwd Ziph|\zwd*, \zwd Ziphah|id="Q106128816" t="2"\zwd*, \zwd Tiria|\zwd*, and \zwd Asarel|\zwd*. 
 \b
 \li1 
 \v 17 The sons of \zwd Ezrah|\zwd*: 
@@ -621,7 +621,7 @@
 \li1 
 \v 13 Their kinsmen by families were \zwd Michael|\zwd*, \zwd Meshullam|\zwd*, \zwd Sheba|\zwd*, \zwd Jorai|\zwd*, \zwd Jacan|\zwd*, \zwd Zia|\zwd*, and \zwd Eber|\zwd*—seven in all. 
 \v 14 These were the sons of \zwd Abihail son of \zwd Huri|\zwd*|id="Q138609317" t="2"\zwd*, the son of \zwd Jaroah|\zwd*, the son of \zwd Gilead|\zwd*, the son of \zwd Michael|\zwd*, the son of \zwd Jeshishai|\zwd*, the son of \zwd Jahdo|\zwd*, the son of \zwd Buz|\zwd*. 
-\v 15 \zwd Ahi son of \zwd Abdiel|\zwd*|\zwd*, the son of \zwd Guni|\zwd*, was head of their family. 
+\v 15 \zwd Ahi son of \zwd Abdiel|id="Q26743342" t="2"\zwd*|Q138658762\zwd*, the son of \zwd Guni|\zwd*, was head of their family. 
 \b
 \li1 
 \v 16 They lived in Gilead, in Bashan and its towns, and throughout the pasturelands of Sharon. 
@@ -1026,23 +1026,23 @@
 \li1 
 \v 35 The sons of \zwd his brother Helem|\zwd*:\f + \fr 7:35 \ft Helem is possibly another name for Hotham; see verse 32.\f* 
 \b
-\li2 \zwd Zophah|\zwd*, \zwd Imna|\zwd*, \zwd Shelesh|\zwd*, and \zwd Amal|\zwd*. 
+\li2 \zwd Zophah|id="Q8074241" t="2"\zwd*, \zwd Imna|\zwd*, \zwd Shelesh|\zwd*, and \zwd Amal|\zwd*. 
 \b
 \li1 
-\v 36 The sons of \zwd Zophah|\zwd*: 
+\v 36 The sons of \zwd Zophah|id="Q8074241" t="2"\zwd*: 
 \b
-\li2 \zwd Suah|\zwd*, \zwd Harnepher|\zwd*, \zwd Shual|\zwd*, \zwd Beri|\zwd*, \zwd Imrah|\zwd*, 
-\v 37 \zwd Bezer|\zwd*, \zwd Hod|\zwd*, \zwd Shamma|\zwd*, \zwd Shilshah|\zwd*, \zwd Ithran|\zwd*,\f + \fr 7:37 \ft Ithran is possibly a variant of Jether; see verse 38.\f* and \zwd Beera|\zwd*. 
+\li2 \zwd Suah|id="Q139741844" t="2"\zwd*, \zwd Harnepher|\zwd*, \zwd Shual|id="Q139858084" t="2"\zwd*, \zwd Beri|\zwd*, \zwd Imrah|\zwd*, 
+\v 37 \zwd Bezer|\zwd*, \zwd Hod|\zwd*, \zwd Shamma|id="Q140289766" t="2"\zwd*, \zwd Shilshah|id="Q139962196" t="2"\zwd*, \zwd Ithran|\zwd*,\f + \fr 7:37 \ft Ithran is possibly a variant of Jether; see verse 38.\f* and \zwd Beera|\zwd*. 
 \b
 \li1 
 \v 38 The sons of \zwd Jether|\zwd*: 
 \b
-\li2 \zwd Jephunneh|\zwd*, \zwd Pispa|\zwd*, and \zwd Ara|\zwd*. 
+\li2 \zwd Jephunneh|id="Q18225944" t="2"\zwd*, \zwd Pispa|\zwd*, and \zwd Ara|\zwd*. 
 \b
 \li1 
-\v 39 The sons of \zwd Ulla|\zwd*: 
+\v 39 The sons of \zwd Ulla|id="Q9366449" t="2"\zwd*: 
 \b
-\li2 \zwd Arah|\zwd*, \zwd Hanniel|\zwd*, and \zwd Rizia|\zwd*. 
+\li2 \zwd Arah|id="Q9158805" t="2"\zwd*, \zwd Hanniel|id="Q9188858" t="2"\zwd*, and \zwd Rizia|id="Q11834917" t="2"\zwd*. 
 \b
 \li1 
 \v 40 All these were the descendants of \zwd Asher|id="Q1775026" t="2"\zwd*—heads of their families, choice and mighty men of valor, and chiefs among the leaders. The number of men fit for battle, recorded in their genealogies, was 26,000. 
@@ -1450,7 +1450,7 @@
 \li1 
 \v 37 \zwd Hezro the Carmelite|Q132166507\zwd*, 
 \b
-\li1 \zwd Naarai son of Ezbai|\zwd*, 
+\li1 \zwd Naarai son of \zwd Ezbai|id="Q22039166" t="2"\zwd*|Q10343349\zwd*, 
 \b
 \li1 
 \v 38 \zwd Joel the brother of \zwd Nathan|\zwd*|\zwd*, 
@@ -1504,7 +1504,7 @@
 \v 2 they were archers using both the right and left hands to sling stones and shoot arrows; and they were \zwd Saul|id="Q28730" t="2"\zwd*’s kinsmen from Benjamin): 
 \b
 \li1 
-\v 3 \zwd Ahiezer their chief|\zwd* and \zwd Joash|\zwd*, who were the sons of \zwd Shemaah the Gibeathite|\zwd*; 
+\v 3 \zwd Ahiezer their chief|Q20502064\zwd* and \zwd Joash|\zwd*, who were the sons of \zwd Shemaah the Gibeathite|\zwd*; 
 \b
 \li1 \zwd Jeziel|\zwd* and \zwd Pelet|\zwd*, the sons of \zwd Azmaveth|\zwd*; 
 \b
@@ -1639,7 +1639,7 @@
 \v 8 \zwd David|Q41370\zwd* and all the Israelites were celebrating before God with all their might, with songs and on harps and lyres, with tambourines, cymbals, and trumpets. 
 \b
 \m 
-\v 9 When they came to the threshing floor of Chidon,\f + \fr 13:9 \ft Chidon is a variant of Nacon; see 2 Samuel 6:6.\f* \zwd Uzzah|Q4331914\zwd* reached out and took hold of the ark, because the oxen had stumbled. 
+\v 9 When they came to the threshing floor of \zwd Chidon|id="Q97171041" t="2"\zwd*,\f + \fr 13:9 \ft Chidon is a variant of Nacon; see 2 Samuel 6:6.\f* \zwd Uzzah|Q4331914\zwd* reached out and took hold of the ark, because the oxen had stumbled. 
 \v 10 And the anger of the LORD burned against \zwd Uzzah|Q4331914\zwd*, and He struck him down because he had put his hand on the ark. So he died there before God. 
 \b
 \m 

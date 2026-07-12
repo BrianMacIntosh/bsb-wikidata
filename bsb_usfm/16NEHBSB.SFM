@@ -340,7 +340,7 @@
 \b
 \m 
 \v 6 These are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town, 
-\v 7 accompanied by \zwd Zerubbabel|Q320139\zwd*, \zwd Jeshua|\zwd*, \zwd Nehemiah|\zwd*, \zwd Azariah|\zwd*, \zwd Raamiah|\zwd*, \zwd Nahamani|\zwd*, \zwd Mordecai|\zwd*, \zwd Bilshan|\zwd*, \zwd Mispereth|\zwd*, \zwd Bigvai|\zwd*, \zwd Nehum|\zwd*, and \zwd Baanah|\zwd*.\f + \fr 7:7 \ft Parallel text at Ezra 2:2 accompanied by Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah\f* 
+\v 7 accompanied by \zwd Zerubbabel|Q320139\zwd*, \zwd Jeshua|\zwd*, \zwd Nehemiah|\zwd*, \zwd Azariah|\zwd*, \zwd Raamiah|\zwd*, \zwd Nahamani|\zwd*, \zwd Mordecai|\zwd*, \zwd Bilshan|\zwd*, \zwd Mispereth|Q6884731\zwd*, \zwd Bigvai|\zwd*, \zwd Nehum|\zwd*, and \zwd Baanah|\zwd*.\f + \fr 7:7 \ft Parallel text at Ezra 2:2 accompanied by Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah\f* 
 \b
 \m This is the count of the men of Israel: 
 \b
@@ -369,7 +369,7 @@
 \v 15 the descendants of \zwd Binnui|\zwd*,\f + \fr 7:15 \ft Binnui is a variant of Bani; see Ezra 2:10.\f* 648; 
 \b
 \li1 
-\v 16 the descendants of \zwd Bebai|\zwd*, 628; 
+\v 16 the descendants of \zwd Bebai|id="Q65303005" t="2"\zwd*, 628; 
 \b
 \li1 
 \v 17 the descendants of \zwd Azgad|\zwd*, 2,322; 
@@ -944,7 +944,7 @@
 \li1 \zwd Parosh|\zwd*, \zwd Pahath-moab|\zwd*, \zwd Elam|\zwd*, \zwd Zattu|\zwd*, \zwd Bani|\zwd*, 
 \b
 \li1 
-\v 15 \zwd Bunni|\zwd*, \zwd Azgad|\zwd*, \zwd Bebai|\zwd*, 
+\v 15 \zwd Bunni|\zwd*, \zwd Azgad|\zwd*, \zwd Bebai|id="Q65303005" t="2"\zwd*, 
 \b
 \li1 
 \v 16 \zwd Adonijah|\zwd*, \zwd Bigvai|\zwd*, \zwd Adin|\zwd*, 

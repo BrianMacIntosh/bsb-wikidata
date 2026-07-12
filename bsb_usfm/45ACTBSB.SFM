@@ -763,7 +763,7 @@
 \b
 \m 
 \v 42 This became known all over Joppa, and many people believed in the Lord. 
-\v 43 And \zwd Peter|Q33923\zwd* stayed for several days in Joppa with a tanner named \zwd Simon|\zwd*. 
+\v 43 And \zwd Peter|Q33923\zwd* stayed for several days in Joppa with a tanner named \zwd Simon|Q47267586\zwd*. 
 \c 10
 \s1 Cornelius Sends for Peter
 \m 
@@ -776,7 +776,7 @@
 \b
 \m The angel answered, “Your prayers and gifts to the poor have ascended as a memorial offering before God. 
 \v 5 Now send men to Joppa to call for a man named \zwd Simon who is called Peter|Q33923\zwd*. 
-\v 6 He is staying with \zwd Simon the tanner|\zwd*, whose house is by the sea.\f + \fr 10:6 \ft TR includes He will tell you what you need to do.\f*” 
+\v 6 He is staying with \zwd Simon the tanner|id="Q47267586" t="2"\zwd*, whose house is by the sea.\f + \fr 10:6 \ft TR includes He will tell you what you need to do.\f*” 
 \b
 \m 
 \v 7 When the angel who spoke to him had gone, \zwd Cornelius|Q435987\zwd* called two of his servants and a devout soldier from among his attendants. 
@@ -804,7 +804,7 @@
 \s1 Peter Called to Caesarea
 \b
 \m 
-\v 17 While \zwd Peter|Q33923\zwd* was puzzling over the meaning of the vision, the men sent by \zwd Cornelius|Q435987\zwd* found \zwd Simon|\zwd*’s house and approached the gate. 
+\v 17 While \zwd Peter|Q33923\zwd* was puzzling over the meaning of the vision, the men sent by \zwd Cornelius|Q435987\zwd* found \zwd Simon|id="Q47267586" t="2"\zwd*’s house and approached the gate. 
 \v 18 They called out to ask if \zwd Simon called Peter|Q33923\zwd* was staying there. 
 \b
 \m 
@@ -834,7 +834,7 @@
 \m 
 \v 30 \zwd Cornelius|Q435987\zwd* answered: “Four days ago I was in my house praying at this, the ninth hour.\f + \fr 10:30 \ft BYZ and TR Four days ago I was fasting until this hour, and at the ninth hour I was praying in my house.\f* Suddenly a man in radiant clothing stood before me 
 \v 31 and said, ‘\zwd Cornelius|Q435987\zwd*, your prayer has been heard, and your gifts to the poor have been remembered before God. 
-\v 32 Therefore send to Joppa for \zwd Simon|Q33923\zwd*, who is called \zwd Peter|Q33923\zwd*. He is a guest in the home of \zwd Simon the tanner|\zwd*, by the sea.’ 
+\v 32 Therefore send to Joppa for \zwd Simon|Q33923\zwd*, who is called \zwd Peter|Q33923\zwd*. He is a guest in the home of \zwd Simon the tanner|id="Q47267586" t="2"\zwd*, by the sea.’ 
 \b
 \m 
 \v 33 So I sent for you immediately, and you were kind enough to come. Now then, we are all here in the presence of God to listen to everything the Lord has instructed you to tell us.” 
@@ -950,7 +950,7 @@
 \b
 \m 
 \v 12 And when he had realized this, he went to the house of \zwd Mary the mother of \zwd John|id="Q1992340" t="2"\zwd*|Q3311767\zwd*, also called \zwd Mark|id="Q1992340" t="2"\zwd*, where many people had gathered together and were praying. 
-\v 13 He knocked at the outer gate, and \zwd a servant girl named Rhoda|\zwd* came to answer it. 
+\v 13 He knocked at the outer gate, and \zwd a servant girl named Rhoda|Q7320830\zwd* came to answer it. 
 \v 14 When she recognized \zwd Peter|Q33923\zwd*’s voice, she was so overjoyed that she forgot to open the gate, but ran inside and announced, “\zwd Peter|Q33923\zwd* is standing at the gate!” 
 \b
 \m 
@@ -1549,7 +1549,7 @@
 \v 3 where he stayed three months. And when the Jews formed a plot against him as he was about to sail for Syria, he decided to go back through Macedonia. 
 \b
 \m 
-\v 4 \zwd Paul|Q9200\zwd* was accompanied by \zwd Sopater son of \zwd Pyrrhus|Q126616157\zwd*|Q3567249\zwd* from Berea, \zwd Aristarchus|Q468859\zwd* and \zwd Secundus|\zwd* from Thessalonica, \zwd Gaius|\zwd* from Derbe, \zwd Timothy|Q212647\zwd*, and \zwd Tychicus|Q1396807\zwd* and \zwd Trophimus|Q4207124\zwd* from the province of Asia.\f + \fr 20:4 \ft Literally from Asia; Asia was a Roman province in what is now western Turkey; also in verses 16 and 18.\f* 
+\v 4 \zwd Paul|Q9200\zwd* was accompanied by \zwd Sopater son of \zwd Pyrrhus|Q126616157\zwd*|Q3567249\zwd* from Berea, \zwd Aristarchus|Q468859\zwd* and \zwd Secundus|Q110624753\zwd* from Thessalonica, \zwd Gaius|\zwd* from Derbe, \zwd Timothy|Q212647\zwd*, and \zwd Tychicus|Q1396807\zwd* and \zwd Trophimus|Q4207124\zwd* from the province of Asia.\f + \fr 20:4 \ft Literally from Asia; Asia was a Roman province in what is now western Turkey; also in verses 16 and 18.\f* 
 \v 5 These men went on ahead and waited for us in Troas. 
 \v 6 And after the Feast of Unleavened Bread,\f + \fr 20:6 \ft Literally after the days of the Unleavened; see Exodus 12:14–20.\f* we sailed from Philippi, and five days later we rejoined them in Troas, where we stayed seven days. 
 \s1 Eutychus Revived at Troas
