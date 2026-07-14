@@ -164,7 +164,7 @@
 	"Q1330627": [
 		"Elishah"
 	],
-	"Q44826": [
+	"Q125487467": [
 		"Tarshish"
 	],
 	"Q1138595": [
@@ -645,6 +645,10 @@
 		"his uncle",
 		"our father",
 		"your father"
+	],
+	"Q2903219": [
+		"her nurse",
+		"Deborah"
 	],
 	"Q908531": [
 		"Keturah"
@@ -1378,6 +1382,12 @@
 	"Q125316367": [
 		"Me-zahab"
 	],
+	"Q5353134": [
+		"Elah"
+	],
+	"Q125264444": [
+		"Iram"
+	],
 	"Q1148687": [
 		"Potiphar",
 		"his Egyptian master",
@@ -1954,6 +1964,9 @@
 	"Q125747497": [
 		"Zuriel son of Abihail"
 	],
+	"Q138609372": [
+		"Abihail"
+	],
 	"Q14925385": [
 		"Hobab"
 	],
@@ -2087,7 +2100,7 @@
 		"Eliab",
 		"Eliab the Reubenite"
 	],
-	"Q124559851": [
+	"Q18227832": [
 		"On son of Peleth"
 	],
 	"Q126084760": [
@@ -2149,6 +2162,15 @@
 		"Gilead son of Machir son of Manasseh",
 		"Gilead son of Machir"
 	],
+	"Q85853471": [
+		"Helek"
+	],
+	"Q85854727": [
+		"Shechem"
+	],
+	"Q85854716": [
+		"Shemida"
+	],
 	"Q85853477": [
 		"Hepher"
 	],
@@ -2175,8 +2197,32 @@
 	"Q27587242": [
 		"Tirzah"
 	],
+	"Q85852878": [
+		"Becher"
+	],
+	"Q85854843": [
+		"Tahan"
+	],
+	"Q85853185": [
+		"Eran"
+	],
+	"Q47008639": [
+		"Ard"
+	],
+	"Q25803431": [
+		"Evi"
+	],
 	"Q126167657": [
 		"Rekem"
+	],
+	"Q125749914": [
+		"Hur"
+	],
+	"Q126168038": [
+		"Reba"
+	],
+	"Q126164463": [
+		"Nobah"
 	],
 	"Q126192673": [
 		"Shemuel son of Ammihud"
@@ -2296,6 +2342,12 @@
 		"its king",
 		"the king of Hazor"
 	],
+	"Q3291564": [
+		"Arba"
+	],
+	"Q131840205": [
+		"Bohan son of Reuben"
+	],
 	"Q2829011": [
 		"my daughter Acsah",
 		"his daughter Acsah",
@@ -2310,6 +2362,9 @@
 	"Q137755683": [
 		"Caleb’s brother Kenaz",
 		"Kenaz"
+	],
+	"Q20501924": [
+		"Abiezer"
 	],
 	"Q2229049": [
 		"Adoni-bezek"
@@ -2480,6 +2535,9 @@
 	],
 	"Q126367567": [
 		"Micah"
+	],
+	"Q6272377": [
+		"Jonathan son of Gershom"
 	],
 	"Q363660": [
 		"a certain man",
@@ -2734,6 +2792,15 @@
 		"a son",
 		"Ichabod"
 	],
+	"Q132131679": [
+		"Joshua of Beth-shemesh"
+	],
+	"Q124290973": [
+		"Abinadab"
+	],
+	"Q5354448": [
+		"his son Eleazar"
+	],
 	"Q20888416": [
 		"his sons",
 		"his firstborn son",
@@ -2757,7 +2824,8 @@
 		"your father"
 	],
 	"Q16128781": [
-		"Abiel"
+		"Abiel",
+		"Jeiel the father of Gibeon"
 	],
 	"Q3541493": [
 		"Zeror"
@@ -2804,6 +2872,9 @@
 		"your grandfather Saul",
 		"your master",
 		"my grandfather"
+	],
+	"Q132132686": [
+		"Matri"
 	],
 	"Q6959218": [
 		"Nahash the Ammonite",
@@ -2995,6 +3066,10 @@
 		"Achish",
 		"my lord the king"
 	],
+	"Q125296348": [
+		"Maoch",
+		"Maacah"
+	],
 	"Q1391553": [
 		"a medium",
 		"the woman",
@@ -3064,6 +3139,10 @@
 	],
 	"Q11765188": [
 		"Maacah daughter of King Talmai of Geshur"
+	],
+	"Q33026733": [
+		"King Talmai of Geshur",
+		"Talmai son of Ammihud"
 	],
 	"Q360378": [
 		"Adonijah",
@@ -3188,17 +3267,30 @@
 	"Q138713515": [
 		"Ahio"
 	],
+	"Q97171041": [
+		"Nacon",
+		"Chidon"
+	],
 	"Q319116": [
 		"Nathan the prophet",
 		"Nathan",
 		"your servant",
 		"Nathan the Prophet"
 	],
+	"Q97172306": [
+		"Rehob"
+	],
 	"Q7828518": [
 		"King Toi of Hamath",
 		"Toi",
 		"King Tou of Hamath",
 		"Tou"
+	],
+	"Q124098203": [
+		"his son Joram",
+		"Joram",
+		"his son Hadoram",
+		"Hadoram"
 	],
 	"Q20502574": [
 		"Jehoshaphat son of Ahilud"
@@ -3238,12 +3330,23 @@
 		"Ziba the steward of the house of Saul",
 		"my servant Ziba"
 	],
+	"Q18222843": [
+		"Machir son of Ammiel"
+	],
+	"Q125912709": [
+		"Ammiel"
+	],
 	"Q3334052": [
 		"his son Hanun",
 		"Hanun son of Nahash",
 		"Hanun",
 		"Hanun their lord",
 		"his son"
+	],
+	"Q133264893": [
+		"Shobach the commander of Hadadezer’s army",
+		"Shobach the commander of their army",
+		"Shophach the commander of Hadadezer’s army"
 	],
 	"Q272277": [
 		"a woman",
@@ -3282,9 +3385,19 @@
 	"Q6271831": [
 		"Jonadab"
 	],
+	"Q132155850": [
+		"Ammihud"
+	],
+	"Q30148909": [
+		"Tamar"
+	],
 	"Q400294": [
 		"Ahithophel the Gilonite",
 		"Ahithophel"
+	],
+	"Q11714286": [
+		"Ittai the Gittite",
+		"Ittai"
 	],
 	"Q2904547": [
 		"your son Ahimaaz",
@@ -3311,11 +3424,18 @@
 		"Shimei son of Gera",
 		"Shimei",
 		"this dead dog",
-		"your servant"
+		"your servant",
+		"Shimei the son of Gera"
+	],
+	"Q123121449": [
+		"Gera"
 	],
 	"Q2689456": [
 		"Amasa",
 		"my brother"
+	],
+	"Q133259093": [
+		"Nahash"
 	],
 	"Q6710215": [
 		"Barzillai the Gileadite",
@@ -3340,6 +3460,9 @@
 		"Adoram",
 		"Adoniram son of Abda"
 	],
+	"Q40326679": [
+		"Armoni"
+	],
 	"Q120758253": [
 		"Ishbi-benob"
 	],
@@ -3355,13 +3478,23 @@
 	"Q5360135": [
 		"Elhanan son of Jair"
 	],
+	"Q133256890": [
+		"Jair"
+	],
 	"Q5354450": [
-		"Eleazar son of Dodo",
-		"Eleazar",
-		"Eleazar son of Dodo the Ahohite"
+		"Eleazar son of Dodo the Ahohite",
+		"Eleazar"
+	],
+	"Q134699442": [
+		"Ahohi"
 	],
 	"Q10367361": [
+		"Shammah son of Agee the Hararite",
+		"Shammah",
 		"Shammah the Harodite"
+	],
+	"Q132157007": [
+		"Agee the Hararite"
 	],
 	"Q140488443": [
 		"Elika the Harodite"
@@ -3378,6 +3511,13 @@
 	],
 	"Q65303361": [
 		"Maharai the Netophathite"
+	],
+	"Q65303236": [
+		"Ittai son of Ribai",
+		"Ithai son of Ribai"
+	],
+	"Q133263354": [
+		"Ribai"
 	],
 	"Q140254618": [
 		"Benaiah the Pirathonite"
@@ -3396,6 +3536,10 @@
 	"Q63555948": [
 		"Eliahba the Shaalbonite"
 	],
+	"Q133257574": [
+		"Jashen",
+		"Hashem the Gizonite"
+	],
 	"Q65302941": [
 		"Ahiam son of Sharar the Hararite",
 		"Ahiam son of Sachar the Hararite"
@@ -3407,6 +3551,9 @@
 	"Q65303128": [
 		"Eliphelet son of Ahasbai the Maacathite"
 	],
+	"Q8183672": [
+		"Ahasbai the Maacathite"
+	],
 	"Q65303121": [
 		"Eliam son of Ahithophel the Gilonite"
 	],
@@ -3414,10 +3561,20 @@
 		"Hezro the Carmelite"
 	],
 	"Q10343349": [
-		"Paarai the Arbite"
+		"Paarai the Arbite",
+		"Naarai son of Ezbai"
+	],
+	"Q20788369": [
+		"Igal son of Nathan of Zobah"
+	],
+	"Q65302996": [
+		"Bani the Gadite"
 	],
 	"Q62029455": [
 		"Naharai the Beerothite"
+	],
+	"Q124315798": [
+		"Gareb the Ithrite"
 	],
 	"Q2910439": [
 		"Araunah the Jebusite",
@@ -3428,6 +3585,9 @@
 	"Q321469": [
 		"Abishag the Shunammite",
 		"The girl"
+	],
+	"Q133445157": [
+		"Rei"
 	],
 	"Q7180687": [
 		"his daughter",
@@ -3451,11 +3611,26 @@
 	"Q139393705": [
 		"Azariah son of Nathan"
 	],
+	"Q135409140": [
+		"Zabud son of Nathan"
+	],
+	"Q133271521": [
+		"Ahishar"
+	],
 	"Q123121734": [
 		"Abda"
 	],
+	"Q133275527": [
+		"Ben-hur"
+	],
+	"Q133306533": [
+		"hur"
+	],
 	"Q133300641": [
 		"Ben-deker"
+	],
+	"Q133301315": [
+		"deker"
 	],
 	"Q133305413": [
 		"Ben-hesed"
@@ -3466,8 +3641,14 @@
 	"Q9355142": [
 		"Taphath"
 	],
+	"Q132156462": [
+		"Ahilud"
+	],
 	"Q133311031": [
 		"Ben-geber"
+	],
+	"Q133311044": [
+		"geber"
 	],
 	"Q110159933": [
 		"Jair son of Manasseh"
@@ -3485,7 +3666,18 @@
 		"Shimei son of Ela"
 	],
 	"Q1370913": [
-		"Ethan the Ezrahite"
+		"Ethan the Ezrahite",
+		"Ethan"
+	],
+	"Q123136728": [
+		"Heman"
+	],
+	"Q123136730": [
+		"Calcol"
+	],
+	"Q123136734": [
+		"Darda",
+		"Dara"
 	],
 	"Q2415069": [
 		"Mahol"
@@ -3509,6 +3701,9 @@
 	"Q12058221": [
 		"Queen Tahpenes",
 		"Tahpenes"
+	],
+	"Q9266968": [
+		"Genubath"
 	],
 	"Q13589419": [
 		"Rezon the son of Eliada",
@@ -3555,6 +3750,10 @@
 	],
 	"Q2090113": [
 		"Shemaiah the man of God"
+	],
+	"Q25491054": [
+		"a man of God from Judah",
+		"the man of God"
 	],
 	"Q313228": [
 		"Josiah",
@@ -3659,9 +3858,9 @@
 		"Hanani"
 	],
 	"Q319020": [
+		"his son Elah",
 		"Elah son of Baasha",
 		"Elah",
-		"his son Elah",
 		"the king"
 	],
 	"Q313230": [
@@ -3711,8 +3910,14 @@
 	"Q1277966": [
 		"Ethbaal king of the Sidonians"
 	],
-	"Q117707139": [
+	"Q65176077": [
 		"Hiel the Bethelite"
+	],
+	"Q114008399": [
+		"Abiram his firstborn"
+	],
+	"Q16258370": [
+		"Segub his youngest"
 	],
 	"Q133507": [
 		"Elijah the Tishbite",
@@ -3788,11 +3993,17 @@
 		"Micaiah",
 		"this man"
 	],
+	"Q133322634": [
+		"Imlah"
+	],
 	"Q6586959": [
 		"Zedekiah son of Chenaanah"
 	],
 	"Q124790113": [
 		"Chenaanah"
+	],
+	"Q107646275": [
+		"Amon the governor of the city"
 	],
 	"Q313213": [
 		"his son Ahaziah",
@@ -4107,6 +4318,10 @@
 		"King Sennacherib of Assyria",
 		"his master the king of Assyria"
 	],
+	"Q2920137": [
+		"the Rabshakeh",
+		"The Rabshakeh"
+	],
 	"Q9252684": [
 		"Eliakim son of Hilkiah",
 		"Hilkiah’s son Eliakim",
@@ -4118,10 +4333,9 @@
 	"Q130270587": [
 		"Hilkiah"
 	],
-	"Q130271252": [
+	"Q18191851": [
 		"Joah son of Asaph",
-		"Joah",
-		"Asaph’s son Joah the recorder"
+		"Joah"
 	],
 	"Q130243561": [
 		"Asaph"
@@ -4233,6 +4447,14 @@
 		"Huldah the prophetess",
 		"Huldah"
 	],
+	"Q133830235": [
+		"Tikvah",
+		"Tokhath"
+	],
+	"Q125477325": [
+		"Harhas",
+		"Hasrah"
+	],
 	"Q6968837": [
 		"Nathan-melech"
 	],
@@ -4307,6 +4529,9 @@
 		"Seraiah the chief priest",
 		"Seraiah"
 	],
+	"Q133829336": [
+		"Zephaniah the priest of second rank"
+	],
 	"Q1497453": [
 		"Gedaliah son of Ahikam",
 		"Gedaliah"
@@ -4316,6 +4541,10 @@
 	],
 	"Q124344879": [
 		"Nethaniah"
+	],
+	"Q126008957": [
+		"Jaazaniah son of the Maacathite",
+		"Jezaniah son of the Maacathite"
 	],
 	"Q124310229": [
 		"Elishama"
@@ -4340,6 +4569,9 @@
 	],
 	"Q140363313": [
 		"Bilhan"
+	],
+	"Q124556245": [
+		"Akan"
 	],
 	"Q1687510": [
 		"Jerahmeel",
@@ -4383,6 +4615,9 @@
 	],
 	"Q85853544": [
 		"Jair"
+	],
+	"Q123168386": [
+		"his wife Abijah"
 	],
 	"Q115481149": [
 		"Ashhur the father of Tekoa"
@@ -4506,6 +4741,9 @@
 	"Q123121662": [
 		"Hebron"
 	],
+	"Q96049919": [
+		"Korah"
+	],
 	"Q139673778": [
 		"Tappuah"
 	],
@@ -4532,6 +4770,9 @@
 	],
 	"Q115762115": [
 		"Johanan"
+	],
+	"Q115945589": [
+		"Zedekiah"
 	],
 	"Q2256348": [
 		"Shealtiel"
@@ -4640,6 +4881,9 @@
 	"Q115858883": [
 		"Pelaiah"
 	],
+	"Q115858892": [
+		"Akkub"
+	],
 	"Q115858899": [
 		"Johanan"
 	],
@@ -4658,11 +4902,17 @@
 	"Q138847618": [
 		"Zereth"
 	],
+	"Q126009633": [
+		"Zohar"
+	],
 	"Q1676833": [
 		"Jabez"
 	],
 	"Q139857974": [
 		"Shuhah"
+	],
+	"Q106128816": [
+		"Ziphah"
 	],
 	"Q6818896": [
 		"Mered"
@@ -4682,6 +4932,12 @@
 	],
 	"Q138609317": [
 		"Abihail son of Huri"
+	],
+	"Q138658762": [
+		"Ahi son of Abdiel"
+	],
+	"Q26743342": [
+		"Abdiel"
 	],
 	"Q2338482": [
 		"Abishua",
@@ -4736,7 +4992,27 @@
 		"Jozadak"
 	],
 	"Q117054231": [
-		"Jahath his son"
+		"Jahath his son",
+		"Jahath"
+	],
+	"Q117054240": [
+		"Zimmah his son",
+		"Zimmah"
+	],
+	"Q117054247": [
+		"Joah his son",
+		"Joah son of Zimmah"
+	],
+	"Q117054252": [
+		"Iddo his son"
+	],
+	"Q117054261": [
+		"Zerah his son",
+		"Zerah"
+	],
+	"Q5404150": [
+		"Jeatherai his son",
+		"Ethni"
 	],
 	"Q140486012": [
 		"Heman the singer",
@@ -4792,11 +5068,14 @@
 	"Q117054281": [
 		"Malchijah"
 	],
-	"Q5404150": [
-		"Ethni"
+	"Q133885934": [
+		"Shimei"
 	],
 	"Q6416566": [
 		"Kishi"
+	],
+	"Q138575503": [
+		"Abdi"
 	],
 	"Q139270762": [
 		"Uzzi"
@@ -4843,11 +5122,56 @@
 	"Q138787635": [
 		"Aram"
 	],
+	"Q8074241": [
+		"Zophah"
+	],
+	"Q139741844": [
+		"Suah"
+	],
+	"Q139858084": [
+		"Shual"
+	],
+	"Q140289766": [
+		"Shamma"
+	],
+	"Q139962196": [
+		"Shilshah"
+	],
+	"Q18225944": [
+		"Jephunneh"
+	],
+	"Q9366449": [
+		"Ulla"
+	],
+	"Q9158805": [
+		"Arah"
+	],
+	"Q9188858": [
+		"Hanniel"
+	],
+	"Q11834917": [
+		"Rizia"
+	],
+	"Q138610119": [
+		"Abihud"
+	],
 	"Q22017204": [
 		"Naaman"
 	],
 	"Q140320750": [
 		"Shaharaim"
+	],
+	"Q124749788": [
+		"Baara"
+	],
+	"Q123165969": [
+		"Abdon"
+	],
+	"Q123165968": [
+		"Abdon"
+	],
+	"Q139583200": [
+		"Baal"
 	],
 	"Q139492418": [
 		"Ulam"
@@ -4864,8 +5188,14 @@
 	"Q65303389": [
 		"Sibbecai the Hushathite"
 	],
-	"Q65303236": [
-		"Ithai son of Ribai"
+	"Q65303210": [
+		"Heled son of Baanah the Netophathite"
+	],
+	"Q132166874": [
+		"Baanah"
+	],
+	"Q22039166": [
+		"Ezbai"
 	],
 	"Q133269074": [
 		"Zelek the Ammonite"
@@ -4876,6 +5206,15 @@
 	"Q65303551": [
 		"Zabad son of Ahlai"
 	],
+	"Q20502064": [
+		"Ahiezer their chief"
+	],
+	"Q126009808": [
+		"Jeziel"
+	],
+	"Q123159226": [
+		"Amasai"
+	],
 	"Q3567244": [
 		"Ethan son of Kushaiah",
 		"Ethan",
@@ -4885,6 +5224,12 @@
 	],
 	"Q140486113": [
 		"Kushaiah"
+	],
+	"Q130323174": [
+		"Azaziah"
+	],
+	"Q123159228": [
+		"Amasai"
 	],
 	"Q5637565": [
 		"King Hadadezer of Zobah",
@@ -4906,6 +5251,9 @@
 	],
 	"Q138847635": [
 		"Zeri"
+	],
+	"Q133456354": [
+		"Zebadiah"
 	],
 	"Q138862803": [
 		"his son Zebadiah"
@@ -4962,6 +5310,9 @@
 		"Azariah son of Oded",
 		"Azariah son of Oded the prophet"
 	],
+	"Q19893741": [
+		"Oded"
+	],
 	"Q1966067": [
 		"Jahaziel son of Zechariah"
 	],
@@ -4995,6 +5346,12 @@
 		"all his brothers",
 		"your brothers"
 	],
+	"Q123148948": [
+		"Maaseiah son of Adaiah"
+	],
+	"Q123148903": [
+		"Adaiah"
+	],
 	"Q2060131": [
 		"Zechariah son of Jehoiada the priest",
 		"Zechariah"
@@ -5007,6 +5364,12 @@
 	],
 	"Q16341302": [
 		"Oded"
+	],
+	"Q123159230": [
+		"Amasai"
+	],
+	"Q123165802": [
+		"Abdi"
 	],
 	"Q140499759": [
 		"Conaniah the Levite",
@@ -5042,11 +5405,18 @@
 		"Sheshbazzar the prince of Judah",
 		"Sheshbazzar"
 	],
+	"Q6884731": [
+		"Mispar",
+		"Mispereth"
+	],
 	"Q1577528": [
 		"Parosh"
 	],
 	"Q7124538": [
 		"Pahath-moab"
+	],
+	"Q65303005": [
+		"Bebai"
 	],
 	"Q783824": [
 		"Jeshua son of Jozadak",
@@ -5077,11 +5447,14 @@
 		"The king",
 		"Artaxerxes king of Babylon"
 	],
+	"Q104783764": [
+		"Tabeel"
+	],
 	"Q131782870": [
 		"Rehum the commander",
 		"Rehum"
 	],
-	"Q139891440": [
+	"Q136374598": [
 		"Shimshai the scribe"
 	],
 	"Q171191": [
@@ -5096,7 +5469,7 @@
 		"Tattenai the governor",
 		"Tattenai"
 	],
-	"Q138749514": [
+	"Q56433512": [
 		"Shethar-bozenai"
 	],
 	"Q191787": [
@@ -5106,8 +5479,23 @@
 		"Ezra the priest",
 		"Ezra the scribe"
 	],
+	"Q114878222": [
+		"Azariah"
+	],
+	"Q61895312": [
+		"Ebed son of Jonathan"
+	],
+	"Q5354451": [
+		"Eleazar son of Phinehas"
+	],
 	"Q139963579": [
 		"Shimei"
+	],
+	"Q123165801": [
+		"Abdi"
+	],
+	"Q8063457": [
+		"Zabbai"
 	],
 	"Q138706939": [
 		"Adna"
@@ -5118,8 +5506,20 @@
 	"Q139963567": [
 		"Shimei"
 	],
+	"Q123168995": [
+		"Bani"
+	],
+	"Q123168982": [
+		"Amram"
+	],
+	"Q14925218": [
+		"Vaniah"
+	],
 	"Q139963558": [
 		"Shimei"
+	],
+	"Q123148835": [
+		"Adaiah"
 	],
 	"Q1025598": [
 		"Nehemiah son of Hacaliah",
@@ -5134,7 +5534,7 @@
 		"Hanani",
 		"my brother Hanani"
 	],
-	"Q137798622": [
+	"Q131753159": [
 		"Asaph, keeper of the king’s forest"
 	],
 	"Q751918": [
@@ -5155,6 +5555,9 @@
 		"Eliashib",
 		"Eliashib the priest"
 	],
+	"Q135646994": [
+		"Hananel"
+	],
 	"Q137798632": [
 		"Zaccur son of Imri"
 	],
@@ -5163,6 +5566,12 @@
 	],
 	"Q112991274": [
 		"Noadiah the prophetess"
+	],
+	"Q125503923": [
+		"Chenani"
+	],
+	"Q125747629": [
+		"Sallu son of Meshullam"
 	],
 	"Q11979099": [
 		"Joiakim",
@@ -5195,6 +5604,9 @@
 	],
 	"Q2274631": [
 		"Zethar"
+	],
+	"Q115859316": [
+		"Carkas"
 	],
 	"Q123754572": [
 		"Carshena",
@@ -5285,6 +5697,18 @@
 		"His wife Zeresh",
 		"Zeresh"
 	],
+	"Q138840184": [
+		"Aridatha"
+	],
+	"Q138845284": [
+		"Arisai"
+	],
+	"Q138839979": [
+		"Aridai"
+	],
+	"Q133538725": [
+		"Vaizatha"
+	],
 	"Q179962": [
 		"Job",
 		"My servant Job",
@@ -5334,6 +5758,9 @@
 	"Q3201131": [
 		"Keren-happuch",
 		"Job’s daughters"
+	],
+	"Q123169391": [
+		"Cush, a Benjamite"
 	],
 	"Q302": [
 		"The stone the builders rejected",
@@ -5552,6 +5979,11 @@
 		"Shebna",
 		"mighty man"
 	],
+	"Q130271252": [
+		"Joah son of Asaph",
+		"Joah",
+		"Asaph’s son Joah the recorder"
+	],
 	"Q356505": [
 		"Merodach-baladan son of Baladan king of Babylon"
 	],
@@ -5574,14 +6006,58 @@
 		"Teacher",
 		"Rabbi"
 	],
+	"Q25796501": [
+		"Hilkiah"
+	],
+	"Q124314518": [
+		"Pashhur the priest",
+		"Pashhur",
+		"Magor-missabib"
+	],
+	"Q124334452": [
+		"Malchijah"
+	],
+	"Q124290531": [
+		"Maaseiah"
+	],
 	"Q2804969": [
 		"Micah the Moreshite"
+	],
+	"Q3206316": [
+		"Uriah son of Shemaiah",
+		"Uriah"
+	],
+	"Q124382215": [
+		"Shemaiah"
+	],
+	"Q109023366": [
+		"Elnathan son of Achbor",
+		"Elnathan"
+	],
+	"Q135454523": [
+		"Achbor"
 	],
 	"Q6644516": [
 		"the prophet Hananiah son of Azzur",
 		"the prophet Hananiah",
 		"Hananiah",
 		"Hananiah the prophet"
+	],
+	"Q124255564": [
+		"Azzur"
+	],
+	"Q124306645": [
+		"Elasah son of Shaphan"
+	],
+	"Q135335813": [
+		"Gemariah son of Hilkiah"
+	],
+	"Q123344686": [
+		"Ahab son of Kolaiah",
+		"Ahab"
+	],
+	"Q124304818": [
+		"Kolaiah"
 	],
 	"Q140053993": [
 		"Shemaiah the Nehelamite",
@@ -5590,6 +6066,9 @@
 	"Q11689901": [
 		"Hanamel",
 		"my cousin Hanamel"
+	],
+	"Q124382772": [
+		"Shallum"
 	],
 	"Q599907": [
 		"Baruch son of Neriah",
@@ -5600,15 +6079,88 @@
 	"Q6996190": [
 		"Neriah"
 	],
+	"Q124256160": [
+		"Hanan son of Igdaliah"
+	],
+	"Q124315903": [
+		"Igdaliah"
+	],
+	"Q6663390": [
+		"Gemariah son of Shaphan the scribe",
+		"Gemariah",
+		"Gemariah son of Shaphan"
+	],
+	"Q124309935": [
+		"Elishama the scribe"
+	],
+	"Q124305892": [
+		"Delaiah son of Shemaiah",
+		"Delaiah"
+	],
+	"Q18191849": [
+		"Jehudi son of Nethaniah",
+		"Jehudi"
+	],
+	"Q124346862": [
+		"Nethaniah"
+	],
+	"Q124383678": [
+		"Shelemiah"
+	],
+	"Q124385912": [
+		"Seraiah son of Azriel"
+	],
+	"Q124306725": [
+		"Azriel"
+	],
 	"Q32979697": [
 		"Shelemiah son of Abdeel"
 	],
 	"Q2613514": [
 		"Abdeel"
 	],
+	"Q124316105": [
+		"Irijah son of Shelemiah",
+		"Irijah"
+	],
+	"Q140131442": [
+		"Shelemiah"
+	],
+	"Q130280934": [
+		"Hananiah"
+	],
+	"Q124316520": [
+		"Jonathan the scribe",
+		"Jonathan"
+	],
+	"Q124386155": [
+		"Shephatiah son of Mattan"
+	],
+	"Q124334352": [
+		"Mattan"
+	],
 	"Q177617": [
 		"Ebed-melech the Cushite",
 		"Ebed-melech"
+	],
+	"Q86678325": [
+		"Nebo-sarsekim the Rabsaris",
+		"Nebushazban the Rabsaris"
+	],
+	"Q131920039": [
+		"Samgar-nebo"
+	],
+	"Q140377305": [
+		"Seraiah son of Tanhumeth"
+	],
+	"Q124392739": [
+		"Tanhumeth"
+	],
+	"Q124310316": [
+		"Ephai the Netophathite"
+	],
+	"Q124375387": [
+		"Hoshaiah"
 	],
 	"Q140377442": [
 		"the quartermaster Seraiah son of Neriah",
@@ -5782,6 +6334,9 @@
 	],
 	"Q125481695": [
 		"Iddo"
+	],
+	"Q123272167": [
+		"Sharezer"
 	],
 	"Q5767200": [
 		"Malachi"
@@ -6217,9 +6772,6 @@
 	"Q63746299": [
 		"Alexander"
 	],
-	"Q1343034": [
-		"Rufus"
-	],
 	"Q1384449": [
 		"Theophilus"
 	],
@@ -6249,6 +6801,9 @@
 	],
 	"Q1774668": [
 		"Anna"
+	],
+	"Q7180641": [
+		"Phanuel"
 	],
 	"Q1407": [
 		"Tiberius Caesar"
@@ -6380,6 +6935,9 @@
 	"Q106079959": [
 		"Herod’s household manager Chuza"
 	],
+	"Q4118707": [
+		"Susanna"
+	],
 	"Q232453": [
 		"Martha",
 		"her sister Martha",
@@ -6417,6 +6975,9 @@
 		"Your brother",
 		"The man who had been dead"
 	],
+	"Q2979581": [
+		"Clopas"
+	],
 	"Q983883": [
 		"Joseph called Barsabbas",
 		"Justus",
@@ -6428,6 +6989,9 @@
 		"the Twelve",
 		"the apostles",
 		"the other apostles"
+	],
+	"Q126372611": [
+		"Alexander"
 	],
 	"Q185856": [
 		"Joseph",
@@ -6497,6 +7061,10 @@
 		"Tabitha",
 		"Dorcas"
 	],
+	"Q47267586": [
+		"Simon",
+		"Simon the tanner"
+	],
 	"Q435987": [
 		"Cornelius",
 		"Cornelius the centurion",
@@ -6519,6 +7087,9 @@
 	"Q1992340": [
 		"John",
 		"Mark"
+	],
+	"Q7320830": [
+		"a servant girl named Rhoda"
 	],
 	"Q33100712": [
 		"Blastus"
@@ -6580,6 +7151,9 @@
 		"Apollos",
 		"our brother Apollos"
 	],
+	"Q127582207": [
+		"Tyrannus"
+	],
 	"Q3567249": [
 		"Sopater son of Pyrrhus"
 	],
@@ -6588,6 +7162,9 @@
 	],
 	"Q468859": [
 		"Aristarchus"
+	],
+	"Q110624753": [
+		"Secundus"
 	],
 	"Q1396807": [
 		"Tychicus"
@@ -6636,8 +7213,15 @@
 	"Q466696": [
 		"Bernice"
 	],
+	"Q126491011": [
+		"Julius",
+		"the centurion"
+	],
 	"Q291547": [
 		"Phoebe"
+	],
+	"Q6778753": [
+		"Mary"
 	],
 	"Q262766": [
 		"Junia"
@@ -6654,8 +7238,14 @@
 	"Q618161": [
 		"Apelles"
 	],
+	"Q7848786": [
+		"Tryphena"
+	],
 	"Q752778": [
 		"Asyncritus"
+	],
+	"Q126521835": [
+		"Lucius"
 	],
 	"Q1960801": [
 		"Tertius"
@@ -6699,6 +7289,10 @@
 	"Q4281752": [
 		"Mark the cousin of Barnabas"
 	],
+	"Q6188194": [
+		"Jesus",
+		"Justus"
+	],
 	"Q128538": [
 		"Luke"
 	],
@@ -6707,6 +7301,9 @@
 	],
 	"Q16199754": [
 		"Hymenaeus"
+	],
+	"Q25344412": [
+		"your grandmother Lois"
 	],
 	"Q1373978": [
 		"your mother Eunice"
@@ -6732,6 +7329,9 @@
 	"Q981729": [
 		"Crescens"
 	],
+	"Q106310727": [
+		"Alexander the coppersmith"
+	],
 	"Q1348146": [
 		"Erastus"
 	],
@@ -6755,6 +7355,9 @@
 	],
 	"Q659399": [
 		"Diotrephes"
+	],
+	"Q126478581": [
+		"Demetrius"
 	],
 	"Q2733634": [
 		"His servant John",

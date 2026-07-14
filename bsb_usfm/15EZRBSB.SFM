@@ -400,10 +400,10 @@
 \v 7 \zdate|min="Q189689:P39:Q3114558:P580" max="Q189689:P39:Q3114558:P582"\*And in the days of \zwd Artaxerxes king of Persia|id="Q189689" t="2"\zwd*, \zwd Bishlam|\zwd*, \zwd Mithredath|\zwd*, \zwd Tabeel|Q104783764\zwd*, and the rest of his associates wrote a letter to \zwd Artaxerxes|Q189689\zwd*. It was written in Aramaic and then translated.\f + \fr 4:7 \ft The original text of Ezra 4:8 through Ezra 6:18 is in Aramaic.\f* 
 \b
 \m 
-\v 8 \zwd Rehum the commander|Q131782870\zwd* and \zwd Shimshai the scribe|Q139891440\zwd* wrote the letter against Jerusalem to \zwd King Artaxerxes|Q189689\zwd* as follows: 
+\v 8 \zwd Rehum the commander|Q131782870\zwd* and \zwd Shimshai the scribe|Q136374598\zwd* wrote the letter against Jerusalem to \zwd King Artaxerxes|Q189689\zwd* as follows: 
 \b
 \pmo 
-\v 9 From \zwd Rehum the commander|Q131782870\zwd*, \zwd Shimshai the scribe|Q139891440\zwd*, and the rest of their associates—the judges and officials over Tripolis, Persia, Erech and Babylon, the Elamites of Susa, 
+\v 9 From \zwd Rehum the commander|Q131782870\zwd*, \zwd Shimshai the scribe|Q136374598\zwd*, and the rest of their associates—the judges and officials over Tripolis, Persia, Erech and Babylon, the Elamites of Susa, 
 \v 10 and the rest of the peoples whom the great and honorable \zwd Ashurbanipal|id="Q171191" t="2"\zwd* \f + \fr 4:10 \ft Aramaic Osnappar, another name for Ashurbanipal\f* deported and settled in the cities of Samaria and elsewhere west of the Euphrates.\f + \fr 4:10 \ft Aramaic beyond the River; also in verses 11, 16, 17, and 20\f* 
 \b
 \pmo 
@@ -430,7 +430,7 @@
 \m 
 \v 17 Then \zwd the king|Q189689\zwd* sent this reply: 
 \b
-\pmo To \zwd Rehum the commander|Q131782870\zwd*, \zwd Shimshai the scribe|Q139891440\zwd*, and the rest of your associates living in Samaria and elsewhere in the region west of the Euphrates: 
+\pmo To \zwd Rehum the commander|Q131782870\zwd*, \zwd Shimshai the scribe|Q136374598\zwd*, and the rest of your associates living in Samaria and elsewhere in the region west of the Euphrates: 
 \b
 \pmo Greetings. 
 \b
@@ -444,7 +444,7 @@
 \v 22 See that you do not neglect this matter. Why allow this threat to increase and the royal interests to suffer? 
 \b
 \m 
-\v 23 When the text of the letter from \zwd King Artaxerxes|Q189689\zwd* was read to \zwd Rehum|Q131782870\zwd*, \zwd Shimshai the scribe|Q139891440\zwd*, and their associates, they went immediately to the Jews in Jerusalem and forcibly stopped them.\zdate|min="Q189689:P39:Q3114558:P580" max="Q189689:P39:Q3114558:P582"\* 
+\v 23 When the text of the letter from \zwd King Artaxerxes|Q189689\zwd* was read to \zwd Rehum|Q131782870\zwd*, \zwd Shimshai the scribe|Q136374598\zwd*, and their associates, they went immediately to the Jews in Jerusalem and forcibly stopped them.\zdate|min="Q189689:P39:Q3114558:P580" max="Q189689:P39:Q3114558:P582"\* 
 \b
 \m 
 \v 24 \zdate|Q44387:P39:Q938153:P580+P2Y\*Thus the construction of the house of God in Jerusalem ceased, and it remained at a standstill until the second year of the reign of \zwd Darius king of Persia|id="Q44387" t="2"\zwd*. 
@@ -844,7 +844,7 @@
 \m 
 \v 26 From the descendants of \zwd Elam|\zwd*: 
 \b
-\li1 \zwd Mattaniah|\zwd*, \zwd Zechariah|\zwd*, \zwd Jehiel|\zwd*, \zwd Abdi|\zwd*, \zwd Jeremoth|\zwd*, and \zwd Elijah|\zwd*. 
+\li1 \zwd Mattaniah|\zwd*, \zwd Zechariah|\zwd*, \zwd Jehiel|\zwd*, \zwd Abdi|Q123165801\zwd*, \zwd Jeremoth|\zwd*, and \zwd Elijah|\zwd*. 
 \b
 \m 
 \v 27 From the descendants of \zwd Zattu|\zwd*: 
@@ -878,9 +878,9 @@
 \li1 \zwd Mattenai|\zwd*, \zwd Mattattah|\zwd*, \zwd Zabad|\zwd*, \zwd Eliphelet|\zwd*, \zwd Jeremai|\zwd*, \zwd Manasseh|\zwd*, and \zwd Shimei|Q139963567\zwd*. 
 \b
 \m 
-\v 34 From the descendants of \zwd Bani|\zwd*: 
+\v 34 From the descendants of \zwd Bani|id="Q123168995" t="2"\zwd*: 
 \b
-\li1 \zwd Maadai|\zwd*, \zwd Amram|\zwd*, \zwd Uel|\zwd*, 
+\li1 \zwd Maadai|\zwd*, \zwd Amram|Q123168982\zwd*, \zwd Uel|\zwd*, 
 \v 35 \zwd Benaiah|\zwd*, \zwd Bedeiah|\zwd*, \zwd Cheluhi|\zwd*, 
 \v 36 \zwd Vaniah|id="Q14925218" t="2"\zwd*, \zwd Meremoth|\zwd*, \zwd Eliashib|\zwd*, 
 \v 37 \zwd Mattaniah|\zwd*, \zwd Mattenai|\zwd*, and \zwd Jaasu|\zwd*. 
@@ -889,7 +889,7 @@
 \v 38 From the descendants of \zwd Binnui|\zwd*: 
 \b
 \li1 \zwd Shimei|Q139963558\zwd*,\f + \fr 10:38 \ft See LXX; Hebrew And Bani, and Binnui, (and) Shimei,\f* 
-\v 39 \zwd Shelemiah|\zwd*, \zwd Nathan|\zwd*, \zwd Adaiah|\zwd*, 
+\v 39 \zwd Shelemiah|\zwd*, \zwd Nathan|\zwd*, \zwd Adaiah|Q123148835\zwd*, 
 \v 40 \zwd Machnadebai|\zwd*, \zwd Shashai|\zwd*, \zwd Sharai|\zwd*, 
 \v 41 \zwd Azarel|\zwd*, \zwd Shelemiah|\zwd*, \zwd Shemariah|\zwd*, 
 \v 42 \zwd Shallum|\zwd*, \zwd Amariah|\zwd*, and \zwd Joseph|\zwd*. 
