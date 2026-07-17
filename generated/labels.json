@@ -1382,6 +1382,9 @@
 	"Q125316367": [
 		"Me-zahab"
 	],
+	"Q138710420": [
+		"Alvah"
+	],
 	"Q5353134": [
 		"Elah"
 	],
@@ -2154,6 +2157,9 @@
 	"Q125747738": [
 		"Salu"
 	],
+	"Q138714622": [
+		"Zur"
+	],
 	"Q106808575": [
 		"Nemuel"
 	],
@@ -2227,6 +2233,9 @@
 	"Q126192673": [
 		"Shemuel son of Ammihud"
 	],
+	"Q138721693": [
+		"Ammihud"
+	],
 	"Q126083517": [
 		"Elidad son of Chislon"
 	],
@@ -2268,6 +2277,9 @@
 	],
 	"Q126192834": [
 		"Shelomi"
+	],
+	"Q138721699": [
+		"Ammihud"
 	],
 	"Q1135632": [
 		"Rahab",
@@ -3043,6 +3055,9 @@
 	"Q106096033": [
 		"Laish"
 	],
+	"Q138720692": [
+		"Ahimelech the Hittite"
+	],
 	"Q1154317": [
 		"Abishai son of Zeruiah",
 		"Abishai",
@@ -3655,6 +3670,9 @@
 	],
 	"Q4695120": [
 		"Ahinadab son of Iddo"
+	],
+	"Q138720643": [
+		"Ahimaaz"
 	],
 	"Q9166659": [
 		"Basemath"
@@ -4896,6 +4914,12 @@
 	"Q139884753": [
 		"Shobal"
 	],
+	"Q138697258": [
+		"Ahumai"
+	],
+	"Q138720753": [
+		"Ahuzzam"
+	],
 	"Q139592293": [
 		"Temeni"
 	],
@@ -4905,11 +4929,20 @@
 	"Q126009633": [
 		"Zohar"
 	],
+	"Q138746211": [
+		"Anub"
+	],
+	"Q138714921": [
+		"Zobebah"
+	],
 	"Q1676833": [
 		"Jabez"
 	],
 	"Q139857974": [
 		"Shuhah"
+	],
+	"Q138721701": [
+		"Ziph"
 	],
 	"Q106128816": [
 		"Ziphah"
@@ -4920,8 +4953,20 @@
 	"Q140312224": [
 		"Shammai"
 	],
+	"Q138722235": [
+		"Amnon"
+	],
 	"Q140312531": [
 		"Shallum"
+	],
+	"Q138716626": [
+		"Amaziah"
+	],
+	"Q138715594": [
+		"Ziza son of Shiphi (son of Allon, son of Jedaiah, son of Shimri, son of Shemaiah)"
+	],
+	"Q139891255": [
+		"Shiphi (son of Allon, son of Jedaiah, son of Shimri, son of Shemaiah)"
 	],
 	"Q139583049": [
 		"Baal his son"
@@ -5014,6 +5059,9 @@
 		"Jeatherai his son",
 		"Ethni"
 	],
+	"Q138714031": [
+		"Uzzah his son"
+	],
 	"Q140486012": [
 		"Heman the singer",
 		"Heman",
@@ -5077,6 +5125,12 @@
 	"Q138575503": [
 		"Abdi"
 	],
+	"Q138716663": [
+		"Amaziah"
+	],
+	"Q138722297": [
+		"Amzi"
+	],
 	"Q139270762": [
 		"Uzzi"
 	],
@@ -5095,12 +5149,24 @@
 	"Q123168777": [
 		"Abijah"
 	],
+	"Q138744777": [
+		"Anathoth"
+	],
+	"Q138701416": [
+		"Alemeth"
+	],
 	"Q140316138": [
 		"Benjamin"
+	],
+	"Q138690625": [
+		"Ahishahar"
 	],
 	"Q140009792": [
 		"His brother",
 		"Sheresh"
+	],
+	"Q138744866": [
+		"Aniam"
 	],
 	"Q85854722": [
 		"Shuthelah"
@@ -5119,11 +5185,17 @@
 	"Q139860046": [
 		"their sister Shua"
 	],
+	"Q138656270": [
+		"Ahi"
+	],
 	"Q138787635": [
 		"Aram"
 	],
 	"Q8074241": [
 		"Zophah"
+	],
+	"Q138710790": [
+		"Amal"
 	],
 	"Q139741844": [
 		"Suah"
@@ -5139,6 +5211,9 @@
 	],
 	"Q18225944": [
 		"Jephunneh"
+	],
+	"Q138747292": [
+		"Ara"
 	],
 	"Q9366449": [
 		"Ulla"
@@ -5158,23 +5233,60 @@
 	"Q22017204": [
 		"Naaman"
 	],
+	"Q138679387": [
+		"Ahijah"
+	],
+	"Q138713948": [
+		"Uzza"
+	],
 	"Q140320750": [
 		"Shaharaim"
 	],
 	"Q124749788": [
 		"Baara"
 	],
+	"Q138713556": [
+		"Ahio"
+	],
+	"Q138747309": [
+		"Arad"
+	],
 	"Q123165969": [
 		"Abdon"
+	],
+	"Q138744911": [
+		"Anthothijah"
 	],
 	"Q123165968": [
 		"Abdon"
 	],
+	"Q138714467": [
+		"Zur"
+	],
 	"Q139583200": [
 		"Baal"
 	],
+	"Q138713654": [
+		"Ahio"
+	],
+	"Q138778321": [
+		"Zecher",
+		"Zechariah"
+	],
+	"Q138701460": [
+		"Alemeth"
+	],
 	"Q139492418": [
 		"Ulam"
+	],
+	"Q138721705": [
+		"Ammihud"
+	],
+	"Q138713763": [
+		"Akkub"
+	],
+	"Q138720670": [
+		"Ahiman"
 	],
 	"Q2903701": [
 		"Jashobeam son of Hachmoni"
@@ -5194,6 +5306,9 @@
 	"Q132166874": [
 		"Baanah"
 	],
+	"Q138679459": [
+		"Ahijah the Pelonite"
+	],
 	"Q22039166": [
 		"Ezbai"
 	],
@@ -5206,6 +5321,9 @@
 	"Q65303551": [
 		"Zabad son of Ahlai"
 	],
+	"Q138691037": [
+		"Ahlai"
+	],
 	"Q20502064": [
 		"Ahiezer their chief"
 	],
@@ -5214,6 +5332,13 @@
 	],
 	"Q123159226": [
 		"Amasai"
+	],
+	"Q138713172": [
+		"Adnah"
+	],
+	"Q138721721": [
+		"Amminadab the chief",
+		"Amminadab"
 	],
 	"Q3567244": [
 		"Ethan son of Kushaiah",
@@ -5236,6 +5361,9 @@
 		"Hadadezer",
 		"Hadadezer king of Zobah"
 	],
+	"Q138715703": [
+		"Zizah"
+	],
 	"Q6394968": [
 		"Shebuel"
 	],
@@ -5254,6 +5382,12 @@
 	],
 	"Q133456354": [
 		"Zebadiah"
+	],
+	"Q138679908": [
+		"Ahijah"
+	],
+	"Q138721781": [
+		"his son Ammizabad"
 	],
 	"Q138862803": [
 		"his son Zebadiah"
@@ -5303,6 +5437,9 @@
 	"Q8064608": [
 		"Zaham"
 	],
+	"Q138715678": [
+		"Ziza"
+	],
 	"Q114921395": [
 		"Uriel"
 	],
@@ -5312,6 +5449,18 @@
 	],
 	"Q19893741": [
 		"Oded"
+	],
+	"Q138648102": [
+		"Adonijah"
+	],
+	"Q138704639": [
+		"Amasiah son of Zichri"
+	],
+	"Q138787064": [
+		"Zichri"
+	],
+	"Q138720971": [
+		"Amariah"
 	],
 	"Q1966067": [
 		"Jahaziel son of Zechariah"
@@ -5365,6 +5514,9 @@
 	"Q16341302": [
 		"Oded"
 	],
+	"Q138721387": [
+		"Amasa son of Hadlai"
+	],
 	"Q123159230": [
 		"Amasai"
 	],
@@ -5377,6 +5529,9 @@
 	],
 	"Q139963652": [
 		"his brother Shimei"
+	],
+	"Q138721004": [
+		"Amariah"
 	],
 	"Q125102": [
 		"Neco king of Egypt",
@@ -5417,6 +5572,16 @@
 	],
 	"Q65303005": [
 		"Bebai"
+	],
+	"Q138713779": [
+		"Akkub"
+	],
+	"Q138713964": [
+		"Uzza"
+	],
+	"Q138721677": [
+		"Ami",
+		"Amon"
 	],
 	"Q783824": [
 		"Jeshua son of Jozadak",
@@ -5497,6 +5662,9 @@
 	"Q8063457": [
 		"Zabbai"
 	],
+	"Q138634837": [
+		"Adaiah"
+	],
 	"Q138706939": [
 		"Adna"
 	],
@@ -5561,17 +5729,53 @@
 	"Q137798632": [
 		"Zaccur son of Imri"
 	],
+	"Q138727580": [
+		"Ananiah"
+	],
 	"Q137798637": [
 		"Shemaiah son of Delaiah"
 	],
 	"Q112991274": [
 		"Noadiah the prophetess"
 	],
+	"Q138757378": [
+		"Arah"
+	],
+	"Q138716465": [
+		"Anaiah"
+	],
+	"Q138713794": [
+		"Akkub"
+	],
 	"Q125503923": [
 		"Chenani"
 	],
+	"Q138720623": [
+		"Zedekiah"
+	],
+	"Q138721112": [
+		"Amariah"
+	],
+	"Q138648164": [
+		"Adonijah"
+	],
+	"Q138744799": [
+		"Anathoth"
+	],
+	"Q138726143": [
+		"Anan"
+	],
+	"Q138721154": [
+		"Amariah"
+	],
+	"Q138640478": [
+		"Adaiah"
+	],
 	"Q125747629": [
 		"Sallu son of Meshullam"
+	],
+	"Q138722307": [
+		"Amzi"
 	],
 	"Q11979099": [
 		"Joiakim",
@@ -5588,6 +5792,9 @@
 	],
 	"Q2723012": [
 		"Jaddua"
+	],
+	"Q138722243": [
+		"Amok"
 	],
 	"Q1917635": [
 		"Mehuman"
@@ -5938,6 +6145,9 @@
 		"King Lemuel",
 		"Lemuel"
 	],
+	"Q138721733": [
+		"Amminadab"
+	],
 	"Q18192190": [
 		"your son Shear-jashub"
 	],
@@ -6059,6 +6269,10 @@
 	"Q124304818": [
 		"Kolaiah"
 	],
+	"Q138720632": [
+		"Zedekiah son of Maaseiah",
+		"Zedekiah"
+	],
 	"Q140053993": [
 		"Shemaiah the Nehelamite",
 		"Shemaiah"
@@ -6096,6 +6310,9 @@
 	"Q124305892": [
 		"Delaiah son of Shemaiah",
 		"Delaiah"
+	],
+	"Q138720656": [
+		"Zedekiah son of Hananiah"
 	],
 	"Q18191849": [
 		"Jehudi son of Nethaniah",

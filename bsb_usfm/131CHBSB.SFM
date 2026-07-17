@@ -179,7 +179,7 @@
 \li1
 \v 51 Then \zwd Hadad|id="Q134468308" t="2"\zwd* died.
 \b
-\m Now the chiefs of Edom were \zwd Timna|\zwd*, \zwd Alvah|\zwd*, \zwd Jetheth|\zwd*,
+\m Now the chiefs of Edom were \zwd Timna|\zwd*, \zwd Alvah|id="Q138710420" t="2"\zwd*, \zwd Jetheth|\zwd*,
 \v 52 \zwd Oholibamah|\zwd*, \zwd Elah|id="Q5353134" t="2"\zwd*, \zwd Pinon|\zwd*,
 \v 53 \zwd Kenaz|\zwd*, \zwd Teman|\zwd*, \zwd Mibzar|\zwd*,
 \v 54 \zwd Magdiel|\zwd*, and \zwd Iram|id="Q125264444" t="2"\zwd*. These were the chiefs of Edom.
@@ -458,7 +458,7 @@
 \li1 \zwd Perez|id="Q1814684" t="2"\zwd*, \zwd Hezron|id="Q4177234" t="2"\zwd*, \zwd Carmi|id="Q114672619" t="2"\zwd*, \zwd Hur|\zwd*, and \zwd Shobal|id="Q139884753" t="2"\zwd*. 
 \b
 \li1 
-\v 2 \zwd Reaiah son of \zwd Shobal|id="Q139884753" t="2"\zwd*|\zwd* was the father of \zwd Jahath|\zwd*, and \zwd Jahath|\zwd* was the father of \zwd Ahumai|\zwd* and \zwd Lahad|\zwd*. These were the clans of the Zorathites. 
+\v 2 \zwd Reaiah son of \zwd Shobal|id="Q139884753" t="2"\zwd*|\zwd* was the father of \zwd Jahath|\zwd*, and \zwd Jahath|\zwd* was the father of \zwd Ahumai|id="Q138697258" t="2"\zwd* and \zwd Lahad|\zwd*. These were the clans of the Zorathites. 
 \b
 \li1 
 \v 3 These were the sons \f + \fr 4:3 \ft LXX (see also Vulgate); Hebrew These were of the father\f* of \zwd Etam|\zwd*: \zwd Jezreel|\zwd*, \zwd Ishma|\zwd*, and \zwd Idbash|\zwd*. And their sister was named \zwd Hazzelelponi|\zwd*. 
@@ -470,11 +470,11 @@
 \v 5 \zwd Ashhur the father of \zwd Tekoa|id="Q115481221" t="2"\zwd*|id="Q115481149" t="2"\zwd* had two wives, \zwd Helah|\zwd* and \zwd Naarah|\zwd*. 
 \b
 \li2 
-\v 6 \zwd Naarah|\zwd* bore to him \zwd Ahuzzam|\zwd*, \zwd Hepher|\zwd*, \zwd Temeni|id="Q139592293" t="2"\zwd*, and \zwd Haahashtari|\zwd*. These were the descendants of \zwd Naarah|\zwd*. 
+\v 6 \zwd Naarah|\zwd* bore to him \zwd Ahuzzam|id="Q138720753" t="2"\zwd*, \zwd Hepher|\zwd*, \zwd Temeni|id="Q139592293" t="2"\zwd*, and \zwd Haahashtari|\zwd*. These were the descendants of \zwd Naarah|\zwd*. 
 \b
 \li2 
 \v 7 The sons of \zwd Helah|\zwd* were \zwd Zereth|id="Q138847618" t="2"\zwd*, \zwd Zohar|id="Q126009633" t="2"\zwd*,\f + \fr 4:7 \ft Alternate MT reading; the other alternate (see also Vulgate) reads Izhar.\f* \zwd Ethnan|\zwd*, 
-\v 8 and \zwd Koz|\zwd*, who was the father of \zwd Anub|\zwd* and \zwd Zobebah|\zwd* and of the clans of \zwd Aharhel son of \zwd Harum|\zwd*|\zwd*. 
+\v 8 and \zwd Koz|\zwd*, who was the father of \zwd Anub|id="Q138746211" t="2"\zwd* and \zwd Zobebah|id="Q138714921" t="2"\zwd* and of the clans of \zwd Aharhel son of \zwd Harum|\zwd*|\zwd*. 
 \s1 The Prayer of Jabez
 \b
 \li1 
@@ -514,7 +514,7 @@
 \li1 
 \v 16 The sons of \zwd Jehallelel|\zwd*: 
 \b
-\li2 \zwd Ziph|\zwd*, \zwd Ziphah|id="Q106128816" t="2"\zwd*, \zwd Tiria|\zwd*, and \zwd Asarel|\zwd*. 
+\li2 \zwd Ziph|id="Q138721701" t="2"\zwd*, \zwd Ziphah|id="Q106128816" t="2"\zwd*, \zwd Tiria|\zwd*, and \zwd Asarel|\zwd*. 
 \b
 \li1 
 \v 17 The sons of \zwd Ezrah|\zwd*: 
@@ -532,7 +532,7 @@
 \li1 
 \v 20 The sons of \zwd Shimon|\zwd*: 
 \b
-\li2 \zwd Amnon|\zwd*, \zwd Rinnah|\zwd*, \zwd Ben-hanan|\zwd*, and \zwd Tilon|\zwd*. 
+\li2 \zwd Amnon|id="Q138722235" t="2"\zwd*, \zwd Rinnah|\zwd*, \zwd Ben-hanan|\zwd*, and \zwd Tilon|\zwd*. 
 \b
 \li1 The descendants of \zwd Ishi|\zwd*: 
 \b
@@ -571,10 +571,10 @@
 \v 33 and all their surrounding villages as far as Baal.\f + \fr 4:33 \ft Hebrew; some LXX manuscripts (see also Joshua 19:8) Baalath\f* These were their settlements, and they kept a genealogical record: 
 \b
 \li2 
-\v 34 \zwd Meshobab|\zwd*, \zwd Jamlech|\zwd*, \zwd Joshah son of \zwd Amaziah|\zwd*|\zwd*, 
+\v 34 \zwd Meshobab|\zwd*, \zwd Jamlech|\zwd*, \zwd Joshah son of \zwd Amaziah|id="Q138716626" t="2"\zwd*|\zwd*, 
 \v 35 \zwd Joel|\zwd*, \zwd Jehu son of \zwd Joshibiah (son of \zwd Seraiah|\zwd*, son of \zwd Asiel|\zwd*)|\zwd*|\zwd*, 
 \v 36 \zwd Elioenai|\zwd*, \zwd Jaakobah|\zwd*, \zwd Jeshohaiah|\zwd*, \zwd Asaiah|\zwd*, \zwd Adiel|\zwd*, \zwd Jesimiel|\zwd*, \zwd Benaiah|\zwd*, 
-\v 37 and \zwd Ziza son of \zwd Shiphi (son of \zwd Allon|\zwd*, son of \zwd Jedaiah|\zwd*, son of \zwd Shimri|\zwd*, son of \zwd Shemaiah|\zwd*)|\zwd*|\zwd*. 
+\v 37 and \zwd Ziza son of \zwd Shiphi (son of \zwd Allon|\zwd*, son of \zwd Jedaiah|\zwd*, son of \zwd Shimri|\zwd*, son of \zwd Shemaiah|\zwd*)|id="Q139891255" t="2"\zwd*|Q138715594\zwd*. 
 \b
 \li1 
 \v 38 These men listed by name were the leaders of their clans. Their families increased greatly, 
@@ -775,7 +775,7 @@
 \li1 
 \v 29 The descendants of \zwd Merari|id="Q2670550" t="2"\zwd*: 
 \b
-\li2 \zwd Mahli|id="Q85854044" t="2"\zwd*, \zwd Libni his son|\zwd*, \zwd Shimei his son|\zwd*, \zwd Uzzah his son|\zwd*, 
+\li2 \zwd Mahli|id="Q85854044" t="2"\zwd*, \zwd Libni his son|\zwd*, \zwd Shimei his son|\zwd*, \zwd Uzzah his son|id="Q138714031" t="2"\zwd*, 
 \v 30 \zwd Shimea his son|\zwd*, \zwd Haggiah his son|\zwd*, and \zwd Asaiah his son|\zwd*. 
 \s1 The Temple Musicians
 \b
@@ -806,8 +806,8 @@
 \v 44 On the left were their kinsmen, the sons of \zwd Merari|id="Q2670550" t="2"\zwd*: 
 \b
 \li2 \zwd Ethan the son of \zwd Kishi|id="Q6416566" t="2"\zwd*|\zwd*, the son of \zwd Abdi|id="Q138575503" t="2"\zwd*, the son of \zwd Malluch|\zwd*, 
-\v 45 the son of \zwd Hashabiah|\zwd*, the son of \zwd Amaziah|\zwd*, the son of \zwd Hilkiah|\zwd*, 
-\v 46 the son of \zwd Amzi|\zwd*, the son of \zwd Bani|\zwd*, the son of \zwd Shemer|\zwd*, 
+\v 45 the son of \zwd Hashabiah|\zwd*, the son of \zwd Amaziah|id="Q138716663" t="2"\zwd*, the son of \zwd Hilkiah|\zwd*, 
+\v 46 the son of \zwd Amzi|id="Q138722297" t="2"\zwd*, the son of \zwd Bani|\zwd*, the son of \zwd Shemer|\zwd*, 
 \v 47 the son of \zwd Mahli|\zwd*, the son of \zwd Mushi|id="Q85854187" t="2"\zwd*, the son of \zwd Merari|id="Q2670550" t="2"\zwd*, the son of \zwd Levi|id="Q215512" t="2"\zwd*. 
 \s1 The Descendants of Aaron
 \b
@@ -929,7 +929,7 @@
 \li1 
 \v 8 The sons of \zwd Becher|id="Q85852881" t="2"\zwd*: 
 \b
-\li2 \zwd Zemirah|id="Q138836691" t="2"\zwd*, \zwd Joash|\zwd*, \zwd Eliezer|\zwd*, \zwd Elioenai|\zwd*, \zwd Omri|\zwd*, \zwd Jeremoth|\zwd*, \zwd Abijah|id="Q123168777" t="2"\zwd*, \zwd Anathoth|\zwd*, and \zwd Alemeth|\zwd*; all these were \zwd Becher|id="Q85852881" t="2"\zwd*’s sons. 
+\li2 \zwd Zemirah|id="Q138836691" t="2"\zwd*, \zwd Joash|\zwd*, \zwd Eliezer|\zwd*, \zwd Elioenai|\zwd*, \zwd Omri|\zwd*, \zwd Jeremoth|\zwd*, \zwd Abijah|id="Q123168777" t="2"\zwd*, \zwd Anathoth|id="Q138744777" t="2"\zwd*, and \zwd Alemeth|id="Q138701416" t="2"\zwd*; all these were \zwd Becher|id="Q85852881" t="2"\zwd*’s sons. 
 \v 9 Their genealogies were recorded according to the heads of their families—20,200 mighty men of valor. 
 \b
 \li1 
@@ -939,7 +939,7 @@
 \b
 \li1 The sons of \zwd Bilhan|\zwd*: 
 \b
-\li2 \zwd Jeush|\zwd*, \zwd Benjamin|id="Q140316138" t="2"\zwd*, \zwd Ehud|\zwd*, \zwd Chenaanah|\zwd*, \zwd Zethan|\zwd*, \zwd Tarshish|\zwd*, and \zwd Ahishahar|\zwd*. 
+\li2 \zwd Jeush|\zwd*, \zwd Benjamin|id="Q140316138" t="2"\zwd*, \zwd Ehud|\zwd*, \zwd Chenaanah|\zwd*, \zwd Zethan|\zwd*, \zwd Tarshish|\zwd*, and \zwd Ahishahar|id="Q138690625" t="2"\zwd*. 
 \v 11 All these sons of \zwd Jediael|\zwd* were heads of their families, mighty men of valor; there were 17,200 fit for battle. 
 \v 12 The Shuppites and Huppites were descendants of \zwd Ir|\zwd*, and the Hushites were descendants of \zwd Aher|\zwd*. 
 \s1 The Descendants of Naphtali
@@ -974,7 +974,7 @@
 \li1 
 \v 19 And these were the sons of \zwd Shemida|\zwd*: 
 \b
-\li2 \zwd Ahian|\zwd*, \zwd Shechem|\zwd*, \zwd Likhi|\zwd*, and \zwd Aniam|\zwd*. 
+\li2 \zwd Ahian|\zwd*, \zwd Shechem|\zwd*, \zwd Likhi|\zwd*, and \zwd Aniam|id="Q138744866" t="2"\zwd*. 
 \s1 The Descendants of Ephraim
 \b
 \m 
@@ -1021,12 +1021,12 @@
 \li1 
 \v 34 The sons of \zwd Shemer|id="Q139882201" t="2"\zwd*: 
 \b
-\li2 \zwd Ahi|\zwd*, \zwd Rohgah|\zwd*,\f + \fr 7:34 \ft Or The sons of his brother Shemer: Rohgah; note that Shemer is a variant of Shomer; see verse 32.\f* \zwd Hubbah|\zwd*, and \zwd Aram|id="Q138787635" t="2"\zwd*. 
+\li2 \zwd Ahi|id="Q138656270" t="2"\zwd*, \zwd Rohgah|\zwd*,\f + \fr 7:34 \ft Or The sons of his brother Shemer: Rohgah; note that Shemer is a variant of Shomer; see verse 32.\f* \zwd Hubbah|\zwd*, and \zwd Aram|id="Q138787635" t="2"\zwd*. 
 \b
 \li1 
 \v 35 The sons of \zwd his brother Helem|\zwd*:\f + \fr 7:35 \ft Helem is possibly another name for Hotham; see verse 32.\f* 
 \b
-\li2 \zwd Zophah|id="Q8074241" t="2"\zwd*, \zwd Imna|\zwd*, \zwd Shelesh|\zwd*, and \zwd Amal|\zwd*. 
+\li2 \zwd Zophah|id="Q8074241" t="2"\zwd*, \zwd Imna|\zwd*, \zwd Shelesh|\zwd*, and \zwd Amal|id="Q138710790" t="2"\zwd*. 
 \b
 \li1 
 \v 36 The sons of \zwd Zophah|id="Q8074241" t="2"\zwd*: 
@@ -1037,7 +1037,7 @@
 \li1 
 \v 38 The sons of \zwd Jether|\zwd*: 
 \b
-\li2 \zwd Jephunneh|id="Q18225944" t="2"\zwd*, \zwd Pispa|\zwd*, and \zwd Ara|\zwd*. 
+\li2 \zwd Jephunneh|id="Q18225944" t="2"\zwd*, \zwd Pispa|\zwd*, and \zwd Ara|id="Q138747292" t="2"\zwd*. 
 \b
 \li1 
 \v 39 The sons of \zwd Ulla|id="Q9366449" t="2"\zwd*: 
@@ -1063,7 +1063,7 @@
 \v 6 These were the descendants of \zwd Ehud|\zwd* who were the heads of the families living in Geba and were exiled to Manahath: 
 \b
 \li2 
-\v 7 \zwd Naaman|\zwd*, \zwd Ahijah|\zwd*, and \zwd Gera|\zwd*, who carried them into exile and who was the father of \zwd Uzza|\zwd* and \zwd Ahihud|\zwd*.\f + \fr 8:7 \ft Or and Gera, that is Heglam, who was the father of Uzza and Ahihud.\f* 
+\v 7 \zwd Naaman|\zwd*, \zwd Ahijah|Q138679387\zwd*, and \zwd Gera|\zwd*, who carried them into exile and who was the father of \zwd Uzza|id="Q138713948" t="2"\zwd* and \zwd Ahihud|\zwd*.\f + \fr 8:7 \ft Or and Gera, that is Heglam, who was the father of Uzza and Ahihud.\f* 
 \b
 \li1 
 \v 8 \zwd Shaharaim|id="Q140320750" t="2"\zwd* had sons in the country of Moab after he had divorced his wives \zwd Hushim|\zwd* and \zwd Baara|id="Q124749788" t="2"\zwd*. 
@@ -1084,8 +1084,8 @@
 \v 13 and \zwd Beriah|\zwd* and \zwd Shema|\zwd* (who were the heads of families living in Aijalon and who drove out the inhabitants of Gath). 
 \b
 \li1 
-\v 14 \zwd Ahio|\zwd*, \zwd Shashak|\zwd*, \zwd Jeremoth|\zwd*, 
-\v 15 \zwd Zebadiah|\zwd*, \zwd Arad|\zwd*, \zwd Eder|\zwd*, 
+\v 14 \zwd Ahio|id="Q138713556" t="2"\zwd*, \zwd Shashak|\zwd*, \zwd Jeremoth|\zwd*, 
+\v 15 \zwd Zebadiah|\zwd*, \zwd Arad|id="Q138747309" t="2"\zwd*, \zwd Eder|\zwd*, 
 \v 16 \zwd Michael|\zwd*, \zwd Ishpah|\zwd*, and \zwd Joha|\zwd* were the sons of \zwd Beriah|\zwd*. 
 \b
 \li1 
@@ -1100,7 +1100,7 @@
 \li1 
 \v 22 \zwd Ishpan|\zwd*, \zwd Eber|\zwd*, \zwd Eliel|\zwd*, 
 \v 23 \zwd Abdon|id="Q123165969" t="2"\zwd*, \zwd Zichri|\zwd*, \zwd Hanan|\zwd*, 
-\v 24 \zwd Hananiah|\zwd*, \zwd Elam|\zwd*, \zwd Anthothijah|\zwd*, 
+\v 24 \zwd Hananiah|\zwd*, \zwd Elam|\zwd*, \zwd Anthothijah|id="Q138744911" t="2"\zwd*, 
 \v 25 \zwd Iphdeiah|\zwd*, and \zwd Penuel|\zwd* were the sons of \zwd Shashak|\zwd*. 
 \b
 \li1 
@@ -1112,8 +1112,8 @@
 \b
 \li1 
 \v 29 \zwd Jeiel the father of \zwd Gibeon|\zwd*|Q16128781\zwd* lived \f + \fr 8:29 \ft Some LXX manuscripts (see also 1 Chronicles 9:35); Hebrew The father of Gibeon lived\f* in Gibeon. His wife’s name was \zwd Maacah|\zwd*, 
-\v 30 and \zwd Abdon|id="Q123165968" t="2"\zwd* was his firstborn son, then \zwd Zur|\zwd*, \zwd Kish|id="Q2915270" t="2"\zwd*, \zwd Baal|Q139583200\zwd*,\f + \fr 8:30 \ft Some LXX manuscripts include Ner; see 1 Chronicles 9:36.\f* \zwd Nadab|\zwd*, 
-\v 31 \zwd Gedor|\zwd*, \zwd Ahio|\zwd*, \zwd Zecher|\zwd*,\f + \fr 8:31 \ft Zecher is likely a variant of Zechariah; see 1 Chronicles 9:37.\f* 
+\v 30 and \zwd Abdon|id="Q123165968" t="2"\zwd* was his firstborn son, then \zwd Zur|id="Q138714467" t="2"\zwd*, \zwd Kish|id="Q2915270" t="2"\zwd*, \zwd Baal|id="Q139583200" t="2"\zwd*,\f + \fr 8:30 \ft Some LXX manuscripts include Ner; see 1 Chronicles 9:36.\f* \zwd Nadab|\zwd*, 
+\v 31 \zwd Gedor|\zwd*, \zwd Ahio|id="Q138713654" t="2"\zwd*, \zwd Zecher|id="Q138778321" t="2"\zwd*,\f + \fr 8:31 \ft Zecher is likely a variant of Zechariah; see 1 Chronicles 9:37.\f* 
 \v 32 and \zwd Mikloth|\zwd*, who was the father of \zwd Shimeah|\zwd*.\f + \fr 8:32 \ft Shimeah is a variant of Shimeam; see 1 Chronicles 9:38.\f* They too lived alongside their relatives in Jerusalem. 
 \s1 The Family of Saul
 \b
@@ -1131,7 +1131,7 @@
 \li2 \zwd Pithon|\zwd*, \zwd Melech|\zwd*, \zwd Tarea|\zwd*,\f + \fr 8:35 \ft Tarea is a variant of Tahrea; see 1 Chronicles 9:41.\f* and \zwd Ahaz|\zwd*. 
 \b
 \li1 
-\v 36 \zwd Ahaz|\zwd* was the father of \zwd Jehoaddah|\zwd*, \zwd Jehoaddah|\zwd* \f + \fr 8:36 \ft Jehoaddah is a variant of Jarah or Jadah; see 1 Chronicles 9:42.\f* was the father of \zwd Alemeth|\zwd*, \zwd Azmaveth|\zwd*, and \zwd Zimri|\zwd*, and \zwd Zimri|\zwd* was the father of \zwd Moza|\zwd*. 
+\v 36 \zwd Ahaz|\zwd* was the father of \zwd Jehoaddah|\zwd*, \zwd Jehoaddah|\zwd* \f + \fr 8:36 \ft Jehoaddah is a variant of Jarah or Jadah; see 1 Chronicles 9:42.\f* was the father of \zwd Alemeth|id="Q138701460" t="2"\zwd*, \zwd Azmaveth|\zwd*, and \zwd Zimri|\zwd*, and \zwd Zimri|\zwd* was the father of \zwd Moza|\zwd*. 
 \b
 \li1 
 \v 37 \zwd Moza|\zwd* was the father of \zwd Binea|\zwd*. \zwd Raphah|\zwd* \f + \fr 8:37 \ft Raphah is a variant of Rephaiah; see 1 Chronicles 9:43.\f* was his son, \zwd Eleasah|\zwd* his son, and \zwd Azel|\zwd* his son. 
@@ -1160,7 +1160,7 @@
 \v 3 Some of the descendants of \zwd Judah|id="Q282220" t="2"\zwd*, \zwd Benjamin|id="Q460763" t="2"\zwd*, \zwd Ephraim|id="Q203251" t="2"\zwd*, and \zwd Manasseh|id="Q1056931" t="2"\zwd* lived in Jerusalem: 
 \b
 \li1 
-\v 4 \zwd Uthai son of \zwd Ammihud|\zwd*|\zwd*, the son of \zwd Omri|\zwd*, the son of \zwd Imri|\zwd*, the son of \zwd Bani|\zwd*, a descendant of \zwd Perez|id="Q1814684" t="2"\zwd* son of \zwd Judah|id="Q282220" t="2"\zwd*. 
+\v 4 \zwd Uthai son of \zwd Ammihud|id="Q138721705" t="2"\zwd*|\zwd*, the son of \zwd Omri|\zwd*, the son of \zwd Imri|\zwd*, the son of \zwd Bani|\zwd*, a descendant of \zwd Perez|id="Q1814684" t="2"\zwd* son of \zwd Judah|id="Q282220" t="2"\zwd*. 
 \b
 \li1 
 \v 5 From the Shilonites: 
@@ -1219,7 +1219,7 @@
 \li1 
 \v 17 These were the gatekeepers: 
 \b
-\li2 \zwd Shallum|\zwd*, \zwd Akkub|\zwd*, \zwd Talmon|\zwd*, \zwd Ahiman|\zwd*, and their relatives. 
+\li2 \zwd Shallum|\zwd*, \zwd Akkub|Q138713763\zwd*, \zwd Talmon|\zwd*, \zwd Ahiman|Q138720670\zwd*, and their relatives. 
 \b
 \li2 \zwd Shallum|\zwd* was their chief; 
 \v 18 he was previously stationed at the King’s Gate on the east side. These were the gatekeepers from the camp of the Levites. 
@@ -1256,11 +1256,11 @@
 \s1 The Descendants of Saul
 \b
 \li1 
-\v 35 \zwd Jeiel the father \f + \fr 9:35 \ft Or the founder\f* of \zwd Gibeon|\zwd*|\zwd* lived in Gibeon. His wife’s name was \zwd Maacah|\zwd*. 
+\v 35 \zwd Jeiel the father \f + \fr 9:35 \ft Or the founder\f* of \zwd Gibeon|\zwd*|id="Q16128781" t="2"\zwd* lived in Gibeon. His wife’s name was \zwd Maacah|\zwd*. 
 \b
 \li1 
-\v 36 \zwd Abdon|\zwd* was his firstborn son, then \zwd Zur|\zwd*, \zwd Kish|id="Q2915270" t="2"\zwd*, \zwd Baal|\zwd*, \zwd Ner|\zwd*, \zwd Nadab|\zwd*, 
-\v 37 \zwd Gedor|\zwd*, \zwd Ahio|\zwd*, \zwd Zechariah|\zwd*, and \zwd Mikloth|\zwd*. 
+\v 36 \zwd Abdon|id="Q123165968" t="2"\zwd* was his firstborn son, then \zwd Zur|id="Q138714467" t="2"\zwd*, \zwd Kish|id="Q2915270" t="2"\zwd*, \zwd Baal|id="Q139583200" t="2"\zwd*, \zwd Ner|\zwd*, \zwd Nadab|\zwd*, 
+\v 37 \zwd Gedor|\zwd*, \zwd Ahio|id="Q138713654" t="2"\zwd*, \zwd Zechariah|id="Q138778321" t="2"\zwd*, and \zwd Mikloth|\zwd*. 
 \b
 \li1 
 \v 38 \zwd Mikloth|\zwd* was the father of \zwd Shimeam|\zwd*.\f + \fr 9:38 \ft Shimeam is a variant of Shimeah; see 1 Chronicles 8:32.\f* They too lived alongside their relatives in Jerusalem. 
@@ -1279,7 +1279,7 @@
 \li2 \zwd Pithon|\zwd*, \zwd Melech|\zwd*, \zwd Tahrea|\zwd*, and \zwd Ahaz|\zwd*.\f + \fr 9:41 \ft Vulgate and Syriac (see also LXX and 1 Chronicles 8:35); Hebrew Pithon, Melech, and Tahrea; note that Tahrea is a variant of Tarea.\f* 
 \b
 \li2 
-\v 42 \zwd Ahaz|\zwd* was the father of \zwd Jarah|\zwd*; \zwd Jarah|\zwd* \f + \fr 9:42 \ft Most Hebrew manuscripts; some Hebrew manuscripts and LXX Jadah; Jadah; note that Jarah and Jadah are variants of Jehoaddah; see 1 Chronicles 8:36.\f* was the father of \zwd Alemeth|\zwd*, \zwd Azmaveth|\zwd*, and \zwd Zimri|\zwd*; and \zwd Zimri|\zwd* was the father of \zwd Moza|\zwd*. 
+\v 42 \zwd Ahaz|\zwd* was the father of \zwd Jarah|\zwd*; \zwd Jarah|\zwd* \f + \fr 9:42 \ft Most Hebrew manuscripts; some Hebrew manuscripts and LXX Jadah; Jadah; note that Jarah and Jadah are variants of Jehoaddah; see 1 Chronicles 8:36.\f* was the father of \zwd Alemeth|id="Q138701460" t="2"\zwd*, \zwd Azmaveth|\zwd*, and \zwd Zimri|\zwd*; and \zwd Zimri|\zwd* was the father of \zwd Moza|\zwd*. 
 \v 43 \zwd Moza|\zwd* was the father of \zwd Binea|\zwd*. \zwd Rephaiah|\zwd* \f + \fr 9:43 \ft Rephaiah is a variant of Raphah; see 1 Chronicles 8:37.\f* was his son, \zwd Elasah|\zwd* his son, and \zwd Azel|\zwd* his son. 
 \b
 \li1 
@@ -1445,7 +1445,7 @@
 \li1 
 \v 36 \zwd Hepher the Mecherathite|\zwd*, 
 \b
-\li1 \zwd Ahijah the Pelonite|\zwd*, 
+\li1 \zwd Ahijah the Pelonite|Q138679459\zwd*, 
 \b
 \li1 
 \v 37 \zwd Hezro the Carmelite|Q132166507\zwd*, 
@@ -1470,7 +1470,7 @@
 \li1 
 \v 41 \zwd Uriah the Hittite|Q71267\zwd*, 
 \b
-\li1 \zwd Zabad son of \zwd Ahlai|\zwd*|Q65303551\zwd*, 
+\li1 \zwd Zabad son of \zwd Ahlai|id="Q138691037" t="2"\zwd*|Q65303551\zwd*, 
 \b
 \li1 
 \v 42 \zwd Adina son of \zwd Shiza|\zwd* the Reubenite|\zwd*, chief of the Reubenites, and the thirty with him, 
@@ -1561,7 +1561,7 @@
 \v 19 Some from Manasseh defected to \zwd David|Q41370\zwd* when he went with the Philistines to fight against \zwd Saul|id="Q28730" t="2"\zwd*. (They did not help the Philistines because the Philistine rulers consulted and sent \zwd David|Q41370\zwd* away, saying, “It will cost us our heads if he defects to his master \zwd Saul|id="Q28730" t="2"\zwd*.”) 
 \v 20 When \zwd David|Q41370\zwd* went to Ziklag, these men of Manasseh defected to him: 
 \b
-\li1 \zwd Adnah|\zwd*, \zwd Jozabad|\zwd*, \zwd Jediael|\zwd*, \zwd Michael|\zwd*, \zwd Jozabad|\zwd*, \zwd Elihu|\zwd*, and \zwd Zillethai|\zwd*, chiefs of thousands in Manasseh. 
+\li1 \zwd Adnah|Q138713172\zwd*, \zwd Jozabad|\zwd*, \zwd Jediael|\zwd*, \zwd Michael|\zwd*, \zwd Jozabad|\zwd*, \zwd Elihu|\zwd*, and \zwd Zillethai|\zwd*, chiefs of thousands in Manasseh. 
 \b
 \m 
 \v 21 They helped \zwd David|Q41370\zwd* against the raiders, for they were all mighty men of valor and commanders in the army. 
@@ -1631,7 +1631,7 @@
 \b
 \m 
 \v 6 \zwd David|Q41370\zwd* and all Israel went up to Baalah of Judah (that is, Kiriath-jearim) to bring up from there the ark of God the LORD, who is enthroned between the cherubim—the ark that is called by the Name.\f + \fr 13:6 \ft Or the ark of God, which is called by the Name of the LORD who is enthroned between the cherubim; or the ark of God, the LORD, who is enthroned between the cherubim, where His Name is called\f* 
-\v 7 So they carried the ark of God from the house of \zwd Abinadab|\zwd* on a new cart, with \zwd Uzzah|Q4331914\zwd* and \zwd Ahio|\zwd* guiding the cart. 
+\v 7 So they carried the ark of God from the house of \zwd Abinadab|\zwd* on a new cart, with \zwd Uzzah|Q4331914\zwd* and \zwd Ahio|Q138713515\zwd* guiding the cart. 
 \s1 Uzzah Touches the Ark
 \r (2 Samuel 6:5–11)
 \b
@@ -1713,10 +1713,10 @@
 \v 9 from the Hebronites, \zwd Eliel the chief|\zwd* and 80 of his relatives; 
 \b
 \li1 
-\v 10 and from the Uzzielites, \zwd Amminadab the chief|\zwd* and 112 of his relatives. 
+\v 10 and from the Uzzielites, \zwd Amminadab the chief|Q138721721\zwd* and 112 of his relatives. 
 \b
 \m 
-\v 11 \zwd David|Q41370\zwd* summoned the priests \zwd Zadok|Q140100\zwd* and \zwd Abiathar|Q321804\zwd* and the Levites \zwd Uriel|\zwd*, \zwd Asaiah|\zwd*, \zwd Joel|\zwd*, \zwd Shemaiah|\zwd*, \zwd Eliel|\zwd*, and \zwd Amminadab|\zwd*. 
+\v 11 \zwd David|Q41370\zwd* summoned the priests \zwd Zadok|Q140100\zwd* and \zwd Abiathar|Q321804\zwd* and the Levites \zwd Uriel|\zwd*, \zwd Asaiah|\zwd*, \zwd Joel|\zwd*, \zwd Shemaiah|\zwd*, \zwd Eliel|\zwd*, and \zwd Amminadab|Q138721721\zwd*. 
 \v 12 And he said to them, “You are the heads of the Levitical families. You and your relatives must consecrate yourselves so that you may bring the ark of the LORD, the God of Israel, to the place I have prepared for it. 
 \v 13 It was because you Levites were not with us the first time that the LORD our God burst forth in anger against us. For we did not consult Him about the proper order.” 
 \s1 The Priests and Levites Carry the Ark
@@ -2217,7 +2217,7 @@
 \b
 \li1 
 \v 10 And the sons of \zwd Shimei|\zwd*:\f + \fr 23:10 \ft Shimei was possibly a son or grandson of the Shimei listed in verse 9.\f* \zwd Jahath|\zwd*, \zwd Zina|\zwd*,\f + \fr 23:10 \ft Most Hebrew manuscripts; one Hebrew manuscript, LXX, and Vulgate (see also verse 11) Zizah\f* \zwd Jeush|\zwd*, and \zwd Beriah|\zwd*. These were the sons of \zwd Shimei|\zwd*—four in all. 
-\v 11 \zwd Jahath|\zwd* was the first and \zwd Zizah|\zwd* was the second; but \zwd Jeush|\zwd* and \zwd Beriah|\zwd* did not have many sons, so they were counted as one family and received a single assignment. 
+\v 11 \zwd Jahath|\zwd* was the first and \zwd Zizah|Q138715703\zwd* was the second; but \zwd Jeush|\zwd* and \zwd Beriah|\zwd* did not have many sons, so they were counted as one family and received a single assignment. 
 \s1 The Kohathites
 \r (Numbers 3:27–32; Numbers 4:1–20)
 \b
@@ -2544,7 +2544,7 @@
 \s1 The Treasurers, Officers, and Judges
 \b
 \m 
-\v 20 Now their fellow Levites were \f + \fr 26:20 \ft LXX; Hebrew As for the Levites, Ahijah was\f* in charge of the treasuries of the house of God and the treasuries of the dedicated things. 
+\v 20 Now their fellow Levites were \f + \fr 26:20 \ft LXX; Hebrew As for the Levites, \zwd Ahijah|Q138679908\zwd* was\f* in charge of the treasuries of the house of God and the treasuries of the dedicated things. 
 \v 21 From the descendants of \zwd Ladan|\zwd*, who were Gershonites through \zwd Ladan|\zwd* \f + \fr 26:21 \ft Ladan is a variant of Libni; see 1 Chronicles 6:17.\f* and heads of the families of \zwd Ladan|\zwd* the Gershonite, were \zwd Jehieli|\zwd*,\f + \fr 26:21 \ft Jehieli is a variant of Jehiel; also in verse 22; see 1 Chronicles 23:8.\f* 
 \v 22 the sons of \zwd Jehieli|\zwd*, \zwd Zetham|\zwd*, and \zwd his brother Joel|\zwd*. They were in charge of the treasuries of the house of the LORD. 
 \b
@@ -2579,7 +2579,7 @@
 \b
 \li1 
 \v 5 The third army commander, as chief for the third month, was \zwd Benaiah son of \zwd Jehoiada the priest|id="Q124375125" t="2"\zwd*|Q816667\zwd*. There were 24,000 men in his division. 
-\v 6 This \zwd Benaiah|Q816667\zwd* was mighty among the Thirty and was over the Thirty, and \zwd his son Ammizabad|\zwd* was in charge of his division. 
+\v 6 This \zwd Benaiah|Q816667\zwd* was mighty among the Thirty and was over the Thirty, and \zwd his son Ammizabad|Q138721781\zwd* was in charge of his division. 
 \b
 \li1 
 \v 7 The fourth, for the fourth month, was \zwd \zwd Joab|id="Q1141064" t="2"\zwd*’s brother Asahel|Q2915076\zwd*, and \zwd his son Zebadiah|Q138862803\zwd* was commander after him. There were 24,000 men in his division. 

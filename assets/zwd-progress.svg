@@ -20,7 +20,7 @@
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">LEV</text>
 </g>
 </g><g transform="translate(117,0)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(103,198,18)"/><rect x="0" width="37" height="20" fill="rgb(103,198,18)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(101,199,18)"/><rect x="0" width="37" height="20" fill="rgb(101,199,18)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">NUM</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">NUM</text>
@@ -32,7 +32,7 @@
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">DEU</text>
 </g>
 </g><g transform="translate(195,0)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(161,189,21)"/><rect x="0" width="37" height="20" fill="rgb(161,189,21)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(159,189,21)"/><rect x="0" width="37" height="20" fill="rgb(159,189,21)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">JOS</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">JOS</text>
@@ -50,7 +50,7 @@
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">RUT</text>
 </g>
 </g><g transform="translate(312,0)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(90,200,18)"/><rect x="0" width="37" height="20" fill="rgb(90,200,18)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(90,201,18)"/><rect x="0" width="37" height="20" fill="rgb(90,201,18)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">1SA</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">1SA</text>
@@ -74,13 +74,13 @@
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">2KI</text>
 </g>
 </g><g transform="translate(468,0)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(246,112,67)"/><rect x="0" width="37" height="20" fill="rgb(246,112,67)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(243,120,62)"/><rect x="0" width="37" height="20" fill="rgb(243,120,62)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">1CH</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">1CH</text>
 </g>
 </g><g transform="translate(507,0)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(168,188,21)"/><rect x="0" width="37" height="20" fill="rgb(168,188,21)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(163,189,21)"/><rect x="0" width="37" height="20" fill="rgb(163,189,21)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">2CH</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">2CH</text>
@@ -128,7 +128,7 @@
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">ECC</text>
 </g>
 </g><g transform="translate(117,22)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(206,182,22)"/><rect x="0" width="37" height="20" fill="rgb(206,182,22)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(192,184,22)"/><rect x="0" width="37" height="20" fill="rgb(192,184,22)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">SNG</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">SNG</text>
@@ -140,7 +140,7 @@
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">ISA</text>
 </g>
 </g><g transform="translate(195,22)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(204,182,22)"/><rect x="0" width="37" height="20" fill="rgb(204,182,22)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(201,183,22)"/><rect x="0" width="37" height="20" fill="rgb(201,183,22)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">JER</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">JER</text>
