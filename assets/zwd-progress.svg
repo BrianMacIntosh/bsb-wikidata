@@ -56,7 +56,7 @@
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">1SA</text>
 </g>
 </g><g transform="translate(351,0)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(105,198,18)"/><rect x="0" width="37" height="20" fill="rgb(105,198,18)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(104,198,18)"/><rect x="0" width="37" height="20" fill="rgb(104,198,18)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">2SA</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">2SA</text>
@@ -74,13 +74,13 @@
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">2KI</text>
 </g>
 </g><g transform="translate(468,0)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(240,128,57)"/><rect x="0" width="37" height="20" fill="rgb(240,128,57)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(237,137,51)"/><rect x="0" width="37" height="20" fill="rgb(237,137,51)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">1CH</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">1CH</text>
 </g>
 </g><g transform="translate(507,0)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(154,190,20)"/><rect x="0" width="37" height="20" fill="rgb(154,190,20)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(152,190,20)"/><rect x="0" width="37" height="20" fill="rgb(152,190,20)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">2CH</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">2CH</text>

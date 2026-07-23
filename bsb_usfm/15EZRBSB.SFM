@@ -184,13 +184,13 @@
 \b
 \li1 the descendants of \zwd Ater|\zwd*, 
 \b
-\li1 the descendants of \zwd Talmon|\zwd*, 
+\li1 the descendants of \zwd Talmon|id="Q139678428" t="2"\zwd*, 
 \b
 \li1 the descendants of \zwd Akkub|id="Q138713763" t="2"\zwd*, 
 \b
 \li1 the descendants of \zwd Hatita|\zwd*, 
 \b
-\li1 and the descendants of \zwd Shobai|\zwd*, 
+\li1 and the descendants of \zwd Shobai|id="Q139890037" t="2"\zwd*, 
 \b
 \li2 139 in all. 
 \b
@@ -201,12 +201,12 @@
 \b
 \li1 the descendants of \zwd Hasupha|\zwd*, 
 \b
-\li1 the descendants of \zwd Tabbaoth|\zwd*, 
+\li1 the descendants of \zwd Tabbaoth|id="Q139691790" t="2"\zwd*, 
 \b
 \li1 
 \v 44 the descendants of \zwd Keros|\zwd*, 
 \b
-\li1 the descendants of \zwd Siaha|\zwd*,\f + \fr 2:44 \ft Siaha is a variant of Sia; see Nehemiah 7:47.\f* 
+\li1 the descendants of \zwd Siaha|id="Q139832356" t="2"\zwd*,\f + \fr 2:44 \ft Siaha is a variant of Sia; see Nehemiah 7:47.\f* 
 \b
 \li1 the descendants of \zwd Padon|\zwd*, 
 \b
@@ -260,16 +260,16 @@
 \li1 the descendants of \zwd Harhur|\zwd*, 
 \b
 \li1 
-\v 52 the descendants of \zwd Bazluth|\zwd*,\f + \fr 2:52 \ft Bazluth is a variant of Bazlith; see Nehemiah 7:54.\f* 
+\v 52 the descendants of \zwd Bazluth|id="Q140133508" t="2"\zwd*,\f + \fr 2:52 \ft Bazluth is a variant of Bazlith; see Nehemiah 7:54.\f* 
 \b
 \li1 the descendants of \zwd Mehida|\zwd*, 
 \b
 \li1 the descendants of \zwd Harsha|\zwd*, 
 \b
 \li1 
-\v 53 the descendants of \zwd Barkos|\zwd*, 
+\v 53 the descendants of \zwd Barkos|id="Q139969310" t="2"\zwd*, 
 \b
-\li1 the descendants of \zwd Sisera|\zwd*, 
+\li1 the descendants of \zwd Sisera|id="Q139780600" t="2"\zwd*, 
 \b
 \li1 the descendants of \zwd Temah|id="Q139592150" t="2"\zwd*, 
 \b
@@ -281,7 +281,7 @@
 \m 
 \v 55 The descendants of the servants of \zwd Solomon|id="Q37085" t="2"\zwd*: 
 \b
-\li1 the descendants of \zwd Sotai|\zwd*, 
+\li1 the descendants of \zwd Sotai|id="Q139741904" t="2"\zwd*, 
 \b
 \li1 the descendants of \zwd Hassophereth|\zwd*, 
 \b
@@ -642,7 +642,7 @@
 \v 4 from the descendants of \zwd Pahath-Moab|id="Q7124538" t="2"\zwd*, \zwd Eliehoenai son of \zwd Zerahiah|id="Q138836624" t="2"\zwd*|\zwd*, and with him 200 men; 
 \b
 \li1 
-\v 5 from the descendants of \zwd Zattu|id="Q138862840" t="2"\zwd*, \zwd Shecaniah son of \zwd Jahaziel|\zwd*|\zwd*,\f + \fr 8:5 \ft Some LXX manuscripts (see also 1 Esdras 8:32); Hebrew from the descendants of Shecaniah, the son of Jahaziel\f* and with him 300 men; 
+\v 5 from the descendants of \zwd Zattu|id="Q138862840" t="2"\zwd*, \zwd Shecaniah son of \zwd Jahaziel|\zwd*|Q140158844\zwd*,\f + \fr 8:5 \ft Some LXX manuscripts (see also 1 Esdras 8:32); Hebrew from the descendants of Shecaniah, the son of Jahaziel\f* and with him 300 men; 
 \b
 \li1 
 \v 6 from the descendants of \zwd Adin|\zwd*, \zwd Ebed son of \zwd Jonathan|\zwd*|Q61895312\zwd*, and with him 50 men; 
@@ -680,7 +680,7 @@
 \v 17 And I sent them to \zwd Iddo|\zwd*, the leader at Casiphia, with a message for him and his kinsmen, the temple servants \f + \fr 8:17 \ft Hebrew the Nethinim; also in verse 20\f* at \zwd Casiphia|\zwd*, that they should bring to us ministers for the house of our God. 
 \b
 \m 
-\v 18 And since the gracious hand of our God was upon us, they brought us \zwd Sherebiah|\zwd*—a man of insight from the descendants of \zwd Mahli son of \zwd Levi|id="Q215512" t="2"\zwd*|id="Q85854044" t="2"\zwd*, the son of Israel—along with his sons and brothers, 18 men; 
+\v 18 And since the gracious hand of our God was upon us, they brought us \zwd Sherebiah|Q140184305\zwd*—a man of insight from the descendants of \zwd Mahli son of \zwd Levi|id="Q215512" t="2"\zwd*|id="Q85854044" t="2"\zwd*, the son of Israel—along with his sons and brothers, 18 men; 
 \v 19 also \zwd Hashabiah|\zwd*, together with \zwd Jeshaiah|\zwd*, from the descendants of \zwd Merari|id="Q2670550" t="2"\zwd*, and his brothers and their sons, 20 men. 
 \v 20 They also brought 220 of the temple servants, all designated by name. \zwd David|id="Q41370" t="2"\zwd* and the officials had appointed them to assist the Levites. 
 \s1 Fasting for Protection
@@ -694,7 +694,7 @@
 \s1 Priests to Guard the Offerings
 \b
 \m 
-\v 24 Then I set apart twelve of the leading priests, together with \zwd Sherebiah|\zwd*, \zwd Hashabiah|\zwd*, and ten of their brothers, 
+\v 24 Then I set apart twelve of the leading priests, together with \zwd Sherebiah|Q140184305\zwd*, \zwd Hashabiah|\zwd*, and ten of their brothers, 
 \v 25 and I weighed out to them the contribution of silver and gold and the articles that \zwd the king|id="Q189689" t="2"\zwd*, his counselors, his leaders, and all the Israelites there had offered for the house of our God. 
 \b
 \m 
@@ -766,7 +766,7 @@
 \v 1 While \zwd Ezra|Q191787\zwd* prayed and made this confession, weeping and falling facedown before the house of God, a very large assembly of Israelites—men, women, and children—gathered around him, and the people wept bitterly as well. 
 \b
 \m 
-\v 2 Then \zwd Shecaniah son of \zwd Jehiel|\zwd*|\zwd*, an Elamite, said to \zwd Ezra|Q191787\zwd*: “We have been unfaithful to our God by marrying foreign women from the people of the land, yet in spite of this, there is hope for Israel. 
+\v 2 Then \zwd Shecaniah son of \zwd Jehiel|\zwd*|Q140158844\zwd*, an Elamite, said to \zwd Ezra|Q191787\zwd*: “We have been unfaithful to our God by marrying foreign women from the people of the land, yet in spite of this, there is hope for Israel. 
 \v 3 So now let us make a covenant before our God to send away all the foreign wives and their children, according to the counsel of my lord and of those who tremble at the command of our God. Let it be done according to the Law. 
 \v 4 Get up, for this matter is your responsibility, and we will support you. Be strong and take action!” 
 \b
@@ -794,7 +794,7 @@
 \v 14 Let our leaders represent the whole assembly. Then let everyone in our towns who has married a foreign woman come at an appointed time, together with the elders and judges of each town, until the fierce anger of our God in this matter is turned away from us.” 
 \b
 \m 
-\v 15 (Only \zwd Jonathan son of \zwd Asahel|id="Q138950701" t="2"\zwd*|\zwd* and \zwd Jahzeiah son of \zwd Tikvah|id="Q139585866" t="2"\zwd*|\zwd*, supported by \zwd Meshullam|\zwd* and \zwd Shabbethai the Levite|\zwd*, opposed this plan.) 
+\v 15 (Only \zwd Jonathan son of \zwd Asahel|id="Q138950701" t="2"\zwd*|\zwd* and \zwd Jahzeiah son of \zwd Tikvah|id="Q139585866" t="2"\zwd*|\zwd*, supported by \zwd Meshullam|\zwd* and \zwd Shabbethai the Levite|Q140320796\zwd*, opposed this plan.) 
 \b
 \m 
 \v 16 So the exiles did as proposed. \zwd Ezra the priest|Q191787\zwd* selected men who were family heads, each of them identified by name, to represent their families. \zdate|Q189689:P39:Q938153:P580+P&Y>Nisan!1>Tevet!1\*On the first day of the tenth month they launched the investigation, 
@@ -859,7 +859,7 @@
 \m 
 \v 29 From the descendants of \zwd Bani|\zwd*: 
 \b
-\li1 \zwd Meshullam|\zwd*, \zwd Malluch|\zwd*, \zwd Adaiah|Q138634837\zwd*, \zwd Jashub|\zwd*, \zwd Sheal|\zwd*, and \zwd Jeremoth|\zwd*. 
+\li1 \zwd Meshullam|\zwd*, \zwd Malluch|\zwd*, \zwd Adaiah|Q138634837\zwd*, \zwd Jashub|\zwd*, \zwd Sheal|Q140248039\zwd*, and \zwd Jeremoth|\zwd*. 
 \b
 \m 
 \v 30 From the descendants of \zwd Pahath-moab|\zwd*: 
@@ -870,7 +870,7 @@
 \v 31 From the descendants of \zwd Harim|\zwd*: 
 \b
 \li1 \zwd Eliezer|\zwd*, \zwd Isshijah|\zwd*, \zwd Malchijah|\zwd*, \zwd Shemaiah|\zwd*, \zwd Shimeon|Q139931507\zwd*, 
-\v 32 \zwd Benjamin|\zwd*, \zwd Malluch|\zwd*, and \zwd Shemariah|\zwd*. 
+\v 32 \zwd Benjamin|Q140316285\zwd*, \zwd Malluch|\zwd*, and \zwd Shemariah|Q140042772\zwd*. 
 \b
 \m 
 \v 33 From the descendants of \zwd Hashum|\zwd*: 
@@ -890,8 +890,8 @@
 \b
 \li1 \zwd Shimei|Q139963558\zwd*,\f + \fr 10:38 \ft See LXX; Hebrew And Bani, and Binnui, (and) Shimei,\f* 
 \v 39 \zwd Shelemiah|\zwd*, \zwd Nathan|\zwd*, \zwd Adaiah|Q123148835\zwd*, 
-\v 40 \zwd Machnadebai|\zwd*, \zwd Shashai|\zwd*, \zwd Sharai|\zwd*, 
-\v 41 \zwd Azarel|Q139383580\zwd*, \zwd Shelemiah|\zwd*, \zwd Shemariah|\zwd*, 
+\v 40 \zwd Machnadebai|\zwd*, \zwd Shashai|Q140277282\zwd*, \zwd Sharai|Q140288225\zwd*, 
+\v 41 \zwd Azarel|Q139383580\zwd*, \zwd Shelemiah|\zwd*, \zwd Shemariah|Q140042780\zwd*, 
 \v 42 \zwd Shallum|\zwd*, \zwd Amariah|\zwd*, and \zwd Joseph|\zwd*. 
 \b
 \m 
