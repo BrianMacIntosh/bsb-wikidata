@@ -45,6 +45,12 @@ It has one parameter **date**, which can be:
 * A `>` and a month!day to advance to the next occurrence of that day of the month (ex: `Q302:P570>Nisan!12`).
 These will be evaluated in order.
 
+## Artifacts
+
+These artifacts are generated from the tagged text:
+* **generated/labels.json**: For each Wikidata id, a list of all the ways that person is referred to.
+* **generated/occurrences.csv**: For each Wikidata id, numbers about how often it appears.
+
 ## Attribution Notice
 
 The Berean Bible and Majority Bible texts are officially [dedicated to the public domain](https://creativecommons.org/publicdomain/zero/1.0/) as of April 30, 2023.
