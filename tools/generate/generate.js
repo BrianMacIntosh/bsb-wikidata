@@ -30,7 +30,7 @@ function searchContent(where, topLevelItem, item)
 		for (const content of item.content)
 		{
 			const idParam = content.params?.id || content.params?._default
-			const refType = content.params?.ref ? Number(content.params.ref) : 1
+			const refType = content.params?.t ? Number(content.params.t) : 1
 			if (content.tag == "zwd" && idParam)
 			{
 				for (const id of idParam.split(','))
