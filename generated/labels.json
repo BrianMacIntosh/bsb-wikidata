@@ -3465,8 +3465,7 @@
 		"Barzillai the Gileadite",
 		"Barzillai",
 		"your servant",
-		"Your servant",
-		"Barzillai the Meholathite"
+		"Your servant"
 	],
 	"Q30526936": [
 		"your servant Chimham",
@@ -3486,6 +3485,9 @@
 	],
 	"Q40326679": [
 		"Armoni"
+	],
+	"Q140047278": [
+		"Barzillai the Meholathite"
 	],
 	"Q120758253": [
 		"Ishbi-benob"
@@ -3832,6 +3834,7 @@
 		"Maacah daughter of Abishalom",
 		"his grandmother Maacah",
 		"Maacah daughter of Absalom",
+		"Absalom",
 		"Maacah",
 		"Micaiah daughter of Uriel"
 	],
@@ -4979,6 +4982,9 @@
 	"Q139659753": [
 		"Tehinnah the father of Ir-nahash"
 	],
+	"Q140377330": [
+		"Seraiah"
+	],
 	"Q138721701": [
 		"Ziph"
 	],
@@ -5054,6 +5060,15 @@
 	],
 	"Q140068833": [
 		"Shema"
+	],
+	"Q140289945": [
+		"Shapham"
+	],
+	"Q140288444": [
+		"Shaphat"
+	],
+	"Q140247885": [
+		"Sheba"
 	],
 	"Q138844058": [
 		"Zia"
@@ -5269,6 +5284,9 @@
 	"Q139492046": [
 		"Ulam"
 	],
+	"Q140160297": [
+		"Shechem"
+	],
 	"Q138744866": [
 		"Aniam"
 	],
@@ -5394,6 +5412,9 @@
 	"Q138713556": [
 		"Ahio"
 	],
+	"Q140277274": [
+		"Shashak"
+	],
 	"Q138862766": [
 		"Zebadiah"
 	],
@@ -5478,6 +5499,9 @@
 	"Q138786777": [
 		"Zichri"
 	],
+	"Q140382330": [
+		"Berechiah son of Asa"
+	],
 	"Q138713763": [
 		"Akkub"
 	],
@@ -5544,6 +5568,9 @@
 	"Q20502064": [
 		"Ahiezer their chief"
 	],
+	"Q140068854": [
+		"Shemaah the Gibeathite"
+	],
 	"Q126009808": [
 		"Jeziel"
 	],
@@ -5591,6 +5618,9 @@
 	],
 	"Q139490441": [
 		"Unni"
+	],
+	"Q140289012": [
+		"Benaiah"
 	],
 	"Q130323174": [
 		"Azaziah"
@@ -5664,6 +5694,14 @@
 	"Q133456354": [
 		"Zebadiah"
 	],
+	"Q141017653": [
+		"Obed-edom"
+	],
+	"Q140053768": [
+		"Shemaiah the firstborn",
+		"his son Shemaiah",
+		"Shemaiah"
+	],
 	"Q140472345": [
 		"Sachar"
 	],
@@ -5681,6 +5719,10 @@
 	],
 	"Q138786846": [
 		"Zichri his son"
+	],
+	"Q140130775": [
+		"Shelomith his son.",
+		"Shelomith"
 	],
 	"Q138863467": [
 		"Zabdiel"
@@ -5724,6 +5766,9 @@
 	"Q140288456": [
 		"Shaphat son of Adlai"
 	],
+	"Q140289071": [
+		"Benaiah"
+	],
 	"Q114752409": [
 		"Mahalath"
 	],
@@ -5748,6 +5793,9 @@
 	"Q138715678": [
 		"Ziza"
 	],
+	"Q140130979": [
+		"Shelomith"
+	],
 	"Q114921395": [
 		"Uriel"
 	],
@@ -5766,6 +5814,9 @@
 	],
 	"Q138768931": [
 		"Zechariah"
+	],
+	"Q140053796": [
+		"Shemaiah"
 	],
 	"Q138862815": [
 		"Zebadiah"
@@ -5855,6 +5906,9 @@
 	"Q16341302": [
 		"Oded"
 	],
+	"Q140382407": [
+		"Berechiah son of Meshillemoth"
+	],
 	"Q138721387": [
 		"Amasa son of Hadlai"
 	],
@@ -5872,6 +5926,9 @@
 	],
 	"Q139928732": [
 		"Shimri"
+	],
+	"Q140053814": [
+		"Shemaiah"
 	],
 	"Q140499759": [
 		"Conaniah the Levite",
@@ -5994,12 +6051,18 @@
 	"Q139741904": [
 		"Sotai"
 	],
+	"Q140030834": [
+		"Shephatiah"
+	],
 	"Q138721677": [
 		"Ami",
 		"Amon"
 	],
 	"Q139571166": [
 		"Tobiah"
+	],
+	"Q140047323": [
+		"Barzillai"
 	],
 	"Q783824": [
 		"Jeshua son of Jozadak",
@@ -6065,12 +6128,14 @@
 	"Q114878222": [
 		"Azariah"
 	],
+	"Q140158813": [
+		"Shecaniah"
+	],
 	"Q138836624": [
 		"Zerahiah"
 	],
-	"Q140158844": [
-		"Shecaniah son of Jahaziel",
-		"Shecaniah son of Jehiel"
+	"Q140158822": [
+		"Shecaniah son of Jahaziel"
 	],
 	"Q61895312": [
 		"Ebed son of Jonathan"
@@ -6078,8 +6143,14 @@
 	"Q138862830": [
 		"Zebadiah son of Michael"
 	],
+	"Q140130891": [
+		"Shelomith son of Josiphiah"
+	],
 	"Q138771285": [
 		"Zechariah son of Bebai"
+	],
+	"Q140053892": [
+		"Shemaiah"
 	],
 	"Q138863157": [
 		"Zaccur"
@@ -6095,6 +6166,9 @@
 	],
 	"Q5354451": [
 		"Eleazar son of Phinehas"
+	],
+	"Q140158844": [
+		"Shecaniah son of Jehiel"
 	],
 	"Q138950701": [
 		"Asahel"
@@ -6174,6 +6248,9 @@
 	"Q139963558": [
 		"Shimei"
 	],
+	"Q140131794": [
+		"Shelemiah"
+	],
 	"Q123148835": [
 		"Adaiah"
 	],
@@ -6185,6 +6262,9 @@
 	],
 	"Q139383580": [
 		"Azarel"
+	],
+	"Q140131733": [
+		"Shelemiah"
 	],
 	"Q140042780": [
 		"Shemariah"
@@ -6266,6 +6346,9 @@
 	"Q138862863": [
 		"Zadok son of Immer"
 	],
+	"Q140131632": [
+		"Shelemiah"
+	],
 	"Q139008748": [
 		"Zalaph"
 	],
@@ -6274,6 +6357,9 @@
 	],
 	"Q112991274": [
 		"Noadiah the prophetess"
+	],
+	"Q140160096": [
+		"Shecaniah son of Arah"
 	],
 	"Q138757378": [
 		"Arah"
@@ -6317,6 +6403,9 @@
 	"Q138721112": [
 		"Amariah"
 	],
+	"Q140185493": [
+		"Shebaniah"
+	],
 	"Q140047142": [
 		"Baruch"
 	],
@@ -6325,6 +6414,9 @@
 	],
 	"Q140184315": [
 		"Sherebiah"
+	],
+	"Q140185502": [
+		"Shebaniah"
 	],
 	"Q139694166": [
 		"Bani"
@@ -6370,6 +6462,9 @@
 	],
 	"Q138721154": [
 		"Amariah"
+	],
+	"Q140030848": [
+		"Shephatiah"
 	],
 	"Q140047193": [
 		"Baruch"
