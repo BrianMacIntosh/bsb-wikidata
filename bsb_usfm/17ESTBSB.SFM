@@ -23,14 +23,14 @@
 \s1 Queen Vashti’s Refusal
 \b
 \m
-\v 9 \zwd Queen Vashti|\zwd* also gave a banquet for the women in the royal palace of \zwd King Xerxes|Q129165\zwd*.
+\v 9 \zwd Queen Vashti|Q1889603\zwd* also gave a banquet for the women in the royal palace of \zwd King Xerxes|Q129165\zwd*.
 \b
 \m
 \v 10 \zdate|Q129165:P39:Q938153:P580+P2Y+P186D\*On the seventh day, when \zwd the king|Q129165\zwd*’s heart was merry with wine, he ordered the seven eunuchs who served him—\zwd Mehuman|Q1917635\zwd*, \zwd Biztha|\zwd*, \zwd Harbona|Q6578364\zwd*, \zwd Bigtha|Q859753\zwd*, \zwd Abagtha|Q304781\zwd*, \zwd Zethar|Q2274631\zwd*, and \zwd Carkas|Q115859316\zwd*—
-\v 11 to bring \zwd Queen Vashti|\zwd* before him, wearing her royal crown, to display her beauty to the people and officials. For she was beautiful to behold.
+\v 11 to bring \zwd Queen Vashti|Q1889603\zwd* before him, wearing her royal crown, to display her beauty to the people and officials. For she was beautiful to behold.
 \b
 \m
-\v 12 \zwd Queen Vashti|\zwd*, however, refused to come at \zwd the king|Q129165\zwd*’s command brought by his eunuchs. And \zwd the king|Q129165\zwd* became furious, and his anger burned within him.
+\v 12 \zwd Queen Vashti|Q1889603\zwd*, however, refused to come at \zwd the king|Q129165\zwd*’s command brought by his eunuchs. And \zwd the king|Q129165\zwd* became furious, and his anger burned within him.
 \s1 Queen Vashti Deposed
 \b
 \m
@@ -38,17 +38,17 @@
 \v 14 His closest advisors were \zwd Carshena|Q123754572\zwd*, \zwd Shethar|Q123754610\zwd*, \zwd Admatha|Q123754589\zwd*, \zwd Tarshish|Q123569643\zwd*, \zwd Meres|Q137798754\zwd*, \zwd Marsena|Q137798757\zwd*, and \zwd Memucan|Q10328578\zwd*, \zwd the seven princes of Persia and Media|Q123754572,Q123754610,Q123754589,Q123569643,Q137798754,Q137798757,Q10328578\zwd* who had personal access to \zwd the king|Q129165\zwd* and ranked highest in the kingdom.
 \b
 \m
-\v 15 “According to law,” he asked, “what should be done with \zwd Queen Vashti|\zwd*, since she refused to obey the command of \zwd King Xerxes|Q129165\zwd* delivered by the eunuchs?”
+\v 15 “According to law,” he asked, “what should be done with \zwd Queen Vashti|Q1889603\zwd*, since she refused to obey the command of \zwd King Xerxes|Q129165\zwd* delivered by the eunuchs?”
 \b
 \m
-\v 16 And in the presence of \zwd the king|Q129165\zwd* and his princes, \zwd Memucan|Q10328578\zwd* replied, “\zwd Queen Vashti|\zwd* has wronged not only \zwd the king|Q129165\zwd*, but all the princes and the peoples in all the provinces of \zwd King Xerxes|Q129165\zwd*.
-\v 17 For the conduct of \zwd the queen|\zwd* will become known to all women, causing them to despise their husbands \f + \fr 1:17 \ft Or to disdain their husbands in their eyes\f* and say, ‘\zwd King Xerxes|Q129165\zwd* ordered \zwd Queen Vashti|\zwd* to be brought before him, but she did not come.’
+\v 16 And in the presence of \zwd the king|Q129165\zwd* and his princes, \zwd Memucan|Q10328578\zwd* replied, “\zwd Queen Vashti|Q1889603\zwd* has wronged not only \zwd the king|Q129165\zwd*, but all the princes and the peoples in all the provinces of \zwd King Xerxes|Q129165\zwd*.
+\v 17 For the conduct of \zwd the queen|\zwd* will become known to all women, causing them to despise their husbands \f + \fr 1:17 \ft Or to disdain their husbands in their eyes\f* and say, ‘\zwd King Xerxes|Q129165\zwd* ordered \zwd Queen Vashti|Q1889603\zwd* to be brought before him, but she did not come.’
 \b
 \m
 \v 18 This very day the noble women of Persia and Media who have heard about \zwd the queen|\zwd*’s conduct will say the same thing to all the king’s officials, resulting in much contempt and wrath.
 \b
 \m
-\v 19 So if it pleases \zwd the king|Q129165\zwd*, let him issue a royal decree, and let it be recorded in the laws of Persia and Media so that it cannot be repealed, that \zwd Vashti|\zwd* shall never again enter the presence of \zwd King Xerxes|Q129165\zwd*, and that her royal position shall be given to a woman better than she.
+\v 19 So if it pleases \zwd the king|Q129165\zwd*, let him issue a royal decree, and let it be recorded in the laws of Persia and Media so that it cannot be repealed, that \zwd Vashti|Q1889603\zwd* shall never again enter the presence of \zwd King Xerxes|Q129165\zwd*, and that her royal position shall be given to a woman better than she.
 \v 20 The edict \zwd the king|Q129165\zwd* issues will be heard throughout his vast kingdom—and so all women, from the least to the greatest, will honor their husbands.”
 \b
 \m
@@ -57,12 +57,12 @@
 \c 2
 \s1 Seeking Vashti’s Successor
 \m 
-\v 1 Some time later, when the anger of \zwd King Xerxes|Q129165\zwd* had subsided, he remembered \zwd Vashti|id="" t="2"\zwd* and what she had done, and what had been decreed against her. 
+\v 1 Some time later, when the anger of \zwd King Xerxes|Q129165\zwd* had subsided, he remembered \zwd Vashti|id="Q1889603" t="2"\zwd* and what she had done, and what had been decreed against her. 
 \b
 \m 
 \v 2 Then the king’s attendants proposed, “Let a search be made for beautiful young virgins for \zwd the king|Q129165\zwd*, 
 \v 3 and let \zwd the king|Q129165\zwd* appoint commissioners in each province of his kingdom to assemble all the beautiful young women into the harem at the citadel of Susa. Let them be placed under the care of \zwd Hegai|Q5698294\zwd*, the king’s eunuch in charge of the women, and let them be given beauty treatments. 
-\v 4 Then let the young woman who pleases \zwd the king|Q129165\zwd* become queen in place of \zwd Vashti|id="" t="2"\zwd*.” 
+\v 4 Then let the young woman who pleases \zwd the king|Q129165\zwd* become queen in place of \zwd Vashti|id="Q1889603" t="2"\zwd*.” 
 \b
 \m This suggestion pleased \zwd the king|Q129165\zwd*, and he acted accordingly. 
 \s1 Esther Finds Favor
@@ -95,7 +95,7 @@
 \s1 Esther Becomes Queen
 \b
 \m 
-\v 17 And \zwd the king|Q129165\zwd* loved \zwd Esther|Q732413\zwd* more than all the other women, and she found grace and favor in his sight more than all of the other virgins. So he placed the royal crown upon her head and made her queen in place of \zwd Vashti|id="" t="2"\zwd*. 
+\v 17 And \zwd the king|Q129165\zwd* loved \zwd Esther|Q732413\zwd* more than all the other women, and she found grace and favor in his sight more than all of the other virgins. So he placed the royal crown upon her head and made her queen in place of \zwd Vashti|id="Q1889603" t="2"\zwd*. 
 \b
 \m 
 \v 18 Then \zwd the king|Q129165\zwd* held a great banquet, \zwd Esther|Q732413\zwd*’s banquet, for all his officials and servants. He proclaimed a tax holiday in the provinces and gave gifts worthy of the king’s bounty. 

@@ -548,8 +548,7 @@
 		"Abimelech king of Gerar",
 		"Abimelech",
 		"the two men",
-		"the two of them",
-		"Abimelech king of the Philistines"
+		"the two of them"
 	],
 	"Q10282102": [
 		"Phicol the commander of his army"
@@ -565,6 +564,9 @@
 	"Q11944206": [
 		"Kemuel",
 		"these eight sons"
+	],
+	"Q138782434": [
+		"Aram"
 	],
 	"Q114056787": [
 		"Chesed",
@@ -802,6 +804,10 @@
 		"his brother",
 		"Rebecca’s children",
 		"the twins"
+	],
+	"Q16142336": [
+		"Abimelech king of the Philistines",
+		"Abimelech"
 	],
 	"Q125345108": [
 		"Ahuzzath his adviser"
@@ -1146,6 +1152,7 @@
 		"your son",
 		"my son",
 		"his son",
+		"your slave",
 		"this man",
 		"Zaphenath-paneah",
 		"our brother",
@@ -1448,6 +1455,11 @@
 		"Zerah",
 		"five sons",
 		"Zerah son of Judah"
+	],
+	"Q3860078": [
+		"his master’s wife",
+		"his wife",
+		"Potiphar’s wife"
 	],
 	"Q723681": [
 		"Asenath daughter of Potiphera"
@@ -3085,7 +3097,8 @@
 	"Q167185": [
 		"Achish son of Maoch",
 		"Achish",
-		"my lord the king"
+		"my lord the king",
+		"Achish son of Maacah"
 	],
 	"Q125296348": [
 		"Maoch",
@@ -3331,9 +3344,7 @@
 		"Ahitub his son"
 	],
 	"Q124385844": [
-		"Seraiah",
-		"Sheva",
-		"Shavsha"
+		"Seraiah"
 	],
 	"Q816667": [
 		"Benaiah son of Jehoiada",
@@ -3479,9 +3490,18 @@
 	"Q106079707": [
 		"Bichri"
 	],
+	"Q8027483": [
+		"a wise woman",
+		"the woman",
+		"your servant"
+	],
 	"Q4057937": [
 		"Adoram",
 		"Adoniram son of Abda"
+	],
+	"Q133265025": [
+		"Sheva",
+		"Shavsha"
 	],
 	"Q40326679": [
 		"Armoni"
@@ -3660,6 +3680,9 @@
 	],
 	"Q133305413": [
 		"Ben-hesed"
+	],
+	"Q133305434": [
+		"hesed"
 	],
 	"Q140235999": [
 		"Ben-abinadab"
@@ -5036,6 +5059,9 @@
 	"Q138973292": [
 		"Asiel"
 	],
+	"Q138942220": [
+		"Asaiah"
+	],
 	"Q138715594": [
 		"Ziza son of Shiphi (son of Allon, son of Jedaiah, son of Shimri, son of Shemaiah)"
 	],
@@ -5168,6 +5194,9 @@
 	],
 	"Q138714031": [
 		"Uzzah his son"
+	],
+	"Q138942251": [
+		"Asaiah his son"
 	],
 	"Q140486012": [
 		"Heman the singer",
@@ -5433,6 +5462,9 @@
 	"Q139008687": [
 		"Zabdi"
 	],
+	"Q138634751": [
+		"Adaiah"
+	],
 	"Q139929149": [
 		"Shimrath"
 	],
@@ -5505,8 +5537,14 @@
 	"Q138721705": [
 		"Ammihud"
 	],
+	"Q138942280": [
+		"Asaiah the firstborn"
+	],
 	"Q139270825": [
 		"Uzzi"
+	],
+	"Q130306009": [
+		"Immer"
 	],
 	"Q139601093": [
 		"Bakbakkar"
@@ -5619,17 +5657,19 @@
 	"Q138835411": [
 		"Zillethai"
 	],
+	"Q106546002": [
+		"Jehoiada"
+	],
 	"Q139104470": [
 		"Uriel the chief",
 		"Uriel"
 	],
-	"Q138942310": [
-		"Asaiah the chief",
-		"Asaiah"
-	],
 	"Q138721721": [
 		"Amminadab the chief",
 		"Amminadab"
+	],
+	"Q138942310": [
+		"Asaiah"
 	],
 	"Q3567244": [
 		"Ethan son of Kushaiah",
@@ -6048,6 +6088,10 @@
 	],
 	"Q139075889": [
 		"Ater"
+	],
+	"Q138943655": [
+		"Jorah",
+		"Hariph"
 	],
 	"Q139115091": [
 		"Ater"
@@ -6589,6 +6633,9 @@
 	"Q2723012": [
 		"Jaddua"
 	],
+	"Q138713100": [
+		"Adna"
+	],
 	"Q138772663": [
 		"Zechariah"
 	],
@@ -6622,6 +6669,10 @@
 	],
 	"Q138863241": [
 		"Zaccur"
+	],
+	"Q1889603": [
+		"Queen Vashti",
+		"Vashti"
 	],
 	"Q1917635": [
 		"Mehuman"
@@ -6799,6 +6850,9 @@
 	"Q123169391": [
 		"Cush, a Benjamite"
 	],
+	"Q3307159": [
+		"Heman the Ezrahite"
+	],
 	"Q302": [
 		"The stone the builders rejected",
 		"a son",
@@ -6975,6 +7029,10 @@
 		"King Lemuel",
 		"Lemuel"
 	],
+	"Q11740876": [
+		"the Teacher",
+		"The Teacher"
+	],
 	"Q138721733": [
 		"Amminadab"
 	],
@@ -7054,10 +7112,13 @@
 		"Pashhur",
 		"Magor-missabib"
 	],
+	"Q124373418": [
+		"Immer"
+	],
 	"Q124334452": [
 		"Malchijah"
 	],
-	"Q124290531": [
+	"Q124333945": [
 		"Maaseiah"
 	],
 	"Q2804969": [
@@ -7102,6 +7163,9 @@
 	"Q138720632": [
 		"Zedekiah son of Maaseiah",
 		"Zedekiah"
+	],
+	"Q124290531": [
+		"Maaseiah"
 	],
 	"Q140053993": [
 		"Shemaiah the Nehelamite",
@@ -7237,14 +7301,8 @@
 	"Q130288546": [
 		"Benaiah"
 	],
-	"Q171724": [
-		"Daniel",
-		"Belteshazzar",
-		"a man",
-		"this man",
-		"Son of man",
-		"your servant",
-		"the prophet Daniel"
+	"Q48877839": [
+		"Daniel"
 	],
 	"Q5882214": [
 		"Gog of the land of Magog",
@@ -7253,6 +7311,15 @@
 	"Q110844406": [
 		"Ashpenaz",
 		"the chief official"
+	],
+	"Q171724": [
+		"Daniel",
+		"Belteshazzar",
+		"a man",
+		"this man",
+		"Son of man",
+		"your servant",
+		"the prophet Daniel"
 	],
 	"Q5891723": [
 		"Hananiah",
@@ -7372,6 +7439,9 @@
 	"Q115750166": [
 		"Amariah"
 	],
+	"Q130564123": [
+		"Hezekiah"
+	],
 	"Q604259": [
 		"Zechariah son of Berechiah",
 		"Zechariah"
@@ -7390,6 +7460,9 @@
 	],
 	"Q123272167": [
 		"Sharezer"
+	],
+	"Q131918845": [
+		"Regem-melech"
 	],
 	"Q5767200": [
 		"Malachi"
@@ -7824,6 +7897,9 @@
 	],
 	"Q63746299": [
 		"Alexander"
+	],
+	"Q1343034": [
+		"Rufus"
 	],
 	"Q1384449": [
 		"Theophilus"

@@ -573,7 +573,7 @@
 \li2 
 \v 34 \zwd Meshobab|\zwd*, \zwd Jamlech|\zwd*, \zwd Joshah son of \zwd Amaziah|id="Q138716626" t="2"\zwd*|\zwd*, 
 \v 35 \zwd Joel|\zwd*, \zwd Jehu son of \zwd Joshibiah (son of \zwd Seraiah|\zwd*, son of \zwd Asiel|id="Q138973292" t="2"\zwd*)|\zwd*|\zwd*, 
-\v 36 \zwd Elioenai|\zwd*, \zwd Jaakobah|\zwd*, \zwd Jeshohaiah|\zwd*, \zwd Asaiah|\zwd*, \zwd Adiel|\zwd*, \zwd Jesimiel|\zwd*, \zwd Benaiah|\zwd*, 
+\v 36 \zwd Elioenai|\zwd*, \zwd Jaakobah|\zwd*, \zwd Jeshohaiah|\zwd*, \zwd Asaiah|Q138942220\zwd*, \zwd Adiel|\zwd*, \zwd Jesimiel|\zwd*, \zwd Benaiah|\zwd*, 
 \v 37 and \zwd Ziza son of \zwd Shiphi (son of \zwd Allon|\zwd*, son of \zwd Jedaiah|\zwd*, son of \zwd Shimri|id="Q139928701" t="2"\zwd*, son of \zwd Shemaiah|\zwd*)|id="Q139891255" t="2"\zwd*|Q138715594\zwd*. 
 \b
 \li1 
@@ -776,7 +776,7 @@
 \v 29 The descendants of \zwd Merari|id="Q2670550" t="2"\zwd*: 
 \b
 \li2 \zwd Mahli|id="Q85854044" t="2"\zwd*, \zwd Libni his son|\zwd*, \zwd Shimei his son|\zwd*, \zwd Uzzah his son|id="Q138714031" t="2"\zwd*, 
-\v 30 \zwd Shimea his son|\zwd*, \zwd Haggiah his son|\zwd*, and \zwd Asaiah his son|\zwd*. 
+\v 30 \zwd Shimea his son|\zwd*, \zwd Haggiah his son|\zwd*, and \zwd Asaiah his son|id="Q138942251" t="2"\zwd*. 
 \s1 The Temple Musicians
 \b
 \m 
@@ -1095,7 +1095,7 @@
 \li1 
 \v 19 \zwd Jakim|\zwd*, \zwd Zichri|id="Q138785834" t="2"\zwd*, \zwd Zabdi|id="Q139008687" t="2"\zwd*, 
 \v 20 \zwd Elienai|\zwd*, \zwd Zillethai|\zwd*, \zwd Eliel|\zwd*, 
-\v 21 \zwd Adaiah|\zwd*, \zwd Beraiah|\zwd*, and \zwd Shimrath|id="Q139929149" t="2"\zwd* were the sons of \zwd Shimei|\zwd*. 
+\v 21 \zwd Adaiah|id="Q138634751" t="2"\zwd*, \zwd Beraiah|\zwd*, and \zwd Shimrath|id="Q139929149" t="2"\zwd* were the sons of \zwd Shimei|\zwd*. 
 \b
 \li1 
 \v 22 \zwd Ishpan|\zwd*, \zwd Eber|\zwd*, \zwd Eliel|\zwd*, 
@@ -1165,7 +1165,7 @@
 \li1 
 \v 5 From the Shilonites: 
 \b
-\li2 \zwd Asaiah the firstborn|\zwd* and \zwd his sons|\zwd*. 
+\li2 \zwd Asaiah the firstborn|Q138942280\zwd* and \zwd his sons|\zwd*. 
 \b
 \li1 
 \v 6 From the Zerahites: 
@@ -1198,7 +1198,7 @@
 \li2 
 \v 12 \zwd Adaiah son of \zwd Jeroham|\zwd*|\zwd*, the son of \zwd Pashhur|\zwd*, the son of \zwd Malchijah|\zwd*; 
 \b
-\li2 \zwd Maasai son of \zwd Adiel|\zwd*|\zwd*, the son of \zwd Jahzerah|\zwd*, the son of \zwd Meshullam|\zwd*, the son of \zwd Meshillemith|\zwd*,\f + \fr 9:12 \ft Meshillemith is a variant of Meshillemoth; see Nehemiah 11:13.\f* the son of \zwd Immer|\zwd*; 
+\li2 \zwd Maasai son of \zwd Adiel|\zwd*|\zwd*, the son of \zwd Jahzerah|\zwd*, the son of \zwd Meshullam|\zwd*, the son of \zwd Meshillemith|\zwd*,\f + \fr 9:12 \ft Meshillemith is a variant of Meshillemoth; see Nehemiah 11:13.\f* the son of \zwd Immer|id="Q130306009" t="2"\zwd*; 
 \b
 \li2 
 \v 13 and 1,760 of their relatives, the heads of their families, able men for the work of the service of the house of God. 
@@ -1581,7 +1581,7 @@
 \b
 \pmo 
 \v 26 From Levi: 4,600, 
-\v 27 including \zwd Jehoiada|\zwd*, leader of the house of \zwd Aaron|\zwd*, with 3,700 men, 
+\v 27 including \zwd Jehoiada|Q106546002\zwd*, leader of the house of \zwd Aaron|\zwd*, with 3,700 men, 
 \v 28 and \zwd Zadok|\zwd*, a mighty young man of valor, with 22 commanders from his own family. 
 \b
 \pmo 
@@ -1701,7 +1701,7 @@
 \v 5 From the Kohathites, \zwd Uriel the chief|Q139104470\zwd* and 120 of his relatives; 
 \b
 \li1 
-\v 6 from the Merarites, \zwd Asaiah the chief|Q138942310\zwd* and 220 of his relatives; 
+\v 6 from the Merarites, \zwd Asaiah the chief|\zwd* and 220 of his relatives; 
 \b
 \li1 
 \v 7 from the Gershomites,\f + \fr 15:7 \ft Gershomites is a variant of Gershonites; see 1 Chronicles 23:7.\f* \zwd Joel the chief|\zwd* and 130 of his relatives; 
@@ -1990,7 +1990,7 @@
 \li1 
 \v 16 \zwd Zadok son of \zwd Ahitub|id="Q109376137" t="2"\zwd*|Q140100\zwd* and \zwd Ahimelech \f + \fr 18:16 \ft Some Hebrew manuscripts, Vulgate, and Syriac (see also 2 Samuel 8:17); most Hebrew manuscripts Abimelech\f* son of \zwd Abiathar|id="Q321804" t="2"\zwd*|\zwd* were priests; 
 \b
-\li1 \zwd Shavsha|Q124385844\zwd* \f + \fr 18:16 \ft Shavsha is also called Seraiah, Sheva, and Shisha; see 2 Samuel 8:17, 2 Samuel 20:25, and 1 Kings 4:3.\f* was the scribe; 
+\li1 \zwd Shavsha|Q133265025\zwd* \f + \fr 18:16 \ft Shavsha is also called Seraiah, Sheva, and Shisha; see 2 Samuel 8:17, 2 Samuel 20:25, and 1 Kings 4:3.\f* was the scribe; 
 \b
 \li1 
 \v 17 \zwd Benaiah son of \zwd Jehoiada|id="Q124375125" t="2"\zwd*|Q816667\zwd* was over the Cherethites and Pelethites; 
