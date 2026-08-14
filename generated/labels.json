@@ -2230,9 +2230,6 @@
 	"Q47008639": [
 		"Ard"
 	],
-	"Q140008375": [
-		"Shillem"
-	],
 	"Q25803431": [
 		"Evi"
 	],
@@ -4398,7 +4395,8 @@
 	],
 	"Q18191851": [
 		"Joah son of Asaph",
-		"Joah"
+		"Joah",
+		"Asaph’s son Joah the recorder"
 	],
 	"Q130243561": [
 		"Asaph"
@@ -7076,11 +7074,6 @@
 	"Q7492261": [
 		"Shebna",
 		"mighty man"
-	],
-	"Q130271252": [
-		"Joah son of Asaph",
-		"Joah",
-		"Asaph’s son Joah the recorder"
 	],
 	"Q356505": [
 		"Merodach-baladan son of Baladan king of Babylon"
