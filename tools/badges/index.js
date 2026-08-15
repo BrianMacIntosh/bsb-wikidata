@@ -1,11 +1,13 @@
 #!/usr/bin/env node
 
-// Produces progress badges from progress.csv
+// Produces progress badges from bookstats.csv
 
 const fs = require('node:fs/promises');
 const interpolate = require('color-interpolate').default;
 
+const bookStatsFilePath = "./generated/bookstats.csv"
 const bsbDir = 'bsb_usfm'
+const outFile = './assets/zwd-progress.svg'
 
 const badgeCount = 65
 const badgeWidth = 37
@@ -16,11 +18,6 @@ const badgesX = Math.floor(maxWidth / badgeWidth)
 maxWidth = badgesX * badgeWidth + (badgesX - 1) * padding
 const badgesY = Math.ceil(badgeCount / badgesX)
 const maxHeight = badgesY * badgeHeight + (badgesY - 1) * padding
-
-function countZwdTags()
-{
-
-}
 
 async function produceSvg(colorCallback)
 {
@@ -60,29 +57,20 @@ async function nop() {}
 nop()
 .then(async () => {
 
+	const bookStats = {}
+	const lines = (await fs.readFile(bookStatsFilePath, 'utf8')).split(/\r?\n/)
+	for (var i = 1; i < lines.length; ++i)
+	{
+		const lineParsed = lines[i].split(',')
+		bookStats[lineParsed[0]] = { totalRefs: lineParsed[1], filledRefs: lineParsed[2] }
+	}
+
 	const zwdresult = await produceSvg((bookCode, data) => {
 
-		// count tags
-		var zwdTotalCount = 0
-		var zwdEmptyCount = 0
-		
-		var next = data.indexOf("\\zwd*")
-		while (next >= 0)
-		{
-			zwdTotalCount++
-			next = data.indexOf("\\zwd*", next + 1)
-		}
+		var bookStat = bookStats[bookCode]
+		var emptyRatio = 1 - (bookStat.filledRefs / bookStat.totalRefs)
 
-		var next = data.indexOf("|\\zwd*")
-		while (next >= 0)
-		{
-			zwdEmptyCount++
-			next = data.indexOf("|\\zwd*", next + 1)
-		}
-
-		var emptyRatio = zwdEmptyCount / zwdTotalCount
-
-		if (zwdTotalCount == 0)
+		if (bookStat.totalRefs == 0)
 		{
 			return "#555"
 		}
@@ -95,6 +83,6 @@ nop()
 		return colormap(emptyRatio * 2)
 	})
 
-	await fs.writeFile(`./assets/zwd-progress.svg`, zwdresult, 'utf8')
+	await fs.writeFile(outFile, zwdresult, 'utf8')
 
 })

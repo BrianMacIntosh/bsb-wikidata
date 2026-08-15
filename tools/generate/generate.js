@@ -10,6 +10,7 @@ const UsfmParser = require("lite-usfm")
 
 const labelsFilePath = "./generated/labels.json"
 const occurrencesFilePath = "./generated/occurrences.csv"
+const bookStatsFilePath = "./generated/bookstats.csv"
 
 // For each wikidata id, a set of labels harvested from the text
 const harvestedLabels = {}
@@ -20,9 +21,17 @@ const harvestedLabels = {}
 // * chapters: set of verses where ref appears ("MAT 1:1")
 const qidOccurrences = {}
 
+// For each book code:
+// * zwdTotal
+// * zwdFilled
+const bookStats = {}
+
 // Searches a specified USFM json 'item' for zwd tags and logs them to global structures.
 function searchContent(where, topLevelItem, item)
 {
+	var thisBook = bookStats[where.book]
+	if (!thisBook) thisBook = bookStats[where.book] = { zwdTotal: 0, zwdFilled: 0 }
+
 	const verseString = `${where.book} ${where.chapter}:${where.verse}`
 	const chapterString = `${where.book} ${where.chapter}`
 	if (item.content)
@@ -31,26 +40,33 @@ function searchContent(where, topLevelItem, item)
 		{
 			const idParam = content.params?.id || content.params?._default
 			const refType = content.params?.t ? Number(content.params.t) : 1
-			if (content.tag == "zwd" && idParam)
+			if (content.tag == "zwd")
 			{
-				for (const id of idParam.split(','))
+				if (idParam)
 				{
-					if (id == "nil") continue
-					
-					var labels = harvestedLabels[id]
-					if (!labels) labels = harvestedLabels[id] = new Set()
+					for (const id of idParam.split(','))
+					{
+						if (id == "nil") continue
+						
+						var labels = harvestedLabels[id]
+						if (!labels) labels = harvestedLabels[id] = new Set()
 
-					const label = UsfmParser.flattenContent(content.content)
-					labels.add(label.replaceAll('  ', ' ').replaceAll(/[\[\]]/g, '')) //HACK: remove double whitespace
+						const label = UsfmParser.flattenContent(content.content)
+						labels.add(label.replaceAll('  ', ' ').replaceAll(/[\[\]]/g, '')) //HACK: remove double whitespace
 
-					var occurrences = qidOccurrences[id]
-					if (!occurrences) occurrences = qidOccurrences[id] = { refCount: [0,0,0], books: new Set(), chapters: new Set(), verses: new Set() }
+						var occurrences = qidOccurrences[id]
+						if (!occurrences) occurrences = qidOccurrences[id] = { refCount: [0,0,0], books: new Set(), chapters: new Set(), verses: new Set() }
 
-					occurrences.refCount[refType-1]++
-					occurrences.books.add(where.book)
-					occurrences.chapters.add(chapterString)
-					occurrences.verses.add(chapterString)
+						occurrences.refCount[refType-1]++
+						occurrences.books.add(where.book)
+						occurrences.chapters.add(chapterString)
+						occurrences.verses.add(chapterString)
+					}
+
+					thisBook.zwdFilled++
 				}
+
+				thisBook.zwdTotal++
 			}
 			searchContent(where, topLevelItem, content)
 		}
@@ -121,4 +137,13 @@ nop()
 		occurrencesLines.push(`${qid},${refSum},${occurrence.refCount[0]},${occurrence.refCount[1]},${occurrence.verses.size},${occurrence.chapters.size},${occurrence.books.size},${books}`)
 	}
 	await fs.writeFile(occurrencesFilePath, occurrencesLines.join('\n'), 'utf8')
+
+	// write book stats
+	const bookStatsLines = [ "book,totalRefs,filledRefs" ]
+	for (const book in bookStats)
+	{
+		const line = bookStats[book]
+		bookStatsLines.push(`${book},${line.zwdTotal},${line.zwdFilled}`)
+	}
+	await fs.writeFile(bookStatsFilePath, bookStatsLines.join('\n'), 'utf8')
 })

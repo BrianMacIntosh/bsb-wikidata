@@ -38,7 +38,7 @@
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">JOS</text>
 </g>
 </g><g transform="translate(234,0)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(77,203,17)"/><rect x="0" width="37" height="20" fill="rgb(77,203,17)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(78,202,17)"/><rect x="0" width="37" height="20" fill="rgb(78,202,17)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">JDG</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">JDG</text>
@@ -68,7 +68,7 @@
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">1KI</text>
 </g>
 </g><g transform="translate(429,0)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(106,198,18)"/><rect x="0" width="37" height="20" fill="rgb(106,198,18)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(116,196,19)"/><rect x="0" width="37" height="20" fill="rgb(116,196,19)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">2KI</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">2KI</text>
@@ -338,7 +338,7 @@
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">TIT</text>
 </g>
 </g><g transform="translate(78,66)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(68,204,17)"/><rect x="0" width="37" height="20" fill="rgb(68,204,17)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(157,190,20)"/><rect x="0" width="37" height="20" fill="rgb(157,190,20)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">PHM</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">PHM</text>
@@ -374,7 +374,7 @@
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">1JN</text>
 </g>
 </g><g transform="translate(312,66)">
-<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(239,132,54)"/><rect x="0" width="37" height="20" fill="rgb(239,132,54)"/><rect width="37" height="20" fill="url(#s)"/></g>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="rgb(255,85,85)"/><rect x="0" width="37" height="20" fill="rgb(255,85,85)"/><rect width="37" height="20" fill="url(#s)"/></g>
 <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="270">2JN</text>
 <text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="270">2JN</text>
