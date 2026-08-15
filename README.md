@@ -21,6 +21,10 @@ If a segment of text refers to multiple people at once, the id may be multiple c
 
 Example: `the two \zwd sons of Zebedee|Q44015,Q43999\zwd*`
 
+If it is unknown which of several people a segment of text refers to, the id may be multiple pipe-separated values.
+
+Example: `the blood of \zwd Zechariah son of Berechiah|id="Q604259|Q2060131"\zwd*`
+
 zwd markers may be nested (for example, if a person is identified by their relationship to another): `He saw \zwd \zwd Peter|Q33923\zwd*’s mother-in-law|Q23581940\zwd* sick`.
 
 An `id` of `nil` may be used for phrases that may be confused for names but are not.

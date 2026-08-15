@@ -45,7 +45,7 @@ function searchContent(where, topLevelItem, item)
 			{
 				if (idParam)
 				{
-					for (const id of idParam.split(','))
+					for (const id of idParam.split(/[,\|]/))
 					{
 						if (id == "nil") continue
 						
