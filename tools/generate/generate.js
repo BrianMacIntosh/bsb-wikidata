@@ -11,6 +11,7 @@ const UsfmParser = require("lite-usfm")
 const labelsFilePath = "./generated/labels.json"
 const occurrencesFilePath = "./generated/occurrences.csv"
 const bookStatsFilePath = "./generated/bookstats.csv"
+const overallStatsFilePath = "./generated/overallstats.json"
 
 // For each wikidata id, a set of labels harvested from the text
 const harvestedLabels = {}
@@ -146,4 +147,13 @@ nop()
 		bookStatsLines.push(`${book},${line.zwdTotal},${line.zwdFilled}`)
 	}
 	await fs.writeFile(bookStatsFilePath, bookStatsLines.join('\n'), 'utf8')
+
+	// write overall stats
+	const overallStats = { zwdTotal: 0, zwdFilled: 0 }
+	for (const book in bookStats)
+	{
+		overallStats.zwdTotal += bookStats[book].zwdTotal
+		overallStats.zwdFilled += bookStats[book].zwdFilled
+	}
+	await fs.writeFile(overallStatsFilePath, JSON.stringify(overallStats), 'utf8')
 })
