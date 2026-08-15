@@ -256,7 +256,7 @@
 \s1 Jael Kills Sisera
 \b
 \m 
-\v 17 Meanwhile, \zwd Sisera|Q976765\zwd* had fled on foot to the tent of \zwd Jael|Q954820\zwd*, the wife of \zwd Heber the Kenite|Q13365793\zwd*, because there was peace between \zwd Jabin king of Hazor|Q128566631\zwd* and the house of \zwd Heber the Kenite|Q13365793\zwd*. 
+\v 17 Meanwhile, \zwd Sisera|Q976765\zwd* had fled on foot to the tent of \zwd Jael|Q954820\zwd*, the wife of \zwd Heber the Kenite|id="Q13365793" t="2"\zwd*, because there was peace between \zwd Jabin king of Hazor|Q128566631\zwd* and the house of \zwd Heber the Kenite|id="Q13365793" t="2"\zwd*. 
 \v 18 \zwd Jael|Q954820\zwd* went out to greet \zwd Sisera|Q976765\zwd* and said to him, “Come in, my lord. Come in with me. Do not be afraid.” So he entered her tent, and she covered him with a blanket. 
 \b
 \m 
@@ -266,7 +266,7 @@
 \v 20 “Stand at the entrance to the tent,” he said, “and if anyone comes and asks you, ‘Is there a man here?’ say, ‘No.’” 
 \b
 \m 
-\v 21 But as he lay sleeping from exhaustion, \zwd Heber|Q13365793\zwd*’s wife \zwd Jael|Q954820\zwd* took a tent peg, grabbed a hammer, and went silently to \zwd Sisera|Q976765\zwd*. She drove the peg through his temple and into the ground, and he died. 
+\v 21 But as he lay sleeping from exhaustion, \zwd\zwd Heber|id="Q13365793" t="2"\zwd*’s wife Jael|Q954820\zwd* took a tent peg, grabbed a hammer, and went silently to \zwd Sisera|Q976765\zwd*. She drove the peg through his temple and into the ground, and he died. 
 \b
 \m 
 \v 22 When \zwd Barak|Q807236\zwd* arrived in pursuit of \zwd Sisera|Q976765\zwd*, \zwd Jael|Q954820\zwd* went out to greet him and said to him, “Come, and I will show you the man you are seeking.” So he went in with her, and there lay \zwd Sisera|Q976765\zwd* dead, with a tent peg through his temple. 
@@ -393,7 +393,7 @@
 \b
 \q1 
 \v 24 Most blessed among women is \zwd Jael|Q954820\zwd*, 
-\q2 the wife of \zwd Heber the Kenite|Q13365793\zwd*, 
+\q2 the wife of \zwd Heber the Kenite|id="Q13365793" t="2"\zwd*, 
 \q2 most blessed of tent-dwelling women. 
 \q1 
 \v 25 He asked for water, and she gave him milk. 
