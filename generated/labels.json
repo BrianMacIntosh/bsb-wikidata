@@ -4507,6 +4507,9 @@
 		"Huldah the prophetess",
 		"Huldah"
 	],
+	"Q140312440": [
+		"Shallum son of Tikvah"
+	],
 	"Q133830235": [
 		"Tikvah",
 		"Tokhath"
@@ -5462,6 +5465,9 @@
 	"Q138634751": [
 		"Adaiah"
 	],
+	"Q140355816": [
+		"Beraiah"
+	],
 	"Q139929149": [
 		"Shimrath"
 	],
@@ -5551,6 +5557,9 @@
 	],
 	"Q140382330": [
 		"Berechiah son of Asa"
+	],
+	"Q140312599": [
+		"Shallum"
 	],
 	"Q138713763": [
 		"Akkub"
@@ -5982,6 +5991,9 @@
 	"Q140382407": [
 		"Berechiah son of Meshillemoth"
 	],
+	"Q140312702": [
+		"Shallum"
+	],
 	"Q138721387": [
 		"Amasa son of Hadlai"
 	],
@@ -6271,14 +6283,26 @@
 	"Q138862838": [
 		"Zebadiah"
 	],
+	"Q140053938": [
+		"Shemaiah"
+	],
+	"Q139269104": [
+		"Uzziah"
+	],
 	"Q139963579": [
 		"Shimei"
+	],
+	"Q140312907": [
+		"Shallum"
 	],
 	"Q139592569": [
 		"Telem"
 	],
 	"Q139488808": [
 		"Uri"
+	],
+	"Q140303575": [
+		"Benaiah"
 	],
 	"Q138771951": [
 		"Zechariah"
@@ -6307,6 +6331,12 @@
 	"Q138706939": [
 		"Adna"
 	],
+	"Q140303648": [
+		"Benaiah"
+	],
+	"Q140053948": [
+		"Shemaiah"
+	],
 	"Q139931507": [
 		"Shimeon"
 	],
@@ -6331,11 +6361,17 @@
 	"Q139495844": [
 		"Uel"
 	],
+	"Q140303687": [
+		"Benaiah"
+	],
 	"Q14925218": [
 		"Vaniah"
 	],
 	"Q139963558": [
 		"Shimei"
+	],
+	"Q139693986": [
+		"Bani"
 	],
 	"Q140131794": [
 		"Shelemiah"
@@ -6358,11 +6394,20 @@
 	"Q140042780": [
 		"Shemariah"
 	],
+	"Q140312919": [
+		"Shallum"
+	],
+	"Q138721030": [
+		"Amariah"
+	],
 	"Q138848774": [
 		"Zabad"
 	],
 	"Q139008353": [
 		"Zebina"
+	],
+	"Q140303735": [
+		"Benaiah"
 	],
 	"Q1025598": [
 		"Nehemiah son of Hacaliah",
@@ -6412,6 +6457,12 @@
 	],
 	"Q139268424": [
 		"Uzziel son of Harhaiah"
+	],
+	"Q140312932": [
+		"Shallum son of Hallohesh"
+	],
+	"Q140312947": [
+		"Shallun son of Col-hozeh"
 	],
 	"Q139574817": [
 		"Azbuk"
@@ -6611,6 +6662,10 @@
 	],
 	"Q139799251": [
 		"Bani"
+	],
+	"Q140472461": [
+		"Sallu",
+		"Sallai"
 	],
 	"Q139490514": [
 		"Unni"
@@ -7185,6 +7240,9 @@
 	],
 	"Q124315903": [
 		"Igdaliah"
+	],
+	"Q140312970": [
+		"Shallum"
 	],
 	"Q6663390": [
 		"Gemariah son of Shaphan the scribe",
