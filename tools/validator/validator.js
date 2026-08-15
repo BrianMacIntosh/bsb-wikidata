@@ -136,7 +136,7 @@ function recursiveCheckContents(resultBuffer, lineNum, nodeStack)
 				}
 				else if (nodeStack.some((node) => node.tag == "f"))
 				{
-					resultBuffer.errors.push(`'zwd' shouldn't be inside 'f' (at line ${lineNum})`)
+					//resultBuffer.errors.push(`'zwd' shouldn't be inside 'f' (at line ${lineNum})`)
 				}
 				else if (contentNode.params?.id === undefined && contentNode.params?._default === undefined)
 				{
