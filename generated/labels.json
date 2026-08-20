@@ -5062,6 +5062,9 @@
 	"Q138942220": [
 		"Asaiah"
 	],
+	"Q140288971": [
+		"Benaiah"
+	],
 	"Q138715594": [
 		"Ziza son of Shiphi (son of Allon, son of Jedaiah, son of Shimri, son of Shemaiah)"
 	],
@@ -5070,6 +5073,9 @@
 	],
 	"Q139928701": [
 		"Shimri"
+	],
+	"Q140044404": [
+		"Shemaiah"
 	],
 	"Q139104695": [
 		"Uzziel"
@@ -5546,6 +5552,9 @@
 	"Q139270825": [
 		"Uzzi"
 	],
+	"Q140030762": [
+		"Shephatiah"
+	],
 	"Q130306009": [
 		"Immer"
 	],
@@ -5725,6 +5734,9 @@
 	"Q16595329": [
 		"Rehabiah",
 		"Rehabiah his son"
+	],
+	"Q140053753": [
+		"Shemaiah son of Nethanel"
 	],
 	"Q140377287": [
 		"Seorim"
@@ -7671,7 +7683,8 @@
 		"the disciple whom Jesus loved",
 		"the disciple who testifies to these things",
 		"the eleven apostles",
-		"the other apostles"
+		"the other apostles",
+		"His servant John"
 	],
 	"Q23581940": [
 		"Peter’s mother-in-law",
