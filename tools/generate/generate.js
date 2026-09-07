@@ -67,7 +67,7 @@ function searchContent(where, topLevelItem, item)
 						occurrences.refCount[refType-1]++
 						occurrences.books.add(where.book)
 						occurrences.chapters.add(chapterString)
-						occurrences.verses.add(chapterString)
+						occurrences.verses.add(verseString)
 
 						// update book occurrences
 						if (!bookQidOccurrences[where.book]) bookQidOccurrences[where.book] = {}
@@ -76,7 +76,7 @@ function searchContent(where, topLevelItem, item)
 
 						bookOccurrences.refCount[refType-1]++
 						bookOccurrences.chapters.add(chapterString)
-						bookOccurrences.verses.add(chapterString)
+						bookOccurrences.verses.add(verseString)
 					}
 
 					thisBook.zwdFilled++
