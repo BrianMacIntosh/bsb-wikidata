@@ -10,6 +10,7 @@ const UsfmParser = require("lite-usfm")
 
 const labelsFilePath = "./generated/labels.json"
 const occurrencesFilePath = "./generated/occurrences.csv"
+const bookOccurrencesFilePath = "./generated/occurrences-{BOOK}.csv"
 const bookStatsFilePath = "./generated/bookstats.csv"
 const overallStatsFilePath = "./generated/overallstats.json"
 
@@ -18,9 +19,13 @@ const harvestedLabels = {}
 
 // For each wikidata id:
 // * refCount[]: total count of all refs by type (1-3)
+// * books: set of books where ref appears ("MAT")
 // * chapters: set of chapters where ref appears ("MAT 1")
-// * chapters: set of verses where ref appears ("MAT 1:1")
+// * verses: set of verses where ref appears ("MAT 1:1")
 const qidOccurrences = {}
+
+// Same as qidOccurrences, but keyed per book
+const bookQidOccurrences = {}
 
 // For each book code:
 // * zwdTotal
@@ -55,6 +60,7 @@ function searchContent(where, topLevelItem, item)
 						const label = UsfmParser.flattenContent(content.content)
 						labels.add(label.replaceAll('  ', ' ').replaceAll(/[\[\]]/g, '')) //HACK: remove double whitespace
 
+						// update global occurrences
 						var occurrences = qidOccurrences[id]
 						if (!occurrences) occurrences = qidOccurrences[id] = { refCount: [0,0,0], books: new Set(), chapters: new Set(), verses: new Set() }
 
@@ -62,6 +68,15 @@ function searchContent(where, topLevelItem, item)
 						occurrences.books.add(where.book)
 						occurrences.chapters.add(chapterString)
 						occurrences.verses.add(chapterString)
+
+						// update book occurrences
+						if (!bookQidOccurrences[where.book]) bookQidOccurrences[where.book] = {}
+						var bookOccurrences = bookQidOccurrences[where.book][id]
+						if (!bookOccurrences) bookOccurrences = bookQidOccurrences[where.book][id] = { refCount: [0,0,0], chapters: new Set(), verses: new Set() }
+
+						bookOccurrences.refCount[refType-1]++
+						bookOccurrences.chapters.add(chapterString)
+						bookOccurrences.verses.add(chapterString)
 					}
 
 					thisBook.zwdFilled++
@@ -138,6 +153,19 @@ nop()
 		occurrencesLines.push(`${qid},${refSum},${occurrence.refCount[0]},${occurrence.refCount[1]},${occurrence.verses.size},${occurrence.chapters.size},${occurrence.books.size},${books}`)
 	}
 	await fs.writeFile(occurrencesFilePath, occurrencesLines.join('\n'), 'utf8')
+
+	// write book occurrences lists
+	for (const book in bookQidOccurrences)
+	{
+		const occurrencesLines = [ "qid,totalRefs,totalPrimaryRefs,totalSecondaryRefs,verseRefs,chapterRefs" ]
+		for (const qid in bookQidOccurrences[book])
+		{
+			const occurrence = bookQidOccurrences[book][qid]
+			const refSum = occurrence.refCount.reduce((accumulator, currentValue) => accumulator + currentValue, 0)
+			occurrencesLines.push(`${qid},${refSum},${occurrence.refCount[0]},${occurrence.refCount[1]},${occurrence.verses.size},${occurrence.chapters.size}`)
+		}
+		await fs.writeFile(bookOccurrencesFilePath.replace("{BOOK}", book), occurrencesLines.join('\n'), 'utf8')
+	}
 
 	// write book stats
 	const bookStatsLines = [ "book,totalRefs,filledRefs" ]
