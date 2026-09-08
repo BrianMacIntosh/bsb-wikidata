@@ -76,7 +76,7 @@
 \v 9 the descendants of \zwd Zaccai|id="Q139008708" t="2"\zwd*, 760; 
 \b
 \li1 
-\v 10 the descendants of \zwd Bani|\zwd*,\f + \fr 2:10 \ft Bani is a variant of Binnui; see Nehemiah 7:15.\f* 642; 
+\v 10 the descendants of \zwd Bani|id="Q139602752" t="2"\zwd*,\f + \fr 2:10 \ft Bani is a variant of Binnui; see Nehemiah 7:15.\f* 642; 
 \b
 \li1 
 \v 11 the descendants of \zwd Bebai|id="Q65303005" t="2"\zwd*, 623; 
@@ -568,8 +568,8 @@
 \s1 Ezra Arrives in Jerusalem
 \m 
 \v 1 Many years later,\f + \fr 7:1 \ft Literally After these things\f* during the reign of \zwd Artaxerxes king of Persia|id="Q189689" t="2"\zwd*, \zwd Ezra son of \zwd Seraiah|id="Q18192237" t="2"\zwd*|Q191787\zwd*, the son of \zwd Azariah|id="Q108612981" t="2"\zwd*, the son of \zwd Hilkiah|id="Q3276278" t="2"\zwd*, 
-\v 2 the son of \zwd Shallum|id="Q114905078" t="2"\zwd*, the son of \zwd Zadok|id="Q140100" t="2"\zwd*, the son of \zwd Ahitub|id="Q109376137" t="2"\zwd*, 
-\v 3 the son of \zwd Amariah|id="Q114878230" t="2"\zwd*, the son of \zwd Azariah|id="Q114878222" t="2"\zwd*, the son of \zwd Meraioth|id="Q2603903" t="2"\zwd*, 
+\v 2 the son of \zwd Shallum|id="Q114905078" t="2"\zwd*, the son of \zwd Zadok|id="Q114905239" t="2"\zwd*, the son of \zwd Ahitub|id="Q115738592" t="2"\zwd*, 
+\v 3 the son of \zwd Amariah|id="Q115738659" t="2"\zwd*, the son of \zwd Azariah|id="Q1989339" t="2"\zwd*, the son of \zwd Meraioth|id="Q2603903" t="2"\zwd*, 
 \v 4 the son of \zwd Zerahiah|id="Q114681466" t="2"\zwd*, the son of \zwd Uzzi|id="Q28665879" t="2"\zwd*, the son of \zwd Bukki|id="Q2836764" t="2"\zwd*, 
 \v 5 the son of \zwd Abishua|id="Q2338482" t="2"\zwd*, the son of \zwd Phinehas|id="Q128063" t="2"\zwd*, the son of \zwd Eleazar|id="Q159443" t="2"\zwd*, the son of \zwd Aaron the chief priest|id="Q51676" t="2"\zwd*—
 \v 6 this \zwd Ezra|Q191787\zwd* came up from Babylon. He was a scribe skilled in the Law of \zwd Moses|id="Q9077" t="2"\zwd*, which the LORD, the God of Israel, had given. 
@@ -636,7 +636,7 @@
 \li1 from the descendants of \zwd David|\zwd*, \zwd Hattush|\zwd* 
 \v 3 of the descendants of \zwd Shecaniah|id="Q140158813" t="2"\zwd*; 
 \b
-\li1 from the descendants of \zwd Parosh|id="Q1577528" t="2"\zwd*, \zwd Zechariah|\zwd*, and with him were registered 150 men; 
+\li1 from the descendants of \zwd Parosh|id="Q1577528" t="2"\zwd*, \zwd Zechariah|Q138769656\zwd*, and with him were registered 150 men; 
 \b
 \li1 
 \v 4 from the descendants of \zwd Pahath-Moab|id="Q7124538" t="2"\zwd*, \zwd Eliehoenai son of \zwd Zerahiah|id="Q138836624" t="2"\zwd*|\zwd*, and with him 200 men; 
@@ -716,7 +716,7 @@
 \v 32 \zdate|Q189689:P39:Q938153:P580+P7Y>Nisan!1>Av!1\*So we arrived at Jerusalem and rested there for three days. 
 \b
 \m 
-\v 33 \zdate|Q189689:P39:Q938153:P580+P7Y>Nisan!1>Av!1+P4D\*On the fourth day, in the house of our God, we weighed out the silver and gold and sacred articles into the hand of \zwd Meremoth son of \zwd Uriah|\zwd*|\zwd*, the priest. \zwd Eleazar son of \zwd Phinehas|\zwd*|Q5354451\zwd* was with him, along with the Levites \zwd Jozabad son of \zwd Jeshua|\zwd*|\zwd* and \zwd Noadiah son of \zwd Binnui|\zwd*|\zwd*. 
+\v 33 \zdate|Q189689:P39:Q938153:P580+P7Y>Nisan!1>Av!1+P4D\*On the fourth day, in the house of our God, we weighed out the silver and gold and sacred articles into the hand of \zwd Meremoth son of \zwd Uriah|id="Q139104404" t="2"\zwd*|\zwd*, the priest. \zwd Eleazar son of \zwd Phinehas|\zwd*|Q5354451\zwd* was with him, along with the Levites \zwd Jozabad son of \zwd Jeshua|\zwd*|\zwd* and \zwd Noadiah son of \zwd Binnui|\zwd*|\zwd*. 
 \v 34 Everything was verified by number and weight, and the total weight was recorded at that time. 
 \b
 \m 
