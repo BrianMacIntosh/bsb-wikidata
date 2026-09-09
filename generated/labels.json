@@ -5074,6 +5074,9 @@
 	"Q138863127": [
 		"Zaccur"
 	],
+	"Q139964162": [
+		"Shimei"
+	],
 	"Q138716626": [
 		"Amaziah"
 	],
@@ -5106,6 +5109,9 @@
 	],
 	"Q140044412": [
 		"Shemaiah his son"
+	],
+	"Q139963977": [
+		"Shimei his son"
 	],
 	"Q139583049": [
 		"Baal his son"
@@ -5227,6 +5233,9 @@
 	],
 	"Q140277255": [
 		"Shaul his son"
+	],
+	"Q139963955": [
+		"Shimei his son"
 	],
 	"Q138714031": [
 		"Uzzah his son"
@@ -5507,6 +5516,9 @@
 	"Q139929149": [
 		"Shimrath"
 	],
+	"Q139963782": [
+		"Shimei"
+	],
 	"Q123165969": [
 		"Abdon"
 	],
@@ -5724,6 +5736,10 @@
 		"Uriel the chief",
 		"Uriel"
 	],
+	"Q140044457": [
+		"Shemaiah the chief",
+		"Shemaiah"
+	],
 	"Q138721721": [
 		"Amminadab the chief",
 		"Amminadab"
@@ -5791,6 +5807,9 @@
 	],
 	"Q123168378": [
 		"Abijah"
+	],
+	"Q140158789": [
+		"Shecaniah"
 	],
 	"Q140131269": [
 		"Shelomoth"
@@ -6130,6 +6149,9 @@
 	"Q140303432": [
 		"Benaiah"
 	],
+	"Q140053826": [
+		"Shemaiah"
+	],
 	"Q138721004": [
 		"Amariah"
 	],
@@ -6141,6 +6163,9 @@
 	],
 	"Q138769597": [
 		"Zechariah"
+	],
+	"Q140053835": [
+		"Shemaiah"
 	],
 	"Q125102": [
 		"Neco king of Egypt",
@@ -7382,6 +7407,9 @@
 		"Delaiah son of Shemaiah",
 		"Delaiah"
 	],
+	"Q140054001": [
+		"Shemaiah"
+	],
 	"Q138720656": [
 		"Zedekiah son of Hananiah"
 	],
@@ -7406,6 +7434,9 @@
 	],
 	"Q2613514": [
 		"Abdeel"
+	],
+	"Q140131590": [
+		"Shelemiah"
 	],
 	"Q124316105": [
 		"Irijah son of Shelemiah",
