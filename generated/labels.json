@@ -628,6 +628,9 @@
 	"Q125295940": [
 		"Maacah"
 	],
+	"Q2335214": [
+		"Heth"
+	],
 	"Q6775384": [
 		"Ephron son of Zohar",
 		"Ephron",
@@ -809,7 +812,7 @@
 		"Abimelech king of the Philistines",
 		"Abimelech"
 	],
-	"Q125345108": [
+	"Q119092445": [
 		"Ahuzzath his adviser"
 	],
 	"Q3187975": [
@@ -1213,7 +1216,7 @@
 		"your father’s sons",
 		"His brothers"
 	],
-	"Q104901768": [
+	"Q20529408": [
 		"Adah daughter of Elon the Hittite",
 		"Adah",
 		"Esau’s wife Adah"
@@ -1255,7 +1258,7 @@
 	"Q8069299": [
 		"Zepho"
 	],
-	"Q106145044": [
+	"Q10287969": [
 		"Gatam"
 	],
 	"Q114627203": [
@@ -1321,6 +1324,9 @@
 	"Q138580877": [
 		"Onam"
 	],
+	"Q123189281": [
+		"Aiah"
+	],
 	"Q124821119": [
 		"Dishon"
 	],
@@ -1336,8 +1342,14 @@
 	"Q138580889": [
 		"Cheran"
 	],
+	"Q140363313": [
+		"Bilhan"
+	],
 	"Q125498533": [
 		"Zaavan"
+	],
+	"Q124556245": [
+		"Akan"
 	],
 	"Q138580891": [
 		"Uz"
@@ -1624,7 +1636,8 @@
 		"Naaman"
 	],
 	"Q85853140": [
-		"Ehi"
+		"Ehi",
+		"Ahiram"
 	],
 	"Q85854575": [
 		"Rosh"
@@ -2185,6 +2198,9 @@
 		"Gilead son of Machir son of Manasseh",
 		"Gilead son of Machir"
 	],
+	"Q138609112": [
+		"Iezer"
+	],
 	"Q85853471": [
 		"Helek"
 	],
@@ -2336,7 +2352,7 @@
 		"the kings",
 		"the king of Hebron"
 	],
-	"Q104802999": [
+	"Q25497351": [
 		"Piram king of Jarmuth",
 		"the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon",
 		"the five kings",
@@ -3573,6 +3589,12 @@
 	"Q65303361": [
 		"Maharai the Netophathite"
 	],
+	"Q65303210": [
+		"Heled son of Baanah the Netophathite"
+	],
+	"Q132166874": [
+		"Baanah"
+	],
 	"Q65303236": [
 		"Ittai son of Ribai",
 		"Ithai son of Ribai"
@@ -3600,6 +3622,10 @@
 	"Q133257574": [
 		"Jashen",
 		"Hashem the Gizonite"
+	],
+	"Q140289784": [
+		"Shammah the Hararite",
+		"Shammoth the Harorite"
 	],
 	"Q65302941": [
 		"Ahiam son of Sharar the Hararite",
@@ -3629,6 +3655,9 @@
 	],
 	"Q65302996": [
 		"Bani the Gadite"
+	],
+	"Q133269074": [
+		"Zelek the Ammonite"
 	],
 	"Q62029455": [
 		"Naharai the Beerothite"
@@ -4442,6 +4471,9 @@
 		"King Esar-haddon of Assyria",
 		"his son Esar-haddon"
 	],
+	"Q130266607": [
+		"Baladan"
+	],
 	"Q12591": [
 		"the king of Babylon",
 		"Nebuchadnezzar king of Babylon",
@@ -4547,6 +4579,9 @@
 	"Q16573951": [
 		"Hamutal daughter of Jeremiah"
 	],
+	"Q124123188": [
+		"Jeremiah"
+	],
 	"Q319034": [
 		"Eliakim son of Josiah",
 		"Eliakim",
@@ -4626,6 +4661,17 @@
 	"Q124344879": [
 		"Nethaniah"
 	],
+	"Q6369174": [
+		"Kareah"
+	],
+	"Q140377305": [
+		"Seraiah son of Tanhumeth the Netophathite",
+		"Seraiah son of Tanhumeth"
+	],
+	"Q124392739": [
+		"Tanhumeth the Netophathite",
+		"Tanhumeth"
+	],
 	"Q126008957": [
 		"Jaazaniah son of the Maacathite",
 		"Jezaniah son of the Maacathite"
@@ -4639,20 +4685,8 @@
 		"the king",
 		"the king of Babylon"
 	],
-	"Q2335214": [
-		"Heth"
-	],
 	"Q372091": [
 		"Amalek"
-	],
-	"Q123189281": [
-		"Aiah"
-	],
-	"Q140363313": [
-		"Bilhan"
-	],
-	"Q124556245": [
-		"Akan"
 	],
 	"Q139393763": [
 		"Azariah"
@@ -5507,6 +5541,9 @@
 	"Q139008687": [
 		"Zabdi"
 	],
+	"Q138835356": [
+		"Zillethai"
+	],
 	"Q138634751": [
 		"Adaiah"
 	],
@@ -5645,12 +5682,6 @@
 	"Q65303389": [
 		"Sibbecai the Hushathite"
 	],
-	"Q65303210": [
-		"Heled son of Baanah the Netophathite"
-	],
-	"Q132166874": [
-		"Baanah"
-	],
 	"Q139488705": [
 		"Ur"
 	],
@@ -5663,9 +5694,6 @@
 	"Q22039166": [
 		"Ezbai"
 	],
-	"Q133269074": [
-		"Zelek the Ammonite"
-	],
 	"Q138035004": [
 		"Ira the Ithrite"
 	],
@@ -5674,6 +5702,9 @@
 	],
 	"Q138691037": [
 		"Ahlai"
+	],
+	"Q65302937": [
+		"Adina son of Shiza the Reubenite"
 	],
 	"Q139890341": [
 		"Shiza"
@@ -5723,7 +5754,7 @@
 	"Q123159226": [
 		"Amasai"
 	],
-	"Q138713172": [
+	"Q10401400": [
 		"Adnah"
 	],
 	"Q138835411": [
@@ -5975,7 +6006,7 @@
 		"Azariah son of Oded",
 		"Azariah son of Oded the prophet"
 	],
-	"Q19893741": [
+	"Q10340227": [
 		"Oded"
 	],
 	"Q140252927": [
@@ -6005,6 +6036,9 @@
 	"Q139571156": [
 		"Tob-adonijah"
 	],
+	"Q138713500": [
+		"Adnah the commander"
+	],
 	"Q138704639": [
 		"Amasiah son of Zichri"
 	],
@@ -6025,6 +6059,9 @@
 	],
 	"Q140303299": [
 		"Benaiah"
+	],
+	"Q25494966": [
+		"Eliezer son of Dodavahu of Mareshah"
 	],
 	"Q116686349": [
 		"Azariah",
@@ -6649,6 +6686,9 @@
 	],
 	"Q138757378": [
 		"Arah"
+	],
+	"Q65303198": [
+		"Hananiah the commander of the fortress"
 	],
 	"Q139741971": [
 		"Sophereth"
@@ -7281,9 +7321,6 @@
 	"Q356505": [
 		"Merodach-baladan son of Baladan king of Babylon"
 	],
-	"Q130266607": [
-		"Baladan"
-	],
 	"Q40662": [
 		"one calling",
 		"My messenger",
@@ -7469,14 +7506,11 @@
 	"Q131920039": [
 		"Samgar-nebo"
 	],
-	"Q140377305": [
-		"Seraiah son of Tanhumeth"
-	],
-	"Q124392739": [
-		"Tanhumeth"
-	],
 	"Q124310316": [
 		"Ephai the Netophathite"
+	],
+	"Q104586577": [
+		"Baalis king of the Ammonites"
 	],
 	"Q124375387": [
 		"Hoshaiah"
@@ -7484,9 +7518,6 @@
 	"Q7452652": [
 		"the quartermaster Seraiah son of Neriah",
 		"Seraiah"
-	],
-	"Q124123188": [
-		"Jeremiah"
 	],
 	"Q194064": [
 		"Ezekiel the priest",
@@ -8485,6 +8516,9 @@
 		"Priscilla",
 		"Prisca"
 	],
+	"Q9363456": [
+		"Titus Justus"
+	],
 	"Q452194": [
 		"Gallio"
 	],
@@ -8557,7 +8591,7 @@
 	"Q466696": [
 		"Bernice"
 	],
-	"Q126491011": [
+	"Q107303303": [
 		"Julius",
 		"the centurion"
 	],
@@ -8582,11 +8616,26 @@
 	"Q618161": [
 		"Apelles"
 	],
+	"Q129565995": [
+		"Narcissus"
+	],
 	"Q7848786": [
 		"Tryphena"
 	],
+	"Q129566137": [
+		"Persis"
+	],
 	"Q752778": [
 		"Asyncritus"
+	],
+	"Q129562335": [
+		"Hermes"
+	],
+	"Q129562703": [
+		"Hermas"
+	],
+	"Q129566042": [
+		"Nereus"
 	],
 	"Q126521835": [
 		"Lucius"
@@ -8626,6 +8675,9 @@
 	],
 	"Q106084401": [
 		"Syntyche"
+	],
+	"Q129635602": [
+		"Clement"
 	],
 	"Q953527": [
 		"Epaphras"
@@ -8678,6 +8730,15 @@
 	],
 	"Q1348146": [
 		"Erastus"
+	],
+	"Q130218054": [
+		"Eubulus"
+	],
+	"Q130218293": [
+		"Linus"
+	],
+	"Q129653205": [
+		"Claudia"
 	],
 	"Q706540": [
 		"Artemas"

@@ -118,7 +118,7 @@
 \li2 \zwd Eliphaz|id="Q2899130" t="2"\zwd*, \zwd Reuel|id="Q32979741" t="2"\zwd*, \zwd Jeush|id="Q10306885" t="2"\zwd*, \zwd Jalam|id="Q125263542" t="2"\zwd*, and \zwd Korah|id="Q85774893" t="2"\zwd*.
 \b
 \li2
-\v 36 The sons of \zwd Eliphaz|id="Q2899130" t="2"\zwd*: \zwd Teman|id="Q134715631" t="2"\zwd*, \zwd Omar|id="Q7089609" t="2"\zwd*, \zwd Zepho|id="Q8069299" t="2"\zwd*,\f + \fr 1:36 \ft Many Hebrew manuscripts, some LXX manuscripts, and Syriac (see also Genesis 36:11); most Hebrew manuscripts Zephi\f* \zwd Gatam|id="Q106145044" t="2"\zwd*, and \zwd Kenaz|id="Q114627203" t="2"\zwd*; and by \zwd Timna|id="Q32979730" t="2"\zwd*, \zwd Amalek|id="Q372091" t="2"\zwd*.
+\v 36 The sons of \zwd Eliphaz|id="Q2899130" t="2"\zwd*: \zwd Teman|id="Q134715631" t="2"\zwd*, \zwd Omar|id="Q7089609" t="2"\zwd*, \zwd Zepho|id="Q8069299" t="2"\zwd*,\f + \fr 1:36 \ft Many Hebrew manuscripts, some LXX manuscripts, and Syriac (see also Genesis 36:11); most Hebrew manuscripts Zephi\f* \zwd Gatam|id="Q10287969" t="2"\zwd*, and \zwd Kenaz|id="Q114627203" t="2"\zwd*; and by \zwd Timna|id="Q32979730" t="2"\zwd*, \zwd Amalek|id="Q372091" t="2"\zwd*.
 \b
 \li2
 \v 37 The sons of \zwd Reuel|id="Q32979741" t="2"\zwd*: \zwd Nahath|id="Q108487406" t="2"\zwd*, \zwd Zerah|id="Q108487424" t="2"\zwd*, \zwd Shammah|id="Q114627891" t="2"\zwd*, and \zwd Mizzah|id="Q6884915" t="2"\zwd*.
@@ -1094,7 +1094,7 @@
 \b
 \li1 
 \v 19 \zwd Jakim|\zwd*, \zwd Zichri|id="Q138785834" t="2"\zwd*, \zwd Zabdi|id="Q139008687" t="2"\zwd*, 
-\v 20 \zwd Elienai|\zwd*, \zwd Zillethai|\zwd*, \zwd Eliel|\zwd*, 
+\v 20 \zwd Elienai|\zwd*, \zwd Zillethai|id="Q138835356" t="2"\zwd*, \zwd Eliel|\zwd*, 
 \v 21 \zwd Adaiah|id="Q138634751" t="2"\zwd*, \zwd Beraiah|id="Q140355816" t="2"\zwd*, and \zwd Shimrath|id="Q139929149" t="2"\zwd* were the sons of \zwd Shimei|id="Q139963782" t="2"\zwd*. 
 \b
 \li1 
@@ -1398,7 +1398,7 @@
 \li1 \zwd Elhanan son of \zwd Dodo|\zwd* of Bethlehem|Q5410951\zwd*, 
 \b
 \li1 
-\v 27 \zwd Shammoth the Harorite|\zwd*,\f + \fr 11:27 \ft Shammoth the Harorite is a variant of Shammah the Harodite; see 2 Samuel 23:25.\f* 
+\v 27 \zwd Shammoth the Harorite|Q140289784\zwd*,\f + \fr 11:27 \ft Shammoth the Harorite is a variant of Shammah the Harodite; see 2 Samuel 23:25.\f* 
 \b
 \li1 \zwd Helez the Pelonite|Q63555805\zwd*, 
 \b
@@ -1473,7 +1473,7 @@
 \li1 \zwd Zabad son of \zwd Ahlai|id="Q138691037" t="2"\zwd*|Q65303551\zwd*, 
 \b
 \li1 
-\v 42 \zwd Adina son of \zwd Shiza|id="Q139890341" t="2"\zwd* the Reubenite|\zwd*, chief of the Reubenites, and the thirty with him, 
+\v 42 \zwd Adina son of \zwd Shiza|id="Q139890341" t="2"\zwd* the Reubenite|Q65302937\zwd*, chief of the Reubenites, and the thirty with him, 
 \b
 \li1 
 \v 43 \zwd Hanan son of \zwd Maacah|\zwd*|\zwd*, 
@@ -1561,7 +1561,7 @@
 \v 19 Some from Manasseh defected to \zwd David|Q41370\zwd* when he went with the Philistines to fight against \zwd Saul|id="Q28730" t="2"\zwd*. (They did not help the Philistines because the Philistine rulers consulted and sent \zwd David|Q41370\zwd* away, saying, “It will cost us our heads if he defects to his master \zwd Saul|id="Q28730" t="2"\zwd*.”) 
 \v 20 When \zwd David|Q41370\zwd* went to Ziklag, these men of Manasseh defected to him: 
 \b
-\li1 \zwd Adnah|Q138713172\zwd*, \zwd Jozabad|\zwd*, \zwd Jediael|\zwd*, \zwd Michael|\zwd*, \zwd Jozabad|\zwd*, \zwd Elihu|\zwd*, and \zwd Zillethai|Q138835411\zwd*, chiefs of thousands in Manasseh. 
+\li1 \zwd Adnah|Q10401400\zwd*, \zwd Jozabad|\zwd*, \zwd Jediael|\zwd*, \zwd Michael|\zwd*, \zwd Jozabad|\zwd*, \zwd Elihu|\zwd*, and \zwd Zillethai|Q138835411\zwd*, chiefs of thousands in Manasseh. 
 \b
 \m 
 \v 21 They helped \zwd David|Q41370\zwd* against the raiders, for they were all mighty men of valor and commanders in the army. 
