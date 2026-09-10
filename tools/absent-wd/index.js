@@ -61,7 +61,7 @@ nop()
 	try
 	{
 		//TODO: cache?
-		const queryResult = await runQuery("SELECT ?item ?itemLabel ?itemDescription WHERE { ?item wdt:P31 wd:Q20643955. SERVICE wikibase:label { bd:serviceParam wikibase:language \"[AUTO_LANGUAGE],mul,en\". }}")
+		const queryResult = await runQuery("SELECT ?item ?itemLabel ?itemDescription WHERE { ?item wdt:P31 [wdt:P279* wd:Q12405827]. SERVICE wikibase:label { bd:serviceParam wikibase:language \"[AUTO_LANGUAGE],mul,en\". }}")
 		
 		const items = []
 		for (const binding of queryResult.results.bindings)
