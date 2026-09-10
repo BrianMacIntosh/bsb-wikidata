@@ -3610,7 +3610,8 @@
 		"Hurai from the brooks of Gaash"
 	],
 	"Q65302924": [
-		"Abi-albon the Arbathite"
+		"Abi-albon the Arbathite",
+		"Abiel the Arbathite"
 	],
 	"Q65302982": [
 		"Azmaveth the Barhumite",
@@ -4898,6 +4899,10 @@
 	"Q140007934": [
 		"Sheva father of Machbenah and Gibea"
 	],
+	"Q139884753": [
+		"Shobal the father of Kiriath-jearim",
+		"Shobal"
+	],
 	"Q140420096": [
 		"Salma the father of Bethlehem",
 		"Salma"
@@ -5026,9 +5031,6 @@
 	],
 	"Q115858915": [
 		"Anani"
-	],
-	"Q139884753": [
-		"Shobal"
 	],
 	"Q138697258": [
 		"Ahumai"
@@ -5349,6 +5351,9 @@
 	"Q138722297": [
 		"Amzi"
 	],
+	"Q139601774": [
+		"Bani"
+	],
 	"Q140032745": [
 		"Shemer"
 	],
@@ -5613,6 +5618,9 @@
 	"Q139574917": [
 		"Azel"
 	],
+	"Q139580941": [
+		"Azrikam"
+	],
 	"Q140247878": [
 		"Sheariah"
 	],
@@ -5631,17 +5639,26 @@
 	"Q138942280": [
 		"Asaiah the firstborn"
 	],
+	"Q125747629": [
+		"Sallu son of Meshullam"
+	],
 	"Q139270825": [
 		"Uzzi"
 	],
 	"Q140030762": [
 		"Shephatiah"
 	],
+	"Q6176482": [
+		"Jehoiarib"
+	],
 	"Q138634798": [
 		"Adaiah son of Jeroham"
 	],
 	"Q130306009": [
 		"Immer"
+	],
+	"Q139581847": [
+		"Azrikam"
 	],
 	"Q139601093": [
 		"Bakbakkar"
@@ -5651,6 +5668,9 @@
 	],
 	"Q140382330": [
 		"Berechiah son of Asa"
+	],
+	"Q138912310": [
+		"Asa"
 	],
 	"Q140312599": [
 		"Shallum"
@@ -5666,9 +5686,6 @@
 	],
 	"Q138768325": [
 		"Zechariah son of Meshelemiah"
-	],
-	"Q139580941": [
-		"Azrikam"
 	],
 	"Q2903701": [
 		"Jashobeam son of Hachmoni"
@@ -5941,6 +5958,9 @@
 	],
 	"Q139580593": [
 		"Azriel"
+	],
+	"Q139574690": [
+		"Azaziah"
 	],
 	"Q139383525": [
 		"Azarel son of Jeroham"
@@ -6813,9 +6833,6 @@
 	"Q138772321": [
 		"Zechariah"
 	],
-	"Q125747629": [
-		"Sallu son of Meshullam"
-	],
 	"Q140472446": [
 		"Sallai"
 	],
@@ -6830,9 +6847,6 @@
 	],
 	"Q138863473": [
 		"Zabdiel son of Haggedolim"
-	],
-	"Q139581847": [
-		"Azrikam"
 	],
 	"Q140320763": [
 		"Shabbethai"
