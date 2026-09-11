@@ -8320,6 +8320,11 @@
 	"Q4208533": [
 		"Cainan"
 	],
+	"Q24905655": [
+		"one of the Pharisees",
+		"the Pharisee",
+		"Simon"
+	],
 	"Q269889": [
 		"Joanna the wife of Herod’s household manager Chuza",
 		"Joanna"
@@ -8424,6 +8429,9 @@
 	],
 	"Q1398612": [
 		"Parmenas"
+	],
+	"Q2396437": [
+		"Nicolas from Antioch"
 	],
 	"Q9200": [
 		"Saul",
@@ -8538,6 +8546,9 @@
 	],
 	"Q9363456": [
 		"Titus Justus"
+	],
+	"Q1140217": [
+		"Crispus"
 	],
 	"Q452194": [
 		"Gallio"
@@ -8666,9 +8677,6 @@
 	"Q1075381": [
 		"Chloe"
 	],
-	"Q1140217": [
-		"Crispus"
-	],
 	"Q3413973": [
 		"Gaius"
 	],
@@ -8790,5 +8798,8 @@
 	"Q2733634": [
 		"His servant John",
 		"John"
+	],
+	"Q559936": [
+		"Antipas"
 	]
 }
