@@ -4657,7 +4657,8 @@
 		"Gedaliah"
 	],
 	"Q2903835": [
-		"Ishmael son of Nethaniah"
+		"Ishmael son of Nethaniah",
+		"Ishmael"
 	],
 	"Q124344879": [
 		"Nethaniah"
@@ -5223,7 +5224,9 @@
 		"Johanan"
 	],
 	"Q1989339": [
-		"Azariah"
+		"Azariah",
+		"Azariah the priest",
+		"Azariah the chief priest"
 	],
 	"Q115738659": [
 		"Amariah"
@@ -7089,6 +7092,9 @@
 	],
 	"Q130283101": [
 		"Barachel"
+	],
+	"Q131919356": [
+		"Ram"
 	],
 	"Q3107413": [
 		"Jemimah",
