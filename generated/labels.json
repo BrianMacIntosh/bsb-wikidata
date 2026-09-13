@@ -324,6 +324,7 @@
 		"his father",
 		"your father Abraham",
 		"My servant Abraham",
+		"your father",
 		"my father Abraham",
 		"Abraham Your friend",
 		"His servant Abraham",
@@ -391,6 +392,9 @@
 	"Q6079192": [
 		"Iscah"
 	],
+	"Q47036567": [
+		"Pharaoh"
+	],
 	"Q2844493": [
 		"Amraphel king of Shinar",
 		"the kings allied with him",
@@ -437,6 +441,9 @@
 		"Shemeber king of Zeboiim",
 		"The latter five",
 		"the king of Zeboiim"
+	],
+	"Q141447523": [
+		"the king of Bela"
 	],
 	"Q125295074": [
 		"Mamre the Amorite",
@@ -838,6 +845,7 @@
 		"Rachel",
 		"your younger daughter Rachel",
 		"the younger one",
+		"my wives and children",
 		"his wives",
 		"my daughters",
 		"your daughters",
@@ -856,6 +864,7 @@
 		"Leah",
 		"his daughter Leah",
 		"his mother",
+		"my wives and children",
 		"his wives",
 		"my daughters",
 		"your daughters",
@@ -896,10 +905,12 @@
 		"Reuben",
 		"your son",
 		"my son",
+		"my wives and children",
 		"his children",
 		"my grandchildren",
 		"his grandchildren",
 		"his eleven sons",
+		"her children",
 		"the women and children",
 		"his sons",
 		"Jacob’s sons",
@@ -920,10 +931,12 @@
 	],
 	"Q1773005": [
 		"Simeon",
+		"my wives and children",
 		"his children",
 		"my grandchildren",
 		"his grandchildren",
 		"his eleven sons",
+		"her children",
 		"the women and children",
 		"his sons",
 		"Jacob’s sons",
@@ -944,10 +957,12 @@
 	],
 	"Q215512": [
 		"Levi",
+		"my wives and children",
 		"his children",
 		"my grandchildren",
 		"his grandchildren",
 		"his eleven sons",
+		"her children",
 		"the women and children",
 		"his sons",
 		"Jacob’s sons",
@@ -966,10 +981,12 @@
 	],
 	"Q282220": [
 		"Judah",
+		"my wives and children",
 		"his children",
 		"my grandchildren",
 		"his grandchildren",
 		"his eleven sons",
+		"her children",
 		"the women and children",
 		"his sons",
 		"Jacob’s sons",
@@ -990,10 +1007,12 @@
 	],
 	"Q550869": [
 		"Dan",
+		"my wives and children",
 		"his children",
 		"my grandchildren",
 		"his grandchildren",
 		"his eleven sons",
+		"their children",
 		"the women and children",
 		"his sons",
 		"Jacob’s sons",
@@ -1013,10 +1032,12 @@
 	],
 	"Q1771963": [
 		"Naphtali",
+		"my wives and children",
 		"his children",
 		"my grandchildren",
 		"his grandchildren",
 		"his eleven sons",
+		"their children",
 		"the women and children",
 		"his sons",
 		"Jacob’s sons",
@@ -1036,10 +1057,12 @@
 	],
 	"Q851749": [
 		"Gad",
+		"my wives and children",
 		"his children",
 		"my grandchildren",
 		"his grandchildren",
 		"his eleven sons",
+		"their children",
 		"the women and children",
 		"his sons",
 		"Jacob’s sons",
@@ -1059,10 +1082,12 @@
 	],
 	"Q1775026": [
 		"Asher",
+		"my wives and children",
 		"his children",
 		"my grandchildren",
 		"his grandchildren",
 		"his eleven sons",
+		"their children",
 		"the women and children",
 		"his sons",
 		"Jacob’s sons",
@@ -1082,10 +1107,12 @@
 	],
 	"Q651256": [
 		"Issachar",
+		"my wives and children",
 		"his children",
 		"my grandchildren",
 		"his grandchildren",
 		"his eleven sons",
+		"her children",
 		"the women and children",
 		"his sons",
 		"Jacob’s sons",
@@ -1105,10 +1132,12 @@
 	],
 	"Q614575": [
 		"Zebulun",
+		"my wives and children",
 		"his children",
 		"my grandchildren",
 		"his grandchildren",
 		"his eleven sons",
+		"her children",
 		"the women and children",
 		"his sons",
 		"Jacob’s sons",
@@ -1128,9 +1157,11 @@
 	],
 	"Q122035": [
 		"Dinah",
+		"my wives and children",
 		"his children",
 		"my grandchildren",
 		"his grandchildren",
+		"her children",
 		"the women and children",
 		"the young girl",
 		"this girl",
@@ -1144,6 +1175,7 @@
 	],
 	"Q145746": [
 		"Joseph",
+		"my wives and children",
 		"his children",
 		"my grandchildren",
 		"his grandchildren",
@@ -1230,6 +1262,11 @@
 	"Q42532204": [
 		"Anah"
 	],
+	"Q42532003": [
+		"Zibeon the Hivite",
+		"Zibeon",
+		"his father Zibeon"
+	],
 	"Q2899130": [
 		"Eliphaz",
 		"Eliphaz son of Esau’s wife Adah",
@@ -1267,6 +1304,9 @@
 	"Q32979730": [
 		"Timna"
 	],
+	"Q372091": [
+		"Amalek"
+	],
 	"Q108487406": [
 		"Nahath"
 	],
@@ -1288,10 +1328,6 @@
 	],
 	"Q125423902": [
 		"Shobal"
-	],
-	"Q42532003": [
-		"Zibeon",
-		"his father Zibeon"
 	],
 	"Q124820244": [
 		"Dishon"
@@ -1423,6 +1459,13 @@
 		"his master",
 		"my master",
 		"Joseph’s master"
+	],
+	"Q141447641": [
+		"Pharaoh",
+		"the king",
+		"the king of Egypt",
+		"the Egyptian king",
+		"Pharaoh king of Egypt"
 	],
 	"Q65238144": [
 		"Hirah",
@@ -4686,9 +4729,6 @@
 		"Evil-merodach king of Babylon",
 		"the king",
 		"the king of Babylon"
-	],
-	"Q372091": [
-		"Amalek"
 	],
 	"Q139393763": [
 		"Azariah"
