@@ -1200,6 +1200,7 @@
 		"Your son Joseph",
 		"your brothers",
 		"your father’s sons",
+		"the sons of Israel",
 		"Joseph son of Israel"
 	],
 	"Q1573937": [
@@ -1717,6 +1718,12 @@
 		"Machir the firstborn of Manasseh",
 		"Machir the father of Gilead"
 	],
+	"Q141453395": [
+		"a new king",
+		"Pharaoh",
+		"king of Egypt",
+		"the king of Egypt"
+	],
 	"Q767434": [
 		"the Hebrew midwives",
 		"Shiphrah",
@@ -1758,6 +1765,7 @@
 		"the two men"
 	],
 	"Q1873244": [
+		"the daughter of Pharaoh",
 		"Pharaoh’s daughter"
 	],
 	"Q62788": [
@@ -1866,9 +1874,9 @@
 	],
 	"Q1941782": [
 		"Nadab",
-		"Aaron’s sons the priests",
-		"his sons",
 		"Aaron’s sons",
+		"his sons",
+		"Aaron’s sons the priests",
 		"His sons",
 		"your cousins",
 		"two of Aaron’s sons",
@@ -1876,18 +1884,18 @@
 	],
 	"Q321166": [
 		"Abihu",
-		"Aaron’s sons the priests",
-		"his sons",
 		"Aaron’s sons",
+		"his sons",
+		"Aaron’s sons the priests",
 		"His sons",
 		"your cousins",
 		"two of Aaron’s sons"
 	],
 	"Q159443": [
 		"Eleazar",
-		"Aaron’s sons the priests",
-		"his sons",
 		"Aaron’s sons",
+		"his sons",
+		"Aaron’s sons the priests",
 		"His sons",
 		"Eleazar son of Aaron the priest",
 		"Eleazar the priest",
@@ -1897,9 +1905,9 @@
 	],
 	"Q1675214": [
 		"Ithamar",
-		"Aaron’s sons the priests",
-		"his sons",
 		"Aaron’s sons",
+		"his sons",
+		"Aaron’s sons the priests",
 		"His sons",
 		"Ithamar son of Aaron the priest"
 	],
