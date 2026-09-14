@@ -1620,7 +1620,8 @@
 		"Jahleel"
 	],
 	"Q85854942": [
-		"Ziphion"
+		"Ziphion",
+		"Zephon"
 	],
 	"Q85853387": [
 		"Haggi"
@@ -1629,13 +1630,15 @@
 		"Shuni"
 	],
 	"Q85853189": [
-		"Ezbon"
+		"Ezbon",
+		"Ozni"
 	],
 	"Q85853183": [
 		"Eri"
 	],
 	"Q85852721": [
-		"Arodi"
+		"Arodi",
+		"Arod"
 	],
 	"Q85852725": [
 		"Areli"
@@ -1687,16 +1690,19 @@
 		"Rosh"
 	],
 	"Q85854185": [
-		"Muppim"
+		"Muppim",
+		"Shupham"
 	],
 	"Q85853451": [
-		"Huppim"
+		"Huppim",
+		"Hupham"
 	],
 	"Q638332": [
 		"Ard"
 	],
 	"Q6582523": [
-		"Hushim"
+		"Hushim",
+		"Shuham"
 	],
 	"Q67219740": [
 		"Jahzeel",
@@ -2047,6 +2053,9 @@
 	"Q124256037": [
 		"Enan"
 	],
+	"Q141453503": [
+		"Eliasaph son of Lael"
+	],
 	"Q126130203": [
 		"Lael"
 	],
@@ -2100,6 +2109,9 @@
 		"the men Moses had sent to spy out the land",
 		"those men who had brought out the bad report",
 		"twelve men"
+	],
+	"Q6288230": [
+		"Joseph"
 	],
 	"Q126083819": [
 		"Palti son of Raphu",
@@ -2212,6 +2224,7 @@
 	"Q1411953": [
 		"Balak son of Zippor",
 		"Balak",
+		"the king of Moab",
 		"son of Zippor",
 		"Balak son of Zippor, king of Moab",
 		"Balak king of Moab"
@@ -2260,6 +2273,9 @@
 	"Q85853471": [
 		"Helek"
 	],
+	"Q28221953": [
+		"Asriel"
+	],
 	"Q85854727": [
 		"Shechem"
 	],
@@ -2292,6 +2308,9 @@
 	"Q27587242": [
 		"Tirzah"
 	],
+	"Q85854722": [
+		"Shuthelah"
+	],
 	"Q85852878": [
 		"Becher"
 	],
@@ -2304,6 +2323,9 @@
 	"Q47008639": [
 		"Ard"
 	],
+	"Q22017204": [
+		"Naaman"
+	],
 	"Q25803431": [
 		"Evi"
 	],
@@ -2315,6 +2337,10 @@
 	],
 	"Q126168038": [
 		"Reba"
+	],
+	"Q110159933": [
+		"Jair",
+		"Jair son of Manasseh"
 	],
 	"Q126164463": [
 		"Nobah"
@@ -2366,6 +2392,9 @@
 	],
 	"Q126192834": [
 		"Shelomi"
+	],
+	"Q141453645": [
+		"Pedahel son of Ammihud"
 	],
 	"Q138721699": [
 		"Ammihud"
@@ -3801,9 +3830,6 @@
 	],
 	"Q133311044": [
 		"geber"
-	],
-	"Q110159933": [
-		"Jair son of Manasseh"
 	],
 	"Q4695120": [
 		"Ahinadab son of Iddo"
@@ -5462,9 +5488,6 @@
 	"Q138744866": [
 		"Aniam"
 	],
-	"Q85854722": [
-		"Shuthelah"
-	],
 	"Q135979824": [
 		"Bered his son"
 	],
@@ -5553,9 +5576,6 @@
 	],
 	"Q138610119": [
 		"Abihud"
-	],
-	"Q22017204": [
-		"Naaman"
 	],
 	"Q138679387": [
 		"Ahijah"
