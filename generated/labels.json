@@ -1466,7 +1466,8 @@
 		"the king",
 		"the king of Egypt",
 		"the Egyptian king",
-		"Pharaoh king of Egypt"
+		"Pharaoh king of Egypt",
+		"The king"
 	],
 	"Q65238144": [
 		"Hirah",
@@ -4309,7 +4310,11 @@
 	],
 	"Q6176487": [
 		"Jehonadab son of Rechab",
-		"Jehonadab"
+		"Jehonadab",
+		"Jonadab son of Rechab",
+		"our forefather Jonadab",
+		"their forefather",
+		"your forefather Jonadab"
 	],
 	"Q124149671": [
 		"Rechab"
@@ -4717,7 +4722,8 @@
 	],
 	"Q20502297": [
 		"Nehushta daughter of Elnathan",
-		"the king’s mother"
+		"the king’s mother",
+		"the queen mother"
 	],
 	"Q184273": [
 		"Mattaniah",
@@ -7017,10 +7023,14 @@
 	],
 	"Q1889603": [
 		"Queen Vashti",
+		"the queen",
 		"Vashti"
 	],
 	"Q1917635": [
 		"Mehuman"
+	],
+	"Q141486011": [
+		"Biztha"
 	],
 	"Q6578364": [
 		"Harbona",
@@ -7127,20 +7137,65 @@
 		"His wife Zeresh",
 		"Zeresh"
 	],
+	"Q141486102": [
+		"Parshandatha",
+		"these ten sons of Haman son of Hammedatha",
+		"Haman’s ten sons",
+		"the ten sons of Haman"
+	],
+	"Q141486103": [
+		"Dalphon",
+		"these ten sons of Haman son of Hammedatha",
+		"Haman’s ten sons",
+		"the ten sons of Haman"
+	],
 	"Q138973522": [
-		"Aspatha"
+		"Aspatha",
+		"these ten sons of Haman son of Hammedatha",
+		"Haman’s ten sons",
+		"the ten sons of Haman"
+	],
+	"Q141486105": [
+		"Poratha",
+		"these ten sons of Haman son of Hammedatha",
+		"Haman’s ten sons",
+		"the ten sons of Haman"
+	],
+	"Q141486106": [
+		"Adalia",
+		"these ten sons of Haman son of Hammedatha",
+		"Haman’s ten sons",
+		"the ten sons of Haman"
 	],
 	"Q138840184": [
-		"Aridatha"
+		"Aridatha",
+		"these ten sons of Haman son of Hammedatha",
+		"Haman’s ten sons",
+		"the ten sons of Haman"
+	],
+	"Q141486107": [
+		"Parmashta",
+		"these ten sons of Haman son of Hammedatha",
+		"Haman’s ten sons",
+		"the ten sons of Haman"
 	],
 	"Q138845284": [
-		"Arisai"
+		"Arisai",
+		"these ten sons of Haman son of Hammedatha",
+		"Haman’s ten sons",
+		"the ten sons of Haman"
 	],
 	"Q138839979": [
-		"Aridai"
+		"Aridai",
+		"these ten sons of Haman son of Hammedatha",
+		"Haman’s ten sons",
+		"the ten sons of Haman"
 	],
 	"Q133538725": [
-		"Vaizatha"
+		"Vaizatha",
+		"these ten sons of Haman son of Hammedatha",
+		"Haman’s ten sons",
+		"the ten sons of Haman"
 	],
 	"Q179962": [
 		"Job",
@@ -7217,6 +7272,7 @@
 		"My Servant",
 		"My Chosen One",
 		"My righteous Servant",
+		"a righteous Branch",
 		"the Messiah",
 		"the Prince",
 		"My son",
@@ -7370,6 +7426,9 @@
 	"Q398663": [
 		"Agur son of Jakeh"
 	],
+	"Q141486151": [
+		"Jakeh"
+	],
 	"Q22905935": [
 		"Ithiel"
 	],
@@ -7410,6 +7469,9 @@
 	],
 	"Q134721755": [
 		"Jeberekiah"
+	],
+	"Q30526881": [
+		"the prophetess"
 	],
 	"Q2903829": [
 		"a son",
@@ -7530,6 +7592,9 @@
 	"Q6996190": [
 		"Neriah"
 	],
+	"Q6809875": [
+		"Mahseiah"
+	],
 	"Q124256160": [
 		"Hanan son of Igdaliah"
 	],
@@ -7543,6 +7608,10 @@
 		"Gemariah son of Shaphan the scribe",
 		"Gemariah",
 		"Gemariah son of Shaphan"
+	],
+	"Q141486242": [
+		"Micaiah son of Gemariah",
+		"Micaiah"
 	],
 	"Q124309935": [
 		"Elishama the scribe"
@@ -7615,6 +7684,9 @@
 	],
 	"Q124310316": [
 		"Ephai the Netophathite"
+	],
+	"Q141486269": [
+		"Johanan son of Kareah"
 	],
 	"Q104586577": [
 		"Baalis king of the Ammonites"
@@ -7801,8 +7873,15 @@
 	"Q125481695": [
 		"Iddo"
 	],
+	"Q141486904": [
+		"Heldai",
+		"Helem"
+	],
 	"Q139571184": [
 		"Tobijah"
+	],
+	"Q141486916": [
+		"Jedaiah"
 	],
 	"Q138837009": [
 		"Zephaniah"
