@@ -813,7 +813,8 @@
 		"my lord Esau",
 		"his brother",
 		"Rebecca’s children",
-		"the twins"
+		"the twins",
+		"The older"
 	],
 	"Q16142336": [
 		"Abimelech king of the Philistines",
@@ -927,7 +928,10 @@
 		"My brothers",
 		"your father’s sons",
 		"His brothers",
-		"Reuben the firstborn of Israel"
+		"Reuben the firstborn of Israel",
+		"the twelve patriarchs",
+		"the patriarchs",
+		"our fathers"
 	],
 	"Q1773005": [
 		"Simeon",
@@ -953,7 +957,10 @@
 		"the sons of Israel",
 		"My brothers",
 		"your father’s sons",
-		"His brothers"
+		"His brothers",
+		"the twelve patriarchs",
+		"the patriarchs",
+		"our fathers"
 	],
 	"Q215512": [
 		"Levi",
@@ -977,7 +984,10 @@
 		"the sons of Israel",
 		"My brothers",
 		"your father’s sons",
-		"His brothers"
+		"His brothers",
+		"the twelve patriarchs",
+		"the patriarchs",
+		"our fathers"
 	],
 	"Q282220": [
 		"Judah",
@@ -1003,7 +1013,10 @@
 		"the brothers",
 		"the sons of Israel",
 		"My brothers",
-		"His brothers"
+		"His brothers",
+		"the twelve patriarchs",
+		"the patriarchs",
+		"our fathers"
 	],
 	"Q550869": [
 		"Dan",
@@ -1028,7 +1041,10 @@
 		"the sons of Israel",
 		"My brothers",
 		"your father’s sons",
-		"His brothers"
+		"His brothers",
+		"the twelve patriarchs",
+		"the patriarchs",
+		"our fathers"
 	],
 	"Q1771963": [
 		"Naphtali",
@@ -1053,7 +1069,10 @@
 		"the sons of Israel",
 		"My brothers",
 		"your father’s sons",
-		"His brothers"
+		"His brothers",
+		"the twelve patriarchs",
+		"the patriarchs",
+		"our fathers"
 	],
 	"Q851749": [
 		"Gad",
@@ -1078,7 +1097,10 @@
 		"the sons of Israel",
 		"My brothers",
 		"your father’s sons",
-		"His brothers"
+		"His brothers",
+		"the twelve patriarchs",
+		"the patriarchs",
+		"our fathers"
 	],
 	"Q1775026": [
 		"Asher",
@@ -1103,7 +1125,10 @@
 		"the sons of Israel",
 		"My brothers",
 		"your father’s sons",
-		"His brothers"
+		"His brothers",
+		"the twelve patriarchs",
+		"the patriarchs",
+		"our fathers"
 	],
 	"Q651256": [
 		"Issachar",
@@ -1128,7 +1153,10 @@
 		"the sons of Israel",
 		"My brothers",
 		"your father’s sons",
-		"His brothers"
+		"His brothers",
+		"the twelve patriarchs",
+		"the patriarchs",
+		"our fathers"
 	],
 	"Q614575": [
 		"Zebulun",
@@ -1153,7 +1181,10 @@
 		"the sons of Israel",
 		"My brothers",
 		"your father’s sons",
-		"His brothers"
+		"His brothers",
+		"the twelve patriarchs",
+		"the patriarchs",
+		"our fathers"
 	],
 	"Q122035": [
 		"Dinah",
@@ -1201,7 +1232,8 @@
 		"your brothers",
 		"your father’s sons",
 		"the sons of Israel",
-		"Joseph son of Israel"
+		"Joseph son of Israel",
+		"the twelve patriarchs"
 	],
 	"Q1573937": [
 		"Hamor",
@@ -1247,7 +1279,10 @@
 		"Jacob’s sons",
 		"My brothers",
 		"your father’s sons",
-		"His brothers"
+		"His brothers",
+		"the twelve patriarchs",
+		"the patriarchs",
+		"our fathers"
 	],
 	"Q20529408": [
 		"Adah daughter of Elon the Hittite",
@@ -1729,7 +1764,8 @@
 		"a new king",
 		"Pharaoh",
 		"king of Egypt",
-		"the king of Egypt"
+		"the king of Egypt",
+		"the king"
 	],
 	"Q767434": [
 		"the Hebrew midwives",
@@ -1806,7 +1842,9 @@
 	"Q141450111": [
 		"Pharaoh",
 		"the king of Egypt",
-		"Pharaoh king of Egypt"
+		"Pharaoh king of Egypt",
+		"another king",
+		"the king"
 	],
 	"Q51676": [
 		"Aaron the Levite",
@@ -4136,7 +4174,8 @@
 		"the woman who owned the house",
 		"the woman",
 		"this widow",
-		"his mother"
+		"his mother",
+		"the widow of Zarephath"
 	],
 	"Q7074556": [
 		"Obadiah",
@@ -7309,6 +7348,7 @@
 		"Teacher",
 		"this man",
 		"the carpenter",
+		"the son of Mary",
 		"Good Teacher",
 		"Son of David",
 		"Rabboni",
@@ -8253,6 +8293,8 @@
 		"the robbers who were crucified with Him",
 		"two robbers",
 		"those who were crucified with Him",
+		"Two others",
+		"the criminals",
 		"One of the criminals",
 		"two others"
 	],
@@ -8260,6 +8302,8 @@
 		"the robbers who were crucified with Him",
 		"two robbers",
 		"those who were crucified with Him",
+		"Two others",
+		"the criminals",
 		"the other one",
 		"two others"
 	],
@@ -8329,6 +8373,11 @@
 	],
 	"Q108474101": [
 		"Rufus"
+	],
+	"Q6778755": [
+		"Mary the mother of James the younger and of Joses",
+		"Mary the mother of Joseph",
+		"Mary the mother of James"
 	],
 	"Q1384449": [
 		"Theophilus"
@@ -8581,23 +8630,40 @@
 	],
 	"Q161775": [
 		"Stephen",
+		"these seven",
+		"the Seven",
 		"Your witness Stephen"
 	],
 	"Q508571": [
 		"Philip",
-		"Philip the evangelist"
+		"these seven",
+		"Philip the evangelist",
+		"the Seven"
 	],
 	"Q1169498": [
-		"Prochorus"
+		"Prochorus",
+		"these seven",
+		"the Seven"
+	],
+	"Q2181212": [
+		"Nicanor",
+		"these seven",
+		"the Seven"
 	],
 	"Q2183266": [
-		"Timon"
+		"Timon",
+		"these seven",
+		"the Seven"
 	],
 	"Q1398612": [
-		"Parmenas"
+		"Parmenas",
+		"these seven",
+		"the Seven"
 	],
 	"Q2396437": [
-		"Nicolas from Antioch"
+		"Nicolas from Antioch",
+		"these seven",
+		"the Seven"
 	],
 	"Q9200": [
 		"Saul",
@@ -8729,6 +8795,12 @@
 	"Q127582207": [
 		"Tyrannus"
 	],
+	"Q7430863": [
+		"Sceva"
+	],
+	"Q110845567": [
+		"Demetrius"
+	],
 	"Q3567249": [
 		"Sopater son of Pyrrhus"
 	],
@@ -8761,6 +8833,12 @@
 		"Claudius Lysias",
 		"Lysias the commander"
 	],
+	"Q485854": [
+		"high priest Ananias",
+		"the high priest of God",
+		"the high priest",
+		"the high priest Ananias"
+	],
 	"Q316915": [
 		"Governor Felix",
 		"His Excellency",
@@ -8768,22 +8846,23 @@
 		"The governor",
 		"Felix"
 	],
-	"Q485854": [
-		"the high priest Ananias"
+	"Q313419": [
+		"Herod",
+		"King Agrippa",
+		"the king",
+		"Agrippa",
+		"king"
 	],
 	"Q3518955": [
 		"Tertullus"
+	],
+	"Q255778": [
+		"Drusilla"
 	],
 	"Q464307": [
 		"Porcius Festus",
 		"Festus",
 		"the governor"
-	],
-	"Q313419": [
-		"King Agrippa",
-		"the king",
-		"Agrippa",
-		"king"
 	],
 	"Q466696": [
 		"Bernice"
