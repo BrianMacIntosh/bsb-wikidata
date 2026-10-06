@@ -52,6 +52,7 @@ These will be evaluated in order.
 ## Artifacts
 
 These artifacts are generated from the tagged text:
+* **generated/allrefs.csv**: For each Wikidata id, a list of each verse that person is mentioned in.
 * **generated/labels.json**: For each Wikidata id, a list of all the ways that person is referred to.
 * **generated/occurrences.csv**: For each Wikidata id, numbers about how often it appears.
 * **generated/occurrences-{BOOK}.csv**: Same as occurrences.csv, but separately for each book.

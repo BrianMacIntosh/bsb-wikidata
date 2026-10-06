@@ -3,6 +3,7 @@
 // Produces:
 // * labels.json, a list of all the ways each Qid is referred to in the text.
 // * occurrences.csv, a list of counts of appearances of each Qid
+// * allrefs.csv, a comprehensive list of reference locations for each Qid
 
 const fs = require('fs').promises
 const path = require('node:path')
@@ -13,6 +14,7 @@ const occurrencesFilePath = "./generated/occurrences.csv"
 const bookOccurrencesFilePath = "./generated/occurrences-{BOOK}.csv"
 const bookStatsFilePath = "./generated/bookstats.csv"
 const overallStatsFilePath = "./generated/overallstats.json"
+const allRefsFilePath = "./generated/allrefs.csv"
 
 // For each wikidata id, a set of labels harvested from the text
 const harvestedLabels = {}
@@ -23,6 +25,9 @@ const harvestedLabels = {}
 // * chapters: set of chapters where ref appears ("MAT 1")
 // * verses: set of verses where ref appears ("MAT 1:1")
 const qidOccurrences = {}
+
+// For each wikidata id, an array of each place it is used (i.e. "MAT 1:1")
+const qidRefs = {}
 
 // Same as qidOccurrences, but keyed per book
 const bookQidOccurrences = {}
@@ -77,6 +82,11 @@ function searchContent(where, topLevelItem, item)
 						bookOccurrences.refCount[refType-1]++
 						bookOccurrences.chapters.add(chapterString)
 						bookOccurrences.verses.add(verseString)
+
+						// update allrefs
+						var refs = qidRefs[id]
+						if (!refs) refs = qidRefs[id] = []
+						if (refs.indexOf(verseString) < 0) refs.push(verseString)
 					}
 
 					thisBook.zwdFilled++
@@ -184,4 +194,13 @@ nop()
 		overallStats.zwdFilled += bookStats[book].zwdFilled
 	}
 	await fs.writeFile(overallStatsFilePath, JSON.stringify(overallStats), 'utf8')
+
+	// write allrefs
+	var allRefsCsv = ""
+	for (const id in qidRefs)
+	{
+		allRefsCsv += `${id},${qidRefs[id].join(';')}\n`
+	}
+	await fs.writeFile(allRefsFilePath, allRefsCsv, 'utf8')
+
 })
